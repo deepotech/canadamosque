@@ -1,0 +1,120 @@
+{
+  "totalRawRecords": 26,
+  "publishedCount": 21,
+  "reviewRequiredCount": 5,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 8,
+    "ISLAMIC_CENTER": 5,
+    "MUSALLA": 5,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 0,
+    "COMMUNITY_CENTER": 3,
+    "ORGANIZATION": 0,
+    "REVIEW_REQUIRED": 5,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 21,
+    "REVIEW_REQUIRED": 5,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Brampton": 26
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 3,
+    "MISSING_WEBSITE": 2,
+    "MISSING_HOURS": 8,
+    "MISSING_DESCRIPTION": 26,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 0,
+    "POSSIBLE_DUPLICATE": 0,
+    "SHARED_ADDRESS": 0,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 0,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 5
+  },
+  "missingFields": {
+    "missingPhone": 3,
+    "missingWebsite": 2,
+    "missingHours": 8,
+    "missingDescription": 26
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 0,
+    "sharedLocations": 0
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 0,
+      "id": "mosque-brm-1",
+      "name": "Islamic Forum Of Canada",
+      "address": "200 Advance Blvd, Brampton, ON L6T 4V4, Canada",
+      "city": "Brampton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 1,
+      "id": "mosque-brm-2",
+      "name": "Nasfat Peel Region",
+      "address": "1 Nelson St W Unit 11C, Brampton, ON L6X 1B6, Canada",
+      "city": "Brampton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 4,
+      "id": "mosque-brm-5",
+      "name": "Jamia Imam E Azam",
+      "address": "51 McMurchy Ave S, Brampton, ON L6Y 1Y5, Canada",
+      "city": "Brampton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 20,
+      "id": "mosque-brm-21",
+      "name": "Ar-Rashaad Centre",
+      "address": "18 Automatic Rd #2, Brampton, ON L6S 5N5, Canada",
+      "city": "Brampton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 22,
+      "id": "mosque-brm-23",
+      "name": "IMAMBARGAH QASR-E-ZAINAB (a.s) Canada",
+      "address": "15 Fisherman Dr Unit#18 & 19, Brampton, ON L7A 1B7, Canada",
+      "city": "Brampton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    }
+  ],
+  "excludedRecords": []
+}

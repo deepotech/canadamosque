@@ -1,0 +1,3391 @@
+[{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Assistive hearing loop": false
+      },
+      {
+        "Wheelchair accessible entrance": false
+      },
+      {
+        "Wheelchair accessible parking lot": false
+      },
+      {
+        "Wheelchair accessible seating": false
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Parking": [
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "address": "708 Denman St #2nd, Vancouver, BC V6G 2L5, Canada",
+  "categories": [
+    "Community center",
+    "Mosque",
+    "Musalla"
+  ],
+  "categoryName": "Community center",
+  "cid": "4714950085882917706",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmP5Q63VaJzSBhW4ljhAzTRXaZDTOqVUa9A-qRr67lFlgwED0IHzWESy3Y9pjzrsB-utS2oOg09fshQ4RUDgotHRUYhcGCHGk9c1ywJx9NzVugLStFSXc-4tfhGunWB7nNu18cwT=w408-h544-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmCno_HK4SX93XDsinM7lZXecd05hn_Ivd7Eh3TdlJeYqPrCyU87wfVic79mxZ5N5HVI_NzMPE4AWmX3wyq0zhCyNSFZkbwitcx_fdxCboLsjpTwO_2OI22tAyVRI_q9dwVwiV3=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn95DOOIciaiJb7Kmz79ng_Nbl7oFWMEl5OrJ4YGp-Z8nL9Kj3fR-eUSfHqld2Nue18gJRpYSARG000UfDu8Tmub-pMcESWUeXUEMc7Nsf5fu0yJfvdH20hfR78N02xiU_wtkHX=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmjWYdQXP3LuSIqJuzmb67Sqo21KyfJMsU-YxTTRtWPvkR2croyuaHHLTeBaFS90Qt94VBt2jFkWSSWf5l0dGRK4QZ9-tJOML5UtdfrfF-odohOVVrlL5OvgIUqRX1sTEGTRHNLcg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlFu8pfkI6CSqo94IGvldP_wWaXnYM-fkw8ajem5vcipyR8gfDay37Wu_7eabA_r3KmisYFqIjOcCy6eR_T0iytpGaaB-anhzzcllwCaw0LjzpibWylmdg82xI9wvHIibThBDSURA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnXvlkPwaca7MfQngIM49HCFrhaFda-RgRyWWnh9JozyD8G983fVJ8RnGDSnzj4mpWiJVuUsxM4mU0CVvTNMAeMxnwkarMKaq0pwbjV4rQ8sSM8jjn0RdLVx49AQlsrxTzCW3I=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkftXHAxbM4T3MEHD5uVN0GAjXgY9bVEHz_JGPtTYheJ-HLmu3RoxK-RfBf43xGM2cArNZmyHFppqma4knyQ84hdPaHWfmn-kQv9llZJBGfpCYIwzesMfnfMtls57tQEGgtfKFV=w1920-h1080-k-no"
+  ],
+  "imagesCount": 23,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2919796,
+    "lng": -123.134365
+  },
+  "neighborhood": "Central Vancouver",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "6:15 AM to 9:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "6:15 AM to 9:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "6:15 AM to 9:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "6:15 AM to 9:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "6:15 AM to 9:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "6:15 AM to 9:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "6:15 AM to 9:30 PM"
+    }
+  ],
+  "ownerDescription": "Hosted by Ummah Community Services Foundation (UCSF) this community services initiative supports the local West End Community.",
+  "phone": "+1 604-715-4096",
+  "placeId": "ChIJJ0zdIABxhlQRSrO_Sh_ebkE",
+  "placesTags": [],
+  "plusCode": "7VR8+Q7 Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "115777119547886273036",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115777119547886273036?hl=en",
+      "name": "Crystal Kazmi",
+      "reviewerNumberOfReviews": 116,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWAEF9yYalbYaQlGiJmu9vkjd9zSxY3N0cH8_fyKhFkOtQgQSE=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-20T22:17:57.296Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21odVYzWTJaamwzVjA0NVUwOW1OM2hNZDJvek0yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21odVYzWTJaamwzVjA0NVUwOW1OM2hNZDJvek0yYxAB!2m1!1s0x0:0x416ede1f4abfb34a!3m1!1s2@1:CAIQACodChtycF9oOmhuV3Y2Zjl3V045U09mN3hMd2ozM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 2,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104035647066167077181",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104035647066167077181?hl=en",
+      "name": "Fatemah AlAbdulrazzaq",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJsVpuqi-6NAyybkylt805vD_ul1yl09J7u1r7bcAgkE8eBRA=s1920-c-rp-mo-br100",
+      "text": "Bless the person who made this musalla",
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-13T03:09:43.522Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xCdk1sQk1WbEZaTkZNdFVEWm9hM0YxT0Zwa2VtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCdk1sQk1WbEZaTkZNdFVEWm9hM0YxT0Zwa2VtYxAB!2m1!1s0x0:0x416ede1f4abfb34a!3m1!1s2@1:CAIQACodChtycF9oOlBvMlBMVlFZNFMtUDZoa3F1OFpkemc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109419055415402375084",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109419055415402375084?hl=en",
+      "name": "Sadiq Ullah",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU7JkKHdopw-A4GeHwdF2aAOFDp8BmKZJTfGdIVS3g2YjoXZ_c=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-05T02:24:58.442Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2taRU5tTmlZbnBVU21OWVIzbHRPSEl0VlRkcE5HYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2taRU5tTmlZbnBVU21OWVIzbHRPSEl0VlRkcE5HYxAB!2m1!1s0x0:0x416ede1f4abfb34a!3m1!1s2@1:CAIQACodChtycF9oOkZENmNiYnpUSmNYR3ltOHItVTdpNGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108553799483914518754",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108553799483914518754?hl=en",
+      "name": "abdallah kabbara",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUmP5U7G0QcqOWrDAmJQu89rkfkn9uegTg7dJxW7Qh5B_x4vjf_9g=s1920-c-rp-mo-br100",
+      "text": "Clean and in the center of the harbour close to everything",
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-21T20:41:41.585Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25aWVRtVkdVMmMyYTFwR2VHUlhTMWRWU0VWa2JXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25aWVRtVkdVMmMyYTFwR2VHUlhTMWRWU0VWa2JXYxAB!2m1!1s0x0:0x416ede1f4abfb34a!3m1!1s2@1:CAIQACodChtycF9oOnZYTmVGU2c2a1pGeGRXS1dVSEVkbWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100534848295376837770",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100534848295376837770?hl=en",
+      "name": "Sufipir 1",
+      "reviewerNumberOfReviews": 305,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKpnBuinjdNfWwYRyoLNgALbqj25BqmNDZ4j6PJ_C2YfbPmEg=s1920-c-rp-mo-ba12-br100",
+      "text": "It's on first floor, if it's close ask code number next door neighbor for open door.  It's not big but Good for Perform Ibaadat.  Alhamdulillaah.",
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-07T04:54:00.475Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSUGEyOTJSbkl4UjA5dGJsVkhiMVZvUlZCVlEzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSUGEyOTJSbkl4UjA5dGJsVkhiMVZvUlZCVlEzYxAB!2m1!1s0x0:0x416ede1f4abfb34a!3m1!1s2@1:CAIQACodChtycF9oOlRPa292RnIxR09tblVHb1VoRVBVQ3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111952169672185791926",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111952169672185791926?hl=en",
+      "name": "Alan Hijazi",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXHu8KHDKFIon0hUmme2ejs6D22FR-FOb8ZS9TPJM9VgAZvrMguZQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-01T04:01:48.689Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25FNWQyOXRSRlk1V2pBM04ybHdXa1o2TFY5MlRXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25FNWQyOXRSRlk1V2pBM04ybHdXa1o2TFY5MlRXYxAB!2m1!1s0x0:0x416ede1f4abfb34a!3m1!1s2@1:CAIQACodChtycF9oOnE5d29tRFY5WjA3N2lwWkZ6LV92TWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 70,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 1,
+    "fiveStar": 65
+  },
+  "reviewsTags": [
+    {
+      "title": "musalla",
+      "count": 13
+    },
+    {
+      "title": "wudhu area",
+      "count": 2
+    },
+    {
+      "title": "peaceful atmosphere",
+      "count": 8
+    },
+    {
+      "title": "place for pray",
+      "count": 4
+    },
+    {
+      "title": "clean space",
+      "count": 2
+    },
+    {
+      "title": "door code",
+      "count": 4
+    },
+    {
+      "title": "prayer",
+      "count": 16
+    },
+    {
+      "title": "khutba",
+      "count": 2
+    },
+    {
+      "title": "calm space",
+      "count": 2
+    },
+    {
+      "title": "helpful staff",
+      "count": 2
+    }
+  ],
+  "state": "British Columbia",
+  "street": "708 Denman St #2nd",
+  "subTitle": null,
+  "title": "West End Musalla and Community Services (UCSF)",
+  "url": "https://www.google.com/maps/search/?api=1&query=West%20End%20Musalla%20and%20Community%20Services%20(UCSF)&query_place_id=ChIJJ0zdIABxhlQRSrO_Sh_ebkE",
+  "website": "https://westendmusalla.ca/"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "7008 Victoria Dr, Vancouver, BC V5P 1Y6, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "13507397265766015258",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMiiMH81Bes3ay3arlP5sbxfytG8X_DQkfMgaGm4LI5IN4ztcOzF-6aCDDJgYOFCfAyMYP7gm6eW9tSWtDyyvgrOoT8wAp0t8FqmBRImOMOdnfWAf2VyTO0KsBhHgU0y8gUfKgk=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXD8Fgk-JoLG2Z8RKAkMnhe8-ncYIagPT79KqdWfoVHYsJEcZm_0M1Fm_QIV54IKqCjhYB9BcAy3fkwhP35PqbQQJ8hiFd_Mpj7i6tTGTjHpEQJ3eiv530Hgln6q1Uu-01oNZ2=w1920-h1080-k-no",
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Ct18La_Wqhde0rpT8FPCvA&cb_client=lu.gallery.gps&w=1920&h=1272&yaw=80.72935&pitch=0&thumbfov=100",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMPM1D08AkWb5JbmWvZZKomysAhEiwQxhl69zLNpU1qv9fuR3ctv9T1h01W1NWn-e0scybFjI0CPB49rEco-QyVqiw_mdx3K_YvaE0raLulDLHyJz4KKGXWgBh61fsGJCUYy_0PzfgdP0=w1920-h1080-k-no"
+  ],
+  "imagesCount": 6,
+  "language": "en",
+  "locatedIn": "Zawiyah Foundation",
+  "location": {
+    "lat": 49.2201725,
+    "lng": -123.0656476
+  },
+  "neighborhood": "South Vancouver",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "",
+  "placeId": "ChIJPThH_3N1hlQRGuEQej_qc7s",
+  "placesTags": [],
+  "plusCode": "6WCM+3P Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "109328024779275473215",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109328024779275473215?hl=en",
+      "name": "Mahmod Yaak",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU4ZsX90f43eWYrBxiRpppdjBi3J9OviXajYvPCk-UGEPSXdPpGdQ=s1920-c-rp-mo-ba12-br100",
+      "text": "ماشاء الله",
+      "textTranslated": "God bless",
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-25T01:31:24.107Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25rNWFXSlVTR2RGTFRCZlNtTnhWMGxsUTBKamQwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25rNWFXSlVTR2RGTFRCZlNtTnhWMGxsUTBKamQwRRAB!2m1!1s0x0:0xbb73ea3f7a10e11a!3m1!1s2@1:CAIQACodChtycF9oOnk5aWJUSGdFLTBfSmNxV0llQ0Jjd0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "107194268597191718626",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107194268597191718626?hl=en",
+      "name": "Ahmd",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLsVxRIsFvKyr6ajJFhMf33lGX3f8kO2hFNbWlecQsHs2M-cg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-19T02:24:39.905Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25kRFdGRlhkbE5YUVVwbFlWQlNVVkJJYkZsTU4zYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25kRFdGRlhkbE5YUVVwbFlWQlNVVkJJYkZsTU4zYxAB!2m1!1s0x0:0xbb73ea3f7a10e11a!3m1!1s2@1:CAIQACodChtycF9oOndDWFFXdlNXQUplYVBSUVBIbFlMN3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100250439570794860787",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100250439570794860787?hl=en",
+      "name": "مصطفى صالح",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJeq_keDKi-5o_OdVc0MY8s1OS19g8MG9_s1kZkaxIWDS3t5g=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-03T03:34:04.566Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25seWIzTktiRU5GTm1aUFdUTmZOMDlzV0dkQmFIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25seWIzTktiRU5GTm1aUFdUTmZOMDlzV0dkQmFIYxAB!2m1!1s0x0:0xbb73ea3f7a10e11a!3m1!1s2@1:CAIQACodChtycF9oOnlyb3NKbENFNmZPWTNfN09sWGdBaHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112649531907059179027",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112649531907059179027?hl=en",
+      "name": "Aimal Sarwari",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKZ1lLqO2ylZGpZuEP3e-Bn7FwhS9dO1DzTKMXnOCxMRaYu7A=s1920-c-rp-mo-ba12-br100",
+      "text": "Mashallah,  Was looking for near Masjid and found this. For access every one Can Ask Karakoram Pakistani Halal restaurant Just across the street. POSTING photos too.",
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-02T02:24:44.545Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pCblRHTm9PRzAwVm13eVJscDBNRVpzYTJ0TVZIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pCblRHTm9PRzAwVm13eVJscDBNRVpzYTJ0TVZIYxAB!2m1!1s0x0:0xbb73ea3f7a10e11a!3m1!1s2@1:CAIQACodChtycF9oOjBnTGNoOG00VmwyRlp0MEZsa2tMVHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "115267596230732439692",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115267596230732439692?hl=en",
+      "name": "zubair h",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUzemC2niiPI9kNUBqfJ9iGBdKN0wPJGaAwk9Fw52dEzg8JmHY=s1920-c-rp-mo-br100",
+      "text": "where is the entrance?",
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-24T04:22:28.373Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tWVFlWa3pjbEptWVdvM0xUQjVNa0p1TW5BMFlsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWVFlWa3pjbEptWVdvM0xUQjVNa0p1TW5BMFlsRRAB!2m1!1s0x0:0xbb73ea3f7a10e11a!3m1!1s2@1:CAIQACodChtycF9oOkVTYVkzclJmYWo3LTB5MkJuMnA0YlE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113697730293302011109",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113697730293302011109?hl=en",
+      "name": "Baryalai011 Afghan1992",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL2ytlORqK-H_QwOBujrCg4twnziueHQgt3axXlYApGLLV7hOM=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "6 months ago",
+      "publishedAtDate": "2026-03-14T06:40:25.400Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1JqWnlRelkxWkVjd1RXOTRWazlxYkc5VE0yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWR1JqWnlRelkxWkVjd1RXOTRWazlxYkc5VE0yYxAB!2m1!1s0x0:0xbb73ea3f7a10e11a!3m1!1s2@1:CAIQACodChtycF9oOjVGRjZyQzY1ZEcwTW94Vk9qbG9TM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 14,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 10
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "7008 Victoria Dr",
+  "subTitle": null,
+  "title": "Muslim Prayer Room",
+  "url": "https://www.google.com/maps/search/?api=1&query=Muslim%20Prayer%20Room&query_place_id=ChIJPThH_3N1hlQRGuEQej_qc7s"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "8879 Selkirk St, Vancouver, BC V6P 6K9, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "14649201643649003061",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmPTylitz3ialQDoZ80-_iII7nE8u7JKeEjQeaIRLqWuc5UlbfFPj4WJy5_zQwsNhySXRCd7gZ8AwwN199cnbC6VX6IviOD2x8uC34BjwGZmDqw0-FRT5hpwXH-WhFXA8hT0eb3MsNlr_t2_=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnNrhwQ45e9i4LBBVedZ4vO7PX62xbAt69YHm59oWxE4xKjMH3cClTEDb9OiBomHEYUGlnt-p-beIdO4tFnuaAXDEvWaryPMR-nXQphhOM7asZRoFplw1mCQdoM4-1agVWLLzyunmskBpUi=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWndrHo0uiF14W7e9Ve5msVDOolKiJ9qtXEx0GZl_HX8JIwjXlOU3GvADy7Qu8Eh9Q-alWs9uDIZIBlGuBZJJQBnDjXMlAIrCdBBkW_x7Y3Pk0k4XpAgSy4fBHwKstAgSJgyE4DBLBxX1CQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlPYbUqL0bNbAyqwalM7hsdHOauk19wAZwtzjEn5L7EcPaMTMelMwWXL7vyptrMKt4RKVyAwlDF3H-mHIhUfxF1ToYnsJN3N0Cee_HSRDul7P51FHHcPmWEg83gIvogGZ_vl7H7tWZVCn4x=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkuyzxMs0xWP_d8FLiSnliMKf1QY6wjzh_8xR2k7x6XlVC2dkiPHGX-_ENhiM7GFrYdIO01cjYmbkePsUeZM6Iucg6oGc1z-kR3NPEWobe0SeCpklQxxGfLqDtXzQg2KX8drAtYJwy9SHI=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlLL39ENYXYzDTr3F3XXcM1fR4okmXxKlDLa7uLfaern24isQcJ9FxRv91fqjlFthFKSf6ImUMaZ0UvtZepQyFgvY61tbe-l3gIs4J3XP9FJ3FzzALU7pIUpIXQwCaZdHDWbFR2I0dIOOBD=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnxw-G7Uhzy2YQBX7YAOmwX5u0tMx1p4GiT4XxwV6GSDpS-0I2jPF0ITbuOE5zcrfM246Fxtn8RmSyQ_izlNTCASDjXmbX-NVXGGjudSOxJTnnjhZRrf48krcyeEmlsM0HYiZ0uSg0zJCR0=w1920-h1080-k-no"
+  ],
+  "imagesCount": 7,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2045896,
+    "lng": -123.1336173
+  },
+  "neighborhood": "South Vancouver",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "+1 778-317-6673",
+  "placeId": "ChIJldTKUel0hlQRNW7EtEdrTMs",
+  "placesTags": [],
+  "plusCode": "6V38+RH Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "116383067514319826736",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116383067514319826736?hl=en",
+      "name": "Mervan Demir",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU9fDtnpr1YbTZwfVr_l9_s_1uXl5H0mFp3sZq8VGN3o4LhJgK2Sw=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-21T05:49:45.915Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s1MFpWUkhjV1pzZWxCNE1VbFNWa2hETTNsamIwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1MFpWUkhjV1pzZWxCNE1VbFNWa2hETTNsamIwRRAB!2m1!1s0x0:0xcb4c6b47b4c46e35!3m1!1s2@1:CAIQACodChtycF9oOk50ZVRHcWZselB4MUlSVkhDM3ljb0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109663596906405757597",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109663596906405757597?hl=en",
+      "name": "Nasibullah Hakim",
+      "reviewerNumberOfReviews": 23,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUPLmNEIkwwDyhLR76UHW3qsDYrY01fKb2Yk3Q-hNBKuoVUblE=s1920-c-rp-mo-ba12-br100",
+      "text": "Very beautiful masjid",
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-15T01:56:33.490Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21aTmVuUk9VRTU0U1VKVVEzZ3lVRWMwYjA1c00yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aTmVuUk9VRTU0U1VKVVEzZ3lVRWMwYjA1c00yYxAB!2m1!1s0x0:0xcb4c6b47b4c46e35!3m1!1s2@1:CAIQACodChtycF9oOmZNenROUE54SUJUQ3gyUEc0b05sM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNvZER0_j4JtgN8F3hTEfxr34z59qx0Vku0twRoAfO8TdLqSC__6ZcJXsUQjJqmcAd6oyYcI2-AVyVfYlniAT7NImIy0fGFNCPcBQP9cpT9yfKWUY2_LOHa5LkZsZfogn6lbCFxb3nyK4jC=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106291693018107361354",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106291693018107361354?hl=en",
+      "name": "IBRAHIM MOHAMED SUGOW",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJWC6BD635G3iS05Qwai9o8gMK1GeJAytFx_MNOHjzZeq0DoQ=s1920-c-rp-mo-br100",
+      "text": "Allahamdulliah",
+      "textTranslated": "Thank God.",
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-29T06:48:17.950Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25GR2FGWm1VSEZyTTFOamVWUmZOMlpOUjFsVVZtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25GR2FGWm1VSEZyTTFOamVWUmZOMlpOUjFsVVZtYxAB!2m1!1s0x0:0xcb4c6b47b4c46e35!3m1!1s2@1:CAIQACodChtycF9oOnFGaFZmUHFrM1NjeVRfN2ZNR1lUVmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "so",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "108638898214985731078",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108638898214985731078?hl=en",
+      "name": "abdulsalam alzubidi",
+      "reviewerNumberOfReviews": 17,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKKiIIh_9B1zXe5uF9yoD8lNzeOuO0n28BRUIogUE5QsWAc6w=s1920-c-rp-mo-ba12-br100",
+      "text": "Masha Allah\nGreat mosque with Juma'a prayer",
+      "textTranslated": null,
+      "publishAt": "Edited 3 months ago",
+      "publishedAtDate": "2026-06-24T07:00:35.582Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xWalozRnNNSGhvVFdvemMzZDRSalprWjJ4RlpXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xWalozRnNNSGhvVFdvemMzZDRSalprWjJ4RlpXYxAB!2m1!1s0x0:0xcb4c6b47b4c46e35!3m1!1s2@1:CAIQACodChtycF9oOlVjZ3FsMHhoTWozc3d4RjZkZ2xFZWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPTylitz3ialQDoZ80-_iII7nE8u7JKeEjQeaIRLqWuc5UlbfFPj4WJy5_zQwsNhySXRCd7gZ8AwwN199cnbC6VX6IviOD2x8uC34BjwGZmDqw0-FRT5hpwXH-WhFXA8hT0eb3MsNlr_t2_=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmM4G3WEkm6EXuBNrJExu37ofmG8JMBY-P79wSApYYG3QdvfbCr6tbpYZdn4myK91IXQWdS_7c9o9PzsvLRS86EUEJPQGMZba43iu9YM-KeMbSeV1D52lWdREl5Vv4sJmgBgZOnUCaKWRiUx=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMeKWVH1ko3yzuEYmzbVxhM5-BaVgi4t5diucdKdF09Bi7S1jDehv2tZR2S5BWs6MmaZnVi6E5SjajT9Gw_xP9CBP5M3phglYW23iUM4t2rSdMi9Wk39u2JKK9LWvaOkdvAaEtMMol-AKMp=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMSOpFgH3fHiqeGvUU2PcTYzWOoKQQzXHb3LvV8SpgLFPhinZsxZgYmWNqZKdxFHMM6yS6NWo8LQHKrws7VyKzule3SmDXdppJkyGisHK2rqIpFNXI7TLepnd93jaLR4g7EDhkcta3OmS-G=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmNpiE3EhUek3zN21x0XgpwrvFwmqNeRzjfbBLSXCMuugIUUCdaBiuuLXeL8VwNlg0_VSY5R86z2EJbkeNd_AIqvTxusHAPQRySUeVHIbAhYX0xEW9gfdN0R08ZSIv32XMThPj1MO6uKYWc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOAnzBhQZ3Bcp3FBprrl4MYwHpL2qDmDNWyY4J1h37buoRAi1x622rIwCSQI4F_HVKfBfK64iScguVGwssy7QuxYfv6tJ6wEsPHTGvYs2kUranwDB-7Y421IBdW38BtYk0y2_QvumxGmqI=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100422402859843992474",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100422402859843992474?hl=en",
+      "name": "Abdur Razzak Ebrahim",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVJxZOdoJTRCOxrZPGhik2CMVOLCSknzqgtlUMttiDI7rXzat3v=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-14T16:22:45.903Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSYWFGSmhlRWhhY0ROVGJHZFVlWFk0TW0xVFoyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSYWFGSmhlRWhhY0ROVGJHZFVlWFk0TW0xVFoyYxAB!2m1!1s0x0:0xcb4c6b47b4c46e35!3m1!1s2@1:CAIQACodChtycF9oOlRaaFJheEhacDNTbGdUeXY4Mm1TZ2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "116734161228456072799",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116734161228456072799?hl=en",
+      "name": "Ovi",
+      "reviewerNumberOfReviews": 12,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXKPJh4et7Fx7Dg11dRirvAApQHbIsAQt7lIY-5dyxEIu7oyYtZ=s1920-c-rp-mo-ba12-br100",
+      "text": "Great place for prayers",
+      "textTranslated": null,
+      "publishAt": "Edited 5 months ago",
+      "publishedAtDate": "2026-05-03T05:45:36.735Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tkZmFXTkVWbTluUkRCNFIyaGFOMjV1YTJSSmNtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkZmFXTkVWbTluUkRCNFIyaGFOMjV1YTJSSmNtYxAB!2m1!1s0x0:0xcb4c6b47b4c46e35!3m1!1s2@1:CAIQACodChtycF9oOkdfaWNEVm9nRDB4R2haN25ua2RJcmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 18
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "8879 Selkirk St",
+  "subTitle": null,
+  "title": "Marpole musalla",
+  "url": "https://www.google.com/maps/search/?api=1&query=Marpole%20musalla&query_place_id=ChIJldTKUel0hlQRNW7EtEdrTMs",
+  "website": "http://nwmis.org/"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "7034343010413820738",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmP3RsxcK42YcDfmDG2kQd3Liwlgp29MOJjDJkzq7zB-aAnDX64T-QBtyLfTQXKkz5afuMl9hwR7OqVNJJVY_n7XdNVP4l4Jgz3v5CKwQWihG7kZiHUxTfTpdu06cPbd208GiMGbGw=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnfzFz1aREg8P0WsPGvH2fRxN-c3c0yygr-4jpOf1ahEekBmr2vOffVTugJGcBTYavYULxFqOXHApNkvM7EwL-gxoCQggxvQHpQO7NAFMHI8RxGP3gVPWPCRT9hf2d39mEDmAPIIw=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmNZ7r3x6kPn8tblYK_4T3xIbFh7ImZRJJrVdD6Tggr7ubQntUS67CHOlePMe8A9GEoji5zOhhIYaIJNwV_giLQv8rNK9G27nwK7-oNlCT5QxcFGDWubAdZozRvqrCnCUuUhBy_=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlG7LkE3AGo_pFQKOUJSSrxLPjs8koKq_yPuD0c7JtKDhR-H79OTmneiRyzl0DWJHYXg6sHEAzMwsaIVzddEcR7tuQ--iZ5-lBdEusVqkMzhMJzYs5OnSBBmsw8RP6kK2bsU3Xu=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAJy4ph4Ju_836zscagyNgWS-6jSbSe_RFmjcFXUocIq7Nf89I76Lyf8YSa_QF_mHpug1hIIiHwl29iYWK0ZqrhukPFF-sg7M_JrBeN1wCaC68VFr9IWh1FwE-Ncgf3E1S_KfBuA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlccUm7zO-sm4cnX1q469PFT1PhdvQ92anoHWTk8MZA2or9IW6CE9RwH3DGMPCnj-cb_JM75_5V3DxWUe4YHUwW4XNSpMo1w-5lOUTE9H39I5cZxa3STM9wIBk_ouPxUcyfNBPH3w=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlYI_i50T_K_5aFTI7qO-kq8rMc6pjes2JdbKob4VJA2F1Cla4Dliin2CjyMcTZSRFO68DhpOTc8OVhdbxEX0xCfmCnJCbOOpbTGaSBu6sIQ9jR030dzCDwsDwoufa6FoFYEryqjw=w1920-h1080-k-no"
+  ],
+  "imagesCount": 21,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.247958,
+    "lng": -123.0696272
+  },
+  "neighborhood": "Knight",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "+1 604-873-1787",
+  "placeId": "ChIJv483Uql2hlQRQrv3y7IBn2E",
+  "placesTags": [],
+  "plusCode": "6WXJ+54 Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "102493996643177931594",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102493996643177931594?hl=en",
+      "name": "Abdraman Saleh MAHAMAT",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVMYXHwggCMur95jg-wxUBOOT-a4E4DVZ2dPTP6rHB-cU-o8do=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-19T01:50:47.045Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT214MGJWOTJNalV0VDFscWVESnRPV2xvVEZCZmFuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214MGJWOTJNalV0VDFscWVESnRPV2xvVEZCZmFuYxAB!2m1!1s0x0:0x619f01b2cbf7bb42!3m1!1s2@1:CAIQACodChtycF9oOmx0bV92MjUtT1lqeDJtOWloTFBfanc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "115366011286514619478",
+      "reviewerUrl": "https://www.google.com/maps/contrib/115366011286514619478?hl=en",
+      "name": "Ahmad Wakill",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKI770IPfT-pdsOQTmi5jZQZD0xNsKgVEoJBS1_g0yTAtKZxw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-15T15:09:44.090Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2kxVmEydDJSbTh0WWpCVVdGOU1SekJOWWtkVVkyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxVmEydDJSbTh0WWpCVVdGOU1SekJOWWtkVVkyYxAB!2m1!1s0x0:0x619f01b2cbf7bb42!3m1!1s2@1:CAIQACodChtycF9oOi1Va2t2Rm8tYjBUWF9MRzBNYkdUY2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100472715240395873159",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100472715240395873159?hl=en",
+      "name": "Kozim Gulyamov",
+      "reviewerNumberOfReviews": 55,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIqx3-2OPqNBP9sifKlZD9mks_IBU-osD2Zl-FoK_LcgWMZYg=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-04-12T03:28:43.954Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2kxRFpqRjBkWHB5Y1dsWVlYcHpaMUpUU2pkd0xVRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxRFpqRjBkWHB5Y1dsWVlYcHpaMUpUU2pkd0xVRRAB!2m1!1s0x0:0x619f01b2cbf7bb42!3m1!1s2@1:CAIQACodChtycF9oOi1DZjF0dXpycWlYYXpzZ1JTSjdwLUE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100715835076791794099",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100715835076791794099?hl=en",
+      "name": "Ali Muhamad afghan",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLmhQ332lveQBVTSHjAX924hEWYIsF4lkxOuPSt-giVtikSMQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-09-24T03:43:35.612Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xCMllUWkhSVlpQTnpkRGIydEtaMlk0Vkc1WU5GRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xCMllUWkhSVlpQTnpkRGIydEtaMlk0Vkc1WU5GRRAB!2m1!1s0x0:0x619f01b2cbf7bb42!3m1!1s2@1:CAIQACodChtycF9oOlB2YTZHRVZPNzdDb2tKZ2Y4VG5YNFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105075268168436739939",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105075268168436739939?hl=en",
+      "name": "Arshad Ailam",
+      "reviewerNumberOfReviews": 22,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKYlzIOqCrGbLBbWIr3CLiFcvEZg6KVNNkEiSz5fTGb1d6UIw=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-03-23T17:03:44.055Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnTUR3cEtmWmRBEAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnTUR3cEtmWmRBEAE!2m1!1s0x0:0x619f01b2cbf7bb42!3m1!1s2@1:CIHM0ogKEICAgMDwpKfZdA%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105532555025110743008",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105532555025110743008?hl=en",
+      "name": "Shad Siddeeq",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLRICVhY1scQmr51BUARPO3l-QSjpM3GXyXU4JyomR9a7WsxQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2024-03-31T08:39:54.033Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSUNEcmVURlNREAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSUNEcmVURlNREAE!2m1!1s0x0:0x619f01b2cbf7bb42!3m1!1s2@1:CIHM0ogKEICAgICDreTFSQ%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 33,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 29
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "4162 Welwyn St",
+  "subTitle": null,
+  "title": "British Columbia Muslim Association",
+  "url": "https://www.google.com/maps/search/?api=1&query=British%20Columbia%20Muslim%20Association&query_place_id=ChIJv483Uql2hlQRQrv3y7IBn2E",
+  "website": "http://www.thebcma.com/"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "1659 E 10th Ave, Vancouver, BC V5N 1X6, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "9701282022363336069",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RIoNS5BpSvzgQ-8SdH3QgS-oOk23uw4qUXMcX05dzSjGZfFud9SsCHzEqkllXU5b8tqjgcZxSuFkjuPPjYoSdV4vXZNz-xpzpfdQuJsuBfKb24-XsDadDAuCRIIqIV0uIg6OkD=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RIoNS5BpSvzgQ-8SdH3QgS-oOk23uw4qUXMcX05dzSjGZfFud9SsCHzEqkllXU5b8tqjgcZxSuFkjuPPjYoSdV4vXZNz-xpzpfdQuJsuBfKb24-XsDadDAuCRIIqIV0uIg6OkD=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S4y0luH4R44iOtR4VkYvCP5Crfwe5iEum1pW7xbqmhltoT26O5o-Laqlb9-mh0QjcY2BYhMK1PYFqPtyvCaJYC-9esFsNIbBtCvc-fj8bEhsuUw9jvpcE1KAHjKM3nhLJ3VK4RYQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SrAozISy5eEkoT-oPHtUO-Lc36RYq1_7dG_KWQ_iWQfBtg99A6n0mLANVjFR-8YYvPaCozo90DcXclOeJ_uLk0cIXgqktWxccD9rCZJWirRLA_OZpCcvWw2X68Z4I5kNnjMCx5=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RElq4kdiKCIGDKHzVmgrLevkmCQCYZ7TGwVIxfG3Qpyvz40zs8jOhASEUxQVn8A3ht0N5EBhnuvOzSr2GpUSI3SYphSqeyPCvhIwe4K1x9NEiJr45HZcNqNWT1oRXJsmQfzlQB=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RSoiorADCH6QQzrIic3f7rYEqqFe1Z1fxSIKVdy4AwHRmk0FbuyUdGguzqGOG_qszDcp0O0YMSHFzMue2Ogq-4vdGCrHvF1qqpxCF1YHtGIsMssQwObrqG-_nSs7kWuAXr_DIUMQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Ti1L-PXmJA7jlYSo9Ud0GRGauprQTkZHI9sikCPY2Gpr6aVwdNqeWVrBrbfimHB7fg3eT0E_7F_B5XOdxk-z1b0s7CDjtBLimihq1RBmP4qJGWcd9WY55WLWisKpSs00XbQ8jiPA=w1920-h1080-k-no"
+  ],
+  "imagesCount": 59,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2615831,
+    "lng": -123.070619
+  },
+  "neighborhood": "Kensington-Cedar Cottage",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "+1 604-873-2040",
+  "placeId": "ChIJsRYB605xhlQRhY3ZiJngoYY",
+  "placesTags": [],
+  "plusCode": "7W6H+JQ Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "116383067514319826736",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116383067514319826736?hl=en",
+      "name": "Mervan Demir",
+      "reviewerNumberOfReviews": 16,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU9fDtnpr1YbTZwfVr_l9_s_1uXl5H0mFp3sZq8VGN3o4LhJgK2Sw=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-21T05:50:22.948Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21sRWVteEthVU15WDBsVmJVUlZhVUZ1Y1ZOaGNsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sRWVteEthVU15WDBsVmJVUlZhVUZ1Y1ZOaGNsRRAB!2m1!1s0x0:0x86a1e09988d98d85!3m1!1s2@1:CAIQACodChtycF9oOmlEemxKaUMyX0lVbURVaUFucVNhclE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113666319447055488731",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113666319447055488731?hl=en",
+      "name": "Nia Shendandi",
+      "reviewerNumberOfReviews": 45,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWZ1Dc3QVV0YMjv3dGIv7wAhpQ9s5DHdVoLFbqKrYcak5fuUr4=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-14T09:50:21.713Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSSmRFbzNPVGxUVGtSNVkwYzVUMUV6Y1hkTGMzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSSmRFbzNPVGxUVGtSNVkwYzVUMUV6Y1hkTGMzYxAB!2m1!1s0x0:0x86a1e09988d98d85!3m1!1s2@1:CAIQACodChtycF9oOlRJdEo3OTlTTkR5Y0c5T1EzcXdLc3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101940326540835802549",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101940326540835802549?hl=en",
+      "name": "Abdullah Sheikh",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVd9fvw_E7TRWkijqRS4M1EWuELTnHmPFm8RSyY5KDL89U5mkx4=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-22T23:12:12.939Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT201MFVGRnlVSEpaYVZaR1h6ZFhaR0ZzYW1kV1JWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201MFVGRnlVSEpaYVZaR1h6ZFhaR0ZzYW1kV1JWRRAB!2m1!1s0x0:0x86a1e09988d98d85!3m1!1s2@1:CAIQACodChtycF9oOm50UFFyUHJZaVZGXzdXZGFsamdWRVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104939585868381062762",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104939585868381062762?hl=en",
+      "name": "Abdirahim",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJ9QVuc4LUPwk1XlkFBqlec5e0zRZ6w_UxNzzq8yhYojYEV4w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-28T05:31:06.226Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xJeVJIZHZSRTV2Ym1zeWVtMVZkMGRFVlUxalNWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xJeVJIZHZSRTV2Ym1zeWVtMVZkMGRFVlUxalNWRRAB!2m1!1s0x0:0x86a1e09988d98d85!3m1!1s2@1:CAIQACodChtycF9oOlIyRHdvRE5vbmsyem1Vd0dEVU1jSVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "108916550030888402633",
+      "reviewerUrl": "https://www.google.com/maps/contrib/108916550030888402633?hl=en",
+      "name": "Gadisa Umer",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVOQZPpx1hedFbPaJAmcRyeWhljv0w38s4yHie_TjFDPwDUpGQdKA=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-24T20:01:34.960Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tGcGFGRjRZV0V6TTFSWlVHNXBSMWxuUkcxbFdHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tGcGFGRjRZV0V6TTFSWlVHNXBSMWxuUkcxbFdHYxAB!2m1!1s0x0:0x86a1e09988d98d85!3m1!1s2@1:CAIQACodChtycF9oOkFpaFF4YWEzM1RZUG5pR1lnRG1lWGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109328024779275473215",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109328024779275473215?hl=en",
+      "name": "Mahmod Yaak",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU4ZsX90f43eWYrBxiRpppdjBi3J9OviXajYvPCk-UGEPSXdPpGdQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-10T04:21:35.748Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21KSlduWm5OVlZQWDNSamIxSlNkRm81UkU0dFlWRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21KSlduWm5OVlZQWDNSamIxSlNkRm81UkU0dFlWRRAB!2m1!1s0x0:0x86a1e09988d98d85!3m1!1s2@1:CAIQACodChtycF9oOmJJWnZnNVVPX3Rjb1JSdFo5RE4tYVE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 238,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 12,
+    "fiveStar": 218
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "1659 E 10th Ave",
+  "subTitle": null,
+  "title": "Masjid Omar Al-Farooq",
+  "url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Omar%20Al-Farooq&query_place_id=ChIJsRYB605xhlQRhY3ZiJngoYY",
+  "website": "http://www.masjidomar.ca/"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "65109934030082419",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnJsuoa242-sLAEY5VMiFZZxBpHFguI86OwaqRzSsgW1laMaW669ioYCg4FXvEDdDlfekGJc66IKtCA_MHBsa2-ILU3Aj98S9tmsNa0ox87B2rdkcDArTsHq5edJJAbLNgrc8VvSQ=w408-h544-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QKZFoLiEQYC3ofrRohTNaDQT8CZ3KsGHgOy0nx1LwTSlggA4l-ezbrdy3PRuiST3nS6GblyhDXsJzqy7c0heVrQd72jCj8Nky_BGBzHDQvhINvtXLU7WHfp10QNvcFICut4iz_Rg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SsRQNIHlj_HpLTqrN-irG82zsJpGNwJ3hiB45sE4amkJB4oFGAmF8lcvVBjkurWihx28B-D_4JY5LU7vLTB2WoUSHZJhYz61oLk_IsVVXJnonyZLF1vOlFZGiTI-bnmPFS27qbpg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RcZ1Sp3giAtfrqjZvzqxMiZypWH_3FrJ0s9b_aOCXMpiGTO3SMDiY-OJTLQ_rC3B8UjZrq1IHR0fV0Pg3P-LbjwnTNFTIW7RWXHzpejuHTK7p_3B2W7nNvmL6Um-UniitYXmfKhg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ScZx5GnmmTBsqQYh5opRl4k3rYstmhZyKkEIEmx0TXM7G4jAcSXZRLBhOCu3ufw_QQ8RDznrmFscliBeFwZKnMUO5b9dh8jt2LtWsA-3Rfcc-ctcfsCZ6fHyA0nWvWxx4szRMK=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TglhVls9Z1s_z5RLL4oShvqYRrczmvjiFhpeK915k704XYuBua4bakjbA_x6Jp45QBFow2UGFvfTMm2cxIXptWcATyWUw2AJDSiycWS1kpySL7tddi7xUJgk6XhuCgzjQRIyZOvg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S26PYIvEyc0a4X-MB0J6LIAP8yQMC4RtRGKUjHkkQPh2fWIMxTAdZ5v3mm3GgDz7yAGSDMC3Kist3UOwrmE9dfjVw4Wt346cPnCSSZgm59LG8BYmRMaX_YBQgxdPUfdUs4R7sH7g=w1920-h1080-k-no"
+  ],
+  "imagesCount": 45,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2479399,
+    "lng": -123.0697425
+  },
+  "neighborhood": "Knight",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "phone": "+1 604-873-1787",
+  "placeId": "ChIJP9HvUql2hlQRc1E22SNR5wA",
+  "placesTags": [],
+  "plusCode": "6WXJ+54 Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "105327946925883341828",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105327946925883341828?hl=en",
+      "name": "Khaled Mohammed",
+      "reviewerNumberOfReviews": 6,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLtM8UEsWdFeILzxz0kVbvOk0jShRkB9W6T1BH87io6EAmeeQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-30T02:27:39.550Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2s1NVdtZzFTSE41V0ZSU01uaE1TV2x3U0hwUVdFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2s1NVdtZzFTSE41V0ZSU01uaE1TV2x3U0hwUVdFRRAB!2m1!1s0x0:0xe75123d9365173!3m1!1s2@1:CAIQACodChtycF9oOk55Wmg1SHN5WFRSMnhMSWlwSHpQWEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100280085732922694514",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100280085732922694514?hl=en",
+      "name": "nadjim hamza",
+      "reviewerNumberOfReviews": 11,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocI-jgx3jb0M3mN0ck_MrskhoiKe5j7aVldIZiGOR_i50ADdPw=s1920-c-rp-mo-ba12-br100",
+      "text": "Nice masjid",
+      "textTranslated": "Nice mosque",
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-21T22:53:07.222Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tWR1ZIVlVSMTlIT1V4b1ZsSnhOa1F3TFRWeFMzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tWR1ZIVlVSMTlIT1V4b1ZsSnhOa1F3TFRWeFMzYxAB!2m1!1s0x0:0xe75123d9365173!3m1!1s2@1:CAIQACodChtycF9oOkVGVHVUR19HOUxoVlJxNkQwLTVxS3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ms",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "100133483787688224552",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100133483787688224552?hl=en",
+      "name": "Sanaullah Sahil",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUH75qo5ma3EDoeLve8Y1mhEiBQAs7PsN9YHP3OCXee_BH9Qj3S=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-12T05:50:44.298Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2kxUGVsRlpja05xVEVkNWVHMXZkVWw2WlUxcE0yYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2kxUGVsRlpja05xVEVkNWVHMXZkVWw2WlUxcE0yYxAB!2m1!1s0x0:0xe75123d9365173!3m1!1s2@1:CAIQACodChtycF9oOi1PelFZckNqTEd5eG1vdUl6ZU1pM2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114406866960457115173",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114406866960457115173?hl=en",
+      "name": "Mansour Alathel",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXr6LDtINDXjyxw6Fl01KJ06wTBm_ctMX2J3nw6EEp8sxyNZJw=s1920-c-rp-mo-br100",
+      "text": "ممتاز",
+      "textTranslated": "excellent",
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-21T04:50:00.070Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21GTFVETkpORk5oTWpZMFZVMDVPRXRSYldJNWNGRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GTFVETkpORk5oTWpZMFZVMDVPRXRSYldJNWNGRRAB!2m1!1s0x0:0xe75123d9365173!3m1!1s2@1:CAIQACodChtycF9oOmFLUDNJNFNhMjY0VU05OEtRbWI5cFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "116603300425763549868",
+      "reviewerUrl": "https://www.google.com/maps/contrib/116603300425763549868?hl=en",
+      "name": "POLAT M.",
+      "reviewerNumberOfReviews": 526,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUDcctyetJaRA8YOH8sk5ETyLcBjXW-PgkuVSVQnf4NgH2S15w=s1920-c-rp-mo-ba12-br100",
+      "text": "I had the opportunity to pray Asr here, and it was a very peaceful experience. The mosque was exceptionally clean, well maintained, and had a calm and welcoming atmosphere that made it easy to focus on worship. Everything was organized, and it was clear that great care is taken to keep this place in excellent condition. May Allah reward everyone who contributes to maintaining and serving this mosque with the best reward, accept their good deeds, and grant them Jannatul Firdaus. Ameen.",
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-19T05:58:33.579Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25KQmNubDZhMWxpV1c0ek5GRnViM0JETUhGdFpGRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25KQmNubDZhMWxpV1c0ek5GRnViM0JETUhGdFpGRRAB!2m1!1s0x0:0xe75123d9365173!3m1!1s2@1:CAIQACodChtycF9oOnJBcnl6a1liWW4zNFFub3BDMHFtZFE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfbPhRpHRHGUqeLpiR0C-vjU6glRIkNlly5YFarkh3IiR6odVZzWeTo_jo3nlvBuqDrMB6vzgt9HHZi5H-tVdJciHSijWThaEdbghJn1ij3dPaScnb8wIryYADZG8DsQHQ0VaYIi-lYFB2z=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLcWXIiw9PBZTTvyWnfnEEzn01amr7UfALcNqrKMS_enyuuMNhJm0bOfZUx9msQ1n21fPIiPRAIluwiiQT_jZIjcze9URBGeFNxJWMOx9vSXH8kiy6f82acazPSUnmopKHYGA24IcuCmROI=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLe8xQwk-qCZtY2_6SkxQZ93blwfbjY_pOBPfk4avBtRYu0UzzkaKOZStp4iXrToQ6fuaWaE6kmtdJJWmnZcujxD3BFLvpdT4ZSt_1bPIKJOhi1DJXB4WAzZxILiCEQfy5l_8Pp7616GJvc=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLfVll0pBP1x3kcLgt1ATFH2lsGJxGqXVwdU6CrbcZ2wQ5JGdCNlMIzIcfix8Xpj4H3APrJXfDR2KpMpD962evf6HAv5lbg-d5BenSFJ7AcwVBdXDHrL3BV8-m78PtI5GpKJYQafWhpEJAY=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/AABkmLd-aaU5xi3KJOF5lvFoK1O0efwU75OZ9ARG9h-f-hWzT7MgbPJYLKHxJyUUcEpj910Z7pVHDU802Cl7OJU6qgxBGPnQzrfS7LQtIflsV8B176TZvy5sVFfrzz1PWMrxcjsYL41xgIOeDGqU=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109328024779275473215",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109328024779275473215?hl=en",
+      "name": "Mahmod Yaak",
+      "reviewerNumberOfReviews": 19,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU4ZsX90f43eWYrBxiRpppdjBi3J9OviXajYvPCk-UGEPSXdPpGdQ=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-07-10T04:21:09.993Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwSVZtZE5URkkyYWpkd1ZtMHljV1pFWm1aWUxXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwSVZtZE5URkkyYWpkd1ZtMHljV1pFWm1aWUxXYxAB!2m1!1s0x0:0xe75123d9365173!3m1!1s2@1:CAIQACodChtycF9oOlpIVmdNTFI2ajdwVm0ycWZEZmZYLWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 127,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 3,
+    "fourStar": 6,
+    "fiveStar": 113
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "4162 Welwyn St",
+  "subTitle": null,
+  "title": "Masjid Ul-Haqq",
+  "url": "https://www.google.com/maps/search/?api=1&query=Masjid%20Ul-Haqq&query_place_id=ChIJP9HvUql2hlQRc1E22SNR5wA",
+  "website": "https://awqat.net/Masjids/BCHaqq/haqq.html"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "2122 Kingsway, Vancouver, BC V5N 2T5, Canada",
+  "categories": [
+    "Mosque",
+    "After school program",
+    "Community center",
+    "Education center",
+    "Youth center"
+  ],
+  "categoryName": "Mosque",
+  "cid": "7611991906109127713",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Videos",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmOpExH8keHtqagRK02Xt0py5Xo9nVLeSkFVHS97BfCKoaKMSM6n5olKWU8egMD3GsTu1_p0CYRYKGpPREPN7hSJLfwr6mt62Li6PiDSPANttXhZLPevb4kh9rIRE8zEJ8mntUDR=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TCE36s3GEzlzdZlvDZBRabA3xUS0NqON9jzm7vzI401PtqQD6L3TeDdbJSE3QEvMuR0Ai0r-7oonLW50GAHWcNeudiQ5J_18XUmzzhUyFj8hAVVR_MBcFX2Wqw9istv55A8aSQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5w9N2jg1j_rvo4eNTxl6Abb4q3AhfiaP4tT_SqC657QTED5-PoHi_zllsHn1YaFWgZsL3fT_V5UlbRSuq8_s7EYE4BFKNQkXVCaLKbkGS8iwGAqsHbGnjYpKWngJ4n2aWzu4G=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QI76I2wifbohZS9lP2-GmonbnN7EmD6VZQZ8cM1PcBdjWwjcwcajzu-goc6hFYT77hc3Nuy-2U36F5NZDawjJ5BeEV7lHAdP9Fh-UfL9DyS1NW6ECm_IgPlO8V9lxoot_APv5L=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RIchkuvUJVTOsy5xherrsomnTnWAx4bS6rxxvK3osfZLn2Pw9e8xGM0aJ35wfEiPJgxmQOzbvxppp6lLef3kFoziYSVTVk53PHrVPCnvpgtaMnqwz3cwAtYSye9FYtpPStC8PwKA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-wMjw_7RdVc2UlcypMWd7b4it-wfAWRDGfz5ig0b99poyo5yOv76lQV8v38kCNiqTCOCUJuZFAudqOfzUaTtJbNpbNFH_c02CKPFprVsNrUE2RArdDtA1s2YERg4G6-26d9JZJQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TvsBGlcZYUKtaYD26NQQMIOaVTc8sEhJownYOCdARhDI-6xuF9WCuk7wR1JdrJ0SGP9iazwgf4wWIOsySZXD_jPxD48BMD2NhQ8aVoQ8fMsNncUDxqZ-xpVmLNfgjEU7lUtiZCBw=w1920-h1080-k-no"
+  ],
+  "imagesCount": 53,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2441672,
+    "lng": -123.0635315
+  },
+  "neighborhood": "Knight",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "9 AM to 5 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "9 AM to 5 PM"
+    }
+  ],
+  "ownerDescription": null,
+  "phone": "+1 604-434-7526",
+  "placeId": "ChIJkRbU7R5_C0ERIXzI_E46o2k",
+  "placesTags": [],
+  "plusCode": "6WVP+MH Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "103288673628100171254",
+      "reviewerUrl": "https://www.google.com/maps/contrib/103288673628100171254?hl=en",
+      "name": "Fathima Shahina",
+      "reviewerNumberOfReviews": 13,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIntAihKsnMSd-UIYDi36IfDcEBN4bksHKMdoMN97Dz3Jk5OA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "4 days ago",
+      "publishedAtDate": "2026-10-03T05:13:46.906Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2w5M2EzTTRPRzV5VkRNeFNFUTVSVFEzVUZWMWRXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5M2EzTTRPRzV5VkRNeFNFUTVSVFEzVUZWMWRXYxAB!2m1!1s0x0:0x69a33a4efcc87c21!3m1!1s2@1:CAIQACodChtycF9oOl93a3M4OG5yVDMxSEQ5RTQ3UFV1dWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113235251098907648692",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113235251098907648692?hl=en",
+      "name": "Antonio Oliveira",
+      "reviewerNumberOfReviews": 4,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVt4jM245MBylvt3woPZTvVzEcexNkxLDrdQTY5OamOAxxA-H3PZw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-30T01:14:14.827Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21seVFXOUVaaTFaWDFGR05HVXdaRTV3UVd4aGRHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21seVFXOUVaaTFaWDFGR05HVXdaRTV3UVd4aGRHYxAB!2m1!1s0x0:0x69a33a4efcc87c21!3m1!1s2@1:CAIQACodChtycF9oOmlyQW9EZi1ZX1FGNGUwZE5wQWxhdGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112866014506432526446",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112866014506432526446?hl=en",
+      "name": "ismail sadat",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUIAECmw3mpBtNcFJ82GlOVdCIlyCdwIyUq3DughGpbsOYTnwVZ4A=s1920-c-rp-mo-br100",
+      "text": "Good place",
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-25T19:58:49.106Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25WelQyWkdOMVJNYkVodkxYbDFkVTFVYTJjeGIzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WelQyWkdOMVJNYkVodkxYbDFkVTFVYTJjeGIzYxAB!2m1!1s0x0:0x69a33a4efcc87c21!3m1!1s2@1:CAIQACodChtycF9oOnVzT2ZGN1RMbEhvLXl1dU1Ua2cxb3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "111511189600437251927",
+      "reviewerUrl": "https://www.google.com/maps/contrib/111511189600437251927?hl=en",
+      "name": "Meka PS4",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJjl84mqOfrnnAjn7yDEM6GF290OEcxdGM4i_Tldo_5Bk0jMA=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-25T03:14:24.698Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21GVVlYVm9NamxRYlhCelkyMWFVRkkwVnpKR2RIYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21GVVlYVm9NamxRYlhCelkyMWFVRkkwVnpKR2RIYxAB!2m1!1s0x0:0x69a33a4efcc87c21!3m1!1s2@1:CAIQACodChtycF9oOmFUYXVoMjlQbXBzY21aUFI0VzJGdHc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104978222375958074873",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104978222375958074873?hl=en",
+      "name": "Abdul Ali",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUz3CWWxuRIp9jIWcnoKGzL4bpACL7JDva6DE_BDQp21o_YreE1=s1920-c-rp-mo-br100",
+      "text": "More maintenance and clean inside masjid",
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-23T14:20:46.387Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25WbU5WTmpSbkI1T1RNMFMzUkpNemQwZFhoc2JYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25WbU5WTmpSbkI1T1RNMFMzUkpNemQwZFhoc2JYYxAB!2m1!1s0x0:0x69a33a4efcc87c21!3m1!1s2@1:CAIQACodChtycF9oOnVmNVNjRnB5OTM0S3RJMzd0dXhsbXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 3,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109720188121090565531",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109720188121090565531?hl=en",
+      "name": "md jaffer",
+      "reviewerNumberOfReviews": 15,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLY0ND9T6d-gLKBQ0BeprwX_59hbiSUJtKNsKw2xhAIotY3fg=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-20T23:22:45.080Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pRd2JXcExSbEF5YkcxMFdVSjZSVVZCZG5ZemVtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pRd2JXcExSbEF5YkcxMFdVSjZSVVZCZG5ZemVtYxAB!2m1!1s0x0:0x69a33a4efcc87c21!3m1!1s2@1:CAIQACodChtycF9oOjQwbWpLRlAybG10WUJ6RUVBdnYzemc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 129,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 5,
+    "fourStar": 7,
+    "fiveStar": 109
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "2122 Kingsway",
+  "subTitle": null,
+  "title": "Muslim Association of Canada- MAC",
+  "url": "https://www.google.com/maps/search/?api=1&query=Muslim%20Association%20of%20Canada-%20MAC&query_place_id=ChIJkRbU7R5_C0ERIXzI_E46o2k",
+  "website": "https://www.macnet.ca/"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      }
+    ]
+  },
+  "address": "181 Keefer Pl #202, Vancouver, BC V6B 6C1, Canada",
+  "categories": [
+    "Community center",
+    "Mosque"
+  ],
+  "categoryName": "Community center",
+  "cid": "412220102918350520",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Latest",
+    "Videos",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl2EMvJleue6YQdJxlJ4RMC1XIITEPF8JQaAJ7wE-P5UUz_ekpSO3gAcyerlBJWMGV9DguCccyTTC1dWEeq5JvdxN-72RDrX9Voa3tWvjz_U6DJrB78nANU-aMtqVZ1xtjYaZQ=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkl2EMvJleue6YQdJxlJ4RMC1XIITEPF8JQaAJ7wE-P5UUz_ekpSO3gAcyerlBJWMGV9DguCccyTTC1dWEeq5JvdxN-72RDrX9Voa3tWvjz_U6DJrB78nANU-aMtqVZ1xtjYaZQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnMOEVrrSuKiB8-CJTEEth2LsyH0vPuyN1FKhptJA3BKXC2febVNONCMtEunCE5wCi-zAZrsKQAFrk2EobbmhrhfON7-mwXQmOSvjZQxwenpaZjgcVkh5jw-Snan_3GFM-9cP8=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmtC3o3RJ5HQMw1MRKLojLxmxR6HzsevTek6a3KJeNNQNWTf-TlFhobOXyF3JafjbkMTkhNnOLg47aEjYXFTPjmwPIaZz8NVxnpFtVAqsGF-jKcddSAthrooIfMgYFB4mwW9Q_s=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm0DUrzj4wt-1T4HwTWuaqFX5DwBN-xlsjNGk1oAkTwz2_egkpu7djkMN0JG5COeqjct1voOApbD9GMJlrRRL7aGMjvZGqP_42xV2wKEuBjI5Toms_DoAxm1mowqLOQ2G_vj4o_JA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkeKo6lDqQaWnKsdzYstTdPlzWNGOU7yM0M8r0qkfD6D7-0w5t39qW9YyYKPtFijcdMTGG7JiSjQ9GvUGEisPw1v0Vc2M8XGWv1fUPLtFIuXugR8ghM08MhpY-vMbSOq1iXWMFKRQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkpL5BuB-mVt3RGdNmDFcuCZpdcZyOe-BwnCvgdmDTrzzaFbzZEk0HWJN6dXSHLjHRQLT1TwkHRzIwERGPrYzH-ZZpAm3-KiN2htnpTkbRB4Av9jqQ739bOLMoN3TCaDzw7vdui0w=w1920-h1080-k-no"
+  ],
+  "imagesCount": 148,
+  "language": "en",
+  "locatedIn": "International Village Mall",
+  "location": {
+    "lat": 49.2800746,
+    "lng": -123.108579
+  },
+  "neighborhood": "Downtown Vancouver",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "3 AM to 11:30 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "3 AM to 11:30 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "3 AM to 11:30 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "3 AM to 11:30 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "3 AM to 11:30 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "3 AM to 11:30 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "3 AM to 11:30 PM"
+    }
+  ],
+  "ownerDescription": "Islamic Center and Masjid\nمركز اجيال الاسلامي",
+  "phone": "+1 604-563-3344",
+  "placeId": "ChIJ36hVv3txhlQRuCa54_9_uAU",
+  "placesTags": [
+    {
+      "title": "Services",
+      "count": 1
+    }
+  ],
+  "plusCode": "7VJR+2H Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "101592131674732483309",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101592131674732483309?hl=en",
+      "name": "Noorun 3ala Noor",
+      "reviewerNumberOfReviews": 25,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXiSo8AbAJP-QhtAfImggQnqDqqMhyYAgRlfHB68Q69g-qxkmU9_A=s1920-c-rp-mo-ba12-br100",
+      "text": "Welcoming ppl, clean carpet and peaceful place.",
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-29T17:06:23.550Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xvMmRuRXlhM2xPTmxaQlFuQXlUWGhwTlVWQ1prRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xvMmRuRXlhM2xPTmxaQlFuQXlUWGhwTlVWQ1prRRAB!2m1!1s0x0:0x5b87fffe3b926b8!3m1!1s2@1:CAIQACodChtycF9oOlo2dnEya3lONlZBQnAyTXhpNUVCZkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109419055415402375084",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109419055415402375084?hl=en",
+      "name": "Sadiq Ullah",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjU7JkKHdopw-A4GeHwdF2aAOFDp8BmKZJTfGdIVS3g2YjoXZ_c=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-21T22:33:55.411Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xGQmFWQTBMWFkyWWxkdlNuQlRXRUZPZVVGMVVXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xGQmFWQTBMWFkyWWxkdlNuQlRXRUZPZVVGMVVXYxAB!2m1!1s0x0:0x5b87fffe3b926b8!3m1!1s2@1:CAIQACodChtycF9oOlFBaVA0LXY2YldvSnBTWEFOeUF1UWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117393779180613449939",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117393779180613449939?hl=en",
+      "name": "mohammed abed",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKcVeWUcWnCVpPiEq_2BqKyQX7V5V6FsPgglKN3lWlytZDTTw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-19T02:18:25.800Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xwWWVWbEljbFpJYjA4eU4yUnVVbTFOT1hBelIzYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xwWWVWbEljbFpJYjA4eU4yUnVVbTFOT1hBelIzYxAB!2m1!1s0x0:0x5b87fffe3b926b8!3m1!1s2@1:CAIQACodChtycF9oOlpYeVlIclZIb08yN2RuUm1NOXAzR3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100931147895592398751",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100931147895592398751?hl=en",
+      "name": "Hafiz Ahmad",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW_0zjnrBFonsLwQjz-EtTepRwODnTttlGRGzXqAsq6J8h2Ne_7=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-14T02:41:03.654Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pWWlduZHdObXN5TTB3dGNGTkhjV3BtTFVZeGMyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWWlduZHdObXN5TTB3dGNGTkhjV3BtTFVZeGMyYxAB!2m1!1s0x0:0x5b87fffe3b926b8!3m1!1s2@1:CAIQACodChtycF9oOjVZWndwNmsyM0wtcFNHcWpmLUYxc2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101040500563326230139",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101040500563326230139?hl=en",
+      "name": "AZZAM MANSOUR",
+      "reviewerNumberOfReviews": 1,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXfgJYkNSAxLe7CVHHupOUm2y9jreFUEP7cKIxs_zEz_ps3tSWB=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-10T23:40:55.450Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Fek9HbGhZV3BsU0Rab04wbDVaMG81TWpWa1JFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Fek9HbGhZV3BsU0Rab04wbDVaMG81TWpWa1JFRRAB!2m1!1s0x0:0x5b87fffe3b926b8!3m1!1s2@1:CAIQACodChtycF9oOnEzOGlhYWplSDZoN0l5Z0o5MjVkREE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106933504806133104989",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106933504806133104989?hl=en",
+      "name": "Kabir Qurban",
+      "reviewerNumberOfReviews": 34,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWjg5oGsEYBjg4g9D381tMh-LB8DtVemDUnBxWU0Jz-WZI8gxOK=s1920-c-rp-mo-ba12-br100",
+      "text": "Great commuter masjid, lovely team behind the scenes.\n\nNeeds more folks to benifit from this lovely establishment",
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-09-02T17:13:28.595Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT201MVUycExWR1JNVEdWa01rSXpkVlpGT1ZwdlNrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT201MVUycExWR1JNVEdWa01rSXpkVlpGT1ZwdlNrRRAB!2m1!1s0x0:0x5b87fffe3b926b8!3m1!1s2@1:CAIQACodChtycF9oOm51U2pLVGRMTGVkMkIzdVZFOVpvSkE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 433,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 4,
+    "threeStar": 9,
+    "fourStar": 24,
+    "fiveStar": 386
+  },
+  "reviewsTags": [
+    {
+      "title": "mosque",
+      "count": 38
+    },
+    {
+      "title": "peaceful atmosphere",
+      "count": 13
+    },
+    {
+      "title": "women prayer area",
+      "count": 3
+    },
+    {
+      "title": "iftar during ramadan",
+      "count": 3
+    },
+    {
+      "title": "clean masjid",
+      "count": 2
+    },
+    {
+      "title": "wudu area",
+      "count": 5
+    },
+    {
+      "title": "friday prayer",
+      "count": 4
+    },
+    {
+      "title": "quiet place to pray",
+      "count": 2
+    },
+    {
+      "title": "jummah timings",
+      "count": 2
+    },
+    {
+      "title": "cozy place",
+      "count": 4
+    }
+  ],
+  "state": "British Columbia",
+  "street": "181 Keefer Pl #202",
+  "subTitle": null,
+  "title": "Ajyal Islamic Centre",
+  "url": "https://www.google.com/maps/search/?api=1&query=Ajyal%20Islamic%20Centre&query_place_id=ChIJ36hVv3txhlQRuCa54_9_uAU",
+  "website": "https://www.ajyal.ca/"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "695 Smithe St, Vancouver, BC V6B 2C9, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "6745126968475618457",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/ACvplmMEVRDgT0bsCdKJURvHFEV3qGEEtSy4ZowVr5DVui_ttSszgSCKrh7ISIze7T3R6jY11UnbOjJCVBly23mAYMPKNEo6Y-IA8piuaX2eAO-150V1ObDCrhgapETBHh_HP_VnJXpH=w408-h725-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sbd0CUYxQGuUaso_S_LjcS7Ak_uYr5wdCBZX7jkTZZEoekK8utnNDQ-3UZRXt6xn6lWtkFuuFypsZP7Ug0FxJfmMx9G0AK1wKYPHrZ-XbNf07kHgVYDXtbjBLesoT4OtYU0kXm=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QONtnRAwQumwLxzJV37MhI1ftF9o4jgi_IE1yOVIWyhnZk1zRM271AgALlTImlda1Nqt1htH66WfMO-e2vUF5qJHbiCV3owbnI3bKfwFFXs6UpTmolkDfRZ0tnozat2MJKqo-CKA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SiJMPzrkExPlaVBWcy4K1dahKRQevZ59U5v2-fU7GmlHastIZgSKDC8-8u2BU9rKep20ZuLaKmYpK1b87ibGEVGI17DYMHnlDxX6CWHdOpGr9i6S-mWHS_S-b-pRHDiYlJYhaY=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RK99qUH-9ZY1KNkpAPLgKdNFyAeGGOclO-CPeM-4KPq-olJ79xj4BDp2vf5Mwa7HH0qibNs6uUvW-Tc8yGIflC-TJxoR9TY_VYDoQDFQrb8c7ea1u9ysMnm4W7OmBncxIy-trO=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R93Tpr1Wu9u6Zuv4ukpeD1Y94s-RIB55hLi1D_QjwYWGykAa4tX1dyaceAcJn9_zDNM9zb-xHtbh247y1f9zKjH3ixzqby_1ZRNzT7YEqzq0iK0s0KwsO08XPyWDXVt2BM6tN6sg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T0V4RlB83UG5HdIB10LRJG0A4-z8RyEVAXIjSeI6dS0OgV5JMamShaGiOj-YDP6fAFs3EUyRUpZF8mttWi8IEr51N-uVQrovIPjCHG9PhCsSf-Ljs3V-k3Mv4s5FgnTuLnPY4V=w1920-h1080-k-no"
+  ],
+  "imagesCount": 23,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2801921,
+    "lng": -123.1210033
+  },
+  "neighborhood": "Downtown Vancouver",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Thursday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Friday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "8 AM to 8 PM"
+    },
+    {
+      "day": "Sunday",
+      "hours": "8 AM to 8 PM"
+    }
+  ],
+  "ownerDescription": null,
+  "phone": "",
+  "placeId": "ChIJ5cv9_GdxhlQRmYzlmD2Bm10",
+  "placesTags": [],
+  "plusCode": "7VJH+3H Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "105068871735429871667",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105068871735429871667?hl=en",
+      "name": "Ryan",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW80NiXJZj46w9NpXrGqLSRS7rtCfT0x31YK1iEgNADAQUaquQv=s1920-c-rp-mo-br100",
+      "text": "I was treated badly for no reason by the imam.\nHe was telling me to pray very quickly while the masjid was still full after 'Isha. I responded that I hadn't done wudu yet and with a disgusted face and a loud voice he told me to do it fast.\nI told him that if he wanted me to close the masjid he could just tell me and I would pray somewhere else. Then he told me to get out of the masjid and start yelling, raise his hand on my face showing that he gonna hit I was confused I came up to him again and asked are u trying to hit me with this hand ?\nHe said go back to the night club ! I asked him are u under influence you are not stable at all\nI was shocked by the guy, and even more shocked when my friend told me he is the imam !!\nI'm sure that Iraqi (the imam) has mental health issues because my friend and another decent guy from Libya both told me it's not the first time he picks fights with people coming to pray.\nIt's really awful that someone representing my religion behaves like that and I didn’t think an imam would ever stoop this low",
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-22T00:30:20.061Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT20xeE1WSTRlREZXUW5CTldqazNZekozVkdacVJtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xeE1WSTRlREZXUW5CTldqazNZekozVkdacVJtYxAB!2m1!1s0x0:0x5d9b813d98e58c99!3m1!1s2@1:CAIQACodChtycF9oOm1xMVI4eDFWQnBNWjk3YzJ3VGZqRmc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "109296772639757957464",
+      "reviewerUrl": "https://www.google.com/maps/contrib/109296772639757957464?hl=en",
+      "name": "Sna Ullah",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjW9jDAJ969agyb00ucQFWXoEUwDPLZpFvvaz2eqetkQMXhTb14=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-26T04:23:55.282Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21VNGRtNUZXRlZyUXpWQldVWklZV2hoVVdZeWJYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21VNGRtNUZXRlZyUXpWQldVWklZV2hoVVdZeWJYYxAB!2m1!1s0x0:0x5d9b813d98e58c99!3m1!1s2@1:CAIQACodChtycF9oOmU4dm5FWFVrQzVBWUZIYWhhUWYybXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107254715994868750341",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107254715994868750341?hl=en",
+      "name": "Muhammed Bayatli",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIlXTay_kjOpDivOCW7d5N4Yk2weOpiP8C9ifra7IW_4KQY0Q=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 months ago",
+      "publishedAtDate": "2026-08-04T22:21:51.188Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT204d2VqWlRVV0pzYm5jd00wUk5WWGR5UW05VllYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT204d2VqWlRVV0pzYm5jd00wUk5WWGR5UW05VllYYxAB!2m1!1s0x0:0x5d9b813d98e58c99!3m1!1s2@1:CAIQACodChtycF9oOm8wejZTUWJsbncwM0RNVXdyQm9VYXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "102416625104117268901",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102416625104117268901?hl=en",
+      "name": "Umar Alkaff",
+      "reviewerNumberOfReviews": 10,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLN-DWJkgGV0iRRJRO7Z84_sFMZNf99fBHIH6nkU5x20MJo6g=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 months ago",
+      "publishedAtDate": "2026-06-21T21:11:19.812Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSU1NVVjVlR3d3YVdGTWNGVjRkMGRDVHpabGIwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSU1NVVjVlR3d3YVdGTWNGVjRkMGRDVHpabGIwRRAB!2m1!1s0x0:0x5d9b813d98e58c99!3m1!1s2@1:CAIQACodChtycF9oOlRSSUV5eGwwaWFMcFV4d0dCTzZlb0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100027072624488121138",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100027072624488121138?hl=en",
+      "name": "SAMAN NISAR",
+      "reviewerNumberOfReviews": 50,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX9q-eyPskOZsYAipSeRIJ4mdcuv4Bq2yFzBiN41Ej6a91a6bND=s1920-c-rp-mo-ba12-br100",
+      "text": "Door is on left side of corner. See photo",
+      "textTranslated": null,
+      "publishAt": "4 months ago",
+      "publishedAtDate": "2026-05-23T21:58:40.559Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pGMVdETnZURzFqVXpJd1owUktSR3RPZWxocE4xRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pGMVdETnZURzFqVXpJd1owUktSR3RPZWxocE4xRRAB!2m1!1s0x0:0x5d9b813d98e58c99!3m1!1s2@1:CAIQACodChtycF9oOjF1WDNvTG1jUzIwZ0RKRGtOelhpN1E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107884307575683357558",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107884307575683357558?hl=en",
+      "name": "AsadUllah Khan",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocJaUlNJPNyde3OxLdv3Fsn6g3Efc3wlNiMaBhiEJodBJFd30w=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "5 months ago",
+      "publishedAtDate": "2026-04-14T21:17:51.383Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Cb04wdFZaVkF0VUVrNE1qbFlMVzR3TFdOWFIyYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Cb04wdFZaVkF0VUVrNE1qbFlMVzR3TFdOWFIyYxAB!2m1!1s0x0:0x5d9b813d98e58c99!3m1!1s2@1:CAIQACodChtycF9oOnBoN0tVZVAtUEk4MjlYLW4wLWNXR2c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 125,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 1,
+    "threeStar": 3,
+    "fourStar": 3,
+    "fiveStar": 112
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "695 Smithe St",
+  "subTitle": null,
+  "title": "Granville Musallah Masjid",
+  "url": "https://www.google.com/maps/search/?api=1&query=Granville%20Musallah%20Masjid&query_place_id=ChIJ5cv9_GdxhlQRmYzlmD2Bm10"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "655 W 8th Ave, Vancouver, BC V5Z 1C7, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "12941410097223114604",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/grass-cs/AABkmLeAk2P8CddwHEjSyJ10uu_6m7IxOH-ghWRC4MVc1sdiSx-eozquD97ZTu_QdNp_pvfmnCel0m1AJRAaPFb6Bpei4L668uvbgtJZHDxEOG4fEP_ltk2CpZEbtfvWWPTBzNZzSHUXIA=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl6GO4OeHN_zTd57GLvpgUB1mSk3CoXgoK8ywGKFCVbDEj4F2YgSHfo2c5B6dL55qNWa8YZDXVzLcAcwq4qO00w3loN_CwR3tUr6TweuT2aN6zr2F1mN81lxQixPAtMNcm0hbxX3A=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmWenWWgPA9IW6nj-2eFOSILBwXZ9RNXZZ2XFoZsF0zmG98vDq86EnKwtDs4kZ5obJUpBiYP8Ya3L55LwV8ZbqgW4m1aZZZbVA7yNp7UQX6DLVglFOC-nTlOupZIpYsGkD2szBfKA=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl5FLl2f3-KgI4Abuzto7KnQixCJ4DrxAiIWivq5KjnbWmHrCsZSwCBE54xin6bMg9e53ZuuPmaZ0jfQbIZITrUSnjwPiLI8Lul0KnvEeRImQHoqI_VU5iqjYfOkjevBF9yPJamxg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkMsyil_rCJYkV5AFh0ETgatBH98WCE7gChYuMRue7F6zsaKXpXfPkNfeUzckTa7b_cMF2jtA4v0PZkDnt7wRNx1bpPOQqrs30sCS4bDUHvQIsSP_3WES_SoVWcVEnreFWmGOo4Tg=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWne97T0H0ow1xrdXf9rOaE9tb9NRuZlGX9_yttleunnYL18kUHVM3KmfJA-BTHVu3PPKdcnEkLwAP6Uon5FalVQ84_TmAEtBEo4a2qkfkWpL9bSI-RTK8TNluVngXkFA9EW1o5WzK8MYaOI=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk5LTRoR40I6YLp7ER5tw1CDUOLTBCom8mS1HDpZNpm7Jx_MBBI4--KPZHlzI05kNmOAz-5d9dD7wbGhErEsr9xVYyiBKvN-xlos73xdWmOLVHNQtPGVCvfK7jDbn-GX268I5gHig=w1920-h1080-k-no"
+  ],
+  "imagesCount": 74,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2644276,
+    "lng": -123.1190053
+  },
+  "neighborhood": "West Side",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Open 24 hours"
+    }
+  ],
+  "ownerDescription": null,
+  "phone": "+1 604-720-8054",
+  "placeId": "ChIJ2RNQ3txzhlQRbB-jueofmbM",
+  "placesTags": [],
+  "plusCode": "7V7J+Q9 Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "118270363071262126990",
+      "reviewerUrl": "https://www.google.com/maps/contrib/118270363071262126990?hl=en",
+      "name": "M H",
+      "reviewerNumberOfReviews": 208,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVA0bLSQMJaYUztlRk7t3YhkejCeR4nuuiz4DWZBTaBWj6lZXp3=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "Edited a week ago",
+      "publishedAtDate": "2026-09-30T04:23:13.785Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUR3X3JTM2x3RRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUR3X3JTM2x3RRAB!2m1!1s0x0:0xb3991feab9a31f6c!3m1!1s2@1:CIHM0ogKEICAgIDw_rS3lwE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117841593295959525697",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117841593295959525697?hl=en",
+      "name": "Nus Buhary",
+      "reviewerNumberOfReviews": 31,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocIEpzgfXEr-aqCuyLUpuwJKNp_2N5lIlfSwjTZFv68razBsog=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-29T17:45:37.203Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25Kd2JtVTFkVmRSUkRKdllrRk9OVGsyVEMxU1JYYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25Kd2JtVTFkVmRSUkRKdllrRk9OVGsyVEMxU1JYYxAB!2m1!1s0x0:0xb3991feab9a31f6c!3m1!1s2@1:CAIQACodChtycF9oOnJwbmU1dVdRRDJvYkFONTk2TC1SRXc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106093611454779918906",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106093611454779918906?hl=en",
+      "name": "Ali Khan",
+      "reviewerNumberOfReviews": 23,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUWkwGEn5b4DYkgfTT4oDcOSdpnJPp_1Bd4279KQ6Z_qLYeSU4aRg=s1920-c-rp-mo-ba12-br100",
+      "text": "MashaAllah, this mosque is absolutely beautiful, with plenty of space for worshippers. It's a real blessing to have such a welcoming place in the community.\n\nOne kind request: please keep the prayer times on the website up to date. Many of us who work are trying to balance deen and dunya, and we rely on the posted times to plan our day. The website listed the first Jumu'ah khutbah at 1:30, but it began at 1:50. Since I had to be at work by 2:30, that didn't leave enough time to finish salah and get there on time.\n\nI'm sure this was an oversight, and I truly appreciate everything the volunteers and administration do. Accurate timings would make a big difference for working community members. JazakAllahu khairan!",
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-25T20:53:30.149Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tsalpsQkJNVVpGU0Rjd1QyaFBXVGQzWVhWMFZFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tsalpsQkJNVVpGU0Rjd1QyaFBXVGQzWVhWMFZFRRAB!2m1!1s0x0:0xb3991feab9a31f6c!3m1!1s2@1:CAIQACodChtycF9oOkljZlBBMUZFSDcwT2hPWTd3YXV0VEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 3,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112622333159110946233",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112622333159110946233?hl=en",
+      "name": "Isam Alzrigani",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLxMg6I6j9GSV0iNIBeLx8-6-JBkOFTfwgszHYuEuaBBuGy0g=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-21T03:27:34.287Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT25oVFpFVnBkbGR2U1UxcFVXNTNURmQwVjNacGEwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT25oVFpFVnBkbGR2U1UxcFVXNTNURmQwVjNacGEwRRAB!2m1!1s0x0:0xb3991feab9a31f6c!3m1!1s2@1:CAIQACodChtycF9oOnhTZEVpdldvSU1pUW53TFd0V3Zpa0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 4,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113666319447055488731",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113666319447055488731?hl=en",
+      "name": "Nia Shendandi",
+      "reviewerNumberOfReviews": 45,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWZ1Dc3QVV0YMjv3dGIv7wAhpQ9s5DHdVoLFbqKrYcak5fuUr4=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-14T09:49:20.781Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pWa1JpMXpUemRRZUVsWFkxUlJUVTl5V1ROZk5uYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pWa1JpMXpUemRRZUVsWFkxUlJUVTl5V1ROZk5uYxAB!2m1!1s0x0:0xb3991feab9a31f6c!3m1!1s2@1:CAIQACodChtycF9oOjVkRi1zTzdQeElXY1RRTU9yWTNfNnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101150222092037860663",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101150222092037860663?hl=en",
+      "name": "andrew friesen",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXC5WmBkR8zzvjzIbPpy-duX6pUKssfHbwGSBxWnmUSkzezM28=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-10T14:35:58.054Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xSeVdHUm9kVzlZZWtGclRUbDZiMWhUU2tGeWNsRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xSeVdHUm9kVzlZZWtGclRUbDZiMWhUU2tGeWNsRRAB!2m1!1s0x0:0xb3991feab9a31f6c!3m1!1s2@1:CAIQACodChtycF9oOlRyWGRodW9YekFrTTl6b1hTSkFyclE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 354,
+  "reviewsDistribution": {
+    "oneStar": 14,
+    "twoStar": 1,
+    "threeStar": 5,
+    "fourStar": 19,
+    "fiveStar": 315
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "655 W 8th Ave",
+  "subTitle": null,
+  "title": "Al Masjid Al Jamia, Vancouver",
+  "url": "https://www.google.com/maps/search/?api=1&query=Al%20Masjid%20Al%20Jamia%2C%20Vancouver&query_place_id=ChIJ2RNQ3txzhlQRbB-jueofmbM",
+  "website": "https://m.facebook.com/aljamiavancouver/"
+},
+{
+  "additionalInfo": {
+    "Service options": [
+      {
+        "Onsite services": false
+      }
+    ],
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      },
+      {
+        "Wheelchair accessible restroom": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ],
+    "Payments": [
+      {
+        "Credit cards": true
+      },
+      {
+        "Debit cards": true
+      }
+    ],
+    "Parking": [
+      {
+        "Free street parking": true
+      },
+      {
+        "Paid parking lot": true
+      },
+      {
+        "Paid street parking": true
+      }
+    ]
+  },
+  "address": "6436 Fraser St, Vancouver, BC V5W 3A6, Canada",
+  "categories": [
+    "Community center",
+    "Mosque"
+  ],
+  "categoryName": "Community center",
+  "cid": "9075369658960998669",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°",
+    "Videos"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TLUbI727wumEyKNe163mIiooI-zN8qvpy7LyJjJxnhiXuaNSMqgHJSpeLjd5IPJwNt5-8BDyj0ebwwHAiclxZJRUktJzQ4I4nKfgN8ftbaMDD95ltChG7JZtKeey1DjGEX9say=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmJCVI2Pc-EBCll_8w5_Se6pD1YeiE7DzlS6v7X8YXf30L2BiDql-OSllDc1D1mbFbz8As68eSY5EL6fUQIVsbtpmiWKIUuiJjTYVJ8JrfAhnMBgMpOMT_SavthYIYRICL0wHLz=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllHRh-pKR8QRz0uxjUakAMHgET1RCJ6pSdpA5MYaihtJKh8DxRA2rQO08tSTvOJbmODs0mXEwWGM0UEDtW8NhJknFjHzVnZU0dLIxb8q0rd33udeOwhuXvCjU__WeZmJ8433SMleIOOV85=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmkHyhI6k0R3xC2c_5fLhVrPJZD55Y5qcAvGmlMzNSAtyA6yks_e8IsG767M-CbNL13RXLY8g-l8p_7ScstkB1156SOkzw_byNIhoek5VUwgz34gaU6ltekruLCNDuE__yWRw0=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnwfdGX-5-wpHhPifx6CcaxByAC5T6l2BdE-h2KdIcDNAOPdYM5nD3hUrHWo5rNWRjg_yhFju0YMlvxdwADwD3vgjhly9swH6aLom8ciMAukwhleuGbIWt2gQsICbTOI1uoCvBY=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmBt8FTV-ZDPtjE0Cztzmt0XEIRIJA10xPCWYoJDlbvTjDGNu1NIOZEYkxC7bJjGkE7a1y6Sj9Cd-1YiD81-ma_jlvvN5RtWqvCE2-GzoWepuZKNa6lBFquC6Wgg7f7LJ6TKR7loQ=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlMUys_Grljq69wa3tq9RAcpwYb1I6jT39zWHjpz13_RHPJs3HSizcyyKGvTXd9JBjzX57UElwT7UQ5Byp_4SnnQ0i9ETgO3neO76OXd9v53n4CCttCHX8BBU2lzGUJXFE7FHijnw=w1920-h1080-k-no"
+  ],
+  "imagesCount": 19,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2261145,
+    "lng": -123.0905125
+  },
+  "neighborhood": "South Vancouver",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "+1 778-710-7345",
+  "placeId": "ChIJ7SyIShV0hlQRDXG6F58w8n0",
+  "placesTags": [],
+  "plusCode": "6WG5+CQ Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "114655074253568050874",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114655074253568050874?hl=en",
+      "name": "Loyal",
+      "reviewerNumberOfReviews": 53,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWOx1B4hpttV_04IwP8JBolvas7xVT0Slqj9Zm11qD7AnUkMU0=s1920-c-rp-mo-ba12-br100",
+      "text": "Best place for all five times prayers",
+      "textTranslated": null,
+      "publishAt": "6 days ago",
+      "publishedAtDate": "2026-10-01T15:35:41.402Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xRemRpMWtWbEpyWDNoMFQwVjZibWgzWlhnd05uYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xRemRpMWtWbEpyWDNoMFQwVjZibWgzWlhnd05uYxAB!2m1!1s0x0:0x7df2309f17ba710d!3m1!1s2@1:CAIQACodChtycF9oOlQzdi1kVlJrX3h0T0V6bmh3ZXgwNnc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "101611650270839106909",
+      "reviewerUrl": "https://www.google.com/maps/contrib/101611650270839106909?hl=en",
+      "name": "Md Hasibul Hoq Badhon",
+      "reviewerNumberOfReviews": 0,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXiDNkOhoPoxxaYTJLkICz3YkJtwnfEOBXERCibthMAUtJ5X8A=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a week ago",
+      "publishedAtDate": "2026-09-25T20:47:58.577Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2pkWVRURjRabDlFY1RORVkwcE1SMUJWUkUwM1JXYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2pkWVRURjRabDlFY1RORVkwcE1SMUJWUkUwM1JXYxAB!2m1!1s0x0:0x7df2309f17ba710d!3m1!1s2@1:CAIQACodChtycF9oOjdYTTF4Zl9EcTNEY0pMR1BVRE03RWc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "117393779180613449939",
+      "reviewerUrl": "https://www.google.com/maps/contrib/117393779180613449939?hl=en",
+      "name": "mohammed abed",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKcVeWUcWnCVpPiEq_2BqKyQX7V5V6FsPgglKN3lWlytZDTTw=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "2 weeks ago",
+      "publishedAtDate": "2026-09-19T02:18:05.797Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tOb1VXZHdSamwzVkZOMFltcGpZbkJLYnpSMWNFRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tOb1VXZHdSamwzVkZOMFltcGpZbkJLYnpSMWNFRRAB!2m1!1s0x0:0x7df2309f17ba710d!3m1!1s2@1:CAIQACodChtycF9oOkNoUWdwRjl3VFN0YmpjYnBKbzR1cEE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "113666319447055488731",
+      "reviewerUrl": "https://www.google.com/maps/contrib/113666319447055488731?hl=en",
+      "name": "Nia Shendandi",
+      "reviewerNumberOfReviews": 45,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWZ1Dc3QVV0YMjv3dGIv7wAhpQ9s5DHdVoLFbqKrYcak5fuUr4=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-14T09:49:42.359Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2w4eVRFeHZkWGh6U0RSS1JFcEpVRkJMV0ZZMWFuYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w4eVRFeHZkWGh6U0RSS1JFcEpVRkJMV0ZZMWFuYxAB!2m1!1s0x0:0x7df2309f17ba710d!3m1!1s2@1:CAIQACodChtycF9oOl8yTExvdXhzSDRKREpJUFBLWFY1anc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "104717916318811297010",
+      "reviewerUrl": "https://www.google.com/maps/contrib/104717916318811297010?hl=en",
+      "name": "SHAMS ISLAM",
+      "reviewerNumberOfReviews": 3,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKaZBxyBQnMFvsdYii2JqX1_UKnTuKH443YX5iCx8hKREabyg=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 weeks ago",
+      "publishedAtDate": "2026-09-12T23:21:18.763Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2tNMlZGbHdhbkYyYmpSVGFrVkxRbTFRYW5WS2VrRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tNMlZGbHdhbkYyYmpSVGFrVkxRbTFRYW5WS2VrRRAB!2m1!1s0x0:0x7df2309f17ba710d!3m1!1s2@1:CAIQACodChtycF9oOkM2VFlwanF2bjRTakVLQm1QanVKekE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "114835469411945274317",
+      "reviewerUrl": "https://www.google.com/maps/contrib/114835469411945274317?hl=en",
+      "name": "YOUNUS QUADRI",
+      "reviewerNumberOfReviews": 9,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjX8JGcIGOCOUvEnh3bf6E4UuVihLXnoOGkqWW7bZl1qTc4xX7e0=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a month ago",
+      "publishedAtDate": "2026-08-23T04:42:29.301Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT214b05sQmxTMWhvUmxoSmJGcHJPWE0xUXpWalJHYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214b05sQmxTMWhvUmxoSmJGcHJPWE0xUXpWalJHYxAB!2m1!1s0x0:0x7df2309f17ba710d!3m1!1s2@1:CAIQACodChtycF9oOmxoNlBlS1hoRlhJbFprOXM1QzVjRGc%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 206,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 2,
+    "threeStar": 6,
+    "fourStar": 13,
+    "fiveStar": 179
+  },
+  "reviewsTags": [
+    {
+      "title": "mosque",
+      "count": 12
+    },
+    {
+      "title": "peaceful atmosphere",
+      "count": 9
+    },
+    {
+      "title": "5 times prayer",
+      "count": 2
+    },
+    {
+      "title": "place to pray",
+      "count": 4
+    },
+    {
+      "title": "sense of community",
+      "count": 3
+    },
+    {
+      "title": "friendly staff",
+      "count": 3
+    },
+    {
+      "title": "daily prayers",
+      "count": 2
+    },
+    {
+      "title": "nice people",
+      "count": 3
+    },
+    {
+      "title": "donating",
+      "count": 2
+    },
+    {
+      "title": "building",
+      "count": 2
+    }
+  ],
+  "state": "British Columbia",
+  "street": "6436 Fraser St",
+  "subTitle": null,
+  "title": "Vancouver Islamic Center",
+  "url": "https://www.google.com/maps/search/?api=1&query=Vancouver%20Islamic%20Center&query_place_id=ChIJ7SyIShV0hlQRDXG6F58w8n0",
+  "website": "https://thefmcs.ca/"
+},
+{
+  "additionalInfo": {
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "305 W 41st Ave, Vancouver, BC V5Y 3K1, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "13944505017795138821",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnOz5If-VDOtmOAKoPQ2rXeLOZvvkfdSEpJ2RMS5AzTHMBj4pSm2ht88Ve7hg3oTdhpQZgR28_AVOiV0H_r6mcvhG_x5pDOaxmc6eIAcZMRLrpwidZTgUhOvtXMnqQit0iLPGiPxEEsf8Ys=w408-h724-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QxnKktilq3YdjOGR-AfhvMKHJ2PXnxGyO4Uu4ElDa920U0ZCw5YM3z_NGUXhW5ovgI2NfJfBqL5ER1jp1_n13JOvQNfiUi9DBuKsKMVEAVCDZ2wbFqD6ujYH0KhMH9SMFGfUEas1-Ibcbs=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9ReH1phbEQDbw40mX8ZCPOEXmMXf5a4PKIO7mU-Lr7okOQJHUW0rVpaEBxuJ4Hk2yL18GeyZFEluzJmZBjq6t5NNiLaCVQDqpAqHH0EkvpntxzyTwzVfvgAeuvT_0oV_kcUyOAbefybODyr=w1920-h1080-k-no",
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JDBKal2NL9IjI8Ry8IpNLg&cb_client=lu.gallery.gps&w=1920&h=1272&yaw=345.81656&pitch=0&thumbfov=100"
+  ],
+  "imagesCount": 3,
+  "language": "en",
+  "locatedIn": "Feast & Fallow",
+  "location": {
+    "lat": 49.2337029,
+    "lng": -123.1125846
+  },
+  "neighborhood": "East Vancouver",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "Open 24 hours"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "ownerDescription": null,
+  "phone": "",
+  "placeId": "ChIJg1-7SwB1hlQRBdVUum7VhME",
+  "placesTags": [],
+  "plusCode": "6VMP+FX Vancouver, British Columbia, Canada",
+  "reviews": [],
+  "reviewsCount": null,
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "305 W 41st Ave",
+  "subTitle": null,
+  "title": "Oakridge Jummah",
+  "url": "https://www.google.com/maps/search/?api=1&query=Oakridge%20Jummah&query_place_id=ChIJg1-7SwB1hlQRBdVUum7VhME"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      },
+      {
+        "Wheelchair accessible parking lot": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "8118 Fraser St, Vancouver, BC V5X 3X6, Canada",
+  "additionalOpeningHours": {
+    "Prayer": [
+      {
+        "day": "Monday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Thursday",
+        "hours": "9 AM–5 PM"
+      },
+      {
+        "day": "Friday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Saturday",
+        "hours": "12–3 PM"
+      },
+      {
+        "day": "Sunday",
+        "hours": "9 AM–5 PM"
+      }
+    ],
+    "Jummah": [
+      {
+        "day": "Monday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Tuesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Wednesday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Thursday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Friday",
+        "hours": "12–3 PM"
+      },
+      {
+        "day": "Saturday",
+        "hours": "Closed"
+      },
+      {
+        "day": "Sunday",
+        "hours": "Closed"
+      }
+    ]
+  },
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "9525309825169064391",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "By owner",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnd7DuJNxlKLQNiyPrEhBKCr14k46JyxmjQkgEYTVdkNWCny4X5chp_OZkp4e7MyKsbuR3ZAoIahh6tZr7K4vEKuUsxj1zAOr8v7JKa_iG6AyaBmXjiTdnmW-9lHu73WyP2SGUE=w408-h306-k-no",
+  "imageUrls": [
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnd7DuJNxlKLQNiyPrEhBKCr14k46JyxmjQkgEYTVdkNWCny4X5chp_OZkp4e7MyKsbuR3ZAoIahh6tZr7K4vEKuUsxj1zAOr8v7JKa_iG6AyaBmXjiTdnmW-9lHu73WyP2SGUE=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkesP24vdqkfUd25Wou-fkG9yxnWT3uvmo3N7cJRNqZXXh7DjxD9hgbdP6SQO7cmW8bLHyTbUEV_0Vs-0fx-NqaIZ5MibpT_kB1_NleT0dpP1evnMPeYIf1hwWbxhT1iyxheiXI=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmDctVeULnbYxfH82ubJkKtJn6jd-3Mv_x1YmCt85fddE5AEVwnmmfkAm8-aqYGjpf8-z6gQodEn0zTdObK32TT_jYqDsR_tf64c6xQX4wey2fKEJak0xkVZQvmmWRH8HHqSJ3vCcGjCqM=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkLmMdBu19n5FRZXTHqITod_BzWBCyJv8BE1LNxX_naD01H1EpPIwAsWPRaqTSgpi6P8j2Xd4CWWmkURT09qaz8yHBYK2vw6bZHcccVBgsoJZX5WUKf5QBgtq__TWQSAXm_bnYv=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmb3_v7ecMja9uSBgksauvvzV-H-Mgt3vmeF-5_rGfOoYtuDW1g4SUdwTaLfIVHh57yRicJNkRJ32tRVzKrkzypzXiKQv5qQvwuyEbPlL_w96WA6GtIaHgo1pzLpI5cn5sQ4IU=w1920-h1080-k-no",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWneLgGxD74564YSv1e6qSlOmjPsxWVPCZ8cJ-y8G18oGoo74rEIOpXxJakQQoEMg6fFiUhxxbneFKBtigFSh4V0yKkKYdOoqGKINYoW_O1o98bsaied4L9CkKLsXD6LGeHLnBuN=w1920-h1080-k-no"
+  ],
+  "imagesCount": 18,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.211755,
+    "lng": -123.0908779
+  },
+  "neighborhood": "South Vancouver",
+  "openingHours": [
+    {
+      "day": "Monday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Tuesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Wednesday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Thursday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Friday",
+      "hours": "12 to 3 PM"
+    },
+    {
+      "day": "Saturday",
+      "hours": "Closed"
+    },
+    {
+      "day": "Sunday",
+      "hours": "Closed"
+    }
+  ],
+  "ownerDescription": "Al Arqam Foundation is a comprehensive Community Centre and Services Institution serving the Muslim and greater community of Vancouver.\nWe acknowledge that our Centre is located on the unceded and traditional territory of the Sḵwx̱wú7mesh (Squamish), Səl̓ílwətaʔ/Selilwitulh (Tsleil-Waututh) and xʷməθkʷəy̓əm (Musqueam) First Nations.",
+  "phone": "+1 825-779-2777",
+  "placeId": "ChIJkZZTZUB1hlQRx4G9mNGyMIQ",
+  "placesTags": [],
+  "plusCode": "6W65+PJ Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "112847112469929801015",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112847112469929801015?hl=en",
+      "name": "Os Wa",
+      "reviewerNumberOfReviews": 86,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWkwzTzBWzrHzON3ulbWGgmBt_R7iaX2fZoNu4iK6UWPKvoyeS74Q=s1920-c-rp-mo-ba12-br100",
+      "text": "Friday Jumah at 1pm",
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-01-30T20:38:48.661Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT2xKWFdsSkhORWxOYlRJMVVHazVka3R5U0VkSVozYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xKWFdsSkhORWxOYlRJMVVHazVka3R5U0VkSVozYxAB!2m1!1s0x0:0x8430b2d198bd81c7!3m1!1s2@1:CAIQACodChtycF9oOlJXWlJHNElNbTI1UGk5dktySEdIZ3c%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmM4U0jyDalzi6E9TXS6AXONGB1MGo8SmlixztGMJi4J5h0GAtafHWLvUhCMdTypk9TYaPWVkYYo2xWkFbg_X7-wK8EJ7a7PgP1Qvy7A2r7FyT0uKo2jmVTdDqdSVGNwdYjtOzaSBRM_M_c=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmMiTBsGcp-5Rm_gSqmoXv2FXwwR_B3TUbDjRIHb5FPNGZO21n8aaYcC99P6DUXrZQEuZj0ehx7-f53NV58h0P19i0sbNxchSRnpL7JTmx9uNW8pCA6xfJwRqdWJ8cRfEuWCbhZKwWXCqM4=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "106004206266811171949",
+      "reviewerUrl": "https://www.google.com/maps/contrib/106004206266811171949?hl=en",
+      "name": "Razaq Abd",
+      "reviewerNumberOfReviews": 45,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocKwd92dq-fa7-5D8rfiqRrCW8hK7dBEbBDz1qp53rn1G_W5hg=s1920-c-rp-mo-ba12-br100",
+      "text": "Only Friday is open",
+      "textTranslated": null,
+      "publishAt": "8 months ago",
+      "publishedAtDate": "2026-01-18T05:10:34.393Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT214d2IyVjJUVzl6WVVWRlFsbFlVa05tUzJOclYwRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT214d2IyVjJUVzl6WVVWRlFsbFlVa05tUzJOclYwRRAB!2m1!1s0x0:0x8430b2d198bd81c7!3m1!1s2@1:CAIQACodChtycF9oOmxwb2V2TW9zYUVFQllYUkNmS2NrV0E%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "102522503036070680139",
+      "reviewerUrl": "https://www.google.com/maps/contrib/102522503036070680139?hl=en",
+      "name": "Asfhan Khan",
+      "reviewerNumberOfReviews": 35,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjUG1aWLY3fq9RJGxzPYcbg0WbBEjfRYMhezx51Abwz2Gm40XqGk=s1920-c-rp-mo-ba12-br100",
+      "text": "Alhamdulillah.",
+      "textTranslated": "Thank God.",
+      "publishAt": "3 years ago",
+      "publishedAtDate": "2023-03-29T01:45:54.021Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNSa3JuUi1BRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNSa3JuUi1BRRAB!2m1!1s0x0:0x8430b2d198bd81c7!3m1!1s2@1:CIHM0ogKEICAgICRkrnR-AE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ms",
+      "translatedLanguage": "en"
+    },
+    {
+      "reviewerId": "118270363071262126990",
+      "reviewerUrl": "https://www.google.com/maps/contrib/118270363071262126990?hl=en",
+      "name": "M H",
+      "reviewerNumberOfReviews": 208,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjVA0bLSQMJaYUztlRk7t3YhkejCeR4nuuiz4DWZBTaBWj6lZXp3=s1920-c-rp-mo-ba12-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 years ago",
+      "publishedAtDate": "2023-03-12T02:19:39.419Z",
+      "likesCount": 0,
+      "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURoeWZ1X0tREAE",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURoeWZ1X0tREAE!2m1!1s0x0:0x8430b2d198bd81c7!3m1!1s2@1:CIHM0ogKEICAgIDhyfu_KQ%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "100237957270975264956",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100237957270975264956?hl=en",
+      "name": "Muhammad Zia",
+      "reviewerNumberOfReviews": 28,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXryXqQ-G3z1P9WD6AiCxfo3r5cRtv_LLYA3DYGOjekU9mL9j8GhQ=s1920-c-rp-mo-ba12-br100",
+      "text": "Great peaceful place for prayer. I have attached timing of namaz.",
+      "textTranslated": null,
+      "publishAt": "3 years ago",
+      "publishedAtDate": "2023-02-10T21:31:35.376Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNoMnMyOWxnRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNoMnMyOWxnRRAB!2m1!1s0x0:0x8430b2d198bd81c7!3m1!1s2@1:CIHM0ogKEICAgICh2s29lgE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmN6bDPRw1FqVkX-J4FNakLYgNP5ffltCf6qbaaDkDCtpa76etfxbTTimRqWsAOu-0VNx7nb79Y9gOFg2chJOb5tzd_vt_CzoaEgRKXLPJWOZ9LUe6yW0S56LdD1Fvh08-ODaCVo=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmOFjD3BqbtafU-f1_WpYdQGi_bbUoe-p5aQcfllmSsCC3K9hsUp2b98M5X9I9Z3NR02kEtoznT-5BgNXZZ1nDPk4KxWPf-kc1mRVrVscA4OrEXSGJ0y2dbiizzkoI8PzHelCne1kw=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "112218593510089000484",
+      "reviewerUrl": "https://www.google.com/maps/contrib/112218593510089000484?hl=en",
+      "name": "Khalid Soufan",
+      "reviewerNumberOfReviews": 44,
+      "isLocalGuide": true,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXOCKsyx0bPaJsgfbezoGRXk3EvadGX4BGiAwyA6_h2kM3PrYA=s1920-c-rp-mo-ba12-br100",
+      "text": "Masha Allah ما شاء الله",
+      "textTranslated": "Masha Allah (God has willed it)",
+      "publishAt": "3 years ago",
+      "publishedAtDate": "2023-01-29T23:41:28.987Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURCLTdTLXVRRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURCLTdTLXVRRRAB!2m1!1s0x0:0x8430b2d198bd81c7!3m1!1s2@1:CIHM0ogKEICAgIDB-7S-uQE%7C%7C?hl=en",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPktLO_9Yi7qv5bC3Tov5cGsLnOYjYW2laMHo1yqUTI9xsSjl2681dvl3gMinL2WGWF-sbYkd_QfZt0CGEptiyGMTWxCB4zajTqR8iolzh_DOk40roa-osyJRJ0YvMombqew3l7=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPnJtb-kHzjkYtvhNzoq-kxMEwyqT4ag7uXt-HKwcbqT8EkUuQ7YatkHGrHDoc_f6RSwdtiJiAwC7QeW0dWVVK0WQFLELpUry-pJVvF0MbERs0_RCTL5idWKuGyqSkBdDbxoGGaVA=k-no",
+        "https://lh3.googleusercontent.com/grass-cs/ACvplmPdNxRwAxmDM9fTCH5FRp54f9GQcF7urTcIQh4aYG3LFQpoha34Cuy3b7DEvLeylmRFcDFdj6TM0kk4DOwPMMzbQtnNLO8a4djEmbU7t50Rg08FxrjQPmEy3w18N0iERw8j7hbz=k-no"
+      ],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "ar",
+      "translatedLanguage": "en"
+    }
+  ],
+  "reviewsCount": 14,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 14
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "8118 Fraser St",
+  "subTitle": null,
+  "title": "Al Arqam Foundation Community Centre and Services",
+  "url": "https://www.google.com/maps/search/?api=1&query=Al%20Arqam%20Foundation%20Community%20Centre%20and%20Services&query_place_id=ChIJkZZTZUB1hlQRx4G9mNGyMIQ",
+  "website": "http://www.arqam.ca/"
+},
+{
+  "additionalInfo": {
+    "Accessibility": [
+      {
+        "Wheelchair accessible entrance": true
+      }
+    ],
+    "Amenities": [
+      {
+        "Restroom": true
+      }
+    ]
+  },
+  "address": "1659 10th Avenue Bikeway, Vancouver, BC V5N 1X6, Canada",
+  "categories": [
+    "Mosque"
+  ],
+  "categoryName": "Mosque",
+  "cid": "8762133915247152907",
+  "city": "Vancouver",
+  "description": null,
+  "countryCode": "CA",
+  "imageCategories": [
+    "All",
+    "Street View & 360°"
+  ],
+  "imageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kHmflPqSE2lSjbfsPo2aDw&cb_client=search.gws-prod.grass&w=408&h=240&yaw=358.1634&pitch=0&thumbfov=100",
+  "imageUrls": [
+    "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kHmflPqSE2lSjbfsPo2aDw&cb_client=search.gws-prod.grass&w=1920&h=1129&yaw=358.1634&pitch=0&thumbfov=100"
+  ],
+  "imagesCount": 1,
+  "language": "en",
+  "locatedIn": null,
+  "location": {
+    "lat": 49.2616162,
+    "lng": -123.0706189
+  },
+  "neighborhood": "Kensington-Cedar Cottage",
+  "openingHours": [],
+  "ownerDescription": null,
+  "phone": "+1 604-873-8580",
+  "placeId": "ChIJsRYB605xhlQRC4-1RF9amXk",
+  "placesTags": [],
+  "plusCode": "7W6H+JQ Vancouver, British Columbia, Canada",
+  "reviews": [
+    {
+      "reviewerId": "100715835076791794099",
+      "reviewerUrl": "https://www.google.com/maps/contrib/100715835076791794099?hl=en-US",
+      "name": "Ali Muhamad afghan",
+      "reviewerNumberOfReviews": 7,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a/ACg8ocLmhQ332lveQBVTSHjAX924hEWYIsF4lkxOuPSt-giVtikSMQ=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "a year ago",
+      "publishedAtDate": "2025-09-24T03:52:15.417Z",
+      "likesCount": 0,
+      "reviewId": "Ci9DQUlRQUNvZENodHljRjlvT21aaFJFbzBXVGhhTW5FNVJXcG5VVGRWWlU4MWRtYxAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21aaFJFbzBXVGhhTW5FNVJXcG5VVGRWWlU4MWRtYxAB!2m1!1s0x0:0x79995a5f44b58f0b!3m1!1s2@1:CAIQACodChtycF9oOmZhREo0WThaMnE5RWpnUTdVZU81dmc%7C%7C?hl=en-US",
+      "reviewOrigin": "Google",
+      "stars": 1,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "105532336874867706784",
+      "reviewerUrl": "https://www.google.com/maps/contrib/105532336874867706784?hl=en-US",
+      "name": "ENG AMIRI",
+      "reviewerNumberOfReviews": 5,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjWe1xDuz8f9dVV-aSn0h-2R0bHl1XXWzV2eZcxI6vS_SjpYeDY1=s1920-c-rp-mo-br100",
+      "text": "Goods",
+      "textTranslated": null,
+      "publishAt": "2 years ago",
+      "publishedAtDate": "2023-12-01T20:11:44.473Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURsbHZLeXd3RRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURsbHZLeXd3RRAB!2m1!1s0x0:0x79995a5f44b58f0b!3m1!1s2@1:CIHM0ogKEICAgIDllvKywwE%7C%7C?hl=en-US",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": "en",
+      "translatedLanguage": null
+    },
+    {
+      "reviewerId": "107364288596712995309",
+      "reviewerUrl": "https://www.google.com/maps/contrib/107364288596712995309?hl=en-US",
+      "name": "Tagyo Genson",
+      "reviewerNumberOfReviews": 2,
+      "isLocalGuide": false,
+      "reviewerPhotoUrl": "https://lh3.googleusercontent.com/a-/ALV-UjXqWdv5eOwnjeGWYrgsXKq5QRpXUEasIIMUsFrEf_NQZuDtfBE=s1920-c-rp-mo-br100",
+      "text": null,
+      "textTranslated": null,
+      "publishAt": "3 years ago",
+      "publishedAtDate": "2023-08-12T16:59:02.450Z",
+      "likesCount": 0,
+      "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNwajdteDdnRRAB",
+      "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNwajdteDdnRRAB!2m1!1s0x0:0x79995a5f44b58f0b!3m1!1s2@1:CIHM0ogKEICAgICpj7mx7gE%7C%7C?hl=en-US",
+      "reviewOrigin": "Google",
+      "stars": 5,
+      "rating": null,
+      "responseFromOwnerDate": null,
+      "responseFromOwnerText": null,
+      "reviewImageUrls": [],
+      "reviewContext": {},
+      "reviewDetailedRating": {},
+      "visitedIn": null,
+      "originalLanguage": null,
+      "translatedLanguage": null
+    }
+  ],
+  "reviewsCount": 3,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 2
+  },
+  "reviewsTags": [],
+  "state": "British Columbia",
+  "street": "1659 10th Avenue Bikeway",
+  "subTitle": null,
+  "title": "Daralmadinah Society",
+  "url": "https://www.google.com/maps/search/?api=1&query=Daralmadinah%20Society&query_place_id=ChIJsRYB605xhlQRC4-1RF9amXk"
+}]

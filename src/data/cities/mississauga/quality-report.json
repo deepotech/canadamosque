@@ -1,0 +1,294 @@
+{
+  "totalRawRecords": 46,
+  "publishedCount": 28,
+  "reviewRequiredCount": 18,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 10,
+    "ISLAMIC_CENTER": 10,
+    "MUSALLA": 6,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 1,
+    "COMMUNITY_CENTER": 4,
+    "ORGANIZATION": 3,
+    "REVIEW_REQUIRED": 12,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 28,
+    "REVIEW_REQUIRED": 18,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Mississauga": 46
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 6,
+    "MISSING_WEBSITE": 5,
+    "MISSING_HOURS": 14,
+    "MISSING_DESCRIPTION": 46,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 0,
+    "POSSIBLE_DUPLICATE": 4,
+    "SHARED_ADDRESS": 4,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 3,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 6
+  },
+  "missingFields": {
+    "missingPhone": 6,
+    "missingWebsite": 5,
+    "missingHours": 14,
+    "missingDescription": 46
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 2,
+    "sharedLocations": 2
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 5,
+      "id": "mosque-mis-6",
+      "name": "Sayeda Khadija Centre",
+      "address": "7150 Edwards Blvd, Mississauga, ON L5S 1Z1, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 11,
+      "id": "mosque-mis-12",
+      "name": "Muslim Association of Canada (MAC)",
+      "address": "2380 Speakman Dr, Mississauga, ON L5K 1B4, Canada",
+      "city": "Mississauga",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 12,
+      "id": "mosque-mis-13",
+      "name": "Muslim Welfare Center - Mussalah Al-Abbas",
+      "address": "3490 Mavis Rd, Mississauga, ON L5C 1T8, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 13,
+      "id": "mosque-mis-14",
+      "name": "Jamia Islamia Canada",
+      "address": "2380 Tedlo St, Mississauga, ON L5A 3V3, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 18,
+      "id": "mosque-mis-19",
+      "name": "Muslim Welfare Canada (Food Bank & Musalla)",
+      "address": "3490 Mavis Rd, Mississauga, ON L5C 1T8, Canada",
+      "city": "Mississauga",
+      "classification": "MUSALLA",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 25,
+      "id": "mosque-mis-26",
+      "name": "ISNA Canada",
+      "address": "2200 S Sheridan Way, Mississauga, ON L5J 2M4, Canada",
+      "city": "Mississauga",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 26,
+      "id": "mosque-mis-27",
+      "name": "Muslim Neighbour Nexus",
+      "address": "3520 Odyssey Dr, Mississauga, ON L5M 7N4, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 30,
+      "id": "mosque-mis-31",
+      "name": "Jummah Salah in Tawheed Community Centre",
+      "address": "Mississauga, ON L4Z 1N4, Canada",
+      "city": "Mississauga",
+      "classification": "JUMMAH_LOCATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 31,
+      "id": "mosque-mis-32",
+      "name": "Ali Islamic Mission",
+      "address": "6625 Kitimat Rd #52-53, Mississauga, ON L5N 3T5, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 32,
+      "id": "mosque-mis-33",
+      "name": "جامع قيد الانشاء",
+      "address": "6508 Winston Churchill Blvd, Mississauga, ON L5N 4B7, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 33,
+      "id": "mosque-mis-34",
+      "name": "IONA convention",
+      "address": "5761 Coopers Ave, Mississauga, ON L4Z 0C5, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 35,
+      "id": "mosque-mis-36",
+      "name": "Al Huda Institute Canada",
+      "address": "5671 McAdam Rd, Mississauga, ON L4Z 1N9, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 36,
+      "id": "mosque-mis-37",
+      "name": "Bab ul Ilm - Bani Hashim Society",
+      "address": "900 Eglinton Ave E, Mississauga, ON L4W 1K3, Canada",
+      "city": "Mississauga",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 37,
+      "id": "mosque-mis-38",
+      "name": "Tawheed Community Centre",
+      "address": "5585 McAdam Rd, Mississauga, ON L4Z 1P1, Canada",
+      "city": "Mississauga",
+      "classification": "COMMUNITY_CENTER",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 38,
+      "id": "mosque-mis-39",
+      "name": "Rowdah Centre",
+      "address": "6535 Millcreek Dr Unit # 61, Mississauga, ON L5N 2M2, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 39,
+      "id": "mosque-mis-40",
+      "name": "Jamia Riyadhul-Jannah",
+      "address": "6680 Campobello Rd, Mississauga, ON L5N 2L8, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 42,
+      "id": "mosque-mis-43",
+      "name": "NOOR UL QURAN CANADA",
+      "address": "3154 Hurontario St, Mississauga, ON L5B 1N9, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 45,
+      "id": "mosque-mis-46",
+      "name": "Mississauga Muslim Community",
+      "address": "1275 Mississauga Vly Blvd, Mississauga, ON L5A 3R8, Canada",
+      "city": "Mississauga",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    }
+  ],
+  "excludedRecords": []
+}

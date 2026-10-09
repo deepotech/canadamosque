@@ -1,0 +1,146 @@
+{
+  "totalRawRecords": 14,
+  "publishedCount": 8,
+  "reviewRequiredCount": 6,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 3,
+    "ISLAMIC_CENTER": 0,
+    "MUSALLA": 4,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 1,
+    "COMMUNITY_CENTER": 2,
+    "ORGANIZATION": 4,
+    "REVIEW_REQUIRED": 0,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 8,
+    "REVIEW_REQUIRED": 6,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Vancouver": 14
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 3,
+    "MISSING_WEBSITE": 4,
+    "MISSING_HOURS": 6,
+    "MISSING_DESCRIPTION": 14,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 1,
+    "POSSIBLE_DUPLICATE": 2,
+    "SHARED_ADDRESS": 2,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 4,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 4
+  },
+  "missingFields": {
+    "missingPhone": 3,
+    "missingWebsite": 4,
+    "missingHours": 6,
+    "missingDescription": 14
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 1,
+    "sharedLocations": 1
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 1,
+      "id": "mosque-van-2",
+      "name": "Muslim Prayer Room",
+      "address": "7008 Victoria Dr, Vancouver, BC V5P 1Y6, Canada",
+      "city": "Vancouver",
+      "classification": "MUSALLA",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "GENERIC_NAME",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+      ],
+      "reason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+    },
+    {
+      "sourceIndex": 3,
+      "id": "mosque-van-4",
+      "name": "British Columbia Muslim Association",
+      "address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+      "city": "Vancouver",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 5,
+      "id": "mosque-van-6",
+      "name": "Masjid Ul-Haqq",
+      "address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+      "city": "Vancouver",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 6,
+      "id": "mosque-van-7",
+      "name": "Muslim Association of Canada- MAC",
+      "address": "2122 Kingsway, Vancouver, BC V5N 2T5, Canada",
+      "city": "Vancouver",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 12,
+      "id": "mosque-van-13",
+      "name": "Al Arqam Foundation Community Centre and Services",
+      "address": "8118 Fraser St, Vancouver, BC V5X 3X6, Canada",
+      "city": "Vancouver",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 13,
+      "id": "mosque-van-14",
+      "name": "Daralmadinah Society",
+      "address": "1659 10th Avenue Bikeway, Vancouver, BC V5N 1X6, Canada",
+      "city": "Vancouver",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    }
+  ],
+  "excludedRecords": []
+}

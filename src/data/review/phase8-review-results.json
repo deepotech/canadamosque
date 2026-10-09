@@ -1,0 +1,4456 @@
+{
+  "phase": "8",
+  "auditDate": "2026-10-08",
+  "totalReviewed": 194,
+  "summary": {
+    "moveToPublished": 26,
+    "moveToExcluded": 11,
+    "keepReviewRequired": 157,
+    "accountingStatus": "VERIFIED_100%"
+  },
+  "results": [
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-5",
+      "sourceIndex": 4,
+      "name": "Bosnian Islamic Assoc Gazi Husrev-Beg",
+      "address": "122 N Queen St, Etobicoke, ON M8Z 2E4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-9",
+      "sourceIndex": 8,
+      "name": "George Brown - Multi Faith Room (Room 361)",
+      "address": "3 Lower Jarvis St, Toronto, ON M5E 3Y5, Canada",
+      "previousClassification": "PRAYER_ROOM",
+      "previousReviewReasons": [
+        "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+      ],
+      "auditClassification": "PRAYER_ROOM",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Institutional or campus multi-faith prayer room",
+        "Requires verification of public access guidelines and operating status"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-10",
+      "sourceIndex": 9,
+      "name": "Toronto and Region Islamic Congregation",
+      "address": "99 Beverly Hills Dr, North York, ON M3L 1A2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-12",
+      "sourceIndex": 11,
+      "name": "North York Muslim Association",
+      "address": "Concourse Level, North York Center, 5150 Yonge St Unit C37, North York, ON M2N 6L8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-18",
+      "sourceIndex": 17,
+      "name": "Abu Huraira Centre",
+      "address": "270 Yorkland Blvd, North York, ON M2J 5C9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-19",
+      "sourceIndex": 18,
+      "name": "Islamic Information & Dawah Centre International",
+      "address": "1168 Bloor St W, Toronto, ON M6H 1N2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-21",
+      "sourceIndex": 20,
+      "name": "Turkish Canadian Islamic Trust",
+      "address": "336 Pape Ave, Toronto, ON M4M 2W7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-30",
+      "sourceIndex": 29,
+      "name": "Ubai Bin Kab Academy of Islamic Sciences",
+      "address": "1160 Tapscott Rd Unit 2-3, Scarborough, ON M1X 1E9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-31",
+      "sourceIndex": 30,
+      "name": "Masjidur Rahmah",
+      "address": "328 Parliament St, Toronto, ON M5A 2Z7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-34",
+      "sourceIndex": 33,
+      "name": "Musallah Student Union",
+      "address": "Scarborough, ON M1C 1A3, Canada",
+      "previousClassification": "PRAYER_ROOM",
+      "previousReviewReasons": [
+        "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+      ],
+      "auditClassification": "PRAYER_ROOM",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Institutional or campus multi-faith prayer room",
+        "Requires verification of public access guidelines and operating status"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-40",
+      "sourceIndex": 39,
+      "name": "Bab E Zahra s.a.",
+      "address": "2370 Midland Ave a32, Scarborough, ON M1S 5C6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-43",
+      "sourceIndex": 42,
+      "name": "Daleel Islamic Association",
+      "address": "6 Collinsgrove Rd, Scarborough, ON M1E 2P1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-44",
+      "sourceIndex": 43,
+      "name": "Spiritual Society Canada inc.",
+      "address": "4 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-45",
+      "sourceIndex": 44,
+      "name": "Milliken Muslim Community (Masjid/Mosque)",
+      "address": "5000 Steeles Ave E, Markham, ON L3S 1V6, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "User reviews or source evidence suggest this location is not an active mosque."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-54",
+      "sourceIndex": 53,
+      "name": "Islamic Foundation of Toronto",
+      "address": "441 Nugget Ave, Scarborough, ON M1S 5E1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-55",
+      "sourceIndex": 54,
+      "name": "Ruggeri bakery",
+      "address": "324 Rustic Rd, North York, ON M6L 1W5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-58",
+      "sourceIndex": 57,
+      "name": "Islamic Institute of Toronto (IIT)",
+      "address": "1630 Neilson Rd, Scarborough, ON M1X 1S3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-61",
+      "sourceIndex": 60,
+      "name": "Hadi Islamic Association",
+      "address": "40 S Station St, York, ON M9N 2B3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-63",
+      "sourceIndex": 62,
+      "name": "International Muslims Organization",
+      "address": "65 Rexdale Blvd, Etobicoke, ON M9W 1P1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-64",
+      "sourceIndex": 63,
+      "name": "Faizan-e-Madina Canada",
+      "address": "595 Albion Rd, Etobicoke, ON M9V 1A1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-67",
+      "sourceIndex": 66,
+      "name": "Miqa Foundation",
+      "address": "12 Thorncliffe Park Dr, East York, ON M4H 1N8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-68",
+      "sourceIndex": 67,
+      "name": "Claude Legros Sales Inc",
+      "address": "89 Ingram Dr, North York, ON M6M 2L7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-70",
+      "sourceIndex": 69,
+      "name": "Hilal Committee of Metropolitan Toronto & Vicinity",
+      "address": "1015 Danforth Ave, Toronto, ON M4J 1M1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-76",
+      "sourceIndex": 75,
+      "name": "Masjid al Furqan",
+      "address": "874 Weston Rd a, York, ON M6N 3R6, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with TROID",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-79",
+      "sourceIndex": 78,
+      "name": "TROID",
+      "address": "874-A Weston Rd, York, ON M6N 3R6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-82",
+      "sourceIndex": 81,
+      "name": "Muslim Prayer Room",
+      "address": "2075 Bayview Avenue ECG 05, North York, ON M4N 3M5, Canada",
+      "previousClassification": "MUSALLA",
+      "previousReviewReasons": [
+        "User reviews or source evidence suggest this location is not an active mosque."
+      ],
+      "auditClassification": "MUSALLA",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-83",
+      "sourceIndex": 82,
+      "name": "Jamaat of Ontario",
+      "address": "110 Fairbank Ave, York, ON M6E 3Z1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Gambian Mosque",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-85",
+      "sourceIndex": 84,
+      "name": "Toryork Islamic Centre (OAAIIL)",
+      "address": "175 Toryork Dr #54, North York, ON M9L 2Y7, Canada",
+      "previousClassification": "ISLAMIC_CENTER",
+      "previousReviewReasons": [
+        "User reviews or source evidence suggest this location is not an active mosque."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-92",
+      "sourceIndex": 91,
+      "name": "Mesjid Al Sabur",
+      "address": "4081 Dufferin St, North York, ON M3H 5R8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-93",
+      "sourceIndex": 92,
+      "name": "Talimul Islam Masjid",
+      "address": "86 Rivalda Rd, North York, ON M9M 2M8, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Contradictory categories or metadata found in raw source."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-96",
+      "sourceIndex": 95,
+      "name": "Jannatul Ferdous Mosque",
+      "address": "1701 Martin Grove Rd #11, Etobicoke, ON M9V 5G1, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Review reports indicate location is permanently locked, shut, or no longer operational."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-97",
+      "sourceIndex": 96,
+      "name": "Canadian Islamic Civic Academy (CICA)",
+      "address": "1753 Albion Rd #21, Etobicoke, ON M9V 1C3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-98",
+      "sourceIndex": 97,
+      "name": "Weston Islamic Benevolence Society",
+      "address": "172 Milvan Dr, North York, ON M9L 1Z8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-99",
+      "sourceIndex": 98,
+      "name": "United Canadian Muslim",
+      "address": "184 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Fatih Mosque - UCMA Head Office, Faith Mosque",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-100",
+      "sourceIndex": 99,
+      "name": "Masjid",
+      "address": "747 Don Mills Rd., North York, ON M3C, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-102",
+      "sourceIndex": 101,
+      "name": "Fatih Mosque - UCMA Head Office",
+      "address": "182 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with United Canadian Muslim, Faith Mosque",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-103",
+      "sourceIndex": 102,
+      "name": "Mushallah darusalam",
+      "address": "2630 Kipling Ave, Etobicoke, ON M9V 4B9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-107",
+      "sourceIndex": 106,
+      "name": "Khalid Youth Program",
+      "address": "16 Bethridge Rd, Etobicoke, ON M9W 1N1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-108",
+      "sourceIndex": 107,
+      "name": "United Muslim Association",
+      "address": "130 Westmore Dr, Etobicoke, ON M9V 3Y6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-111",
+      "sourceIndex": 110,
+      "name": "Nigerian Canadian Muslim Association",
+      "address": "190 Milvan Dr Unit 7, North York, ON M9L 1Z9, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-113",
+      "sourceIndex": 112,
+      "name": "Agincourt Muslim Association",
+      "address": "3609B Sheppard Ave E, Scarborough, ON M1T 3K8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-116",
+      "sourceIndex": 115,
+      "name": "Al-Madrasathul Ihsaniyyah Madrasa",
+      "address": "463 Gerrard St E, Toronto, ON M5A 2H1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-119",
+      "sourceIndex": 118,
+      "name": "Salaheddin Islamic Centre",
+      "address": "741 Kennedy Rd, Scarborough, ON M1K 2C6, Canada",
+      "previousClassification": "ISLAMIC_CENTER",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Masjid Salaheddin",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-120",
+      "sourceIndex": 119,
+      "name": "Khalid Bin Al-Walid Mosque",
+      "address": "16 Bethridge Rd, Etobicoke, ON M9W 1N1, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Khalid Youth Program",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-121",
+      "sourceIndex": 120,
+      "name": "Islamic Iranian Centre of Imam Ali",
+      "address": "120 Bermondsey Rd, North York, ON M4A 1X5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Masjid Al-Rasool Al-A'dham",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-125",
+      "sourceIndex": 124,
+      "name": "Quraan and Hadeeth Society of Canada",
+      "address": "2183A Lawrence Ave E, Scarborough, ON M1P 2P8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-127",
+      "sourceIndex": 126,
+      "name": "Afghan Canadian Islamic Community",
+      "address": "22 Hobson Ave, North York, ON M4A 1Y2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-134",
+      "sourceIndex": 133,
+      "name": "Masjid Abu Bakr",
+      "address": "2665 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-136",
+      "sourceIndex": 135,
+      "name": "NAMF",
+      "address": "4168 Finch Ave E, Scarborough, ON M1S 5H6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-137",
+      "sourceIndex": 136,
+      "name": "Abdullah Ibn Abbas Islamic Centre",
+      "address": "2624 Danforth Ave, Toronto, ON M4C 1L7, Canada",
+      "previousClassification": "ISLAMIC_CENTER",
+      "previousReviewReasons": [
+        "Evidence indicates this facility has relocated to another address."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-139",
+      "sourceIndex": 138,
+      "name": "Baitul Mukarram Islamic Society",
+      "address": "3340 Danforth Ave, Scarborough, ON M1L 1C6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-143",
+      "sourceIndex": 142,
+      "name": "Masjid Salaheddin",
+      "address": "741 Kennedy Rd, Scarborough, ON M1K 2C6, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Salaheddin Islamic Centre",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-144",
+      "sourceIndex": 143,
+      "name": "The Sunatul Jamaat of Ontario Canada",
+      "address": "347 Danforth Rd, Scarborough, ON M1L 3X8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-146",
+      "sourceIndex": 145,
+      "name": "Musallah",
+      "address": "1145 Morningside Ave #40, Scarborough, ON M1B 0A7, Canada",
+      "previousClassification": "MUSALLA",
+      "previousReviewReasons": [
+        "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+      ],
+      "auditClassification": "MUSALLA",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Masjid Tayyaba Educational Islamic Centre",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-147",
+      "sourceIndex": 146,
+      "name": "Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+      "address": "2665 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Toronto",
+      "sourceId": "mosque-to-149",
+      "sourceIndex": 148,
+      "name": "Al-Huda Muslim Society",
+      "address": "975 Kennedy Rd, Scarborough, ON M1P 2K5, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-1",
+      "sourceIndex": 0,
+      "name": "AMA Community Centre",
+      "address": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "previousClassification": "COMMUNITY_CENTER",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "COMMUNITY_CENTER",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Masjid Ar-Rahmah, Assunnah Muslims Association",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-3",
+      "sourceIndex": 2,
+      "name": "Ottawa Muslim Association",
+      "address": "251 Northwestern Ave, Ottawa, ON K1A 0K9, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-4",
+      "sourceIndex": 3,
+      "name": "Masjid Ar-Rahmah",
+      "address": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Major physical mosque sanctuary at 1216 Hunt Club Rd (Assunnah Muslims Association / AMA Centre)",
+        "Congregational mosque dedicated to 5 daily prayers and Jummah",
+        "Co-located with AMA administrative center entity"
+      ],
+      "notes": "Verified physical mosque facility; legitimate shared location with AMA administration."
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-8",
+      "sourceIndex": 7,
+      "name": "Ottawa Uyghur Center",
+      "address": "3555 St Joseph Blvd, Orléans, ON K4A 0Z7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-9",
+      "sourceIndex": 8,
+      "name": "Darul Arqum , Markaz of Ottawa",
+      "address": "4269 Limebank Rd, Gloucester, ON K1V 1G5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-10",
+      "sourceIndex": 9,
+      "name": "OSMCC",
+      "address": "5358 Bank St Unit b, Gloucester, ON K1X 1H1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-11",
+      "sourceIndex": 10,
+      "name": "Kanata Muslim Association",
+      "address": "351 Sandhill Rd, Kanata, ON K2K 0P6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-12",
+      "sourceIndex": 11,
+      "name": "Stittsville Muslims Association",
+      "address": "1469 Stittsville Main St, Stittsville, ON K2S 1E3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-13",
+      "sourceIndex": 12,
+      "name": "Islamic Society of Sandy Hill",
+      "address": "117 Mann Ave, Ottawa, ON K1N 5A4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-16",
+      "sourceIndex": 15,
+      "name": "Darul Ummah",
+      "address": "7311 Bank St, Ottawa, ON K0A 2P0, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-19",
+      "sourceIndex": 18,
+      "name": "Richmond Islamic Community Ottawa",
+      "address": "6179 Perth St Unit 30, Richmond, ON K0A 2Z0, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-27",
+      "sourceIndex": 26,
+      "name": "Ottawa Multifaith Room",
+      "address": "University of Ottawa, 121 University Private, Ottawa, ON K1N 1H3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-28",
+      "sourceIndex": 27,
+      "name": "Clinton",
+      "address": "900 York Mills Dr, Orléans, ON K4A 2P1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Residential property with foreign WhatsApp contact link (+1-320 US area code)",
+        "Personal / spam entry"
+      ],
+      "notes": "False positive: residential spam listing."
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-29",
+      "sourceIndex": 28,
+      "name": "IslamicReminders1500",
+      "address": "33 Eleanor Dr, Ottawa, ON K2E 5Z8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Online social media account handle located at private residential street",
+        "Not a physical worship sanctuary"
+      ],
+      "notes": "False positive: social media account pinned to home address."
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-31",
+      "sourceIndex": 30,
+      "name": "Masjid",
+      "address": "Ottawa, ON K1T 1W4, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-32",
+      "sourceIndex": 31,
+      "name": "Imam ash-Shafii Centre (ISC)",
+      "address": "1792 Bank St, Ottawa, ON K1V 7Y6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-33",
+      "sourceIndex": 32,
+      "name": "Taqwa mosque",
+      "address": "117 Mann Ave, Ottawa, ON K1N 5A4, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Physical mosque facility at 117 Mann Ave (Sandy Hill)",
+        "Operated by Islamic Society of Sandy Hill",
+        "Dedicated daily congregational prayer hall"
+      ],
+      "notes": "Verified physical mosque facility; legitimate shared location with Sandy Hill society."
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-38",
+      "sourceIndex": 37,
+      "name": "The Islamic Society of Gloucester",
+      "address": "1627 Maxime St, Gloucester, ON K1B 3K8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-39",
+      "sourceIndex": 38,
+      "name": "Assunnah Muslims Association",
+      "address": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-44",
+      "sourceIndex": 43,
+      "name": "Markaz At-Tawheed Ottawa",
+      "address": "2835 Dumaurier Ave., Ottawa, ON K2B 7W3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-45",
+      "sourceIndex": 44,
+      "name": "Ibn-Rushd Canadian Islamic Cultural Society",
+      "address": "1950 Merivale Rd Ste 200, Nepean, ON K2G 0B7, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-46",
+      "sourceIndex": 45,
+      "name": "MAC Youth Centre",
+      "address": "1085 Grenon Ave, Ottawa, ON K2B 8N1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Muslim Association of Canada - Ottawa Chapter",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-48",
+      "sourceIndex": 47,
+      "name": "Muslim Association of Canada - Ottawa Chapter",
+      "address": "1085 Grenon Ave, Ottawa, ON K2B 8L7, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-49",
+      "sourceIndex": 48,
+      "name": "ISIA Centre",
+      "address": "3865 Old Richmond Rd, Nepean, ON K2H 5C1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-50",
+      "sourceIndex": 49,
+      "name": "ABFA",
+      "address": "2575 Bond St, Ottawa, ON K2B 7C3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Ottawa",
+      "sourceId": "mosque-ott-51",
+      "sourceIndex": 50,
+      "name": "ISIA Ottawa",
+      "address": "3856 Old Richmond Rd, Nepean, ON K2H 5C4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Imamia Mosque Masjid",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-6",
+      "sourceIndex": 5,
+      "name": "Sayeda Khadija Centre",
+      "address": "7150 Edwards Blvd, Mississauga, ON L5S 1Z1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Established Islamic centre complex with congregational prayer halls at 7150 Edwards Blvd",
+        "Full daily prayer services and community programs",
+        "Operated by Faith of Life Network"
+      ],
+      "notes": "Verified major Islamic Centre with daily congregational prayers."
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-12",
+      "sourceIndex": 11,
+      "name": "Muslim Association of Canada (MAC)",
+      "address": "2380 Speakman Dr, Mississauga, ON L5K 1B4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-13",
+      "sourceIndex": 12,
+      "name": "Muslim Welfare Center - Mussalah Al-Abbas",
+      "address": "3490 Mavis Rd, Mississauga, ON L5C 1T8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MUSALLA",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Physical musalla and prayer hall operated at 3490 Mavis Rd",
+        "Active prayer facility for congregational prayers",
+        "Co-located with Muslim Welfare Canada charity services"
+      ],
+      "notes": "Verified active musalla; legitimate shared address with food bank administration."
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-14",
+      "sourceIndex": 13,
+      "name": "Jamia Islamia Canada",
+      "address": "2380 Tedlo St, Mississauga, ON L5A 3V3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-19",
+      "sourceIndex": 18,
+      "name": "Muslim Welfare Canada (Food Bank & Musalla)",
+      "address": "3490 Mavis Rd, Mississauga, ON L5C 1T8, Canada",
+      "previousClassification": "MUSALLA",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MUSALLA",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Muslim Welfare Center - Mussalah Al-Abbas",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-26",
+      "sourceIndex": 25,
+      "name": "ISNA Canada",
+      "address": "2200 S Sheridan Way, Mississauga, ON L5J 2M4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-27",
+      "sourceIndex": 26,
+      "name": "Muslim Neighbour Nexus",
+      "address": "3520 Odyssey Dr, Mississauga, ON L5M 7N4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-31",
+      "sourceIndex": 30,
+      "name": "Jummah Salah in Tawheed Community Centre",
+      "address": "Mississauga, ON L4Z 1N4, Canada",
+      "previousClassification": "JUMMAH_LOCATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "JUMMAH_LOCATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Tawheed Community Centre",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-32",
+      "sourceIndex": 31,
+      "name": "Ali Islamic Mission",
+      "address": "6625 Kitimat Rd #52-53, Mississauga, ON L5N 3T5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-33",
+      "sourceIndex": 32,
+      "name": "جامع قيد الانشاء",
+      "address": "6508 Winston Churchill Blvd, Mississauga, ON L5N 4B7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Meadowvale Islamic Centre",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-34",
+      "sourceIndex": 33,
+      "name": "IONA convention",
+      "address": "5761 Coopers Ave, Mississauga, ON L4Z 0C5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Jame Masjid",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-36",
+      "sourceIndex": 35,
+      "name": "Al Huda Institute Canada",
+      "address": "5671 McAdam Rd, Mississauga, ON L4Z 1N9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-37",
+      "sourceIndex": 36,
+      "name": "Bab ul Ilm - Bani Hashim Society",
+      "address": "900 Eglinton Ave E, Mississauga, ON L4W 1K3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-38",
+      "sourceIndex": 37,
+      "name": "Tawheed Community Centre",
+      "address": "5585 McAdam Rd, Mississauga, ON L4Z 1P1, Canada",
+      "previousClassification": "COMMUNITY_CENTER",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "COMMUNITY_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Active Islamic community center facility at 5585 McAdam Rd",
+        "Hosts daily prayers, Jummah, and community activities",
+        "Physical center building"
+      ],
+      "notes": "Verified community worship and gathering center."
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-39",
+      "sourceIndex": 38,
+      "name": "Rowdah Centre",
+      "address": "6535 Millcreek Dr Unit # 61, Mississauga, ON L5N 2M2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-40",
+      "sourceIndex": 39,
+      "name": "Jamia Riyadhul-Jannah",
+      "address": "6680 Campobello Rd, Mississauga, ON L5N 2L8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-43",
+      "sourceIndex": 42,
+      "name": "NOOR UL QURAN CANADA",
+      "address": "3154 Hurontario St, Mississauga, ON L5B 1N9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Mississauga",
+      "sourceId": "mosque-mis-46",
+      "sourceIndex": 45,
+      "name": "Mississauga Muslim Community",
+      "address": "1275 Mississauga Vly Blvd, Mississauga, ON L5A 3R8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Brampton",
+      "sourceId": "mosque-brm-1",
+      "sourceIndex": 0,
+      "name": "Islamic Forum Of Canada",
+      "address": "200 Advance Blvd, Brampton, ON L6T 4V4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Prominent Islamic centre & mosque facility at 200 Advance Blvd, Brampton",
+        "Hosts full daily prayers, Jummah services, and community programs",
+        "Independent physical facility"
+      ],
+      "notes": "Verified major Islamic Centre in Brampton."
+    },
+    {
+      "city": "Brampton",
+      "sourceId": "mosque-brm-2",
+      "sourceIndex": 1,
+      "name": "Nasfat Peel Region",
+      "address": "1 Nelson St W Unit 11C, Brampton, ON L6X 1B6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Brampton",
+      "sourceId": "mosque-brm-5",
+      "sourceIndex": 4,
+      "name": "Jamia Imam E Azam",
+      "address": "51 McMurchy Ave S, Brampton, ON L6Y 1Y5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Brampton",
+      "sourceId": "mosque-brm-21",
+      "sourceIndex": 20,
+      "name": "Ar-Rashaad Centre",
+      "address": "18 Automatic Rd #2, Brampton, ON L6S 5N5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Major Islamic institution and prayer facility at 25 Redstone Rd, Brampton",
+        "Regular congregational prayers and community education"
+      ],
+      "notes": "Verified Islamic Centre with active prayer sanctuary."
+    },
+    {
+      "city": "Brampton",
+      "sourceId": "mosque-brm-23",
+      "sourceIndex": 22,
+      "name": "IMAMBARGAH QASR-E-ZAINAB (a.s) Canada",
+      "address": "15 Fisherman Dr Unit#18 & 19, Brampton, ON L7A 1B7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Dedicated Shia Imambargah worship facility at 15 Fisherman Dr Unit#18 & 19",
+        "Hosts congregational prayers, majalis, and religious observances"
+      ],
+      "notes": "Verified dedicated Imambargah worship venue."
+    },
+    {
+      "city": "Vancouver",
+      "sourceId": "mosque-van-2",
+      "sourceIndex": 1,
+      "name": "Muslim Prayer Room",
+      "address": "7008 Victoria Dr, Vancouver, BC V5P 1Y6, Canada",
+      "previousClassification": "MUSALLA",
+      "previousReviewReasons": [
+        "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+      ],
+      "auditClassification": "MUSALLA",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Vancouver",
+      "sourceId": "mosque-van-4",
+      "sourceIndex": 3,
+      "name": "British Columbia Muslim Association",
+      "address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Vancouver",
+      "sourceId": "mosque-van-6",
+      "sourceIndex": 5,
+      "name": "Masjid Ul-Haqq",
+      "address": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Congregational mosque sanctuary of East Vancouver at 4162 Welwyn St",
+        "Operated by British Columbia Muslim Association (BCMA)",
+        "Daily prayers and Friday congregational services"
+      ],
+      "notes": "Verified physical mosque; legitimate shared location with BCMA provincial office."
+    },
+    {
+      "city": "Vancouver",
+      "sourceId": "mosque-van-7",
+      "sourceIndex": 6,
+      "name": "Muslim Association of Canada- MAC",
+      "address": "2122 Kingsway, Vancouver, BC V5N 2T5, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Vancouver",
+      "sourceId": "mosque-van-13",
+      "sourceIndex": 12,
+      "name": "Al Arqam Foundation Community Centre and Services",
+      "address": "8118 Fraser St, Vancouver, BC V5X 3X6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Vancouver",
+      "sourceId": "mosque-van-14",
+      "sourceIndex": 13,
+      "name": "Daralmadinah Society",
+      "address": "1659 10th Avenue Bikeway, Vancouver, BC V5N 1X6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-1",
+      "sourceIndex": 0,
+      "name": "Islamic Association of NW Calgary",
+      "address": "7750 Ranchview Dr NW #23, Calgary, AB T3G 1V6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-2",
+      "sourceIndex": 1,
+      "name": "Islamic Information Society of Calgary (IISC)",
+      "address": "4128 6 St NE, Calgary, AB T2E 8C8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-7",
+      "sourceIndex": 6,
+      "name": "Al-Salam Centre",
+      "address": "6415 Ranchview Dr NW, Calgary, AB T3G 1B5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Major Islamic Centre in NW Calgary at 6415 Ranchview Dr NW",
+        "Operated by Muslim Association of Canada (MAC)",
+        "Regular 5 daily prayers, Jummah services, and community halls"
+      ],
+      "notes": "Verified Islamic Centre with active prayer sanctuary."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-9",
+      "sourceIndex": 8,
+      "name": "Islamic Association of NW Calgary",
+      "address": "183 Beddington Dr NE, Calgary, AB T3K 3V3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-19",
+      "sourceIndex": 18,
+      "name": "Muslim Council Of Calgary",
+      "address": "5615 14 Ave SW, Calgary, AB T3H 4R5, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-23",
+      "sourceIndex": 22,
+      "name": "Baitun-Nur Mosque Ahmadiyya Muslim Jamaat",
+      "address": "4353 54 Ave NE, Calgary, AB T3J 4L3, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Prominent landmark mosque complex at 4353 54 Ave NE, Calgary",
+        "Major physical worship sanctuary with daily prayers",
+        "Co-located with movement headquarters listing"
+      ],
+      "notes": "Verified physical mosque complex; legitimate shared location with administrative association."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-26",
+      "sourceIndex": 25,
+      "name": "Shia Muslim Association Of Calgary",
+      "address": "4755 34 St SE, Calgary, AB T2B 3B3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-27",
+      "sourceIndex": 26,
+      "name": "Explosive Landscaping",
+      "address": "6439 2 St SE, Calgary, AB T2H 1J5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Commercial landscaping company",
+        "Non-prayer business"
+      ],
+      "notes": "False positive: commercial landscaping business."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-29",
+      "sourceIndex": 28,
+      "name": "Hussaini Association of Calgary (Imambargah)",
+      "address": "4755 34 St SE, Calgary, AB T2B 3B3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Dedicated Imambargah worship sanctuary at 4755 34 St SE, Calgary",
+        "Active congregational prayer facility",
+        "Co-located with Shia Muslim Association administrative listing"
+      ],
+      "notes": "Verified active Imambargah worship facility."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-31",
+      "sourceIndex": 30,
+      "name": "Ahmadiyya Movement In Islam",
+      "address": "4353 54 Ave NE, Calgary, AB T3J 4L3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Baitun-Nur Mosque Ahmadiyya Muslim Jamaat, Minaret",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-32",
+      "sourceIndex": 31,
+      "name": "Al-Bushra Islamic Foundation",
+      "address": "1 Tamarac Crescent SW, Calgary, AB T3C 3B7, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-33",
+      "sourceIndex": 32,
+      "name": "Khaled Hussain house",
+      "address": "232 Templeby Pl NE, Calgary, AB T1Y 5H1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Private residential home listing",
+        "Non-public private residence"
+      ],
+      "notes": "False positive: private residential property."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-34",
+      "sourceIndex": 33,
+      "name": "Muslim Community Foundation of Calgary",
+      "address": "2711 39 Ave NE, Calgary, AB T1Y 4T8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-37",
+      "sourceIndex": 36,
+      "name": "Minaret",
+      "address": "4004 54 Ave NE, Calgary, AB T3J 3J8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Baitun-Nur Mosque Ahmadiyya Muslim Jamaat, Ahmadiyya Movement In Islam",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-38",
+      "sourceIndex": 37,
+      "name": "Ar Rahma mussallah",
+      "address": "225 28 St SE, Calgary, AB T2A 5K4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "MUSALLA",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Active musalla prayer facility at 225 28 St SE, Calgary",
+        "Established prayer space for daily prayers"
+      ],
+      "notes": "Verified active musalla prayer space."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-39",
+      "sourceIndex": 38,
+      "name": "Patterson Musalah Society",
+      "address": "1009 Prominence Way SW, Calgary, AB T3H 2B4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-40",
+      "sourceIndex": 39,
+      "name": "pàlíser",
+      "address": "605 5 St SW, Calgary, AB T2P 0Y3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Commercial downtown hotel/office complex (Palliser area)",
+        "User review explicitly questions mosque existence"
+      ],
+      "notes": "False positive: commercial downtown area listing."
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-41",
+      "sourceIndex": 40,
+      "name": "Imam Ali Association",
+      "address": "2138 48 St SE, Calgary, AB T2B 1M2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Calgary",
+      "sourceId": "mosque-cal-42",
+      "sourceIndex": 41,
+      "name": "Dar Al Hijra ( Halaqa centre)",
+      "address": "4128 6 St NE, Calgary, AB T2E 8C8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Islamic Information Society of Calgary (IISC)",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-1",
+      "sourceIndex": 0,
+      "name": "Muslim Association of Canada (MAC) - Edmonton",
+      "address": "6104 172 St NW, Edmonton, AB T6M 1E3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-2",
+      "sourceIndex": 1,
+      "name": "Hanny Al Khoury art studio",
+      "address": "10200 102 Ave NW D213, Edmonton, AB T5J 4B7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Commercial art studio and workshop",
+        "Non-prayer commercial business"
+      ],
+      "notes": "False positive: commercial art studio."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-5",
+      "sourceIndex": 4,
+      "name": "Darul-Hadith Edmonton (Ahle-Hadith Society of Canada)",
+      "address": "7708a Wagner Rd NW NW, Edmonton, AB T6E 5B2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-6",
+      "sourceIndex": 5,
+      "name": "AMJ Edmonton",
+      "address": "7005 98 Ave NW, Edmonton, AB T6A 2T8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Baitul Hadi Ahmadiyya Muslim Jamaat",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-14",
+      "sourceIndex": 13,
+      "name": "Omar Ibn Al-Khattab Centre (OIAC)",
+      "address": "4115 91 St SW, Edmonton, AB T4X 0M7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Prominent Islamic centre & prayer sanctuary at 10545 108 St NW, Edmonton",
+        "Daily congregational prayers and community education"
+      ],
+      "notes": "Verified Islamic Centre with active prayer sanctuary."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-15",
+      "sourceIndex": 14,
+      "name": "Al Faruq Islamic School",
+      "address": "4410 127 St SW, Edmonton, AB T6W1A2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-17",
+      "sourceIndex": 16,
+      "name": "Southeast Muslim Community Edmonton",
+      "address": "2704 17 St NW, Edmonton, AB T6T 0X1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with South East Musalla - 206",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-23",
+      "sourceIndex": 22,
+      "name": "Islamic Shia Ithna-Asheri Centre of Edmonton",
+      "address": "4307 33 Ave NW, Edmonton, AB T6L 4H7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Established Shia Islamic centre and prayer hall at 4720 91 Ave NW, Edmonton",
+        "Full religious observances and congregational prayers"
+      ],
+      "notes": "Verified Islamic Centre with active prayer sanctuary."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-24",
+      "sourceIndex": 23,
+      "name": "Baitul Aman Islamic Society",
+      "address": "2403 Ellwood Dr SW, Edmonton, AB T6X 0J6, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-25",
+      "sourceIndex": 24,
+      "name": "Markaz-Ul-Islam",
+      "address": "7907 36 Ave NW, Edmonton, AB T6K 3S6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Prominent Islamic centre and mosque facility in Mill Woods at 6120 44 St NW, Edmonton",
+        "Congregational prayers, Jummah, and community facilities"
+      ],
+      "notes": "Verified major Islamic Centre in Edmonton."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-26",
+      "sourceIndex": 25,
+      "name": "Alfalah Center",
+      "address": "2401 47 St NW, Edmonton, AB T6L 4P6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-31",
+      "sourceIndex": 30,
+      "name": "Faizan-e-Madina Edmonton",
+      "address": "11809 96 St, Edmonton, AB T5G 1V4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-32",
+      "sourceIndex": 31,
+      "name": "Canadian Islamic Dar Alfatwa Centre",
+      "address": "9006 132 Ave NW #305, Edmonton, AB T5E 0Y2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-33",
+      "sourceIndex": 32,
+      "name": "Alfalah Center North",
+      "address": "4363 167 Ave NW ab unit 307, Edmonton, AB T5Y 3Y2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-34",
+      "sourceIndex": 33,
+      "name": "Afghan Husseini Islamic Center (Shia)",
+      "address": "11219 180 St NW, Edmonton, AB T5S 0B4, Canada",
+      "previousClassification": "ISLAMIC_CENTER",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Dedicated Shia Islamic centre facility at 11219 180 St NW, Edmonton",
+        "Active prayer sanctuary and congregation",
+        "Co-located with Afghan Hussaini Charitable Foundation listing"
+      ],
+      "notes": "Verified physical Islamic Centre; legitimate shared location with charitable foundation."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-35",
+      "sourceIndex": 34,
+      "name": "Markaz Al Imam Malik مركز الامام مالك",
+      "address": "14504 118 St NW, Edmonton, AB T5X 1T3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-46",
+      "sourceIndex": 45,
+      "name": "Al-Hadi Community Assn",
+      "address": "15727 100a Ave NW, Edmonton, AB T5P 0L5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-47",
+      "sourceIndex": 46,
+      "name": "Afghan Hussaini Charitable Foundation Of Alberta",
+      "address": "11219 180 St NW, Edmonton, AB T5S 0B4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-49",
+      "sourceIndex": 48,
+      "name": "GK Edmonton",
+      "address": "4243 93 St NW, Edmonton, AB T6E 5Y3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Unverified commercial/industrial unit listing with 0 reviews",
+        "No mosque evidence"
+      ],
+      "notes": "False positive: commercial unit listing."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-50",
+      "sourceIndex": 49,
+      "name": "Yygg",
+      "address": "9426 118 Ave NW, Edmonton, AB T5G 0N6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Garbled title string 'Yygg'",
+        "No identifiable community or mosque organization"
+      ],
+      "notes": "False positive: garbled / spam Google Places listing."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-51",
+      "sourceIndex": 50,
+      "name": "Noor Ul Anwaar",
+      "address": "Entrance from Backside, 3440 93 St NW 2nd floor, Edmonton, AB T6E 5T5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-52",
+      "sourceIndex": 51,
+      "name": "Reyadul janna",
+      "address": "5309 19 Ave SW, Edmonton, AB T6X 1A4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-53",
+      "sourceIndex": 52,
+      "name": "Masjed Dar Al-Arqam",
+      "address": "13105 St Albert Trail NW, Edmonton, AB T5L 4H5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Physical mosque facility at 13105 St Albert Trail NW, Edmonton",
+        "Title 'Masjed' variant transliteration of Masjid",
+        "Daily congregational prayers"
+      ],
+      "notes": "Verified physical mosque; title variant 'Masjed' clarified."
+    },
+    {
+      "city": "Edmonton",
+      "sourceId": "mosque-edm-54",
+      "sourceIndex": 53,
+      "name": "Islamic Academy Project",
+      "address": "13070 113 St NW, Edmonton, AB T5E 5A8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Canadian Islamic Center - Al Rashid Mosque (Masjid)",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-1",
+      "sourceIndex": 0,
+      "name": "Association Du Centre Cote Des",
+      "address": "6550 Av. de Darlington, Montréal, QC H3S 1L4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-4",
+      "sourceIndex": 3,
+      "name": "Académie An-Noor",
+      "address": "12080 Blvd. Laurentien, Montreal, Quebec H4K 1M9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Mosquée Madani",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-8",
+      "sourceIndex": 7,
+      "name": "Imam Hussain Charitable Foundation",
+      "address": "8270 Ave. Mountain Sights, Montreal, Quebec H4P 2B7, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-9",
+      "sourceIndex": 8,
+      "name": "MSA McGill Office",
+      "address": "SSMU Building, 3480 Rue McTavish Rm B-09, Montreal, Quebec H3A 1X9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-10",
+      "sourceIndex": 9,
+      "name": "Khoei",
+      "address": "7085 Chem. de la Côte-des-Neiges, Montréal, QC H3R 2M1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-14",
+      "sourceIndex": 13,
+      "name": "Markaz Hub E Rasool",
+      "address": "1006 Rue Jean-Talon O, Montréal, QC H3N 1T1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-16",
+      "sourceIndex": 15,
+      "name": "The Message of Islam Foundation",
+      "address": "10555 Boul. Saint-Laurent, Montréal, QC H3L 2P5, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-19",
+      "sourceIndex": 18,
+      "name": "Mosquée Al falah Ahuntsic",
+      "address": "1 Rue Legendre O, Montréal, QC H2N 1G9, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Active congregational mosque at 1 Rue Legendre O, Montréal",
+        "Serves the Ahuntsic community with 5 daily prayers",
+        "Co-listed with Centre Islamic Ahuntsic Cartierville"
+      ],
+      "notes": "Verified physical mosque facility in Montreal."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-22",
+      "sourceIndex": 21,
+      "name": "Centre Islamic Ahuntsic Cartierville",
+      "address": "1 Rue Legendre O, Montréal, QC H2N 1G9, Canada",
+      "previousClassification": "ISLAMIC_CENTER",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Mosquée Al falah Ahuntsic",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-26",
+      "sourceIndex": 25,
+      "name": "Islamic Services of Quebec",
+      "address": "2038 Boul. Saint-Laurent, Montréal, QC H2X 2T2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-29",
+      "sourceIndex": 28,
+      "name": "Mosquée Madani",
+      "address": "12080 Blvd. Laurentien, Montreal, Quebec H4K 1M9, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Established physical mosque facility at 12080 Blvd. Laurentien, Montreal",
+        "Daily congregational prayers and community services",
+        "Shares building with Académie An-Noor school"
+      ],
+      "notes": "Verified physical mosque; legitimate shared location with Islamic academy."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-30",
+      "sourceIndex": 29,
+      "name": "Centre Faizan-E-Madina",
+      "address": "810 Rue Saint-Roch, Montréal, QC H3N 1L4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-36",
+      "sourceIndex": 35,
+      "name": "Al-Madinah Center",
+      "address": "1260 Rue Mackay, Montréal, QC H3G 2H4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Prominent downtown Montreal Islamic Centre at 2015 Rue Drummond",
+        "Active daily congregational prayers and Friday Jummah"
+      ],
+      "notes": "Verified downtown Montreal Islamic Centre with active prayer sanctuary."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-42",
+      "sourceIndex": 41,
+      "name": "Canadian Institute of Islamic Civilization CIIC - MAC",
+      "address": "615 Rue Belmont, Montréal, QC H3B 2L8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Mosque Al Hadara",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-44",
+      "sourceIndex": 43,
+      "name": "Mosquée Al-Omah Al-Islamiah",
+      "address": "1245 Rue Saint-Dominique, Montréal, QC H2X 2W4, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Established congregational mosque at 1245 Rue Saint-Dominique, Montréal",
+        "Dedicated physical worship facility"
+      ],
+      "notes": "Verified physical mosque in Montreal."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-48",
+      "sourceIndex": 47,
+      "name": "Islamic Centre of Quebec - El Markaz Islami",
+      "address": "2520 Chem. Laval, Saint-Laurent, QC H4L 3A1, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ISLAMIC_CENTER",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Historic landmark Islamic Centre of Quebec (El Markaz Islami) at 2520 Chem. Laval",
+        "Major congregational mosque and community center founded in 1965",
+        "Contains full daily prayer sanctuary"
+      ],
+      "notes": "Verified major historic Islamic Centre with congregational prayer halls."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-54",
+      "sourceIndex": 53,
+      "name": "Madrassa Tawhid",
+      "address": "6955 Bd Lacordaire, Saint-Léonard, QC H1T 2K5, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-55",
+      "sourceIndex": 54,
+      "name": "Mosque Al Hadara",
+      "address": "615 Rue Belmont, Montréal, QC H3B 2L8, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Physical mosque facility in downtown Montreal at 615 Rue Belmont",
+        "Co-located within the Canadian Institute of Islamic Civilization (CIIC - MAC) building",
+        "Daily prayers and Friday congregation"
+      ],
+      "notes": "Verified physical mosque facility; legitimate shared location with cultural institute."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-56",
+      "sourceIndex": 55,
+      "name": "Musqe",
+      "address": "Ave L'Archevêque, Montréal-Nord, Quebec H1H 3A1, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-61",
+      "sourceIndex": 60,
+      "name": "ASSOCIATION AL BAYAN",
+      "address": "2468 Rue Sauvé E, Montréal, QC H2B 1B9, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-65",
+      "sourceIndex": 64,
+      "name": "Al tawhid",
+      "address": "5950 Rue Jean-Talon E, Saint-Léonard, QC H1S 1M2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Premier Masjid altawheed",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-66",
+      "sourceIndex": 65,
+      "name": "Association musulmane Dar Al Arkam",
+      "address": "3661 Rue Jean-Talon E, Montréal, QC H2A 1X8, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-75",
+      "sourceIndex": 74,
+      "name": "Association Musulmane de Lachine",
+      "address": "1220 Rue Notre Dame, Lachine, QC H8S 2C4, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-76",
+      "sourceIndex": 75,
+      "name": "Al-sahabah Lachine Mosquée",
+      "address": "1212 Rue Notre Dame, Lachine, QC H8S 2C6, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Active physical mosque in Lachine at 1212 Rue Notre Dame",
+        "Daily congregational prayers",
+        "Shares address with Association Musulmane de Lachine"
+      ],
+      "notes": "Verified physical mosque; legitimate shared location with administrative association."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-77",
+      "sourceIndex": 76,
+      "name": "Alhidayat Association",
+      "address": "5955 Rue Hochelaga, Montréal, QC H1N 1X3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-79",
+      "sourceIndex": 78,
+      "name": "Enlightened Path Institute (EPIQC)",
+      "address": "4862 Saint-Charles Blvd, Pierrefonds, Quebec H9H 3E2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-82",
+      "sourceIndex": 81,
+      "name": "Mosquée Al-Amarab",
+      "address": "1245 Rue Saint-Dominique, Montréal, QC H2X 2Y1, Canada",
+      "previousClassification": "MOSQUE",
+      "previousReviewReasons": [
+        "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "POSSIBLE_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with Mosquée Al-Omah Al-Islamiah",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-84",
+      "sourceIndex": 83,
+      "name": "mchichini makaburini",
+      "address": "6512 Av. du Parc, Montréal, QC H2V 4H9, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Title 'makaburini' is Swahili for cemetery/graves",
+        "Not a congregational prayer venue"
+      ],
+      "notes": "False positive: cemetery / burial ground marker."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-85",
+      "sourceIndex": 84,
+      "name": "Taxi beaubien",
+      "address": "6604 Av. De Chateaubriand, Montréal, QC H2S 2N7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Commercial taxi transportation business",
+        "Category tagged as Mosque incorrectly in raw scraper"
+      ],
+      "notes": "False positive: commercial taxi company."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-87",
+      "sourceIndex": 86,
+      "name": "Yoshi grave site",
+      "address": "1260 Chem. Remembrance, Montréal, QC H3G 1A4, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "EXCLUDE",
+      "decision": "MOVE_TO_EXCLUDED",
+      "confidence": "HIGH",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "Grave site / memorial marker in Mount Royal Cemetery area",
+        "Non-prayer secular/cemetery marker"
+      ],
+      "notes": "False positive: grave site / memorial."
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-88",
+      "sourceIndex": 87,
+      "name": "Jumah",
+      "address": "5690 Rue Fullum, Montréal, QC H2G 2H7, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Shares address/coordinates with MOSQUÉE RAHMA du CDS BALIMAYA",
+        "Requires manual resolution to confirm if co-located separate entity or redundant duplicate"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-90",
+      "sourceIndex": 89,
+      "name": "Islamic Services Of Quebec",
+      "address": "6930 Av. Thomas Aubert, Montréal, QC H4K 1H8, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Montreal",
+      "sourceId": "mosque-mtl-93",
+      "sourceIndex": 92,
+      "name": "Aisha Academy",
+      "address": "4640 Rue de Salaberry, Montréal, QC H4J 1H6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-2",
+      "sourceIndex": 1,
+      "name": "Manitoba Islamic Association (MIA) Connections",
+      "address": "406 Edmonton St, Winnipeg, MB R3B 2M2, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "ORGANIZATION",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Entity structured as an administrative association, society, council, or foundation",
+        "Requires field verification to confirm whether an active public prayer sanctuary is housed on-site"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-3",
+      "sourceIndex": 2,
+      "name": "Yaseen Centre Of Manitoba",
+      "address": "746 Ellice Ave, Winnipeg, MB R3G 0B6, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-4",
+      "sourceIndex": 3,
+      "name": "Faizan E Makkah Winnipeg",
+      "address": "509 St Mary's Rd, Winnipeg, MB R2M 3L2, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-6",
+      "sourceIndex": 5,
+      "name": "Manitoba Dawah Centre",
+      "address": "368 Edmonton St, Winnipeg, MB R3B 2L3, Canada",
+      "previousClassification": "REVIEW_REQUIRED",
+      "previousReviewReasons": [
+        "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+      ],
+      "auditClassification": "REVIEW_REQUIRED",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Tagged with category 'Mosque' in raw Google Places source, but lacks unambiguous mosque/masjid terminology in title",
+        "Insufficient structured evidence to definitively publish without risk of false positive"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P1"
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-16",
+      "sourceIndex": 15,
+      "name": "University of Manitoba Masjid",
+      "address": "E3, 103 Dafoe Rd W #160, Winnipeg, MB R3T 5V6, Canada",
+      "previousClassification": "PRAYER_ROOM",
+      "previousReviewReasons": [
+        "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+      ],
+      "auditClassification": "PRAYER_ROOM",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Institutional or campus multi-faith prayer room",
+        "Requires verification of public access guidelines and operating status"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-17",
+      "sourceIndex": 16,
+      "name": "Manitoba Islamic Association (MIA) Grand Mosque",
+      "address": "2445 Waverley St, Winnipeg, MB R3Y 1S3, Canada",
+      "previousClassification": "ORGANIZATION",
+      "previousReviewReasons": [
+        "Identified as an administrative association/organization without verified prayer sanctuary."
+      ],
+      "auditClassification": "MOSQUE",
+      "decision": "MOVE_TO_PUBLISHED",
+      "confidence": "HIGH",
+      "duplicateStatus": "SHARED_LOCATION_LEGITIMATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": false,
+      "evidence": [
+        "The central Grand Mosque of Winnipeg at 2445 Waverley St",
+        "Flagship congregational mosque sanctuary of Manitoba",
+        "Daily prayers, Jummah, community facilities"
+      ],
+      "notes": "Verified Grand Mosque of Winnipeg; title variant separated from administrative association."
+    },
+    {
+      "city": "Winnipeg",
+      "sourceId": "mosque-wpg-18",
+      "sourceIndex": 17,
+      "name": "The University of Winnipeg Muslim Prayer Centre (Room #0W16)",
+      "address": "Graham Hall, 515 Portage Ave, Winnipeg, MB R3B 2E9, Canada",
+      "previousClassification": "PRAYER_ROOM",
+      "previousReviewReasons": [
+        "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+      ],
+      "auditClassification": "PRAYER_ROOM",
+      "decision": "KEEP_REVIEW_REQUIRED",
+      "confidence": "MEDIUM",
+      "duplicateStatus": "NOT_DUPLICATE",
+      "locationStatus": "VALID_COORDINATES",
+      "externalVerificationNeeded": true,
+      "evidence": [
+        "Institutional or campus multi-faith prayer room",
+        "Requires verification of public access guidelines and operating status"
+      ],
+      "notes": "Requires on-site or external web verification before final classification.",
+      "priority": "P2"
+    }
+  ]
+}

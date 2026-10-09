@@ -1,0 +1,419 @@
+[
+  {
+    "id": "mosque-van-2",
+    "sourceIndex": 1,
+    "name": "Muslim Prayer Room",
+    "slug": "muslim-prayer-room-vancouver",
+    "address": {
+      "raw": "7008 Victoria Dr, Vancouver, BC V5P 1Y6, Canada",
+      "streetAddress": "7008 Victoria Dr",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5P 1Y6",
+        "normalized": "V5P 1Y6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2201725,
+      "longitude": -123.0656476
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "GENERIC_NAME",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 1,
+      "cid": "13507397265766015258",
+      "placeId": "ChIJPThH_3N1hlQRGuEQej_qc7s",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 14,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-4",
+    "sourceIndex": 3,
+    "name": "British Columbia Muslim Association",
+    "slug": "british-columbia-muslim-association-vancouver",
+    "address": {
+      "raw": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+      "streetAddress": "4162 Welwyn St",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5N 3Z2",
+        "normalized": "V5N 3Z2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.247958,
+      "longitude": -123.0696272
+    },
+    "phone": {
+      "raw": "+1 604-873-1787",
+      "normalized": "+16048731787"
+    },
+    "website": "http://www.thebcma.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 5,
+        "targetTitle": "Masjid Ul-Haqq",
+        "targetPlaceId": "ChIJP9HvUql2hlQRc1E22SNR5wA",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 3,
+      "cid": "7034343010413820738",
+      "placeId": "ChIJv483Uql2hlQRQrv3y7IBn2E",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 33,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-7",
+    "sourceIndex": 6,
+    "name": "Muslim Association of Canada- MAC",
+    "slug": "muslim-association-of-canada-mac-vancouver",
+    "address": {
+      "raw": "2122 Kingsway, Vancouver, BC V5N 2T5, Canada",
+      "streetAddress": "2122 Kingsway",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5N 2T5",
+        "normalized": "V5N 2T5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2441672,
+      "longitude": -123.0635315
+    },
+    "phone": {
+      "raw": "+1 604-434-7526",
+      "normalized": "+16044347526"
+    },
+    "website": "https://www.macnet.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 6,
+      "cid": "7611991906109127713",
+      "placeId": "ChIJkRbU7R5_C0ERIXzI_E46o2k",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "After school program",
+        "Community center",
+        "Education center",
+        "Youth center"
+      ],
+      "rating": null,
+      "reviewsCount": 129,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-13",
+    "sourceIndex": 12,
+    "name": "Al Arqam Foundation Community Centre and Services",
+    "slug": "al-arqam-foundation-community-centre-and-services-vancouver",
+    "address": {
+      "raw": "8118 Fraser St, Vancouver, BC V5X 3X6, Canada",
+      "streetAddress": "8118 Fraser St",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5X 3X6",
+        "normalized": "V5X 3X6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.211755,
+      "longitude": -123.0908779
+    },
+    "phone": {
+      "raw": "+1 825-779-2777",
+      "normalized": "+18257792777"
+    },
+    "website": "http://www.arqam.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 12,
+      "cid": "9525309825169064391",
+      "placeId": "ChIJkZZTZUB1hlQRx4G9mNGyMIQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 14,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-14",
+    "sourceIndex": 13,
+    "name": "Daralmadinah Society",
+    "slug": "daralmadinah-society-vancouver",
+    "address": {
+      "raw": "1659 10th Avenue Bikeway, Vancouver, BC V5N 1X6, Canada",
+      "streetAddress": "1659 10th Avenue Bikeway",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5N 1X6",
+        "normalized": "V5N 1X6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2616162,
+      "longitude": -123.0706189
+    },
+    "phone": {
+      "raw": "+1 604-873-8580",
+      "normalized": "+16048738580"
+    },
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 4,
+        "targetTitle": "Masjid Omar Al-Farooq",
+        "targetPlaceId": "ChIJsRYB605xhlQRhY3ZiJngoYY",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 13,
+      "cid": "8762133915247152907",
+      "placeId": "ChIJsRYB605xhlQRC4-1RF9amXk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 3,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

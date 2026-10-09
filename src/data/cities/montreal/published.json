@@ -1,0 +1,6582 @@
+[
+  {
+    "id": "mosque-mtl-2",
+    "sourceIndex": 1,
+    "name": "Lebanese Islamic Center",
+    "slug": "lebanese-islamic-center-montr-al",
+    "address": {
+      "raw": "60 Rue de Port-Royal E, Montréal, QC H3L 1H7, Canada",
+      "streetAddress": "60 Rue de Port-Royal E",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3L 1H7",
+        "normalized": "H3L 1H7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.547477,
+      "longitude": -73.6561894
+    },
+    "phone": null,
+    "website": "https://www.cilmontreal.com/copy-of-a-propos-de-nous-mn-nhn",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 24,
+        "targetTitle": "Centre Islamique Libanais à Montréal",
+        "targetPlaceId": "ChIJ_f-_euoYyUwRNE9bzO72bmo",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 1,
+      "cid": "3194752052083086784",
+      "placeId": "ChIJX2UxfOoYyUwRwNXcmRAKViw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-3",
+    "sourceIndex": 2,
+    "name": "Darlington Community Center",
+    "slug": "darlington-community-center-montr-al",
+    "address": {
+      "raw": "2876 Rue Goyer, Montréal, QC H3S 1H3, Canada",
+      "streetAddress": "2876 Rue Goyer",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3S 1H3",
+        "normalized": "H3S 1H3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5099707,
+      "longitude": -73.6301217
+    },
+    "phone": null,
+    "website": null,
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 2,
+      "cid": "7558858037307525523",
+      "placeId": "ChIJp3oAdb4ZyUwRk0lSHVZ15mg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 25,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-5",
+    "sourceIndex": 4,
+    "name": "Musallah hamza",
+    "slug": "musallah-hamza-montreal",
+    "address": {
+      "raw": "569 Jarry St W, Montreal, Quebec H3N 1G1, Canada",
+      "streetAddress": "569 Jarry St W",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3N 1G1",
+        "normalized": "H3N 1G1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.531532,
+      "longitude": -73.6357801
+    },
+    "phone": {
+      "raw": "+1 438-401-1875",
+      "normalized": "+14384011875"
+    },
+    "website": "https://prayersconnect.com/mosques/12411921-musallah-hamza-montreal-quebec-canada",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 4,
+      "cid": "17497172401032471529",
+      "placeId": "ChIJ53Ux6rcZyUwR6SNPQZhx0vI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 20,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-6",
+    "sourceIndex": 5,
+    "name": "Mosquée NDG",
+    "slug": "mosqu-e-ndg-montr-al",
+    "address": {
+      "raw": "6277 Rue Saint-Jacques, Montréal, QC H4B 1T6, Canada",
+      "streetAddress": "6277 Rue Saint-Jacques",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4B 1T6",
+        "normalized": "H4B 1T6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4632872,
+      "longitude": -73.6184706
+    },
+    "phone": {
+      "raw": "+1 514-545-2515",
+      "normalized": "+15145452515"
+    },
+    "website": "https://ndg-mosque.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 5,
+      "cid": "11992016501626686936",
+      "placeId": "ChIJAYuZTsgQyUwR2M0UyHgzbKY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 124,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-7",
+    "sourceIndex": 6,
+    "name": "Baitul Ma-moor",
+    "slug": "baitul-ma-moor-montreal",
+    "address": {
+      "raw": "2833 Ontario St E, Montreal, Quebec H2K 1X5, Canada",
+      "streetAddress": "2833 Ontario St E",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2K 1X5",
+        "normalized": "H2K 1X5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.536338,
+      "longitude": -73.5504874
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 6,
+      "cid": "2888978813929045802",
+      "placeId": "ChIJw2rQegAbyUwRKr_ev-y2Fyg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 20,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-11",
+    "sourceIndex": 10,
+    "name": "مسجد الفلاح _ Mosquée Al Falah",
+    "slug": "mosqu-e-al-falah-montr-al",
+    "address": {
+      "raw": "6550 Av. de Darlington, Montréal, QC H3S 1L4, Canada",
+      "streetAddress": "6550 Av. de Darlington",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3S 1L4",
+        "normalized": "H3S 1L4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.50877,
+      "longitude": -73.629601
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 0,
+        "targetTitle": "Association Du Centre Cote Des",
+        "targetPlaceId": "ChIJjbN1Ir4ZyUwR8uhylA45XHU",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 10,
+      "cid": "7391762088218959029",
+      "placeId": "ChIJw5lgIr4ZyUwRtZx9vHTQlGY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 37,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-12",
+    "sourceIndex": 11,
+    "name": "Mosquée Fatima",
+    "slug": "mosqu-e-fatima-montr-al",
+    "address": {
+      "raw": "2012 Rue Saint-Dominique, Montréal, QC H2X 1G9, Canada",
+      "streetAddress": "2012 Rue Saint-Dominique",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2X 1G9",
+        "normalized": "H2X 1G9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5118625,
+      "longitude": -73.5669616
+    },
+    "phone": {
+      "raw": "+1 438-340-9380",
+      "normalized": "+14383409380"
+    },
+    "website": "https://www.fatima-zohra.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 11,
+      "cid": "14621447731507265260",
+      "placeId": "ChIJDVGLi0sayUwR7H5uej7R6co",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 88,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-13",
+    "sourceIndex": 12,
+    "name": "MOSQUÉE RAHMA du CDS BALIMAYA",
+    "slug": "mosqu-e-rahma-du-cds-balimaya-montr-al",
+    "address": {
+      "raw": "5690 Rue Fullum B, Montréal, QC H2G 2H7, Canada",
+      "streetAddress": "5690 Rue Fullum B",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2G 2H7",
+        "normalized": "H2G 2H7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5435554,
+      "longitude": -73.5835812
+    },
+    "phone": {
+      "raw": "+1 514-272-2424",
+      "normalized": "+15142722424"
+    },
+    "website": "https://www.cdsbalimaya.org/en/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 8:45 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 87,
+        "targetTitle": "Jumah",
+        "targetPlaceId": "ChIJnxxAbAAZyUwRlZ7Mnhy7jRE",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 12,
+      "cid": "295603447076877109",
+      "placeId": "ChIJv2hDQwAZyUwRNfNl2cQxGgQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 207,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-15",
+    "sourceIndex": 14,
+    "name": "Mosquée Bel Agir",
+    "slug": "mosqu-e-bel-agir-montr-al",
+    "address": {
+      "raw": "8390 Rue St-Hubert, Montréal, QC H2P 1Z3, Canada",
+      "streetAddress": "8390 Rue St-Hubert",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2P 1Z3",
+        "normalized": "H2P 1Z3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5476212,
+      "longitude": -73.6305734
+    },
+    "phone": {
+      "raw": "+1 514-383-3682",
+      "normalized": "+15143833682"
+    },
+    "website": "http://www.belagir.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 14,
+      "cid": "15560059238012409391",
+      "placeId": "ChIJ8xk9wiAZyUwRL9bDrW9v8Nc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 132,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-17",
+    "sourceIndex": 16,
+    "name": "Al Ameen Musalla",
+    "slug": "al-ameen-musalla-montr-al",
+    "address": {
+      "raw": "774 Rue Jean-Talon O, Montréal, QC H3N 1S2, Canada",
+      "streetAddress": "774 Rue Jean-Talon O",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3N 1S2",
+        "normalized": "H3N 1S2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5264254,
+      "longitude": -73.6243823
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 16,
+      "cid": "14925056287726846219",
+      "placeId": "ChIJ1TyXSe8ZyUwRC0GrCp5zIM8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 5,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-18",
+    "sourceIndex": 17,
+    "name": "Mosquée Tawuba",
+    "slug": "mosqu-e-tawuba-montreal",
+    "address": {
+      "raw": "2361 Ontario St E, Montreal, Quebec H2K 1W2, Canada",
+      "streetAddress": "2361 Ontario St E",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2K 1W2",
+        "normalized": "H2K 1W2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5311387,
+      "longitude": -73.5545915
+    },
+    "phone": {
+      "raw": "+1 514-991-3441",
+      "normalized": "+15149913441"
+    },
+    "website": "https://tawuba.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 17,
+      "cid": "4706522293740345576",
+      "placeId": "ChIJ_XZx0r0byUwR6JjZBRftUEE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 255,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-20",
+    "sourceIndex": 19,
+    "name": "Dhoun-Nourain Mosque",
+    "slug": "dhoun-nourain-mosque-montr-al",
+    "address": {
+      "raw": "5275 Ch. Queen Mary 2e étage, Montréal, QC H3W 3E7, Canada",
+      "streetAddress": "5275 Ch. Queen Mary 2e étage",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3W 3E7",
+        "normalized": "H3W 3E7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4841582,
+      "longitude": -73.6291575
+    },
+    "phone": null,
+    "website": "http://salafidemontreal.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 19,
+      "cid": "18112620451118894028",
+      "placeId": "ChIJrVt16lcXyUwRzMtq5FX0XPs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 192,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-21",
+    "sourceIndex": 20,
+    "name": "Mosquee Al Qods",
+    "slug": "mosquee-al-qods-montr-al",
+    "address": {
+      "raw": "2465 Rue Bélanger, Montréal, QC H2G 1E6, Canada",
+      "streetAddress": "2465 Rue Bélanger",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2G 1E6",
+        "normalized": "H2G 1E6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5517379,
+      "longitude": -73.5990397
+    },
+    "phone": {
+      "raw": "+1 514-729-5737",
+      "normalized": "+15147295737"
+    },
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 20,
+      "cid": "6908437663898105062",
+      "placeId": "ChIJJzo9HkkZyUwR5nST7XOz318",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 263,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-23",
+    "sourceIndex": 22,
+    "name": "Bilal Islamic Centre of Quebec",
+    "slug": "bilal-islamic-centre-of-quebec-montr-al",
+    "address": {
+      "raw": "4139 Rue Jean-Talon O, Montréal, QC H4P 1W6, Canada",
+      "streetAddress": "4139 Rue Jean-Talon O",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4P 1W6",
+        "normalized": "H4P 1W6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5012898,
+      "longitude": -73.64612
+    },
+    "phone": {
+      "raw": "+1 514-739-3856",
+      "normalized": "+15147393856"
+    },
+    "website": "https://bilal-islamic-centre-quebec.netlify.app/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 22,
+      "cid": "11706836938495836826",
+      "placeId": "ChIJqzxg5OYZyUwRmkJ3iisKd6I",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 64,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-24",
+    "sourceIndex": 23,
+    "name": "Centre Islamique de Verdun",
+    "slug": "centre-islamique-de-verdun-montr-al",
+    "address": {
+      "raw": "4538 Rue de Verdun, Montréal, QC H4G 1M3, Canada",
+      "streetAddress": "4538 Rue de Verdun",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4G 1M3",
+        "normalized": "H4G 1M3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4590693,
+      "longitude": -73.5714399
+    },
+    "phone": {
+      "raw": "+1 514-508-9419",
+      "normalized": "+15145089419"
+    },
+    "website": "https://centres.macnet.ca/civ/fr/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 23,
+      "cid": "17982112034743852456",
+      "placeId": "ChIJ_ZN9al4QyUwRqB0vTp9Ljfk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 316,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-25",
+    "sourceIndex": 24,
+    "name": "Centre Islamique Libanais à Montréal",
+    "slug": "centre-islamique-libanais-montr-al",
+    "address": {
+      "raw": "40 Rue de Port-Royal E, Montréal, QC H3L 1H7, Canada",
+      "streetAddress": "40 Rue de Port-Royal E",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3L 1H7",
+        "normalized": "H3L 1H7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5473326,
+      "longitude": -73.6562489
+    },
+    "phone": {
+      "raw": "+1 514-381-6827",
+      "normalized": "+15143816827"
+    },
+    "website": "http://cilmontreal.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 1,
+        "targetTitle": "Lebanese Islamic Center",
+        "targetPlaceId": "ChIJX2UxfOoYyUwRwNXcmRAKViw",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 24,
+      "cid": "7669338720949718836",
+      "placeId": "ChIJ_f-_euoYyUwRNE9bzO72bmo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 41,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-27",
+    "sourceIndex": 26,
+    "name": "Aisha Islamic Center",
+    "slug": "aisha-islamic-center-montr-al",
+    "address": {
+      "raw": "425 Rue de l'Aqueduc, Montréal, QC H3C 4J8, Canada",
+      "streetAddress": "425 Rue de l'Aqueduc",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3C 4J8",
+        "normalized": "H3C 4J8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4921106,
+      "longitude": -73.5648339
+    },
+    "phone": {
+      "raw": "+1 514-360-3133",
+      "normalized": "+15143603133"
+    },
+    "website": "http://aishaic.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 26,
+      "cid": "730300606936416360",
+      "placeId": "ChIJA42PNWEayUwRaICyX4iMIgo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 257,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-28",
+    "sourceIndex": 27,
+    "name": "Centre islamique de Québec et de Canada",
+    "slug": "centre-islamique-de-qu-bec-et-de-canada-montr-al",
+    "address": {
+      "raw": "10155 Boul. Saint-Laurent, Montréal, QC H3L 2N5, Canada",
+      "streetAddress": "10155 Boul. Saint-Laurent",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3L 2N5",
+        "normalized": "H3L 2N5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5480519,
+      "longitude": -73.6626911
+    },
+    "phone": {
+      "raw": "+1 514-548-2107",
+      "normalized": "+15145482107"
+    },
+    "website": "https://albaina.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 27,
+      "cid": "6306865099419118292",
+      "placeId": "ChIJ-U_5RN4ZyUwR1GoviWR8hlc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 74,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-31",
+    "sourceIndex": 30,
+    "name": "Al Bayan Islamic Community Center (opens only during prayer times and close 30.min after ishae)",
+    "slug": "al-bayan-islamic-community-center-opens-only-during-prayer-times-and-close-30-min-after-ishae-montr-al",
+    "address": {
+      "raw": "5865 Bd Saint-Michel, Montréal, QC H1Y 2E3, Canada",
+      "streetAddress": "5865 Bd Saint-Michel",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1Y 2E3",
+        "normalized": "H1Y 2E3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5532998,
+      "longitude": -73.5799006
+    },
+    "phone": {
+      "raw": "+1 438-877-8389",
+      "normalized": "+14388778389"
+    },
+    "website": null,
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 7:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 30,
+      "cid": "12163870832841769093",
+      "placeId": "ChIJv68lUVQZyUwRhcBEVRPAzqg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 114,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-32",
+    "sourceIndex": 31,
+    "name": "Shah Jalal Mosque",
+    "slug": "shah-jalal-mosque-montr-al",
+    "address": {
+      "raw": "3740 Rue Workman, Montréal, QC H4C 1N8, Canada",
+      "streetAddress": "3740 Rue Workman",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4C 1N8",
+        "normalized": "H4C 1N8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4794565,
+      "longitude": -73.5825482
+    },
+    "phone": {
+      "raw": "+1 514-935-1213",
+      "normalized": "+15149351213"
+    },
+    "website": "https://shahjalalislamiccentre.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 31,
+      "cid": "7205731904706016233",
+      "placeId": "ChIJWXrA0ncayUwR6XOzXv3m_2M",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 162,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-33",
+    "sourceIndex": 32,
+    "name": "Salahouddine Mosque",
+    "slug": "salahouddine-mosque-montr-al",
+    "address": {
+      "raw": "6691 Av. du Parc, Montréal, QC H2V 4J1, Canada",
+      "streetAddress": "6691 Av. du Parc",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2V 4J1",
+        "normalized": "H2V 4J1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5285181,
+      "longitude": -73.6158974
+    },
+    "phone": {
+      "raw": "+1 514-274-6194",
+      "normalized": "+15142746194"
+    },
+    "website": "https://www.aicp.ca/montreal/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 32,
+      "cid": "17880929146919233568",
+      "placeId": "ChIJ295YQHMZyUwRIKgMaFLSJfg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 181,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-34",
+    "sourceIndex": 33,
+    "name": "Madina Musallah",
+    "slug": "madina-musallah-montr-al",
+    "address": {
+      "raw": "764 Rue de Liège O, Montréal, QC H3N 1B2, Canada",
+      "streetAddress": "764 Rue de Liège O",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3N 1B2",
+        "normalized": "H3N 1B2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5318315,
+      "longitude": -73.6423548
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 33,
+      "cid": "4113056277628388500",
+      "placeId": "ChIJVXPj-f0YyUwRlAQ7geSCFDk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 26,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-35",
+    "sourceIndex": 34,
+    "name": "Khadijah Mosque",
+    "slug": "khadijah-mosque-montr-al",
+    "address": {
+      "raw": "2385 Rue Centre, Montréal, QC H3K 2W9, Canada",
+      "streetAddress": "2385 Rue Centre",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3K 2W9",
+        "normalized": "H3K 2W9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4799461,
+      "longitude": -73.5671381
+    },
+    "phone": {
+      "raw": "+1 514-934-7684",
+      "normalized": "+15149347684"
+    },
+    "website": "https://khadijahmtl.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 34,
+      "cid": "3263290525157585205",
+      "placeId": "ChIJyaPWF34ayUwRNXHqZnGJSS0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 248,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-37",
+    "sourceIndex": 36,
+    "name": "Abou Bakr Asseddique Mosque",
+    "slug": "abou-bakr-asseddique-mosque-montr-al",
+    "address": {
+      "raw": "371 Rue Jean-Talon E, Montréal, QC H2R 2E2, Canada",
+      "streetAddress": "371 Rue Jean-Talon E",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2R 2E2",
+        "normalized": "H2R 2E2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5380763,
+      "longitude": -73.614871
+    },
+    "phone": {
+      "raw": "+1 514-506-8899",
+      "normalized": "+15145068899"
+    },
+    "website": "https://www.ccvmac.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 36,
+      "cid": "14319417491899556784",
+      "placeId": "ChIJt3BUixQZyUwRsCMwY1fKuMY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 123,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-38",
+    "sourceIndex": 37,
+    "name": "Baitul Mukarram Mosque",
+    "slug": "baitul-mukarram-mosque-montr-al",
+    "address": {
+      "raw": "4225 Av. de Courtrai, Montréal, QC H3S 1B8, Canada",
+      "streetAddress": "4225 Av. de Courtrai",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3S 1B8",
+        "normalized": "H3S 1B8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5006081,
+      "longitude": -73.6430255
+    },
+    "phone": {
+      "raw": "+1 514-737-8671",
+      "normalized": "+15147378671"
+    },
+    "website": "https://www.facebook.com/masjidbaitulmukarrammtl/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 37,
+      "cid": "8264344680290191802",
+      "placeId": "ChIJ92tdRcQZyUwRugkWSrPZsHI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 337,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-39",
+    "sourceIndex": 38,
+    "name": "Masjid Ahlillbait Mosque",
+    "slug": "masjid-ahlillbait-mosque-montr-al",
+    "address": {
+      "raw": "4075 Av. de Courtrai, Montréal, QC H3S 1B8, Canada",
+      "streetAddress": "4075 Av. de Courtrai",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3S 1B8",
+        "normalized": "H3S 1B8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5012535,
+      "longitude": -73.6424202
+    },
+    "phone": {
+      "raw": "+1 514-342-7001",
+      "normalized": "+15143427001"
+    },
+    "website": "http://www.ahlillbait.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2 PM, 8:30 to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2 PM, 8:30 to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2 PM, 8:30 to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2 PM, 8:30 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2 PM, 8:30 to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2 PM, 8:30 to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 2 PM, 8:30 to 9:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 38,
+      "cid": "15159935672032036852",
+      "placeId": "ChIJfRwrPMQZyUwR9Ac-RSzpYtI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 100,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-40",
+    "sourceIndex": 39,
+    "name": "Assuna Annabawiyah Mosque",
+    "slug": "assuna-annabawiyah-mosque-montreal",
+    "address": {
+      "raw": "7220 Rue Hutchison, Montreal, Quebec H3N 1Z1, Canada",
+      "streetAddress": "7220 Rue Hutchison",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3N 1Z1",
+        "normalized": "H3N 1Z1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5297172,
+      "longitude": -73.6232417
+    },
+    "phone": {
+      "raw": "+1 514-278-8441",
+      "normalized": "+15142788441"
+    },
+    "website": "http://www.assuna.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 39,
+      "cid": "3072804625154659565",
+      "placeId": "ChIJl7MjIAwZyUwR7VSFsobLpCo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 247,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-41",
+    "sourceIndex": 40,
+    "name": "Organization Of The Masjid of Noor-e-Madina",
+    "slug": "organization-of-the-masjid-of-noor-e-madina-montr-al",
+    "address": {
+      "raw": "692 Rue Jean-Talon O, Montréal, QC H3N 1R8, Canada",
+      "streetAddress": "692 Rue Jean-Talon O",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3N 1R8",
+        "normalized": "H3N 1R8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5269298,
+      "longitude": -73.6239433
+    },
+    "phone": {
+      "raw": "+1 514-276-2459",
+      "normalized": "+15142762459"
+    },
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 40,
+      "cid": "14147775240810216364",
+      "placeId": "ChIJX-TaxAsZyUwRrDuPlp_-VsQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 116,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-43",
+    "sourceIndex": 42,
+    "name": "Al-Rawdah Masjid",
+    "slug": "al-rawdah-masjid-montreal",
+    "address": {
+      "raw": "12253 Blvd. Laurentien, Montreal, Quebec H4K 1N5, Canada",
+      "streetAddress": "12253 Blvd. Laurentien",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4K 1N5",
+        "normalized": "H4K 1N5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5292443,
+      "longitude": -73.7222824
+    },
+    "phone": {
+      "raw": "+1 514-227-5000",
+      "normalized": "+15142275000"
+    },
+    "website": "https://centres.macnet.ca/alrawdah/fr/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM, 5 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM, 5 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM, 5 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM, 5 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM, 5 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 3 PM, 5 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 42,
+      "cid": "17892084032341355348",
+      "placeId": "ChIJPUb4aI0iyUwRVCslj6FzTfg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 599,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-45",
+    "sourceIndex": 44,
+    "name": "Masjid As-Salam Mosque",
+    "slug": "masjid-as-salam-mosque-montr-al",
+    "address": {
+      "raw": "1177 Rue de la Montagne, Montréal, QC H3G 1Z2, Canada",
+      "streetAddress": "1177 Rue de la Montagne",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3G 1Z2",
+        "normalized": "H3G 1Z2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4972367,
+      "longitude": -73.5730618
+    },
+    "phone": null,
+    "website": "https://assalam.info/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 44,
+      "cid": "306310779339094495",
+      "placeId": "ChIJRaJhNkIayUwR3zlh6Qc8QAQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 619,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-46",
+    "sourceIndex": 45,
+    "name": "Al-Andalous Islamic Center",
+    "slug": "al-andalous-islamic-center-saint-laurent",
+    "address": {
+      "raw": "816 Sainte Croix Ave, Saint-Laurent, Quebec H4L 3Y4, Canada",
+      "streetAddress": "816 Sainte Croix Ave",
+      "city": "Saint-Laurent",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4L 3Y4",
+        "normalized": "H4L 3Y4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5135959,
+      "longitude": -73.6762393
+    },
+    "phone": {
+      "raw": "+1 514-360-2360",
+      "normalized": "+15143602360"
+    },
+    "website": "https://www.icandalous.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Saint-Laurent service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 45,
+      "cid": "13025436968260976266",
+      "placeId": "ChIJBxWj22oYyUwRir5vMemlw7Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 519,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-47",
+    "sourceIndex": 46,
+    "name": "Taiba Mosque",
+    "slug": "taiba-mosque-montreal",
+    "address": {
+      "raw": "3560 Ave Van Horne, Montreal, Quebec H3S 1R4, Canada",
+      "streetAddress": "3560 Ave Van Horne",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3S 1R4",
+        "normalized": "H3S 1R4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5011659,
+      "longitude": -73.6316414
+    },
+    "phone": null,
+    "website": "http://www.masjidtaiba.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 46,
+      "cid": "5231321385278463846",
+      "placeId": "ChIJB54j9uoZyUwRZl9tSxVjmUg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 256,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-49",
+    "sourceIndex": 48,
+    "name": "Islamic Center Al-Houda",
+    "slug": "islamic-center-al-houda-montr-al",
+    "address": {
+      "raw": "9935 Av. Lausanne, Montréal-Nord, QC H1H 5A6, Canada",
+      "streetAddress": "9935 Av. Lausanne",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1H 5A6",
+        "normalized": "H1H 5A6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5779009,
+      "longitude": -73.6382509
+    },
+    "phone": null,
+    "website": "http://mawaqit.net/fr/ich-mtl",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 48,
+      "cid": "15792148520872526659",
+      "placeId": "ChIJBWP_MlgfyUwRQ0PRymj7KNs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 45,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-50",
+    "sourceIndex": 49,
+    "name": "Mosquée Centre Al-Tawheed جمعية التوحيد",
+    "slug": "mosqu-e-centre-al-tawheed-saint-l-onard",
+    "address": {
+      "raw": "6130 Rue Jean-Talon E, Saint-Léonard, QC H1S 1M7, Canada",
+      "streetAddress": "6130 Rue Jean-Talon E",
+      "city": "Saint-Léonard",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1S 1M7",
+        "normalized": "H1S 1M7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5886791,
+      "longitude": -73.5775254
+    },
+    "phone": null,
+    "website": "https://www.altawhid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 77,
+        "targetTitle": "Premier Masjid altawheed",
+        "targetPlaceId": "ChIJi9zRboweyUwRbHDDpvsZlLw",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Saint-Léonard service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 49,
+      "cid": "16556189693466117199",
+      "placeId": "ChIJwznWx60fyUwRTwQIyc5mw-U",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 49,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-51",
+    "sourceIndex": 50,
+    "name": "Centre Communautaire Al-Hidaya",
+    "slug": "centre-communautaire-al-hidaya-montreal",
+    "address": {
+      "raw": "Montreal, Quebec H1N 1X3, Canada",
+      "streetAddress": null,
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1N 1X3",
+        "normalized": "H1N 1X3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5728114,
+      "longitude": -73.5363154
+    },
+    "phone": null,
+    "website": null,
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 76,
+        "targetTitle": "Alhidayat Association",
+        "targetPlaceId": "ChIJxe6tv0AcyUwRMNe6q_hSFgU",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 50,
+      "cid": "7004178023113856497",
+      "placeId": "ChIJuW-ivkAcyUwR8ZVMY83WM2E",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 157,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-52",
+    "sourceIndex": 51,
+    "name": "NdG Mosque",
+    "slug": "ndg-mosque-montreal",
+    "address": {
+      "raw": "7445 Chester Ave, Montreal, Quebec H4V 1M4, Canada",
+      "streetAddress": "7445 Chester Ave",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4V 1M4",
+        "normalized": "H4V 1M4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4597056,
+      "longitude": -73.654602
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 51,
+      "cid": "1293907546183429512",
+      "placeId": "ChIJO7AUIwAXyUwRiO11zg7i9BE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 7,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-53",
+    "sourceIndex": 52,
+    "name": "The Iranian Islamic Center of Montreal Inc.",
+    "slug": "the-iranian-islamic-center-of-montreal-inc-lachine",
+    "address": {
+      "raw": "210 St Jacques St, Lachine, Quebec H8R 1E2, Canada",
+      "streetAddress": "210 St Jacques St",
+      "city": "Lachine",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H8R 1E2",
+        "normalized": "H8R 1E2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4448637,
+      "longitude": -73.6457896
+    },
+    "phone": {
+      "raw": "+1 514-366-1509",
+      "normalized": "+15143661509"
+    },
+    "website": null,
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Lachine service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 52,
+      "cid": "16437084473797454821",
+      "placeId": "ChIJ-S-sB9QWyUwR5SvJ0z1BHOQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 30,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-57",
+    "sourceIndex": 56,
+    "name": "Mosquée et Centre Assalam",
+    "slug": "mosqu-e-et-centre-assalam-montr-al",
+    "address": {
+      "raw": "8988 Bd Saint-Michel, Montréal, QC H1Z 3G4, Canada",
+      "streetAddress": "8988 Bd Saint-Michel",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1Z 3G4",
+        "normalized": "H1Z 3G4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5711311,
+      "longitude": -73.6267895
+    },
+    "phone": {
+      "raw": "+1 514-381-7638",
+      "normalized": "+15143817638"
+    },
+    "website": "https://www.facebook.com/centrecommunautaireislamiqueassalam/?fref=ts",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 56,
+      "cid": "3631035284841801539",
+      "placeId": "ChIJW-yUOS8fyUwRQ6fnf1oHZDI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 135,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-58",
+    "sourceIndex": 57,
+    "name": "Mosquée Elfath",
+    "slug": "mosqu-e-elfath-montr-al",
+    "address": {
+      "raw": "11660 Bd Rivière-des-Prairies, Montréal, QC H1C 1P9, Canada",
+      "streetAddress": "11660 Bd Rivière-des-Prairies",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1C 1P9",
+        "normalized": "H1C 1P9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.6477436,
+      "longitude": -73.5586389
+    },
+    "phone": {
+      "raw": "+1 514-951-1660",
+      "normalized": "+15149511660"
+    },
+    "website": "http://www.elfath.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 57,
+      "cid": "9840370684306895685",
+      "placeId": "ChIJt_yZtsfhyEwRRbNHOAAFkIg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 120,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-59",
+    "sourceIndex": 58,
+    "name": "Centre Islamique Ahmadiyya de Montréal",
+    "slug": "centre-islamique-ahmadiyya-de-montr-al",
+    "address": {
+      "raw": "9899 Bd Saint-Michel, Montréal-Nord, QC H1H 5G7, Canada",
+      "streetAddress": "9899 Bd Saint-Michel",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1H 5G7",
+        "normalized": "H1H 5G7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5770926,
+      "longitude": -73.6381542
+    },
+    "phone": {
+      "raw": "+1 514-323-1515",
+      "normalized": "+15143231515"
+    },
+    "website": "http://www.ahmadiyya.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 58,
+      "cid": "4113551006614952",
+      "placeId": "ChIJTekoDzkfyUwRqMWDukCdDgA",
+      "rawCategoryName": "Place of worship",
+      "rawCategories": [
+        "Place of worship",
+        "Mission",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 79,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-60",
+    "sourceIndex": 59,
+    "name": "Mosalla Baitul Maqdis",
+    "slug": "mosalla-baitul-maqdis-montr-al",
+    "address": {
+      "raw": "9085 45e Rue, Montréal, QC H1Z 1M6, Canada",
+      "streetAddress": "9085 45e Rue",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1Z 1M6",
+        "normalized": "H1Z 1M6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5797922,
+      "longitude": -73.6200748
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 59,
+      "cid": "10714268336563223062",
+      "placeId": "ChIJyafTjSEfyUwRFvoQFUm6sJQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 63,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-62",
+    "sourceIndex": 61,
+    "name": "Centre Communautaire Annour",
+    "slug": "centre-communautaire-annour-montr-al",
+    "address": {
+      "raw": "4600 Rue Forest, Montréal, QC H1H 3N8, Canada",
+      "streetAddress": "4600 Rue Forest",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1H 3N8",
+        "normalized": "H1H 3N8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5899749,
+      "longitude": -73.6284377
+    },
+    "phone": null,
+    "website": null,
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 61,
+      "cid": "14004979388826369718",
+      "placeId": "ChIJ__-vKxIfyUwRtr6pdY2uW8I",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 7,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-63",
+    "sourceIndex": 62,
+    "name": "Mosquée ALIRFAN",
+    "slug": "mosqu-e-alirfan-montr-al",
+    "address": {
+      "raw": "10963 Rue Massé, Montréal-Nord, QC H1G 4G5, Canada",
+      "streetAddress": "10963 Rue Massé",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1G 4G5",
+        "normalized": "H1G 4G5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.6039248,
+      "longitude": -73.6139937
+    },
+    "phone": {
+      "raw": "+1 514-623-1762",
+      "normalized": "+15146231762"
+    },
+    "website": "https://www.facebook.com/share/18nzDjp8h5/?mibextid=wwXIfr",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 62,
+      "cid": "8445998226002757235",
+      "placeId": "ChIJDQdauFUfyUwRc0Z5QqM2NnU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 38,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-64",
+    "sourceIndex": 63,
+    "name": "Mosquée Imam Warch",
+    "slug": "mosqu-e-imam-warch-montr-al",
+    "address": {
+      "raw": "3210 Boulevard Henri-Bourassa E, Montréal-Nord, Quebec H1H 5T1, Canada",
+      "streetAddress": "3210 Boulevard Henri-Bourassa E",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1H 5T1",
+        "normalized": "H1H 5T1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.583133,
+      "longitude": -73.6503403
+    },
+    "phone": {
+      "raw": "+1 514-508-5282",
+      "normalized": "+15145085282"
+    },
+    "website": "http://imamwarch.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 63,
+      "cid": "13485373339513546706",
+      "placeId": "ChIJ9-7yHkMfyUwR0mc6jZqrJbs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 119,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-67",
+    "sourceIndex": 66,
+    "name": "Badr Islamic Centre of Saint-Leonard",
+    "slug": "badr-islamic-centre-of-saint-leonard-saint-l-onard",
+    "address": {
+      "raw": "8625 Boul Langelier, Saint-Léonard, QC H1P 2C6, Canada",
+      "streetAddress": "8625 Boul Langelier",
+      "city": "Saint-Léonard",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1P 2C6",
+        "normalized": "H1P 2C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5989133,
+      "longitude": -73.5909081
+    },
+    "phone": {
+      "raw": "+1 514-255-6460",
+      "normalized": "+15142556460"
+    },
+    "website": "http://www.centrebadr.net/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Saint-Léonard service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 66,
+      "cid": "16237888784160261429",
+      "placeId": "ChIJmeXcn1ceyUwRNQUsMtGRWOE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 418,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-68",
+    "sourceIndex": 67,
+    "name": "Turkish Islamic Centre of Quebec",
+    "slug": "turkish-islamic-centre-of-quebec-montr-al",
+    "address": {
+      "raw": "3785 Rue Villeray, Montréal, QC H2A 1G5, Canada",
+      "streetAddress": "3785 Rue Villeray",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2A 1G5",
+        "normalized": "H2A 1G5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5661197,
+      "longitude": -73.5995808
+    },
+    "phone": {
+      "raw": "+1 514-722-1835",
+      "normalized": "+15147221835"
+    },
+    "website": "http://www.turkcommunity.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 67,
+      "cid": "4813981987402031011",
+      "placeId": "ChIJlWtV_cgeyUwRox86qhyzzkI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 92,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-69",
+    "sourceIndex": 68,
+    "name": "Noor Al Islam Masjid",
+    "slug": "noor-al-islam-masjid-montr-al",
+    "address": {
+      "raw": "10395 Av. Pelletier, Montréal-Nord, QC H1H 2N9, Canada",
+      "streetAddress": "10395 Av. Pelletier",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1H 2N9",
+        "normalized": "H1H 2N9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5892657,
+      "longitude": -73.629532
+    },
+    "phone": {
+      "raw": "+1 514-416-6244",
+      "normalized": "+15144166244"
+    },
+    "website": "http://www.ammn.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 68,
+      "cid": "11727586230144474562",
+      "placeId": "ChIJfwwYxRMfyUwRwh2GeIrBwKI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 379,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-70",
+    "sourceIndex": 69,
+    "name": "Centre Communautaire Islamique",
+    "slug": "centre-communautaire-islamique-montr-al",
+    "address": {
+      "raw": "4201 Rue Bélanger, Montréal, QC H1T 1A4, Canada",
+      "streetAddress": "4201 Rue Bélanger",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1T 1A4",
+        "normalized": "H1T 1A4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5657554,
+      "longitude": -73.5869
+    },
+    "phone": {
+      "raw": "+1 514-725-0008",
+      "normalized": "+15147250008"
+    },
+    "website": "https://assahaba.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 69,
+      "cid": "8969597197607926071",
+      "placeId": "ChIJdzY2lLAeyUwRN3nC1SBpenw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 235,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-71",
+    "sourceIndex": 70,
+    "name": "Sheikh Zayed Cultural Islamic Center",
+    "slug": "sheikh-zayed-cultural-islamic-center-lasalle",
+    "address": {
+      "raw": "495 Av. Lafleur, LaSalle, QC H8R 3J2, Canada",
+      "streetAddress": "495 Av. Lafleur",
+      "city": "Lasalle",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H8R 3J2",
+        "normalized": "H8R 3J2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.433863,
+      "longitude": -73.645476
+    },
+    "phone": {
+      "raw": "+1 438-993-5302",
+      "normalized": "+14389935302"
+    },
+    "website": "https://www.launchgood.com/campaign/sheikh_zayed_islamic_cultural__center?src=internal_discover#!/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Lasalle service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 70,
+      "cid": "9340012966669134520",
+      "placeId": "ChIJyy0ttjQRyUwRuCrbw05knoE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 96,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-72",
+    "sourceIndex": 71,
+    "name": "Aljazira islamic center",
+    "slug": "aljazira-islamic-center-verdun",
+    "address": {
+      "raw": "280 Rue Elgar, Verdun, QC H3E 1C9, Canada",
+      "streetAddress": "280 Rue Elgar",
+      "city": "Verdun",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3E 1C9",
+        "normalized": "H3E 1C9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.45653,
+      "longitude": -73.54718
+    },
+    "phone": null,
+    "website": "http://www.mosqueprayertimes.com/aljaziramosque",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Verdun service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 71,
+      "cid": "9272146531095751939",
+      "placeId": "ChIJ_SR5zBUQyUwRAy1V4yRIrYA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 61,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-73",
+    "sourceIndex": 72,
+    "name": "Masjid Al-Balkan",
+    "slug": "masjid-al-balkan-montr-al",
+    "address": {
+      "raw": "2836 Rue Allard, Montréal, QC H4E 2M2, Canada",
+      "streetAddress": "2836 Rue Allard",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4E 2M2",
+        "normalized": "H4E 2M2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4501531,
+      "longitude": -73.5981014
+    },
+    "phone": {
+      "raw": "+1 514-360-2663",
+      "normalized": "+15143602663"
+    },
+    "website": "https://balkanmc.wordpress.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 72,
+      "cid": "9590585846736334369",
+      "placeId": "ChIJywN3IuUQyUwRIa6btgObGIU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 126,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-74",
+    "sourceIndex": 73,
+    "name": "Musalla Umar",
+    "slug": "musalla-umar-lasalle",
+    "address": {
+      "raw": "9023 Rue Airlie, LaSalle, QC H8R 2A4, Canada",
+      "streetAddress": "9023 Rue Airlie",
+      "city": "Lasalle",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H8R 2A4",
+        "normalized": "H8R 2A4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4210362,
+      "longitude": -73.6314156
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Lasalle service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 73,
+      "cid": "17506155552096255635",
+      "placeId": "ChIJ2SUJp0MRyUwRk_5tGblb8vI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 15,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-78",
+    "sourceIndex": 77,
+    "name": "Premier Masjid altawheed",
+    "slug": "premier-masjid-altawheed-saint-l-onard",
+    "address": {
+      "raw": "6130 Rue Jean-Talon E, Saint-Léonard, QC H1S 1M7, Canada",
+      "streetAddress": "6130 Rue Jean-Talon E",
+      "city": "Saint-Léonard",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1S 1M7",
+        "normalized": "H1S 1M7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5863533,
+      "longitude": -73.5791409
+    },
+    "phone": {
+      "raw": "+1 514-223-2353",
+      "normalized": "+15142232353"
+    },
+    "website": "https://www.altawhid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 49,
+        "targetTitle": "Mosquée Centre Al-Tawheed جمعية التوحيد",
+        "targetPlaceId": "ChIJwznWx60fyUwRTwQIyc5mw-U",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 64,
+        "targetTitle": "Al tawhid",
+        "targetPlaceId": "ChIJl8HNvI0eyUwRnmFRL0FlBIs",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Saint-Léonard service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 77,
+      "cid": "13588514544308940908",
+      "placeId": "ChIJi9zRboweyUwRbHDDpvsZlLw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 31,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-80",
+    "sourceIndex": 79,
+    "name": "Masjid Makkah-Al-Mukkaramah",
+    "slug": "masjid-makkah-al-mukkaramah-pierrefonds",
+    "address": {
+      "raw": "11900 Boul Gouin O, Pierrefonds, QC H8Z 1V6, Canada",
+      "streetAddress": "11900 Boul Gouin O",
+      "city": "Pierrefonds",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H8Z 1V6",
+        "normalized": "H8Z 1V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5069757,
+      "longitude": -73.8249798
+    },
+    "phone": {
+      "raw": "+1 514-421-1455",
+      "normalized": "+15144211455"
+    },
+    "website": "http://masjidmakkah.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Pierrefonds service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 79,
+      "cid": "11355105111097396600",
+      "placeId": "ChIJWeJ3IFE7yUwReM0uxu9vlZ0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 381,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-81",
+    "sourceIndex": 80,
+    "name": "Masjid Al Huda",
+    "slug": "masjid-al-huda-pierrefonds",
+    "address": {
+      "raw": "9540 Boul Gouin O, Pierrefonds, QC H8Y 2B1, Canada",
+      "streetAddress": "9540 Boul Gouin O",
+      "city": "Pierrefonds",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H8Y 2B1",
+        "normalized": "H8Y 2B1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5039138,
+      "longitude": -73.7794688
+    },
+    "phone": {
+      "raw": "+1 514-542-4832",
+      "normalized": "+15145424832"
+    },
+    "website": "https://ccalhuda.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Pierrefonds service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 80,
+      "cid": "7369802136023929896",
+      "placeId": "ChIJQbETJvU9yUwRKBSf7v7LRmY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 71,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-83",
+    "sourceIndex": 82,
+    "name": "Ach-choura Mosque",
+    "slug": "ach-choura-mosque-montr-al",
+    "address": {
+      "raw": "5434 Boulevard Henri-Bourassa E, Montréal-Nord, Quebec H1G 2S9, Canada",
+      "streetAddress": "5434 Boulevard Henri-Bourassa E",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H1G 2S9",
+        "normalized": "H1G 2S9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.6047118,
+      "longitude": -73.6242705
+    },
+    "phone": {
+      "raw": "+1 514-852-0778",
+      "normalized": "+15148520778"
+    },
+    "website": "http://achoura.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 82,
+      "cid": "9463820724773670288",
+      "placeId": "ChIJf91j6qEfyUwRkE0dxs4-VoM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 112,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-86",
+    "sourceIndex": 85,
+    "name": "Mosquée",
+    "slug": "mosqu-e-montreal",
+    "address": {
+      "raw": "2025 Madison Ave, Montreal, Quebec H4B 2T2, Canada",
+      "streetAddress": "2025 Madison Ave",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4B 2T2",
+        "normalized": "H4B 2T2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4635217,
+      "longitude": -73.6185607
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 85,
+      "cid": "18333854799515551924",
+      "placeId": "ChIJsXBkZgARyUwRtAi3oM3vbv4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-89",
+    "sourceIndex": 88,
+    "name": "Madrasa and Musalla Omar",
+    "slug": "madrasa-and-musalla-omar-montr-al",
+    "address": {
+      "raw": "7690 Av. Querbes, Montréal, QC H3N 1K6, Canada",
+      "streetAddress": "7690 Av. Querbes",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3N 1K6",
+        "normalized": "H3N 1K6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5299557,
+      "longitude": -73.6289043
+    },
+    "phone": {
+      "raw": "+1 514-746-0541",
+      "normalized": "+15147460541"
+    },
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 88,
+      "cid": "14452486687086536668",
+      "placeId": "ChIJHyIEdWkZyUwR3OfawBGMkcg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 4,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-91",
+    "sourceIndex": 90,
+    "name": "Centre Culturel Khadimou Rassoul - Keur Serigne Touba",
+    "slug": "centre-culturel-khadimou-rassoul-keur-serigne-touba-montr-al",
+    "address": {
+      "raw": "10775 Ave Millen, Montréal, QC H2C 1E4, Canada",
+      "streetAddress": "10775 Ave Millen",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2C 1E4",
+        "normalized": "H2C 1E4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5572356,
+      "longitude": -73.668572
+    },
+    "phone": {
+      "raw": "+1 514-384-6050",
+      "normalized": "+15143846050"
+    },
+    "website": "http://dahiranouroudarayni.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7:30 PM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 PM to 1 AM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Montréal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 90,
+      "cid": "18282561983350534171",
+      "placeId": "ChIJjbrWQecZyUwRG3CrOUK1uP0",
+      "rawCategoryName": "Cultural center",
+      "rawCategories": [
+        "Cultural center",
+        "Community center",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 71,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-92",
+    "sourceIndex": 91,
+    "name": "Mosquée FoMAC centre Loqman",
+    "slug": "mosqu-e-fomac-centre-loqman-montreal",
+    "address": {
+      "raw": "9850 Rue Tolhurst #201, Montreal, Quebec H3L 1Z4, Canada",
+      "streetAddress": "9850 Rue Tolhurst #201",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3L 1Z4",
+        "normalized": "H3L 1Z4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5424338,
+      "longitude": -73.6623628
+    },
+    "phone": {
+      "raw": "+1 514-812-4041",
+      "normalized": "+15148124041"
+    },
+    "website": "http://www.lefomac.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:40 AM to 11:15 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Montreal service area.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 91,
+      "cid": "11502135299529848315",
+      "placeId": "ChIJjf94MAAZyUwR-zX1Lh3Ln58",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 20,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-19",
+    "sourceIndex": 18,
+    "name": "Mosquée Al falah Ahuntsic",
+    "slug": "mosqu-e-al-falah-ahuntsic-montr-al",
+    "address": {
+      "raw": "1 Rue Legendre O, Montréal, QC H2N 1G9, Canada",
+      "streetAddress": "1 Rue Legendre O",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2N 1G9",
+        "normalized": "H2N 1G9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5434063,
+      "longitude": -73.6483021
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 21,
+        "targetTitle": "Centre Islamic Ahuntsic Cartierville",
+        "targetPlaceId": "ChIJw3HCJeYYyUwRyrk25tZTMIU",
+        "reason": "Shared address with matching identity keywords (14%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque facility in Montreal.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 18,
+      "cid": "716645821858815494",
+      "placeId": "ChIJ5QZa9c4ZyUwRBp6p-ZMJ8gk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 89,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-29",
+    "sourceIndex": 28,
+    "name": "Mosquée Madani",
+    "slug": "mosqu-e-madani-montreal",
+    "address": {
+      "raw": "12080 Blvd. Laurentien, Montreal, Quebec H4K 1M9, Canada",
+      "streetAddress": "12080 Blvd. Laurentien",
+      "city": "Montreal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4K 1M9",
+        "normalized": "H4K 1M9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5269045,
+      "longitude": -73.7180181
+    },
+    "phone": {
+      "raw": "+1 514-331-0733",
+      "normalized": "+15143310733"
+    },
+    "website": "http://mosqueemadani.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 3,
+        "targetTitle": "Académie An-Noor",
+        "targetPlaceId": "ChIJVVWl85EiyUwRrD6_lfN0pMc",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque; legitimate shared location with Islamic academy.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 28,
+      "cid": "17804630569907504394",
+      "placeId": "ChIJr1cG7JEiyUwRCsVlnCvBFvc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 902,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-36",
+    "sourceIndex": 35,
+    "name": "Al-Madinah Center",
+    "slug": "al-madinah-center-montr-al",
+    "address": {
+      "raw": "1260 Rue Mackay, Montréal, QC H3G 2H4, Canada",
+      "streetAddress": "1260 Rue Mackay",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3G 2H4",
+        "normalized": "H3G 2H4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4953827,
+      "longitude": -73.5765974
+    },
+    "phone": {
+      "raw": "+1 514-360-3175",
+      "normalized": "+15143603175"
+    },
+    "website": "https://www.almadinah-center.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 6:30 AM, 11 AM to 8:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified downtown Montreal Islamic Centre with active prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 35,
+      "cid": "11504087773892309974",
+      "placeId": "ChIJZ6PFEnAyVUAR1vPDC-G6pp8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Youth organization"
+      ],
+      "rating": null,
+      "reviewsCount": 241,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-44",
+    "sourceIndex": 43,
+    "name": "Mosquée Al-Omah Al-Islamiah",
+    "slug": "mosqu-e-al-omah-al-islamiah-montr-al",
+    "address": {
+      "raw": "1245 Rue Saint-Dominique, Montréal, QC H2X 2W4, Canada",
+      "streetAddress": "1245 Rue Saint-Dominique",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2X 2W4",
+        "normalized": "H2X 2W4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5101411,
+      "longitude": -73.5623861
+    },
+    "phone": {
+      "raw": "+1 514-879-8677",
+      "normalized": "+15148798677"
+    },
+    "website": "https://www.facebook.com/Al-Omah-Al-Islamia-%C3%A0-Montr%C3%A9al-%D9%85%D8%B3%D8%AC%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D9%86%D8%AA%D8%B1%D9%8A%D8%A7%D9%84-103419381352470/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 81,
+        "targetTitle": "Mosquée Al-Amarab",
+        "targetPlaceId": "ChIJf6fiQgAbyUwRg-9Zz0b7dcA",
+        "reason": "Shared address with matching identity keywords (25%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque in Montreal.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 43,
+      "cid": "10734384047675312201",
+      "placeId": "ChIJdZ4A4U0ayUwRSYhODGsx-JQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 474,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-48",
+    "sourceIndex": 47,
+    "name": "Islamic Centre of Quebec - El Markaz Islami",
+    "slug": "islamic-centre-of-quebec-el-markaz-islami-saint-laurent",
+    "address": {
+      "raw": "2520 Chem. Laval, Saint-Laurent, QC H4L 3A1, Canada",
+      "streetAddress": "2520 Chem. Laval",
+      "city": "Saint-Laurent",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H4L 3A1",
+        "normalized": "H4L 3A1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5214237,
+      "longitude": -73.704611
+    },
+    "phone": {
+      "raw": "+1 514-331-1770",
+      "normalized": "+15143311770"
+    },
+    "website": "https://www.icqmontreal.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified major historic Islamic Centre with congregational prayer halls.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 47,
+      "cid": "11483751343948472330",
+      "placeId": "ChIJZaDq1p0iyUwRCqD2-AB7Xp8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Cemetery",
+        "Funeral home",
+        "Non-profit organization"
+      ],
+      "rating": null,
+      "reviewsCount": 460,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-55",
+    "sourceIndex": 54,
+    "name": "Mosque Al Hadara",
+    "slug": "mosque-al-hadara-montr-al",
+    "address": {
+      "raw": "615 Rue Belmont, Montréal, QC H3B 2L8, Canada",
+      "streetAddress": "615 Rue Belmont",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3B 2L8",
+        "normalized": "H3B 2L8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5021031,
+      "longitude": -73.5656016
+    },
+    "phone": {
+      "raw": "+1 514-508-2444",
+      "normalized": "+15145082444"
+    },
+    "website": "http://mosqueprayertimes.com/alsalam-mtl",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 7 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 41,
+        "targetTitle": "Canadian Institute of Islamic Civilization CIIC - MAC",
+        "targetPlaceId": "ChIJ9zyYNlsayUwRXKoziuSa2uo",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque facility; legitimate shared location with cultural institute.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 54,
+      "cid": "329417919721628156",
+      "placeId": "ChIJv7ARNFsayUwR_OGnR9pTkgQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 131,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-76",
+    "sourceIndex": 75,
+    "name": "Al-sahabah Lachine Mosquée",
+    "slug": "al-sahabah-lachine-mosqu-e-lachine",
+    "address": {
+      "raw": "1212 Rue Notre Dame, Lachine, QC H8S 2C6, Canada",
+      "streetAddress": "1212 Rue Notre Dame",
+      "city": "Lachine",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H8S 2C6",
+        "normalized": "H8S 2C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4350786,
+      "longitude": -73.6747625
+    },
+    "phone": {
+      "raw": "+1 514-538-3862",
+      "normalized": "+15145383862"
+    },
+    "website": "https://www.amlachine.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 74,
+        "targetTitle": "Association Musulmane de Lachine",
+        "targetPlaceId": "ChIJx-WV3uoWyUwRuQRWtqRyBl8",
+        "reason": "Coordinates within 30m with matching identity keywords (17%)"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque; legitimate shared location with administrative association.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 75,
+      "cid": "12253897897326178969",
+      "placeId": "ChIJaZLVz-oWyUwRmXIItDaXDqo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 98,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

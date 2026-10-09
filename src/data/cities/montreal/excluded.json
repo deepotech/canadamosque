@@ -1,0 +1,170 @@
+[
+  {
+    "id": "mosque-mtl-84",
+    "sourceIndex": 83,
+    "name": "mchichini makaburini",
+    "slug": "mchichini-makaburini-montr-al",
+    "address": {
+      "raw": "6512 Av. du Parc, Montréal, QC H2V 4H9, Canada",
+      "streetAddress": "6512 Av. du Parc",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2V 4H9",
+        "normalized": "H2V 4H9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.526966,
+      "longitude": -73.6132372
+    },
+    "phone": null,
+    "website": null,
+    "classification": "EXCLUDE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "EXCLUDED",
+    "publicationReason": "Phase 8 Audit Excluded: False positive: cemetery / burial ground marker.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 83,
+      "cid": "15194360791923564524",
+      "placeId": "ChIJIUascW0ZyUwR7B-6F6M23dI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-85",
+    "sourceIndex": 84,
+    "name": "Taxi beaubien",
+    "slug": "taxi-beaubien-montr-al",
+    "address": {
+      "raw": "6604 Av. De Chateaubriand, Montréal, QC H2S 2N7, Canada",
+      "streetAddress": "6604 Av. De Chateaubriand",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H2S 2N7",
+        "normalized": "H2S 2N7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.53612,
+      "longitude": -73.6057267
+    },
+    "phone": null,
+    "website": null,
+    "classification": "EXCLUDE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "EXCLUDED",
+    "publicationReason": "Phase 8 Audit Excluded: False positive: commercial taxi company.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 84,
+      "cid": "12742208159560027344",
+      "placeId": "ChIJwZCrEAAZyUwR0MyoXM9q1bA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 2,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mtl-87",
+    "sourceIndex": 86,
+    "name": "Yoshi grave site",
+    "slug": "yoshi-grave-site-montr-al",
+    "address": {
+      "raw": "1260 Chem. Remembrance, Montréal, QC H3G 1A4, Canada",
+      "streetAddress": "1260 Chem. Remembrance",
+      "city": "Montréal",
+      "province": "QC",
+      "postalCode": {
+        "raw": "H3G 1A4",
+        "normalized": "H3G 1A4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5015434,
+      "longitude": -73.5930838
+    },
+    "phone": null,
+    "website": null,
+    "classification": "EXCLUDE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "EXCLUDED",
+    "publicationReason": "Phase 8 Audit Excluded: False positive: grave site / memorial.",
+    "provenance": {
+      "sourceFile": "montreal.json",
+      "sourceIndex": 86,
+      "cid": "2126941007848709927",
+      "placeId": "ChIJH7o5HgAbyUwRJ58I35NphB0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 2,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

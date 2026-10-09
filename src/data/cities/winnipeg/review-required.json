@@ -1,0 +1,512 @@
+[
+  {
+    "id": "mosque-wpg-2",
+    "sourceIndex": 1,
+    "name": "Manitoba Islamic Association (MIA) Connections",
+    "slug": "manitoba-islamic-association-mia-connections-winnipeg",
+    "address": {
+      "raw": "406 Edmonton St, Winnipeg, MB R3B 2M2, Canada",
+      "streetAddress": "406 Edmonton St",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3B 2M2",
+        "normalized": "R3B 2M2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8960389,
+      "longitude": -97.1496266
+    },
+    "phone": {
+      "raw": "+1 204-256-1347",
+      "normalized": "+12042561347"
+    },
+    "website": "http://miaonline.org/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 1,
+      "cid": "1554157058851640516",
+      "placeId": "ChIJdzSYPgFz6lIRxJQEWpx5kRU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 7,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-3",
+    "sourceIndex": 2,
+    "name": "Yaseen Centre Of Manitoba",
+    "slug": "yaseen-centre-of-manitoba-winnipeg",
+    "address": {
+      "raw": "746 Ellice Ave, Winnipeg, MB R3G 0B6, Canada",
+      "streetAddress": "746 Ellice Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3G 0B6",
+        "normalized": "R3G 0B6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.892975,
+      "longitude": -97.165741
+    },
+    "phone": {
+      "raw": "+1 204-688-3736",
+      "normalized": "+12046883736"
+    },
+    "website": "https://yaseencentre.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 2:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 2,
+      "cid": "13641125616384597753",
+      "placeId": "ChIJbXXkjO5z6lIR-d4VbXkDT70",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 29,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-4",
+    "sourceIndex": 3,
+    "name": "Faizan E Makkah Winnipeg",
+    "slug": "faizan-e-makkah-winnipeg",
+    "address": {
+      "raw": "509 St Mary's Rd, Winnipeg, MB R2M 3L2, Canada",
+      "streetAddress": "509 St Mary's Rd",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2M 3L2",
+        "normalized": "R2M 3L2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8678682,
+      "longitude": -97.1104654
+    },
+    "phone": {
+      "raw": "+1 431-990-2786",
+      "normalized": "+14319902786"
+    },
+    "website": "http://www.dawateislamicanada.net/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 3,
+      "cid": "16027735333978179835",
+      "placeId": "ChIJ40rHi4136lIR-wi_H170bd4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 64,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-6",
+    "sourceIndex": 5,
+    "name": "Manitoba Dawah Centre",
+    "slug": "manitoba-dawah-centre-winnipeg",
+    "address": {
+      "raw": "368 Edmonton St, Winnipeg, MB R3B 2L3, Canada",
+      "streetAddress": "368 Edmonton St",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3B 2L3",
+        "normalized": "R3B 2L3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8949111,
+      "longitude": -97.1489423
+    },
+    "phone": {
+      "raw": "+1 204-219-9100",
+      "normalized": "+12042199100"
+    },
+    "website": "https://manitobadc.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 7:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 5,
+      "cid": "7730659510199827537",
+      "placeId": "ChIJt1xFc-Jz6lIRUbz0oN3RSGs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 99,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-16",
+    "sourceIndex": 15,
+    "name": "University of Manitoba Masjid",
+    "slug": "university-of-manitoba-masjid-winnipeg",
+    "address": {
+      "raw": "E3, 103 Dafoe Rd W #160, Winnipeg, MB R3T 5V6, Canada",
+      "streetAddress": "E3",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3T 5V6",
+        "normalized": "R3T 5V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8086662,
+      "longitude": -97.1343971
+    },
+    "phone": null,
+    "website": "https://www.ummsa.org/",
+    "classification": "PRAYER_ROOM",
+    "classificationReason": "Campus or institutional multi-faith prayer room.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 12,
+        "targetTitle": "Masjid: U Of M Prayer Room",
+        "targetPlaceId": "ChIJMSk3Pvt16lIRFH_pAnS8yr8",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Campus or institutional multi-faith room requiring manual verification of public accessibility.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 15,
+      "cid": "12283744452267782931",
+      "placeId": "ChIJ2RePQPt16lIRE7MYTX-geKo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 35,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-18",
+    "sourceIndex": 17,
+    "name": "The University of Winnipeg Muslim Prayer Centre (Room #0W16)",
+    "slug": "the-university-of-winnipeg-muslim-prayer-centre-room-0w16-winnipeg",
+    "address": {
+      "raw": "Graham Hall, 515 Portage Ave, Winnipeg, MB R3B 2E9, Canada",
+      "streetAddress": "Graham Hall",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3B 2E9",
+        "normalized": "R3B 2E9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.890863,
+      "longitude": -97.1533908
+    },
+    "phone": {
+      "raw": "+1 204-988-7588",
+      "normalized": "+12049887588"
+    },
+    "website": null,
+    "classification": "PRAYER_ROOM",
+    "classificationReason": "Campus or institutional multi-faith prayer room.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Campus or institutional multi-faith room requiring manual verification of public accessibility.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 17,
+      "cid": "1551019581659582236",
+      "placeId": "ChIJLXIVU-Nz6lIRHI9-hBdUhhU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 8,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,384 @@
+{
+  "totalRawRecords": 54,
+  "publishedCount": 30,
+  "reviewRequiredCount": 24,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 22,
+    "ISLAMIC_CENTER": 5,
+    "MUSALLA": 2,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 0,
+    "COMMUNITY_CENTER": 2,
+    "ORGANIZATION": 5,
+    "REVIEW_REQUIRED": 18,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 30,
+    "REVIEW_REQUIRED": 24,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Edmonton": 54
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 10,
+    "MISSING_WEBSITE": 9,
+    "MISSING_HOURS": 18,
+    "MISSING_DESCRIPTION": 54,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 0,
+    "POSSIBLE_DUPLICATE": 2,
+    "SHARED_ADDRESS": 6,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 5,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 2
+  },
+  "missingFields": {
+    "missingPhone": 10,
+    "missingWebsite": 9,
+    "missingHours": 18,
+    "missingDescription": 54
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 1,
+    "sharedLocations": 3
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 0,
+      "id": "mosque-edm-1",
+      "name": "Muslim Association of Canada (MAC) - Edmonton",
+      "address": "6104 172 St NW, Edmonton, AB T6M 1E3, Canada",
+      "city": "Edmonton",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 1,
+      "id": "mosque-edm-2",
+      "name": "Hanny Al Khoury art studio",
+      "address": "10200 102 Ave NW D213, Edmonton, AB T5J 4B7, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 4,
+      "id": "mosque-edm-5",
+      "name": "Darul-Hadith Edmonton (Ahle-Hadith Society of Canada)",
+      "address": "7708a Wagner Rd NW NW, Edmonton, AB T6E 5B2, Canada",
+      "city": "Edmonton",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 5,
+      "id": "mosque-edm-6",
+      "name": "AMJ Edmonton",
+      "address": "7005 98 Ave NW, Edmonton, AB T6A 2T8, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 13,
+      "id": "mosque-edm-14",
+      "name": "Omar Ibn Al-Khattab Centre (OIAC)",
+      "address": "4115 91 St SW, Edmonton, AB T4X 0M7, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 14,
+      "id": "mosque-edm-15",
+      "name": "Al Faruq Islamic School",
+      "address": "4410 127 St SW, Edmonton, AB T6W1A2, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 16,
+      "id": "mosque-edm-17",
+      "name": "Southeast Muslim Community Edmonton",
+      "address": "2704 17 St NW, Edmonton, AB T6T 0X1, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 22,
+      "id": "mosque-edm-23",
+      "name": "Islamic Shia Ithna-Asheri Centre of Edmonton",
+      "address": "4307 33 Ave NW, Edmonton, AB T6L 4H7, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 23,
+      "id": "mosque-edm-24",
+      "name": "Baitul Aman Islamic Society",
+      "address": "2403 Ellwood Dr SW, Edmonton, AB T6X 0J6, Canada",
+      "city": "Edmonton",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 24,
+      "id": "mosque-edm-25",
+      "name": "Markaz-Ul-Islam",
+      "address": "7907 36 Ave NW, Edmonton, AB T6K 3S6, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 25,
+      "id": "mosque-edm-26",
+      "name": "Alfalah Center",
+      "address": "2401 47 St NW, Edmonton, AB T6L 4P6, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 30,
+      "id": "mosque-edm-31",
+      "name": "Faizan-e-Madina Edmonton",
+      "address": "11809 96 St, Edmonton, AB T5G 1V4, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 31,
+      "id": "mosque-edm-32",
+      "name": "Canadian Islamic Dar Alfatwa Centre",
+      "address": "9006 132 Ave NW #305, Edmonton, AB T5E 0Y2, Canada",
+      "city": "Edmonton",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 32,
+      "id": "mosque-edm-33",
+      "name": "Alfalah Center North",
+      "address": "4363 167 Ave NW ab unit 307, Edmonton, AB T5Y 3Y2, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 33,
+      "id": "mosque-edm-34",
+      "name": "Afghan Husseini Islamic Center (Shia)",
+      "address": "11219 180 St NW, Edmonton, AB T5S 0B4, Canada",
+      "city": "Edmonton",
+      "classification": "ISLAMIC_CENTER",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 34,
+      "id": "mosque-edm-35",
+      "name": "Markaz Al Imam Malik مركز الامام مالك",
+      "address": "14504 118 St NW, Edmonton, AB T5X 1T3, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 45,
+      "id": "mosque-edm-46",
+      "name": "Al-Hadi Community Assn",
+      "address": "15727 100a Ave NW, Edmonton, AB T5P 0L5, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 46,
+      "id": "mosque-edm-47",
+      "name": "Afghan Hussaini Charitable Foundation Of Alberta",
+      "address": "11219 180 St NW, Edmonton, AB T5S 0B4, Canada",
+      "city": "Edmonton",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 48,
+      "id": "mosque-edm-49",
+      "name": "GK Edmonton",
+      "address": "4243 93 St NW, Edmonton, AB T6E 5Y3, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 49,
+      "id": "mosque-edm-50",
+      "name": "Yygg",
+      "address": "9426 118 Ave NW, Edmonton, AB T5G 0N6, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 50,
+      "id": "mosque-edm-51",
+      "name": "Noor Ul Anwaar",
+      "address": "Entrance from Backside, 3440 93 St NW 2nd floor, Edmonton, AB T6E 5T5, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 51,
+      "id": "mosque-edm-52",
+      "name": "Reyadul janna",
+      "address": "5309 19 Ave SW, Edmonton, AB T6X 1A4, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 52,
+      "id": "mosque-edm-53",
+      "name": "Masjed Dar Al-Arqam",
+      "address": "13105 St Albert Trail NW, Edmonton, AB T5L 4H5, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 53,
+      "id": "mosque-edm-54",
+      "name": "Islamic Academy Project",
+      "address": "13070 113 St NW, Edmonton, AB T5E 5A8, Canada",
+      "city": "Edmonton",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    }
+  ],
+  "excludedRecords": []
+}

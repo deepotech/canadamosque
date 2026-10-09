@@ -1,0 +1,5707 @@
+[
+  {
+    "id": "mosque-to-5",
+    "sourceIndex": 4,
+    "name": "Bosnian Islamic Assoc Gazi Husrev-Beg",
+    "slug": "bosnian-islamic-assoc-gazi-husrev-beg-etobicoke",
+    "address": {
+      "raw": "122 N Queen St, Etobicoke, ON M8Z 2E4, Canada",
+      "streetAddress": "122 N Queen St",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M8Z 2E4",
+        "normalized": "M8Z 2E4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6206409,
+      "longitude": -79.5500202
+    },
+    "phone": {
+      "raw": "+1 416-233-5967",
+      "normalized": "+14162335967"
+    },
+    "website": "http://www.biaghb.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 4,
+      "cid": "5377398323375253806",
+      "placeId": "ChIJwUfEzvw3K4gRLimQ0EhboEo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Sports club"
+      ],
+      "rating": null,
+      "reviewsCount": 797,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-9",
+    "sourceIndex": 8,
+    "name": "George Brown - Multi Faith Room (Room 361)",
+    "slug": "george-brown-multi-faith-room-room-361-toronto",
+    "address": {
+      "raw": "3 Lower Jarvis St, Toronto, ON M5E 3Y5, Canada",
+      "streetAddress": "3 Lower Jarvis St",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M5E 3Y5",
+        "normalized": "M5E 3Y5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6446778,
+      "longitude": -79.3687286
+    },
+    "phone": null,
+    "website": null,
+    "classification": "PRAYER_ROOM",
+    "classificationReason": "Campus or institutional multi-faith prayer room.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Campus or institutional multi-faith room requiring manual verification of public accessibility.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 8,
+      "cid": "7836025894907828261",
+      "placeId": "ChIJL5YyBgDL1IkRJVi-zAgov2w",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 4,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-10",
+    "sourceIndex": 9,
+    "name": "Toronto and Region Islamic Congregation",
+    "slug": "toronto-and-region-islamic-congregation-north-york",
+    "address": {
+      "raw": "99 Beverly Hills Dr, North York, ON M3L 1A2, Canada",
+      "streetAddress": "99 Beverly Hills Dr",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M3L 1A2",
+        "normalized": "M3L 1A2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7180767,
+      "longitude": -79.5162528
+    },
+    "phone": {
+      "raw": "+1 416-245-5675",
+      "normalized": "+14162455675"
+    },
+    "website": "http://www.taric.org/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 9,
+      "cid": "7635945413885251538",
+      "placeId": "ChIJS6VaSv0wK4gR0k_nnuVT-Gk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 431,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-12",
+    "sourceIndex": 11,
+    "name": "North York Muslim Association",
+    "slug": "north-york-muslim-association-north-york",
+    "address": {
+      "raw": "Concourse Level, North York Center, 5150 Yonge St Unit C37, North York, ON M2N 6L8, Canada",
+      "streetAddress": "Concourse Level",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M2N 6L8",
+        "normalized": "M2N 6L8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7685357,
+      "longitude": -79.413556
+    },
+    "phone": {
+      "raw": "+1 416-227-0404",
+      "normalized": "+14162270404"
+    },
+    "website": "https://www.northyorkma.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 11,
+      "cid": "11783233575994360897",
+      "placeId": "ChIJ5WMQPXAtK4gRQYSZ0oF0hqM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 193,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-18",
+    "sourceIndex": 17,
+    "name": "Abu Huraira Centre",
+    "slug": "abu-huraira-centre-north-york",
+    "address": {
+      "raw": "270 Yorkland Blvd, North York, ON M2J 5C9, Canada",
+      "streetAddress": "270 Yorkland Blvd",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M2J 5C9",
+        "normalized": "M2J 5C9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7731126,
+      "longitude": -79.334424
+    },
+    "phone": {
+      "raw": "+1 416-752-1200",
+      "normalized": "+14167521200"
+    },
+    "website": "http://www.abuhuraira.org/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 17,
+      "cid": "2319951856927867881",
+      "placeId": "ChIJ65AnsFjS1IkR6YMxGOwfMiA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 1280,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-19",
+    "sourceIndex": 18,
+    "name": "Islamic Information & Dawah Centre International",
+    "slug": "islamic-information-and-dawah-centre-international-toronto",
+    "address": {
+      "raw": "1168 Bloor St W, Toronto, ON M6H 1N2, Canada",
+      "streetAddress": "1168 Bloor St W",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M6H 1N2",
+        "normalized": "M6H 1N2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.659633,
+      "longitude": -79.4369864
+    },
+    "phone": {
+      "raw": "+1 416-536-8433",
+      "normalized": "+14165368433"
+    },
+    "website": "http://www.islaminfo.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:45 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 18,
+      "cid": "16461573039438518366",
+      "placeId": "ChIJtdErZ0M0K4gRXljhU3ZBc-Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 349,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-21",
+    "sourceIndex": 20,
+    "name": "Turkish Canadian Islamic Trust",
+    "slug": "turkish-canadian-islamic-trust-toronto",
+    "address": {
+      "raw": "336 Pape Ave, Toronto, ON M4M 2W7, Canada",
+      "streetAddress": "336 Pape Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4M 2W7",
+        "normalized": "M4M 2W7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6676767,
+      "longitude": -79.3404492
+    },
+    "phone": {
+      "raw": "+1 647-834-2000",
+      "normalized": "+16478342000"
+    },
+    "website": "http://www.papecami.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 20,
+      "cid": "3595137601967935019",
+      "placeId": "ChIJXZunXXnL1IkRK87y45l-5DE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 172,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-30",
+    "sourceIndex": 29,
+    "name": "Ubai Bin Kab Academy of Islamic Sciences",
+    "slug": "ubai-bin-kab-academy-of-islamic-sciences-scarborough",
+    "address": {
+      "raw": "1160 Tapscott Rd Unit 2-3, Scarborough, ON M1X 1E9, Canada",
+      "streetAddress": "1160 Tapscott Rd Unit 2-3",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1X 1E9",
+        "normalized": "M1X 1E9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.8282414,
+      "longitude": -79.2443825
+    },
+    "phone": {
+      "raw": "+1 437-967-4067",
+      "normalized": "+14379674067"
+    },
+    "website": "http://www.ubaibinkab.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 29,
+      "cid": "1092741761705788582",
+      "placeId": "ChIJJ9303JbX1IkRpkS1udcyKg8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Evening school",
+        "Religious destination",
+        "Religious institution",
+        "Religious organization",
+        "Religious school"
+      ],
+      "rating": null,
+      "reviewsCount": 39,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-31",
+    "sourceIndex": 30,
+    "name": "Masjidur Rahmah",
+    "slug": "masjidur-rahmah-toronto",
+    "address": {
+      "raw": "328 Parliament St, Toronto, ON M5A 2Z7, Canada",
+      "streetAddress": "328 Parliament St",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M5A 2Z7",
+        "normalized": "M5A 2Z7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6599009,
+      "longitude": -79.3663339
+    },
+    "phone": {
+      "raw": "+1 416-929-8127",
+      "normalized": "+14169298127"
+    },
+    "website": "https://centraltorontoislamicfoundation.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 30,
+      "cid": "8388971396306055200",
+      "placeId": "ChIJLyRYVkbL1IkRIDC8ywmda3Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 226,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-34",
+    "sourceIndex": 33,
+    "name": "Musallah Student Union",
+    "slug": "musallah-student-union-scarborough",
+    "address": {
+      "raw": "Scarborough, ON M1C 1A3, Canada",
+      "streetAddress": null,
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1C 1A3",
+        "normalized": "M1C 1A3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7849683,
+      "longitude": -79.1871417
+    },
+    "phone": null,
+    "website": null,
+    "classification": "PRAYER_ROOM",
+    "classificationReason": "Campus or institutional multi-faith prayer room.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Campus or institutional multi-faith room requiring manual verification of public accessibility.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 33,
+      "cid": "14670875429801604340",
+      "placeId": "ChIJuyOaSwDb1IkR9LRUSXlrmcs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 2,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-40",
+    "sourceIndex": 39,
+    "name": "Bab E Zahra s.a.",
+    "slug": "bab-e-zahra-s-a-scarborough",
+    "address": {
+      "raw": "2370 Midland Ave a32, Scarborough, ON M1S 5C6, Canada",
+      "streetAddress": "2370 Midland Ave a32",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1S 5C6",
+        "normalized": "M1S 5C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7800657,
+      "longitude": -79.2798415
+    },
+    "phone": {
+      "raw": "+1 416-292-5228",
+      "normalized": "+14162925228"
+    },
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 39,
+      "cid": "1461534073782432024",
+      "placeId": "ChIJRycfzILR1IkRGHHuHn9pSBQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 69,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-43",
+    "sourceIndex": 42,
+    "name": "Daleel Islamic Association",
+    "slug": "daleel-islamic-association-scarborough",
+    "address": {
+      "raw": "6 Collinsgrove Rd, Scarborough, ON M1E 2P1, Canada",
+      "streetAddress": "6 Collinsgrove Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1E 2P1",
+        "normalized": "M1E 2P1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7698048,
+      "longitude": -79.1834902
+    },
+    "phone": {
+      "raw": "+1 647-871-6476",
+      "normalized": "+16478716476"
+    },
+    "website": "http://www.daleel.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 42,
+      "cid": "4361729214771347242",
+      "placeId": "ChIJL6zmwR3Q1IkRKr_jhJz5hzw",
+      "rawCategoryName": "Community center",
+      "rawCategories": [
+        "Community center",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 122,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-44",
+    "sourceIndex": 43,
+    "name": "Spiritual Society Canada inc.",
+    "slug": "spiritual-society-canada-inc-scarborough",
+    "address": {
+      "raw": "4 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",
+      "streetAddress": "4 Old Kingston Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1E 3J5",
+        "normalized": "M1E 3J5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7742127,
+      "longitude": -79.1841031
+    },
+    "phone": null,
+    "website": "http://www.spiritualsocietycanada.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 43,
+      "cid": "858181398562226988",
+      "placeId": "ChIJufpXPGLa1IkRLEMmZm_f6As",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 208,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-45",
+    "sourceIndex": 44,
+    "name": "Milliken Muslim Community (Masjid/Mosque)",
+    "slug": "milliken-muslim-community-masjid-mosque-markham",
+    "address": {
+      "raw": "5000 Steeles Ave E, Markham, ON L3S 1V6, Canada",
+      "streetAddress": "5000 Steeles Ave E",
+      "city": "Markham",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L3S 1V6",
+        "normalized": "L3S 1V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.8286825,
+      "longitude": -79.2876542
+    },
+    "phone": {
+      "raw": "+1 416-900-5660",
+      "normalized": "+14169005660"
+    },
+    "website": "https://millikenmuslim.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1:30 to 2:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_NOT_A_MOSQUE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "User reviews or source evidence suggest this location is not an active mosque.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 44,
+      "cid": "5099195652910906331",
+      "placeId": "ChIJj2AuEpTX1IkR23v4-237w0Y",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 69,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-54",
+    "sourceIndex": 53,
+    "name": "Islamic Foundation of Toronto",
+    "slug": "islamic-foundation-of-toronto-scarborough",
+    "address": {
+      "raw": "441 Nugget Ave, Scarborough, ON M1S 5E1, Canada",
+      "streetAddress": "441 Nugget Ave",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1S 5E1",
+        "normalized": "M1S 5E1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.797987,
+      "longitude": -79.2417524
+    },
+    "phone": {
+      "raw": "+1 416-321-0909",
+      "normalized": "+14163210909"
+    },
+    "website": "http://www.islamicfoundation.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 6 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 6 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 53,
+      "cid": "16011343489703919215",
+      "placeId": "ChIJneALN97Q1IkRb76QeBK4M94",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1858,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-55",
+    "sourceIndex": 54,
+    "name": "Ruggeri bakery",
+    "slug": "ruggeri-bakery-north-york",
+    "address": {
+      "raw": "324 Rustic Rd, North York, ON M6L 1W5, Canada",
+      "streetAddress": "324 Rustic Rd",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M6L 1W5",
+        "normalized": "M6L 1W5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7154897,
+      "longitude": -79.4902324
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 54,
+      "cid": "2110302395332045428",
+      "placeId": "ChIJ1cxjdQAxK4gRdCpsAtlMSR0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-58",
+    "sourceIndex": 57,
+    "name": "Islamic Institute of Toronto (IIT)",
+    "slug": "islamic-institute-of-toronto-iit-scarborough",
+    "address": {
+      "raw": "1630 Neilson Rd, Scarborough, ON M1X 1S3, Canada",
+      "streetAddress": "1630 Neilson Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1X 1S3",
+        "normalized": "M1X 1S3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.8187109,
+      "longitude": -79.2298717
+    },
+    "phone": {
+      "raw": "+1 416-335-9173",
+      "normalized": "+14163359173"
+    },
+    "website": "https://islam.ca/?utm_source=google&utm_medium=organic&utm_campaign=gmb_profile",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 7:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 57,
+      "cid": "15399217209662532197",
+      "placeId": "ChIJfQq3wDPX1IkRZWoEsXYCtdU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "College",
+        "Religious institution",
+        "Religious organization",
+        "School",
+        "Youth organization"
+      ],
+      "rating": null,
+      "reviewsCount": 243,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-61",
+    "sourceIndex": 60,
+    "name": "Hadi Islamic Association",
+    "slug": "hadi-islamic-association-york",
+    "address": {
+      "raw": "40 S Station St, York, ON M9N 2B3, Canada",
+      "streetAddress": "40 S Station St",
+      "city": "York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9N 2B3",
+        "normalized": "M9N 2B3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7010224,
+      "longitude": -79.5168866
+    },
+    "phone": {
+      "raw": "+1 416-242-2214",
+      "normalized": "+14162422214"
+    },
+    "website": "http://hadimosque.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 77,
+        "targetTitle": "Masjid Al-Rowda",
+        "targetPlaceId": "ChIJrZxobtgwK4gR9bt9qjDRkrA",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 60,
+      "cid": "15928725661035281525",
+      "placeId": "ChIJq6q6QdgwK4gRdTyoPpgzDt0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 16,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-63",
+    "sourceIndex": 62,
+    "name": "International Muslims Organization",
+    "slug": "international-muslims-organization-etobicoke",
+    "address": {
+      "raw": "65 Rexdale Blvd, Etobicoke, ON M9W 1P1, Canada",
+      "streetAddress": "65 Rexdale Blvd",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9W 1P1",
+        "normalized": "M9W 1P1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7129023,
+      "longitude": -79.5601322
+    },
+    "phone": {
+      "raw": "+1 416-742-6776",
+      "normalized": "+14167426776"
+    },
+    "website": "http://www.imooftoronto.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 62,
+      "cid": "9471440036383800854",
+      "placeId": "ChIJPUbJ-Z8wK4gRFr4RAIhQcYM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 409,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-64",
+    "sourceIndex": 63,
+    "name": "Faizan-e-Madina Canada",
+    "slug": "faizan-e-madina-canada-etobicoke",
+    "address": {
+      "raw": "595 Albion Rd, Etobicoke, ON M9V 1A1, Canada",
+      "streetAddress": "595 Albion Rd",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9V 1A1",
+        "normalized": "M9V 1A1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7307477,
+      "longitude": -79.5549707
+    },
+    "phone": {
+      "raw": "+1 416-878-7346",
+      "normalized": "+14168787346"
+    },
+    "website": "http://www.faizanemadinacanada.net/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 63,
+      "cid": "10053066867975800164",
+      "placeId": "ChIJTTqutIAwK4gRZEXykA2rg4s",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 164,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-67",
+    "sourceIndex": 66,
+    "name": "Miqa Foundation",
+    "slug": "miqa-foundation-east-york",
+    "address": {
+      "raw": "12 Thorncliffe Park Dr, East York, ON M4H 1N8, Canada",
+      "streetAddress": "12 Thorncliffe Park Dr",
+      "city": "East York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4H 1N8",
+        "normalized": "M4H 1N8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7044906,
+      "longitude": -79.3481958
+    },
+    "phone": {
+      "raw": "+1 647-716-2625",
+      "normalized": "+16477162625"
+    },
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 66,
+      "cid": "7428684291923464052",
+      "placeId": "ChIJoxeBIx7N1IkRdE-fMAH9F2c",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-68",
+    "sourceIndex": 67,
+    "name": "Claude Legros Sales Inc",
+    "slug": "claude-legros-sales-inc-north-york",
+    "address": {
+      "raw": "89 Ingram Dr, North York, ON M6M 2L7, Canada",
+      "streetAddress": "89 Ingram Dr",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M6M 2L7",
+        "normalized": "M6M 2L7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7002668,
+      "longitude": -79.4719719
+    },
+    "phone": {
+      "raw": "+1 416-242-2712",
+      "normalized": "+14162422712"
+    },
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 67,
+      "cid": "15050278997720591281",
+      "placeId": "ChIJmyCbSl8xK4gRsWuoNQJV3dA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-70",
+    "sourceIndex": 69,
+    "name": "Hilal Committee of Metropolitan Toronto & Vicinity",
+    "slug": "hilal-committee-of-metropolitan-toronto-and-vicinity-toronto",
+    "address": {
+      "raw": "1015 Danforth Ave, Toronto, ON M4J 1M1, Canada",
+      "streetAddress": "1015 Danforth Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4J 1M1",
+        "normalized": "M4J 1M1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6804259,
+      "longitude": -79.3360659
+    },
+    "phone": {
+      "raw": "+1 416-970-5786",
+      "normalized": "+14169705786"
+    },
+    "website": "http://www.hilalcommittee.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 5 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 23,
+        "targetTitle": "Madinah Masjid (Mosque)",
+        "targetPlaceId": "ChIJK0CdnYfM1IkRUrlZPhRyqbA",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 69,
+      "cid": "17666173795295450138",
+      "placeId": "ChIJ25BfnYfM1IkRGlTmqHfbKvU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 103,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-76",
+    "sourceIndex": 75,
+    "name": "Masjid al Furqan",
+    "slug": "masjid-al-furqan-york",
+    "address": {
+      "raw": "874 Weston Rd a, York, ON M6N 3R6, Canada",
+      "streetAddress": "874 Weston Rd a",
+      "city": "York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M6N 3R6",
+        "normalized": "M6N 3R6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6832611,
+      "longitude": -79.4811539
+    },
+    "phone": {
+      "raw": "+1 416-243-5320",
+      "normalized": "+14162435320"
+    },
+    "website": "https://www.troid.org/centre/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 1:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 1:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 78,
+        "targetTitle": "TROID",
+        "targetPlaceId": "ChIJldxA6602K4gR5_57cjOowl8",
+        "reason": "Coordinates within 30m with matching identity keywords (0%)"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 75,
+      "cid": "6699702546440380100",
+      "placeId": "ChIJ6_kUKwA3K4gRxN5bLfgf-lw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 13,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-79",
+    "sourceIndex": 78,
+    "name": "TROID",
+    "slug": "troid-york",
+    "address": {
+      "raw": "874-A Weston Rd, York, ON M6N 3R6, Canada",
+      "streetAddress": "874-A Weston Rd",
+      "city": "York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M6N 3R6",
+        "normalized": "M6N 3R6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6833492,
+      "longitude": -79.4811388
+    },
+    "phone": {
+      "raw": "+1 416-243-5320",
+      "normalized": "+14162435320"
+    },
+    "website": "https://www.troid.org/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 7 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 75,
+        "targetTitle": "Masjid al Furqan",
+        "targetPlaceId": "ChIJ6_kUKwA3K4gRxN5bLfgf-lw",
+        "reason": "Coordinates within 30m with matching identity keywords (0%)"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 78,
+      "cid": "6900262518002548455",
+      "placeId": "ChIJldxA6602K4gR5_57cjOowl8",
+      "rawCategoryName": "Religious organization",
+      "rawCategories": [
+        "Religious organization",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 207,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-82",
+    "sourceIndex": 81,
+    "name": "Muslim Prayer Room",
+    "slug": "muslim-prayer-room-north-york",
+    "address": {
+      "raw": "2075 Bayview Avenue ECG 05, North York, ON M4N 3M5, Canada",
+      "streetAddress": "2075 Bayview Avenue ECG 05",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4N 3M5",
+        "normalized": "M4N 3M5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7222811,
+      "longitude": -79.3740401
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "GENERIC_NAME",
+      "POSSIBLE_CLOSED_LOCATION",
+      "POSSIBLE_NOT_A_MOSQUE",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "User reviews or source evidence suggest this location is not an active mosque.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 81,
+      "cid": "6790578157787074655",
+      "placeId": "ChIJrxM2ey7N1IkRX9BsQtv6PF4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 58,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-83",
+    "sourceIndex": 82,
+    "name": "Jamaat of Ontario",
+    "slug": "jamaat-of-ontario-york",
+    "address": {
+      "raw": "110 Fairbank Ave, York, ON M6E 3Z1, Canada",
+      "streetAddress": "110 Fairbank Ave",
+      "city": "York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M6E 3Z1",
+        "normalized": "M6E 3Z1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6986101,
+      "longitude": -79.4550623
+    },
+    "phone": {
+      "raw": "+1 416-783-5997",
+      "normalized": "+14167835997"
+    },
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 55,
+        "targetTitle": "Gambian Mosque",
+        "targetPlaceId": "ChIJkz5RdAAzK4gRUAqoEuALAFk",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 82,
+      "cid": "1688429677720380786",
+      "placeId": "ChIJN2kUT-kzK4gRciXAoNiBbhc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 24,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-85",
+    "sourceIndex": 84,
+    "name": "Toryork Islamic Centre (OAAIIL)",
+    "slug": "toryork-islamic-centre-oaaiil-north-york",
+    "address": {
+      "raw": "175 Toryork Dr #54, North York, ON M9L 2Y7, Canada",
+      "streetAddress": "175 Toryork Dr #54",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9L 2Y7",
+        "normalized": "M9L 2Y7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7582629,
+      "longitude": -79.5574738
+    },
+    "phone": null,
+    "website": "http://oaaiil.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1:30 to 2:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1:30 to 3 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_NOT_A_MOSQUE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "User reviews or source evidence suggest this location is not an active mosque.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 84,
+      "cid": "15006793137102191423",
+      "placeId": "ChIJEUA3vwMxK4gRP_u-StnWQtA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 14,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-92",
+    "sourceIndex": 91,
+    "name": "Mesjid Al Sabur",
+    "slug": "mesjid-al-sabur-north-york",
+    "address": {
+      "raw": "4081 Dufferin St, North York, ON M3H 5R8, Canada",
+      "streetAddress": "4081 Dufferin St",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M3H 5R8",
+        "normalized": "M3H 5R8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7590087,
+      "longitude": -79.4644998
+    },
+    "phone": {
+      "raw": "+1 416-700-9989",
+      "normalized": "+14167009989"
+    },
+    "website": "https://www.mesjidalsabur.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 91,
+      "cid": "11709274498431251991",
+      "placeId": "ChIJiULvKwcyK4gRF_aIMB6zf6I",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 260,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-93",
+    "sourceIndex": 92,
+    "name": "Talimul Islam Masjid",
+    "slug": "talimul-islam-masjid-north-york",
+    "address": {
+      "raw": "86 Rivalda Rd, North York, ON M9M 2M8, Canada",
+      "streetAddress": "86 Rivalda Rd",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9M 2M8",
+        "normalized": "M9M 2M8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7406521,
+      "longitude": -79.5357676
+    },
+    "phone": {
+      "raw": "+1 416-745-5606",
+      "normalized": "+14167455606"
+    },
+    "website": "https://talimul.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "CONTRADICTORY_INFORMATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Contradictory categories or metadata found in raw source.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 92,
+      "cid": "14088923375845305026",
+      "placeId": "ChIJOeCU5kIwK4gRwur0_CnphcM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Synagogue"
+      ],
+      "rating": null,
+      "reviewsCount": 332,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-96",
+    "sourceIndex": 95,
+    "name": "Jannatul Ferdous Mosque",
+    "slug": "jannatul-ferdous-mosque-etobicoke",
+    "address": {
+      "raw": "1701 Martin Grove Rd #11, Etobicoke, ON M9V 5G1, Canada",
+      "streetAddress": "1701 Martin Grove Rd #11",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9V 5G1",
+        "normalized": "M9V 5G1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.733133,
+      "longitude": -79.588192
+    },
+    "phone": {
+      "raw": "+1 416-742-3232",
+      "normalized": "+14167423232"
+    },
+    "website": "https://jannatulferdous.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_CLOSED_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Review reports indicate location is permanently locked, shut, or no longer operational.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 95,
+      "cid": "3825399396544317698",
+      "placeId": "ChIJ_RaSM186K4gRAokEu3uMFjU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 117,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-97",
+    "sourceIndex": 96,
+    "name": "Canadian Islamic Civic Academy (CICA)",
+    "slug": "canadian-islamic-civic-academy-cica-etobicoke",
+    "address": {
+      "raw": "1753 Albion Rd #21, Etobicoke, ON M9V 1C3, Canada",
+      "streetAddress": "1753 Albion Rd #21",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9V 1C3",
+        "normalized": "M9V 1C3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7428854,
+      "longitude": -79.6064804
+    },
+    "phone": {
+      "raw": "+1 416-747-5900",
+      "normalized": "+14167475900"
+    },
+    "website": "https://cicamosque.org/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 96,
+      "cid": "12381663552575833160",
+      "placeId": "ChIJ-XQAkgI7K4gRSASvc2aB1Ks",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 27,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-98",
+    "sourceIndex": 97,
+    "name": "Weston Islamic Benevolence Society",
+    "slug": "weston-islamic-benevolence-society-north-york",
+    "address": {
+      "raw": "172 Milvan Dr, North York, ON M9L 1Z8, Canada",
+      "streetAddress": "172 Milvan Dr",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9L 1Z8",
+        "normalized": "M9L 1Z8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7576332,
+      "longitude": -79.5650177
+    },
+    "phone": {
+      "raw": "+1 416-401-9038",
+      "normalized": "+14164019038"
+    },
+    "website": "https://westonislamic.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 97,
+      "cid": "9145009583252419896",
+      "placeId": "ChIJyY-5WgE7K4gROLVNfcOZ6X4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious school"
+      ],
+      "rating": null,
+      "reviewsCount": 40,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-99",
+    "sourceIndex": 98,
+    "name": "United Canadian Muslim",
+    "slug": "united-canadian-muslim-toronto",
+    "address": {
+      "raw": "184 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+      "streetAddress": "184 Rhodes Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4L 3A1",
+        "normalized": "M4L 3A1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6703791,
+      "longitude": -79.3196243
+    },
+    "phone": {
+      "raw": "+1 416-462-1401",
+      "normalized": "+14164621401"
+    },
+    "website": "https://ucma.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 101,
+        "targetTitle": "Fatih Mosque - UCMA Head Office",
+        "targetPlaceId": "ChIJl4A7lInL1IkRAZIPVBEkOcU",
+        "reason": "Coordinates within 30m with matching identity keywords (0%)"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 128,
+        "targetTitle": "Faith Mosque",
+        "targetPlaceId": "ChIJhdsOWQDL1IkRBJHAkWoDGsc",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 98,
+      "cid": "15065677342841298865",
+      "placeId": "ChIJQ-0glYnL1IkRsd-00LgJFNE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 36,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-100",
+    "sourceIndex": 99,
+    "name": "Masjid",
+    "slug": "masjid-north-york",
+    "address": {
+      "raw": "747 Don Mills Rd., North York, ON M3C, Canada",
+      "streetAddress": "747 Don Mills Rd.",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M3C",
+        "normalized": null
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7137029,
+      "longitude": -79.3346804
+    },
+    "phone": null,
+    "website": "http://lanternofknowledgeacademy.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "GENERIC_NAME"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 99,
+      "cid": "15023649970478015536",
+      "placeId": "ChIJBZETgcbN1IkRMGQmqAy6ftA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 40,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-102",
+    "sourceIndex": 101,
+    "name": "Fatih Mosque - UCMA Head Office",
+    "slug": "fatih-mosque-ucma-head-office-toronto",
+    "address": {
+      "raw": "182 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+      "streetAddress": "182 Rhodes Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4L 3A1",
+        "normalized": "M4L 3A1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6703046,
+      "longitude": -79.3195802
+    },
+    "phone": {
+      "raw": "+1 416-462-1401",
+      "normalized": "+14164621401"
+    },
+    "website": "https://torontofatih.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 98,
+        "targetTitle": "United Canadian Muslim",
+        "targetPlaceId": "ChIJQ-0glYnL1IkRsd-00LgJFNE",
+        "reason": "Coordinates within 30m with matching identity keywords (0%)"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 128,
+        "targetTitle": "Faith Mosque",
+        "targetPlaceId": "ChIJhdsOWQDL1IkRBJHAkWoDGsc",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 101,
+      "cid": "14211429755987661313",
+      "placeId": "ChIJl4A7lInL1IkRAZIPVBEkOcU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Non-profit organization"
+      ],
+      "rating": null,
+      "reviewsCount": 98,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-103",
+    "sourceIndex": 102,
+    "name": "Mushallah darusalam",
+    "slug": "mushallah-darusalam-etobicoke",
+    "address": {
+      "raw": "2630 Kipling Ave, Etobicoke, ON M9V 4B9, Canada",
+      "streetAddress": "2630 Kipling Ave",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9V 4B9",
+        "normalized": "M9V 4B9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7505756,
+      "longitude": -79.5861985
+    },
+    "phone": {
+      "raw": "+1 416-742-7428",
+      "normalized": "+14167427428"
+    },
+    "website": "https://darussalamtoronto.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 102,
+      "cid": "5797537920760166327",
+      "placeId": "ChIJaT6eMQA7K4gRtzfEsgX-dFA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 11,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-107",
+    "sourceIndex": 106,
+    "name": "Khalid Youth Program",
+    "slug": "khalid-youth-program-etobicoke",
+    "address": {
+      "raw": "16 Bethridge Rd, Etobicoke, ON M9W 1N1, Canada",
+      "streetAddress": "16 Bethridge Rd",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9W 1N1",
+        "normalized": "M9W 1N1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7088464,
+      "longitude": -79.5689021
+    },
+    "phone": null,
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 119,
+        "targetTitle": "Khalid Bin Al-Walid Mosque",
+        "targetPlaceId": "ChIJhz4a_As6K4gRO-CHFv2YovQ",
+        "reason": "Shared address with matching identity keywords (17%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 106,
+      "cid": "12962313216283630060",
+      "placeId": "ChIJ35Bv8Ng7K4gR7NnvYzFj47M",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-108",
+    "sourceIndex": 107,
+    "name": "United Muslim Association",
+    "slug": "united-muslim-association-etobicoke",
+    "address": {
+      "raw": "130 Westmore Dr, Etobicoke, ON M9V 3Y6, Canada",
+      "streetAddress": "130 Westmore Dr",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9V 3Y6",
+        "normalized": "M9V 3Y6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7356537,
+      "longitude": -79.6031852
+    },
+    "phone": null,
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 107,
+      "cid": "9507900351570722691",
+      "placeId": "ChIJb7rxZP86K4gRgz8vp_7Y8oM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 5,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-111",
+    "sourceIndex": 110,
+    "name": "Nigerian Canadian Muslim Association",
+    "slug": "nigerian-canadian-muslim-association-north-york",
+    "address": {
+      "raw": "190 Milvan Dr Unit 7, North York, ON M9L 1Z9, Canada",
+      "streetAddress": "190 Milvan Dr Unit 7",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9L 1Z9",
+        "normalized": "M9L 1Z9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7593254,
+      "longitude": -79.5662064
+    },
+    "phone": {
+      "raw": "+1 647-776-3104",
+      "normalized": "+16477763104"
+    },
+    "website": "http://www.nigeriancanadianmuslim.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 110,
+      "cid": "4098509316683255305",
+      "placeId": "ChIJhd6ktKU6K4gRCc6IOYLU4Dg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 90,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-113",
+    "sourceIndex": 112,
+    "name": "Agincourt Muslim Association",
+    "slug": "agincourt-muslim-association-scarborough",
+    "address": {
+      "raw": "3609B Sheppard Ave E, Scarborough, ON M1T 3K8, Canada",
+      "streetAddress": "3609B Sheppard Ave E",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1T 3K8",
+        "normalized": "M1T 3K8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7803231,
+      "longitude": -79.2985217
+    },
+    "phone": {
+      "raw": "+1 416-901-9659",
+      "normalized": "+14169019659"
+    },
+    "website": "http://www.agincourtma.org/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 139,
+        "targetTitle": "Namira Masjid",
+        "targetPlaceId": "ChIJX_4tj1zT1IkRx5HNtK17OeI",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 112,
+      "cid": "6526180840115761542",
+      "placeId": "ChIJse2jR9PT1IkRhnEPm-WmkVo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 157,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-116",
+    "sourceIndex": 115,
+    "name": "Al-Madrasathul Ihsaniyyah Madrasa",
+    "slug": "al-madrasathul-ihsaniyyah-madrasa-toronto",
+    "address": {
+      "raw": "463 Gerrard St E, Toronto, ON M5A 2H1, Canada",
+      "streetAddress": "463 Gerrard St E",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M5A 2H1",
+        "normalized": "M5A 2H1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6629794,
+      "longitude": -79.3601683
+    },
+    "phone": null,
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 5,
+        "targetTitle": "463 Gerrard St E Musallah",
+        "targetPlaceId": "ChIJT-3UAADL1IkR6kfC0af4eoE",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 115,
+      "cid": "13029912257894749954",
+      "placeId": "ChIJybeGTQDL1IkRAhdTwimM07Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-119",
+    "sourceIndex": 118,
+    "name": "Salaheddin Islamic Centre",
+    "slug": "salaheddin-islamic-centre-scarborough",
+    "address": {
+      "raw": "741 Kennedy Rd, Scarborough, ON M1K 2C6, Canada",
+      "streetAddress": "741 Kennedy Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1K 2C6",
+        "normalized": "M1K 2C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7309165,
+      "longitude": -79.2660824
+    },
+    "phone": {
+      "raw": "+1 416-264-3900",
+      "normalized": "+14162643900"
+    },
+    "website": "http://www.salaheddinschool.org//",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8:30 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8:30 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8:30 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8:30 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8:30 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 142,
+        "targetTitle": "Masjid Salaheddin",
+        "targetPlaceId": "ChIJf8g-2f3P1IkRALNx8RIh_FQ",
+        "reason": "Shared address with matching identity keywords (25%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 118,
+      "cid": "6106530801003424409",
+      "placeId": "ChIJSUE6fD3O1IkRmWrK42jBvlQ",
+      "rawCategoryName": "Community school",
+      "rawCategories": [
+        "Community school",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-120",
+    "sourceIndex": 119,
+    "name": "Khalid Bin Al-Walid Mosque",
+    "slug": "khalid-bin-al-walid-mosque-etobicoke",
+    "address": {
+      "raw": "16 Bethridge Rd, Etobicoke, ON M9W 1N1, Canada",
+      "streetAddress": "16 Bethridge Rd",
+      "city": "Etobicoke",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M9W 1N1",
+        "normalized": "M9W 1N1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7087293,
+      "longitude": -79.5687607
+    },
+    "phone": {
+      "raw": "+1 416-745-2888",
+      "normalized": "+14167452888"
+    },
+    "website": "https://www.khalidmosque.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 106,
+        "targetTitle": "Khalid Youth Program",
+        "targetPlaceId": "ChIJ35Bv8Ng7K4gR7NnvYzFj47M",
+        "reason": "Shared address with matching identity keywords (17%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 119,
+      "cid": "17627820104253694011",
+      "placeId": "ChIJhz4a_As6K4gRO-CHFv2YovQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 483,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-121",
+    "sourceIndex": 120,
+    "name": "Islamic Iranian Centre of Imam Ali",
+    "slug": "islamic-iranian-centre-of-imam-ali-north-york",
+    "address": {
+      "raw": "120 Bermondsey Rd, North York, ON M4A 1X5, Canada",
+      "streetAddress": "120 Bermondsey Rd",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4A 1X5",
+        "normalized": "M4A 1X5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7176209,
+      "longitude": -79.3150164
+    },
+    "phone": {
+      "raw": "+1 416-918-6950",
+      "normalized": "+14169186950"
+    },
+    "website": "https://www.imamali.ca/ca",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 122,
+        "targetTitle": "Masjid Al-Rasool Al-A'dham",
+        "targetPlaceId": "ChIJ24vuaezN1IkRTv4fIjSMozE",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 120,
+      "cid": "12102224384619977552",
+      "placeId": "ChIJS5PD3LfN1IkRUBtYHfW886c",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 262,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-125",
+    "sourceIndex": 124,
+    "name": "Quraan and Hadeeth Society of Canada",
+    "slug": "quraan-and-hadeeth-society-of-canada-scarborough",
+    "address": {
+      "raw": "2183A Lawrence Ave E, Scarborough, ON M1P 2P8, Canada",
+      "streetAddress": "2183A Lawrence Ave E",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1P 2P8",
+        "normalized": "M1P 2P8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7473716,
+      "longitude": -79.2834336
+    },
+    "phone": {
+      "raw": "+1 416-546-1414",
+      "normalized": "+14165461414"
+    },
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 to 6:30 AM, 7:15 to 7:40 AM, 9 to 10 AM, 1:35 to 1:55 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 124,
+      "cid": "558480335913056652",
+      "placeId": "ChIJTSb9GvzR1IkRjHkjFOgewAc",
+      "rawCategoryName": "Religious organization",
+      "rawCategories": [
+        "Religious organization",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 94,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-127",
+    "sourceIndex": 126,
+    "name": "Afghan Canadian Islamic Community",
+    "slug": "afghan-canadian-islamic-community-north-york",
+    "address": {
+      "raw": "22 Hobson Ave, North York, ON M4A 1Y2, Canada",
+      "streetAddress": "22 Hobson Ave",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4A 1Y2",
+        "normalized": "M4A 1Y2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7204168,
+      "longitude": -79.3082172
+    },
+    "phone": {
+      "raw": "+1 416-757-2553",
+      "normalized": "+14167572553"
+    },
+    "website": "https://www.afghancanada.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 to 11 AM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 126,
+      "cid": "9124437017625713241",
+      "placeId": "ChIJz1OkH8fN1IkRWVoByx-DoH4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Non-profit organization"
+      ],
+      "rating": null,
+      "reviewsCount": 178,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-134",
+    "sourceIndex": 133,
+    "name": "Masjid Abu Bakr",
+    "slug": "masjid-abu-bakr-scarborough",
+    "address": {
+      "raw": "2665 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+      "streetAddress": "2665 Lawrence Ave E",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1P 2S2",
+        "normalized": "M1P 2S2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.751525,
+      "longitude": -79.2622506
+    },
+    "phone": {
+      "raw": "+1 647-216-4740",
+      "normalized": "+16472164740"
+    },
+    "website": "https://www.smacanada.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 146,
+        "targetTitle": "Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+        "targetPlaceId": "ChIJFw51TMPR1IkRDCMrsPoLD3U",
+        "reason": "Shared address with matching identity keywords (38%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 133,
+      "cid": "7942323122913646707",
+      "placeId": "ChIJZ5lUyAvR1IkRc5ij0MzMOG4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 53,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-136",
+    "sourceIndex": 135,
+    "name": "NAMF",
+    "slug": "namf-scarborough",
+    "address": {
+      "raw": "4168 Finch Ave E, Scarborough, ON M1S 5H6, Canada",
+      "streetAddress": "4168 Finch Ave E",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1S 5H6",
+        "normalized": "M1S 5H6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.8038387,
+      "longitude": -79.2889754
+    },
+    "phone": {
+      "raw": "+1 416-299-1969",
+      "normalized": "+14162991969"
+    },
+    "website": "https://www.namf.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 135,
+      "cid": "7538744692746996223",
+      "placeId": "ChIJVTO6QQDR1IkR_8mLJ1sAn2g",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 2,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-137",
+    "sourceIndex": 136,
+    "name": "Abdullah Ibn Abbas Islamic Centre",
+    "slug": "abdullah-ibn-abbas-islamic-centre-toronto",
+    "address": {
+      "raw": "2624 Danforth Ave, Toronto, ON M4C 1L7, Canada",
+      "streetAddress": "2624 Danforth Ave",
+      "city": "Toronto",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M4C 1L7",
+        "normalized": "M4C 1L7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6886573,
+      "longitude": -79.3003031
+    },
+    "phone": {
+      "raw": "+1 416-916-2853",
+      "normalized": "+14169162853"
+    },
+    "website": "https://aiacentre.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_MOVED_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Evidence indicates this facility has relocated to another address.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 136,
+      "cid": "1570985726265041921",
+      "placeId": "ChIJCwerhSDM1IkRAaQ80TFDzRU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 121,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-139",
+    "sourceIndex": 138,
+    "name": "Baitul Mukarram Islamic Society",
+    "slug": "baitul-mukarram-islamic-society-scarborough",
+    "address": {
+      "raw": "3340 Danforth Ave, Scarborough, ON M1L 1C6, Canada",
+      "streetAddress": "3340 Danforth Ave",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1L 1C6",
+        "normalized": "M1L 1C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6938889,
+      "longitude": -79.2777486
+    },
+    "phone": {
+      "raw": "+1 416-686-3037",
+      "normalized": "+14166863037"
+    },
+    "website": "https://www.bmis.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 138,
+      "cid": "10521235209300060297",
+      "placeId": "ChIJ6QaWjpDO1IkRiaip0K3vApI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 333,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-143",
+    "sourceIndex": 142,
+    "name": "Masjid Salaheddin",
+    "slug": "masjid-salaheddin-scarborough",
+    "address": {
+      "raw": "741 Kennedy Rd, Scarborough, ON M1K 2C6, Canada",
+      "streetAddress": "741 Kennedy Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1K 2C6",
+        "normalized": "M1K 2C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7308841,
+      "longitude": -79.2661011
+    },
+    "phone": {
+      "raw": "+1 416-264-3900",
+      "normalized": "+14162643900"
+    },
+    "website": "http://salaheddin.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 118,
+        "targetTitle": "Salaheddin Islamic Centre",
+        "targetPlaceId": "ChIJSUE6fD3O1IkRmWrK42jBvlQ",
+        "reason": "Shared address with matching identity keywords (25%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 142,
+      "cid": "6123805958560920320",
+      "placeId": "ChIJf8g-2f3P1IkRALNx8RIh_FQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 121,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-144",
+    "sourceIndex": 143,
+    "name": "The Sunatul Jamaat of Ontario Canada",
+    "slug": "the-sunatul-jamaat-of-ontario-canada-scarborough",
+    "address": {
+      "raw": "347 Danforth Rd, Scarborough, ON M1L 3X8, Canada",
+      "streetAddress": "347 Danforth Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1L 3X8",
+        "normalized": "M1L 3X8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7029618,
+      "longitude": -79.2697709
+    },
+    "phone": {
+      "raw": "+1 416-690-2298",
+      "normalized": "+14166902298"
+    },
+    "website": "https://sunatuljamaat.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 143,
+      "cid": "13984744284570130786",
+      "placeId": "ChIJRVIk-IrO1IkRYhl6HNXKE8I",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 557,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-146",
+    "sourceIndex": 145,
+    "name": "Musallah",
+    "slug": "musallah-scarborough",
+    "address": {
+      "raw": "1145 Morningside Ave #40, Scarborough, ON M1B 0A7, Canada",
+      "streetAddress": "1145 Morningside Ave #40",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1B 0A7",
+        "normalized": "M1B 0A7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.8008186,
+      "longitude": -79.1989713
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "GENERIC_NAME",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 49,
+        "targetTitle": "Masjid Tayyaba Educational Islamic Centre",
+        "targetPlaceId": "ChIJbRwhyC7b1IkRhLlqCosjXPQ",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 145,
+      "cid": "10231333049611516678",
+      "placeId": "ChIJOai7bgDb1IkRBvvOYDP__I0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-147",
+    "sourceIndex": 146,
+    "name": "Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+    "slug": "scarborough-muslim-association-jame-abu-bakr-siddique-masjid-scarborough",
+    "address": {
+      "raw": "2665 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+      "streetAddress": "2665 Lawrence Ave E",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1P 2S2",
+        "normalized": "M1P 2S2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7516537,
+      "longitude": -79.262253
+    },
+    "phone": {
+      "raw": "+1 416-750-2253",
+      "normalized": "+14167502253"
+    },
+    "website": "http://www.smacanada.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 133,
+        "targetTitle": "Masjid Abu Bakr",
+        "targetPlaceId": "ChIJZ5lUyAvR1IkRc5ij0MzMOG4",
+        "reason": "Shared address with matching identity keywords (38%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 146,
+      "cid": "8434973798413574924",
+      "placeId": "ChIJFw51TMPR1IkRDCMrsPoLD3U",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Association / Organization",
+        "Religious destination",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 1783,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-to-149",
+    "sourceIndex": 148,
+    "name": "Al-Huda Muslim Society",
+    "slug": "al-huda-muslim-society-scarborough",
+    "address": {
+      "raw": "975 Kennedy Rd, Scarborough, ON M1P 2K5, Canada",
+      "streetAddress": "975 Kennedy Rd",
+      "city": "Scarborough",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M1P 2K5",
+        "normalized": "M1P 2K5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7447794,
+      "longitude": -79.2725821
+    },
+    "phone": {
+      "raw": "+1 416-446-0935",
+      "normalized": "+14164460935"
+    },
+    "website": "https://alhudamuslimsociety.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 148,
+      "cid": "978799398620090771",
+      "placeId": "ChIJnYdvmpvN1IkRk9Ed_d1klQ0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 131,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  }
+]

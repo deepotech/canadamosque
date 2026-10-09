@@ -1,0 +1,202 @@
+[
+  {
+    "id": "mosque-ott-28",
+    "sourceIndex": 27,
+    "name": "Clinton",
+    "slug": "clinton-orl-ans",
+    "address": {
+      "raw": "900 York Mills Dr, Orléans, ON K4A 2P1, Canada",
+      "streetAddress": "900 York Mills Dr",
+      "city": "Orléans",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K4A 2P1",
+        "normalized": "K4A 2P1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4815672,
+      "longitude": -75.4949459
+    },
+    "phone": null,
+    "website": "https://wa.me/13202234756",
+    "classification": "EXCLUDE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "EXCLUDED",
+    "publicationReason": "Phase 8 Audit Excluded: False positive: residential spam listing.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 27,
+      "cid": "1690794310890035722",
+      "placeId": "ChIJc1BSslcTzkwRChrasHfodhc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-29",
+    "sourceIndex": 28,
+    "name": "IslamicReminders1500",
+    "slug": "islamicreminders1500-ottawa",
+    "address": {
+      "raw": "33 Eleanor Dr, Ottawa, ON K2E 5Z8, Canada",
+      "streetAddress": "33 Eleanor Dr",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2E 5Z8",
+        "normalized": "K2E 5Z8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3640322,
+      "longitude": -75.730426
+    },
+    "phone": {
+      "raw": "+1 613-796-3507",
+      "normalized": "+16137963507"
+    },
+    "website": null,
+    "classification": "EXCLUDE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "EXCLUDED",
+    "publicationReason": "Phase 8 Audit Excluded: False positive: social media account pinned to home address.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 28,
+      "cid": "16275062684792049059",
+      "placeId": "ChIJOxmGM8AHzkwRo80-aEij3OE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

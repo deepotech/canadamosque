@@ -1,0 +1,154 @@
+{
+  "totalRawRecords": 21,
+  "publishedCount": 14,
+  "reviewRequiredCount": 7,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 7,
+    "ISLAMIC_CENTER": 4,
+    "MUSALLA": 2,
+    "PRAYER_ROOM": 2,
+    "JUMMAH_LOCATION": 0,
+    "COMMUNITY_CENTER": 1,
+    "ORGANIZATION": 2,
+    "REVIEW_REQUIRED": 3,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 14,
+    "REVIEW_REQUIRED": 7,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Winnipeg": 21
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 5,
+    "MISSING_WEBSITE": 6,
+    "MISSING_HOURS": 11,
+    "MISSING_DESCRIPTION": 21,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 0,
+    "POSSIBLE_DUPLICATE": 0,
+    "SHARED_ADDRESS": 4,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 2,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 4
+  },
+  "missingFields": {
+    "missingPhone": 5,
+    "missingWebsite": 6,
+    "missingHours": 11,
+    "missingDescription": 21
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 0,
+    "sharedLocations": 2
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 1,
+      "id": "mosque-wpg-2",
+      "name": "Manitoba Islamic Association (MIA) Connections",
+      "address": "406 Edmonton St, Winnipeg, MB R3B 2M2, Canada",
+      "city": "Winnipeg",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 2,
+      "id": "mosque-wpg-3",
+      "name": "Yaseen Centre Of Manitoba",
+      "address": "746 Ellice Ave, Winnipeg, MB R3G 0B6, Canada",
+      "city": "Winnipeg",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 3,
+      "id": "mosque-wpg-4",
+      "name": "Faizan E Makkah Winnipeg",
+      "address": "509 St Mary's Rd, Winnipeg, MB R2M 3L2, Canada",
+      "city": "Winnipeg",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 5,
+      "id": "mosque-wpg-6",
+      "name": "Manitoba Dawah Centre",
+      "address": "368 Edmonton St, Winnipeg, MB R3B 2L3, Canada",
+      "city": "Winnipeg",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 15,
+      "id": "mosque-wpg-16",
+      "name": "University of Manitoba Masjid",
+      "address": "E3, 103 Dafoe Rd W #160, Winnipeg, MB R3T 5V6, Canada",
+      "city": "Winnipeg",
+      "classification": "PRAYER_ROOM",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+    },
+    {
+      "sourceIndex": 16,
+      "id": "mosque-wpg-17",
+      "name": "Manitoba Islamic Association (MIA) Grand Mosque",
+      "address": "2445 Waverley St, Winnipeg, MB R3Y 1S3, Canada",
+      "city": "Winnipeg",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 17,
+      "id": "mosque-wpg-18",
+      "name": "The University of Winnipeg Muslim Prayer Centre (Room #0W16)",
+      "address": "Graham Hall, 515 Portage Ave, Winnipeg, MB R3B 2E9, Canada",
+      "city": "Winnipeg",
+      "classification": "PRAYER_ROOM",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+      ],
+      "reason": "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+    }
+  ],
+  "excludedRecords": []
+}

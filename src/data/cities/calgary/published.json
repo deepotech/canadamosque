@@ -1,0 +1,2873 @@
+[
+  {
+    "id": "mosque-cal-3",
+    "sourceIndex": 2,
+    "name": "Alfalah Calgary Islamic Center (ACIC)",
+    "slug": "alfalah-calgary-islamic-center-acic-calgary",
+    "address": {
+      "raw": "1411 33 St NE #8, Calgary, AB T2A 5P1, Canada",
+      "streetAddress": "1411 33 St NE #8",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2A 5P1",
+        "normalized": "T2A 5P1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0646768,
+      "longitude": -113.9884963
+    },
+    "phone": {
+      "raw": "+1 403-879-6461",
+      "normalized": "+14038796461"
+    },
+    "website": "https://alfalahcalgary.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 2,
+      "cid": "4181335323088133107",
+      "placeId": "ChIJuWrcaQBlcVMR8xt2m1IWBzo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 119,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-4",
+    "sourceIndex": 3,
+    "name": "Al-Ansaar Islamic Centre",
+    "slug": "al-ansaar-islamic-centre-calgary",
+    "address": {
+      "raw": "#120, 3670 63 Ave NE, Calgary, AB T3J 0G7, Canada",
+      "streetAddress": "#120",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 0G7",
+        "normalized": "T3J 0G7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1099304,
+      "longitude": -113.9798515
+    },
+    "phone": {
+      "raw": "+1 587-717-0990",
+      "normalized": "+15877170990"
+    },
+    "website": "http://www.alansaar.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 3,
+      "cid": "15493012927003428329",
+      "placeId": "ChIJfwEA0HNlcVMR6QWT7is9Atc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 57,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-5",
+    "sourceIndex": 4,
+    "name": "Imam Azam Islamic Centre",
+    "slug": "imam-azam-islamic-centre-calgary",
+    "address": {
+      "raw": "4821 Westwinds Dr NE Unit 8, Calgary, AB T3J 4L4, Canada",
+      "streetAddress": "4821 Westwinds Dr NE Unit 8",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 4L4",
+        "normalized": "T3J 4L4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0999108,
+      "longitude": -113.9645258
+    },
+    "phone": {
+      "raw": "+1 403-402-7709",
+      "normalized": "+14034027709"
+    },
+    "website": null,
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 4,
+      "cid": "3143297899411854911",
+      "placeId": "ChIJCYVG2D9lcVMRP9asHck8nys",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 82,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-6",
+    "sourceIndex": 5,
+    "name": "Dawat-e-Islami Canada (Faizan-e-Madina Islamic Centre Calgary)",
+    "slug": "dawat-e-islami-canada-faizan-e-madina-islamic-centre-calgary",
+    "address": {
+      "raw": "32 Westwinds Crescent NE, Calgary, AB T3J 2E7, Canada",
+      "streetAddress": "32 Westwinds Crescent NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 2E7",
+        "normalized": "T3J 2E7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1070354,
+      "longitude": -113.9710865
+    },
+    "phone": {
+      "raw": "+1 403-618-5408",
+      "normalized": "+14036185408"
+    },
+    "website": "http://www.dawateislamicanada.net/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 5,
+      "cid": "55653444033756840",
+      "placeId": "ChIJCdbx9IBkcVMRqL4oMoO4xQA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 58,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-8",
+    "sourceIndex": 7,
+    "name": "Baitul Mukarram Islamic Centre Calgary",
+    "slug": "baitul-mukarram-islamic-centre-calgary",
+    "address": {
+      "raw": "3770 Westwinds Dr NE Unit 207, Calgary, AB T3J 5H3, Canada",
+      "streetAddress": "3770 Westwinds Dr NE Unit 207",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 5H3",
+        "normalized": "T3J 5H3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1069092,
+      "longitude": -113.974143
+    },
+    "phone": {
+      "raw": "(501) 767-6890",
+      "normalized": "+15017676890"
+    },
+    "website": "https://www.bmicc.online/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 7,
+      "cid": "14125752169168217417",
+      "placeId": "ChIJAQv_MsFlcVMRSaV5pMHACMQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 74,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-10",
+    "sourceIndex": 9,
+    "name": "Hazrat Bilal Islamic Center",
+    "slug": "hazrat-bilal-islamic-center-calgary",
+    "address": {
+      "raw": "20 Saddlestone Dr, Calgary, AB T3J 0B4, Canada",
+      "streetAddress": "20 Saddlestone Dr",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 0B4",
+        "normalized": "T3J 0B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1294031,
+      "longitude": -113.9290499
+    },
+    "phone": {
+      "raw": "+1 587-917-0333",
+      "normalized": "+15879170333"
+    },
+    "website": "http://hbic.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 9,
+      "cid": "8351414904477898055",
+      "placeId": "ChIJ42OH9dtjcVMRR9VOoZsv5nM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 98,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-11",
+    "sourceIndex": 10,
+    "name": "Al-Hedaya Islamic Centre",
+    "slug": "al-hedaya-islamic-centre-calgary",
+    "address": {
+      "raw": "108 Savanna Ave NE, Calgary, AB T3J 4E4, Canada",
+      "streetAddress": "108 Savanna Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 4E4",
+        "normalized": "T3J 4E4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1340139,
+      "longitude": -113.9645876
+    },
+    "phone": {
+      "raw": "+1 403-454-1949",
+      "normalized": "+14034541949"
+    },
+    "website": "https://alhedayacentre.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 10,
+      "cid": "6270687893066377163",
+      "placeId": "ChIJraLyL4hjcVMRy2eQS2r1BVc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 119,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-12",
+    "sourceIndex": 11,
+    "name": "Al-Ansaar Islamic Centre-Cornerstone",
+    "slug": "al-ansaar-islamic-centre-cornerstone-calgary",
+    "address": {
+      "raw": "3870 Cornerstone Blvd NE Unit 30, Calgary, AB T3N 1M2, Canada",
+      "streetAddress": "3870 Cornerstone Blvd NE Unit 30",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3N 1M2",
+        "normalized": "T3N 1M2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1583314,
+      "longitude": -113.9307775
+    },
+    "phone": {
+      "raw": "+1 587-717-0990",
+      "normalized": "+15877170990"
+    },
+    "website": "https://alansaar.ca/cornerstone",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 AM to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 11,
+      "cid": "12137611795718327325",
+      "placeId": "ChIJdcBbDwBjcVMRHcxh0Z51cag",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Education center"
+      ],
+      "rating": null,
+      "reviewsCount": 30,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-13",
+    "sourceIndex": 12,
+    "name": "Al-Madinah Calgary Islamic Assembly / Green Dome Mosque / Green Dome Islamic School",
+    "slug": "al-madinah-calgary-islamic-assembly-green-dome-mosque-green-dome-islamic-school-calgary",
+    "address": {
+      "raw": "4616 80 Ave NE, Calgary, AB T3J 4B7, Canada",
+      "streetAddress": "4616 80 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 4B7",
+        "normalized": "T3J 4B7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.126319,
+      "longitude": -113.9682685
+    },
+    "phone": {
+      "raw": "+1 403-590-8200",
+      "normalized": "+14035908200"
+    },
+    "website": "http://amcia.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 12,
+      "cid": "4235404854694371509",
+      "placeId": "ChIJg9tnAmNjcVMRteAFdEYuxzo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "School"
+      ],
+      "rating": null,
+      "reviewsCount": 280,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-14",
+    "sourceIndex": 13,
+    "name": "Downtown Calgary Mosque (IISC)",
+    "slug": "downtown-calgary-mosque-iisc-calgary",
+    "address": {
+      "raw": "1009 7 Ave SW, Calgary, AB T2P 1A8, Canada",
+      "streetAddress": "1009 7 Ave SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2P 1A8",
+        "normalized": "T2P 1A8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0468564,
+      "longitude": -114.0843455
+    },
+    "phone": {
+      "raw": "+1 403-261-7601",
+      "normalized": "+14032617601"
+    },
+    "website": "https://iisc.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 13,
+      "cid": "3661623143148425226",
+      "placeId": "ChIJfavA5uZvcVMRChC2PNmy0DI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 436,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-15",
+    "sourceIndex": 14,
+    "name": "Friday Jumuah Prayer - خطبة الجمعة",
+    "slug": "friday-jumuah-prayer-calgary",
+    "address": {
+      "raw": "844 Cantabrian Dr SW, Calgary, AB T2W 6G4, Canada",
+      "streetAddress": "844 Cantabrian Dr SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2W 6G4",
+        "normalized": "T2W 6G4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 50.9461983,
+      "longitude": -114.0789481
+    },
+    "phone": null,
+    "website": null,
+    "classification": "JUMMAH_LOCATION",
+    "classificationReason": "Identified specifically as a Jummah / Friday prayer location.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1:40 to 2:10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified jummah location within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 14,
+      "cid": "13221776759824119351",
+      "placeId": "ChIJH_fBNwB3cVMRN_bUPOkvfbc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 11,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-16",
+    "sourceIndex": 15,
+    "name": "Calgary Islamic Centre SW Masjid (CICSW) - Mosque",
+    "slug": "calgary-islamic-centre-sw-masjid-cicsw-mosque-calgary",
+    "address": {
+      "raw": "5615 14 Ave SW, Calgary, AB T3H 4R5, Canada",
+      "streetAddress": "5615 14 Ave SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3H 4R5",
+        "normalized": "T3H 4R5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0395525,
+      "longitude": -114.1684986
+    },
+    "phone": {
+      "raw": "+1 403-242-1637",
+      "normalized": "+14032421637"
+    },
+    "website": "http://cicsw.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 18,
+        "targetTitle": "Muslim Council Of Calgary",
+        "targetPlaceId": "ChIJibzvOBJucVMR4DfJUo20em0",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 21,
+        "targetTitle": "Calgary south west masjid",
+        "targetPlaceId": "ChIJaXPHaABvcVMRwhVIGo4eQDc",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 15,
+      "cid": "4920344120862228445",
+      "placeId": "ChIJYzknTBJucVMR3b-sqOiSSEQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 631,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-17",
+    "sourceIndex": 16,
+    "name": "Islamic Centre Of South Calgary",
+    "slug": "islamic-centre-of-south-calgary",
+    "address": {
+      "raw": "180 Legacy Main St SE Unit 110, Calgary, AB T2X 4R9, Canada",
+      "streetAddress": "180 Legacy Main St SE Unit 110",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2X 4R9",
+        "normalized": "T2X 4R9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 50.8614585,
+      "longitude": -114.0262296
+    },
+    "phone": {
+      "raw": "+1 825-747-4272",
+      "normalized": "+18257474272"
+    },
+    "website": "https://icsouthcalgary.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 16,
+      "cid": "18229813490117388223",
+      "placeId": "ChIJx83Xxx93cVMRvycSmMhO_fw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious school"
+      ],
+      "rating": null,
+      "reviewsCount": 84,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-18",
+    "sourceIndex": 17,
+    "name": "Abu Bakr Islamic Centre NE Calgary",
+    "slug": "abu-bakr-islamic-centre-ne-calgary",
+    "address": {
+      "raw": "3030 3 Ave NE 100 S, Calgary, AB T2A 2L5, Canada",
+      "streetAddress": "3030 3 Ave NE 100 S",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2A 2L5",
+        "normalized": "T2A 2L5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0556899,
+      "longitude": -113.9904606
+    },
+    "phone": {
+      "raw": "+1 403-998-3635",
+      "normalized": "+14039983635"
+    },
+    "website": null,
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 17,
+      "cid": "11973596523060430249",
+      "placeId": "ChIJu5pDYBp7cVMRqYXeUJnCKqY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 199,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-20",
+    "sourceIndex": 19,
+    "name": "Calgary Downtown Musalla (MCC)",
+    "slug": "calgary-downtown-musalla-mcc-calgary",
+    "address": {
+      "raw": "205 8 Ave SE, Calgary, AB T2G 0K9, Canada",
+      "streetAddress": "205 8 Ave SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2G 0K9",
+        "normalized": "T2G 0K9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0450375,
+      "longitude": -114.0584451
+    },
+    "phone": {
+      "raw": "+1 403-973-0428",
+      "normalized": "+14039730428"
+    },
+    "website": "https://www.muslimscalgary.ca/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 19,
+      "cid": "2791482913858408811",
+      "placeId": "ChIJSTCdD_5vcVMRa1EaletWvSY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 83,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-21",
+    "sourceIndex": 20,
+    "name": "Ranchland Musallah",
+    "slug": "ranchland-musallah-calgary",
+    "address": {
+      "raw": "7750 Ranchview Dr NW, Calgary, AB T3G 1V6, Canada",
+      "streetAddress": "7750 Ranchview Dr NW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3G 1V6",
+        "normalized": "T3G 1V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1205518,
+      "longitude": -114.180695
+    },
+    "phone": {
+      "raw": "+1 403-374-1532",
+      "normalized": "+14033741532"
+    },
+    "website": "https://www.ianwc.ca/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 0,
+        "targetTitle": "Islamic Association of NW Calgary",
+        "targetPlaceId": "ChIJm-EaXNpocVMRRL1l53dvME0",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 20,
+      "cid": "1207142502107854652",
+      "placeId": "ChIJcU1zVtpocVMRPDdqv7WhwBA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 62,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-22",
+    "sourceIndex": 21,
+    "name": "Calgary south west masjid",
+    "slug": "calgary-south-west-masjid-calgary",
+    "address": {
+      "raw": "1629 38 St SW, Calgary, AB T3C 1T8, Canada",
+      "streetAddress": "1629 38 St SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3C 1T8",
+        "normalized": "T3C 1T8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0395546,
+      "longitude": -114.1684986
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 15,
+        "targetTitle": "Calgary Islamic Centre SW Masjid (CICSW) - Mosque",
+        "targetPlaceId": "ChIJYzknTBJucVMR3b-sqOiSSEQ",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 18,
+        "targetTitle": "Muslim Council Of Calgary",
+        "targetPlaceId": "ChIJibzvOBJucVMR4DfJUo20em0",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 21,
+      "cid": "3981215666270639554",
+      "placeId": "ChIJaXPHaABvcVMRwhVIGo4eQDc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-24",
+    "sourceIndex": 23,
+    "name": "Abu Huraira Musalla",
+    "slug": "abu-huraira-musalla-calgary",
+    "address": {
+      "raw": "5147 20 Ave SE, Calgary, AB T2A 0T7, Canada",
+      "streetAddress": "5147 20 Ave SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2A 0T7",
+        "normalized": "T2A 0T7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0353859,
+      "longitude": -113.9594214
+    },
+    "phone": {
+      "raw": "+1 587-836-9661",
+      "normalized": "+15878369661"
+    },
+    "website": "https://www.alazharyouthcenter.ca/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 9 AM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 23,
+      "cid": "2046303766144819672",
+      "placeId": "ChIJycXr5VJ7cVMR2CGb-27uZRw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 28,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-25",
+    "sourceIndex": 24,
+    "name": "Akram Jomaa Islamic Centre",
+    "slug": "akram-jomaa-islamic-centre-calgary",
+    "address": {
+      "raw": "2624 39 Ave NE, Calgary, AB T1Y 5V7, Canada",
+      "streetAddress": "2624 39 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T1Y 5V7",
+        "normalized": "T1Y 5V7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0880579,
+      "longitude": -114.0003291
+    },
+    "phone": {
+      "raw": "+1 403-291-0044",
+      "normalized": "+14032910044"
+    },
+    "website": "https://akramjomaa.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 33,
+        "targetTitle": "Muslim Community Foundation of Calgary",
+        "targetPlaceId": "ChIJMQvhQ-9kcVMRd-AQaiJGTSc",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 24,
+      "cid": "14728604512923099312",
+      "placeId": "ChIJISlBI-9kcVMRsCD_3cSDZsw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1167,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-28",
+    "sourceIndex": 27,
+    "name": "Bab Ul Hawaij Islamic Centre of Calgary",
+    "slug": "bab-ul-hawaij-islamic-centre-of-calgary",
+    "address": {
+      "raw": "3025 12 St NE, Calgary, AB T2E 7J2, Canada",
+      "streetAddress": "3025 12 St NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2E 7J2",
+        "normalized": "T2E 7J2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0791327,
+      "longitude": -114.0269209
+    },
+    "phone": {
+      "raw": "+1 403-399-9044",
+      "normalized": "+14033999044"
+    },
+    "website": "http://www.babulhawaijcalgary.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 27,
+      "cid": "2374476589030678633",
+      "placeId": "ChIJC8NPCoNkcVMRaaCnkODV8yA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 93,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-30",
+    "sourceIndex": 29,
+    "name": "Masjid Bilal Da'wa Center",
+    "slug": "masjid-bilal-dawa-center-calgary",
+    "address": {
+      "raw": "4527 6a St NE, Calgary, AB T2E 4B2, Canada",
+      "streetAddress": "4527 6a St NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2E 4B2",
+        "normalized": "T2E 4B2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0928073,
+      "longitude": -114.0475297
+    },
+    "phone": {
+      "raw": "+1 403-402-0298",
+      "normalized": "+14034020298"
+    },
+    "website": "https://portal.masjidal.com/dashboard",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 29,
+      "cid": "9032444988697314834",
+      "placeId": "ChIJE2oIye5lcVMREoaPfNywWX0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 71,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-35",
+    "sourceIndex": 34,
+    "name": "Al-Madinah Calgary Islamic Center",
+    "slug": "al-madinah-calgary-islamic-center-calgary",
+    "address": {
+      "raw": "2640 52 St NE Unit 124, Calgary, AB T1Y 3R6, Canada",
+      "streetAddress": "2640 52 St NE Unit 124",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T1Y 3R6",
+        "normalized": "T1Y 3R6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0759718,
+      "longitude": -113.9558246
+    },
+    "phone": {
+      "raw": "+1 403-561-6317",
+      "normalized": "+14035616317"
+    },
+    "website": null,
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:40 AM to 10:50 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 34,
+      "cid": "401360746883004284",
+      "placeId": "ChIJaZmTCp5lcVMRfDe_CHnrkQU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 16,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-36",
+    "sourceIndex": 35,
+    "name": "mosque jaoumaa",
+    "slug": "mosque-jaoumaa-calgary",
+    "address": {
+      "raw": "655 42 Ave NE, Calgary, AB T2E 6S1, Canada",
+      "streetAddress": "655 42 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2E 6S1",
+        "normalized": "T2E 6S1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0902489,
+      "longitude": -114.0485331
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 35,
+      "cid": "13316240913214249597",
+      "placeId": "ChIJm0stSwBlcVMRfZqo347KzLg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-43",
+    "sourceIndex": 42,
+    "name": "AL-HUDA MUSALLAH",
+    "slug": "al-huda-musallah-calgary",
+    "address": {
+      "raw": "5701 17 Ave SE, Calgary, AB T2A 0W3, Canada",
+      "streetAddress": "5701 17 Ave SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2A 0W3",
+        "normalized": "T2A 0W3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0373876,
+      "longitude": -113.9536238
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Calgary service area.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 42,
+      "cid": "1233699176647141366",
+      "placeId": "ChIJuchpWRB7cVMR9qe-X936HhE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 56,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-7",
+    "sourceIndex": 6,
+    "name": "Al-Salam Centre",
+    "slug": "al-salam-centre-calgary",
+    "address": {
+      "raw": "6415 Ranchview Dr NW, Calgary, AB T3G 1B5, Canada",
+      "streetAddress": "6415 Ranchview Dr NW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3G 1B5",
+        "normalized": "T3G 1B5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1147511,
+      "longitude": -114.1801109
+    },
+    "phone": {
+      "raw": "+1 403-451-8861 ext. 5",
+      "normalized": null
+    },
+    "website": "http://www.alsalamcentre.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified Islamic Centre with active prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 6,
+      "cid": "17057409185553805788",
+      "placeId": "ChIJ7wJAxdZocVMR3HFrvUcXuOw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Charity",
+        "Religious organization",
+        "Youth organization"
+      ],
+      "rating": null,
+      "reviewsCount": 181,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-23",
+    "sourceIndex": 22,
+    "name": "Baitun-Nur Mosque Ahmadiyya Muslim Jamaat",
+    "slug": "baitun-nur-mosque-ahmadiyya-muslim-jamaat-calgary",
+    "address": {
+      "raw": "4353 54 Ave NE, Calgary, AB T3J 4L3, Canada",
+      "streetAddress": "4353 54 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 4L3",
+        "normalized": "T3J 4L3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1020682,
+      "longitude": -113.9709626
+    },
+    "phone": {
+      "raw": "+1 403-590-8008",
+      "normalized": "+14035908008"
+    },
+    "website": "http://www.baitunnur.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "POSSIBLE_DUPLICATE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 30,
+        "targetTitle": "Ahmadiyya Movement In Islam",
+        "targetPlaceId": "ChIJUYBJ9oNkcVMRb8KvJugHmTU",
+        "reason": "Shared address with matching identity keywords (13%) or matching phone"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 36,
+        "targetTitle": "Minaret",
+        "targetPlaceId": "ChIJoZ6vAwBlcVMREa53VbK3uDk",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque complex; legitimate shared location with administrative association.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 22,
+      "cid": "13226969041711252285",
+      "placeId": "ChIJeRs5xV5lcVMRPcNJkkOij7c",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 571,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-29",
+    "sourceIndex": 28,
+    "name": "Hussaini Association of Calgary (Imambargah)",
+    "slug": "hussaini-association-of-calgary-imambargah-calgary",
+    "address": {
+      "raw": "4755 34 St SE, Calgary, AB T2B 3B3, Canada",
+      "streetAddress": "4755 34 St SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2B 3B3",
+        "normalized": "T2B 3B3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0120573,
+      "longitude": -113.9844392
+    },
+    "phone": {
+      "raw": "+1 403-235-1212",
+      "normalized": "+14032351212"
+    },
+    "website": "https://hussainicalgary.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 25,
+        "targetTitle": "Shia Muslim Association Of Calgary",
+        "targetPlaceId": "ChIJ9WKTbV56cVMRyYdo19SpHHI",
+        "reason": "Shared address with matching identity keywords (43%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified active Imambargah worship facility.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 28,
+      "cid": "12798134308463842713",
+      "placeId": "ChIJc0EoDV56cVMRmRW6m1gbnLE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "Non-profit organization"
+      ],
+      "rating": null,
+      "reviewsCount": 185,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-38",
+    "sourceIndex": 37,
+    "name": "Ar Rahma mussallah",
+    "slug": "ar-rahma-mussallah-calgary",
+    "address": {
+      "raw": "225 28 St SE, Calgary, AB T2A 5K4, Canada",
+      "streetAddress": "225 28 St SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2A 5K4",
+        "normalized": "T2A 5K4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0508821,
+      "longitude": -113.9945064
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified active musalla prayer space.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 37,
+      "cid": "4242470872800989718",
+      "placeId": "ChIJ132cegR7cVMRFpI-_8dI4Do",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 17,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

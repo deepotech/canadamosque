@@ -1,0 +1,334 @@
+{
+  "totalRawRecords": 43,
+  "publishedCount": 24,
+  "reviewRequiredCount": 19,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 6,
+    "ISLAMIC_CENTER": 14,
+    "MUSALLA": 4,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 1,
+    "COMMUNITY_CENTER": 0,
+    "ORGANIZATION": 10,
+    "REVIEW_REQUIRED": 8,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 24,
+    "REVIEW_REQUIRED": 19,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Calgary": 43
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 12,
+    "MISSING_WEBSITE": 13,
+    "MISSING_HOURS": 19,
+    "MISSING_DESCRIPTION": 42,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 0,
+    "POSSIBLE_DUPLICATE": 4,
+    "SHARED_ADDRESS": 12,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 10,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 4
+  },
+  "missingFields": {
+    "missingPhone": 12,
+    "missingWebsite": 13,
+    "missingHours": 19,
+    "missingDescription": 42
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 2,
+    "sharedLocations": 8
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 0,
+      "id": "mosque-cal-1",
+      "name": "Islamic Association of NW Calgary",
+      "address": "7750 Ranchview Dr NW #23, Calgary, AB T3G 1V6, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 1,
+      "id": "mosque-cal-2",
+      "name": "Islamic Information Society of Calgary (IISC)",
+      "address": "4128 6 St NE, Calgary, AB T2E 8C8, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 6,
+      "id": "mosque-cal-7",
+      "name": "Al-Salam Centre",
+      "address": "6415 Ranchview Dr NW, Calgary, AB T3G 1B5, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 8,
+      "id": "mosque-cal-9",
+      "name": "Islamic Association of NW Calgary",
+      "address": "183 Beddington Dr NE, Calgary, AB T3K 3V3, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 18,
+      "id": "mosque-cal-19",
+      "name": "Muslim Council Of Calgary",
+      "address": "5615 14 Ave SW, Calgary, AB T3H 4R5, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 22,
+      "id": "mosque-cal-23",
+      "name": "Baitun-Nur Mosque Ahmadiyya Muslim Jamaat",
+      "address": "4353 54 Ave NE, Calgary, AB T3J 4L3, Canada",
+      "city": "Calgary",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_HOURS",
+        "POSSIBLE_DUPLICATE",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 25,
+      "id": "mosque-cal-26",
+      "name": "Shia Muslim Association Of Calgary",
+      "address": "4755 34 St SE, Calgary, AB T2B 3B3, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 26,
+      "id": "mosque-cal-27",
+      "name": "Explosive Landscaping",
+      "address": "6439 2 St SE, Calgary, AB T2H 1J5, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 28,
+      "id": "mosque-cal-29",
+      "name": "Hussaini Association of Calgary (Imambargah)",
+      "address": "4755 34 St SE, Calgary, AB T2B 3B3, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 30,
+      "id": "mosque-cal-31",
+      "name": "Ahmadiyya Movement In Islam",
+      "address": "4353 54 Ave NE, Calgary, AB T3J 4L3, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 31,
+      "id": "mosque-cal-32",
+      "name": "Al-Bushra Islamic Foundation",
+      "address": "1 Tamarac Crescent SW, Calgary, AB T3C 3B7, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 32,
+      "id": "mosque-cal-33",
+      "name": "Khaled Hussain house",
+      "address": "232 Templeby Pl NE, Calgary, AB T1Y 5H1, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 33,
+      "id": "mosque-cal-34",
+      "name": "Muslim Community Foundation of Calgary",
+      "address": "2711 39 Ave NE, Calgary, AB T1Y 4T8, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 36,
+      "id": "mosque-cal-37",
+      "name": "Minaret",
+      "address": "4004 54 Ave NE, Calgary, AB T3J 3J8, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 37,
+      "id": "mosque-cal-38",
+      "name": "Ar Rahma mussallah",
+      "address": "225 28 St SE, Calgary, AB T2A 5K4, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 38,
+      "id": "mosque-cal-39",
+      "name": "Patterson Musalah Society",
+      "address": "1009 Prominence Way SW, Calgary, AB T3H 2B4, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 39,
+      "id": "mosque-cal-40",
+      "name": "pàlíser",
+      "address": "605 5 St SW, Calgary, AB T2P 0Y3, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 40,
+      "id": "mosque-cal-41",
+      "name": "Imam Ali Association",
+      "address": "2138 48 St SE, Calgary, AB T2B 1M2, Canada",
+      "city": "Calgary",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 41,
+      "id": "mosque-cal-42",
+      "name": "Dar Al Hijra ( Halaqa centre)",
+      "address": "4128 6 St NE, Calgary, AB T2E 8C8, Canada",
+      "city": "Calgary",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    }
+  ],
+  "excludedRecords": []
+}

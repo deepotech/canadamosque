@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "mosque-edm-1",
+    "sourceIndex": 0,
+    "name": "Muslim Association of Canada (MAC) - Edmonton",
+    "slug": "muslim-association-of-canada-mac-edmonton",
+    "address": {
+      "raw": "6104 172 St NW, Edmonton, AB T6M 1E3, Canada",
+      "streetAddress": "6104 172 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6M 1E3",
+        "normalized": "T6M 1E3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4964976,
+      "longitude": -113.6220927
+    },
+    "phone": {
+      "raw": "+1 780-443-3200",
+      "normalized": "+17804433200"
+    },
+    "website": "http://centres.macnet.ca/rahmamosque/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 0,
+      "cid": "15996608998249546947",
+      "placeId": "ChIJkdtQ1hYgoFMRw0R7VyFf_90",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 732,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-5",
+    "sourceIndex": 4,
+    "name": "Darul-Hadith Edmonton (Ahle-Hadith Society of Canada)",
+    "slug": "darul-hadith-edmonton-ahle-hadith-society-of-canada-edmonton",
+    "address": {
+      "raw": "7708a Wagner Rd NW NW, Edmonton, AB T6E 5B2, Canada",
+      "streetAddress": "7708a Wagner Rd NW NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6E 5B2",
+        "normalized": "T6E 5B2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5021611,
+      "longitude": -113.4465642
+    },
+    "phone": {
+      "raw": "+1 647-381-6540",
+      "normalized": "+16473816540"
+    },
+    "website": "https://www.ahlehadithcanada.org/edmonton",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 4,
+      "cid": "36565757847903079",
+      "placeId": "ChIJj3uSHwAZoFMRZ5t371zogQA",
+      "rawCategoryName": "Religious organization",
+      "rawCategories": [
+        "Religious organization",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 42,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-6",
+    "sourceIndex": 5,
+    "name": "AMJ Edmonton",
+    "slug": "amj-edmonton",
+    "address": {
+      "raw": "7005 98 Ave NW, Edmonton, AB T6A 2T8, Canada",
+      "streetAddress": "7005 98 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6A 2T8",
+        "normalized": "T6A 2T8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.537082,
+      "longitude": -113.436662
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 8,
+        "targetTitle": "Baitul Hadi Ahmadiyya Muslim Jamaat",
+        "targetPlaceId": "ChIJT-CtdpEioFMR-26dHoDW3mg",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 5,
+      "cid": "5111948941633272004",
+      "placeId": "ChIJCQqPGgAjoFMRxDj8Z3pK8UY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-15",
+    "sourceIndex": 14,
+    "name": "Al Faruq Islamic School",
+    "slug": "al-faruq-islamic-school-edmonton",
+    "address": {
+      "raw": "4410 127 St SW, Edmonton, AB T6W1A2, Canada",
+      "streetAddress": "4410 127 St SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6W 1A2",
+        "normalized": "T6W 1A2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.39241,
+      "longitude": -113.54199
+    },
+    "phone": {
+      "raw": "+1 780-870-8822",
+      "normalized": "+17808708822"
+    },
+    "website": "https://www.alfaruqislamicschool.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 14,
+      "cid": "14408241308342418250",
+      "placeId": "ChIJU_td_hAdoFMRSvvbvSFb9Mc",
+      "rawCategoryName": "Elementary school",
+      "rawCategories": [
+        "Elementary school",
+        "Middle school",
+        "Mosque",
+        "Nursery school",
+        "Primary school"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-17",
+    "sourceIndex": 16,
+    "name": "Southeast Muslim Community Edmonton",
+    "slug": "southeast-muslim-community-edmonton",
+    "address": {
+      "raw": "2704 17 St NW, Edmonton, AB T6T 0X1, Canada",
+      "streetAddress": "2704 17 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6T 0X1",
+        "normalized": "T6T 0X1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4577334,
+      "longitude": -113.3712642
+    },
+    "phone": {
+      "raw": "+1 780-710-3666",
+      "normalized": "+17807103666"
+    },
+    "website": "https://semuslimcommunity.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 47,
+        "targetTitle": "South East Musalla - 206",
+        "targetPlaceId": "ChIJYU-fnh0ZoFMRmJSaAuGecc4",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 16,
+      "cid": "9022588467533759247",
+      "placeId": "ChIJp7qq6W8ZoFMRD8PiUWisNn0",
+      "rawCategoryName": "Musalla",
+      "rawCategories": [
+        "Musalla",
+        "Mosque",
+        "Religious destination"
+      ],
+      "rating": null,
+      "reviewsCount": 8,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-24",
+    "sourceIndex": 23,
+    "name": "Baitul Aman Islamic Society",
+    "slug": "baitul-aman-islamic-society-edmonton",
+    "address": {
+      "raw": "2403 Ellwood Dr SW, Edmonton, AB T6X 0J6, Canada",
+      "streetAddress": "2403 Ellwood Dr SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6X 0J6",
+        "normalized": "T6X 0J6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4303393,
+      "longitude": -113.4715946
+    },
+    "phone": {
+      "raw": "+1 780-267-1548",
+      "normalized": "+17802671548"
+    },
+    "website": "https://www.baitulamanedmonton.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 23,
+      "cid": "14156970248684155847",
+      "placeId": "ChIJoxVTnmQfoFMRx7OXMG-pd8Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 62,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-26",
+    "sourceIndex": 25,
+    "name": "Alfalah Center",
+    "slug": "alfalah-center-edmonton",
+    "address": {
+      "raw": "2401 47 St NW, Edmonton, AB T6L 4P6, Canada",
+      "streetAddress": "2401 47 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6L 4P6",
+        "normalized": "T6L 4P6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4557776,
+      "longitude": -113.4145451
+    },
+    "phone": {
+      "raw": "+1 780-988-2239",
+      "normalized": "+17809882239"
+    },
+    "website": "http://www.alfalahcenter.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 25,
+      "cid": "6920188435876295749",
+      "placeId": "ChIJqWd3FA8ZoFMRRTQsu7dyCWA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 296,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-31",
+    "sourceIndex": 30,
+    "name": "Faizan-e-Madina Edmonton",
+    "slug": "faizan-e-madina-edmonton",
+    "address": {
+      "raw": "11809 96 St, Edmonton, AB T5G 1V4, Canada",
+      "streetAddress": "11809 96 St",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5G 1V4",
+        "normalized": "T5G 1V4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5706579,
+      "longitude": -113.4898851
+    },
+    "phone": {
+      "raw": "+1 780-851-5160",
+      "normalized": "+17808515160"
+    },
+    "website": "http://www.dawateislamicanada.net/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 12 AM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 30,
+      "cid": "5504949191475072044",
+      "placeId": "ChIJ8ZGBV0kjoFMRLAxyiB-CZUw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 26,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-32",
+    "sourceIndex": 31,
+    "name": "Canadian Islamic Dar Alfatwa Centre",
+    "slug": "canadian-islamic-dar-alfatwa-centre-edmonton",
+    "address": {
+      "raw": "9006 132 Ave NW #305, Edmonton, AB T5E 0Y2, Canada",
+      "streetAddress": "9006 132 Ave NW #305",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5E 0Y2",
+        "normalized": "T5E 0Y2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5924665,
+      "longitude": -113.4801875
+    },
+    "phone": {
+      "raw": "+1 780-406-1110",
+      "normalized": "+17804061110"
+    },
+    "website": "https://canadiandaralfatwa.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 31,
+      "cid": "17532139468221238351",
+      "placeId": "ChIJ7RBTpUwjoFMRT8zuA_WrTvM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Non-profit organization",
+        "Religious school"
+      ],
+      "rating": null,
+      "reviewsCount": 10,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-33",
+    "sourceIndex": 32,
+    "name": "Alfalah Center North",
+    "slug": "alfalah-center-north-edmonton",
+    "address": {
+      "raw": "4363 167 Ave NW ab unit 307, Edmonton, AB T5Y 3Y2, Canada",
+      "streetAddress": "4363 167 Ave NW ab unit 307",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5Y 3Y2",
+        "normalized": "T5Y 3Y2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.6277651,
+      "longitude": -113.4075248
+    },
+    "phone": {
+      "raw": "+1 780-988-2239",
+      "normalized": "+17809882239"
+    },
+    "website": "https://icna.website/alfalahnorthedmonton/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 32,
+      "cid": "16571839372906581401",
+      "placeId": "ChIJDchfVwA7oFMRmc3tuBsA--U",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 47,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-35",
+    "sourceIndex": 34,
+    "name": "Markaz Al Imam Malik مركز الامام مالك",
+    "slug": "markaz-al-imam-malik-edmonton",
+    "address": {
+      "raw": "14504 118 St NW, Edmonton, AB T5X 1T3, Canada",
+      "streetAddress": "14504 118 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5X 1T3",
+        "normalized": "T5X 1T3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.6080282,
+      "longitude": -113.526027
+    },
+    "phone": {
+      "raw": "+1 825-925-2422",
+      "normalized": "+18259252422"
+    },
+    "website": "http://www.markazalimammalik.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 34,
+      "cid": "13708694643587783316",
+      "placeId": "ChIJ1WAgQjgloFMRlJpZhSURP74",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 138,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-46",
+    "sourceIndex": 45,
+    "name": "Al-Hadi Community Assn",
+    "slug": "al-hadi-community-assn-edmonton",
+    "address": {
+      "raw": "15727 100a Ave NW, Edmonton, AB T5P 0L5, Canada",
+      "streetAddress": "15727 100a Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5P 0L5",
+        "normalized": "T5P 0L5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5400593,
+      "longitude": -113.5931066
+    },
+    "phone": {
+      "raw": "+1 780-729-1818",
+      "normalized": "+17807291818"
+    },
+    "website": "https://www.alhadi.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 45,
+      "cid": "13156935379585061528",
+      "placeId": "ChIJb39ELg8hoFMRmNLv8ATTlrY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 29,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-47",
+    "sourceIndex": 46,
+    "name": "Afghan Hussaini Charitable Foundation Of Alberta",
+    "slug": "afghan-hussaini-charitable-foundation-of-alberta-edmonton",
+    "address": {
+      "raw": "11219 180 St NW, Edmonton, AB T5S 0B4, Canada",
+      "streetAddress": "11219 180 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5S 0B4",
+        "normalized": "T5S 0B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5609914,
+      "longitude": -113.6294783
+    },
+    "phone": {
+      "raw": "+1 780-483-8141",
+      "normalized": "+17804838141"
+    },
+    "website": "https://afghanhussaini.org/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 33,
+        "targetTitle": "Afghan Husseini Islamic Center (Shia)",
+        "targetPlaceId": "ChIJH49oYyghoFMRZIPZlFIKknQ",
+        "reason": "Shared address with matching identity keywords (10%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 46,
+      "cid": "17061164265955526099",
+      "placeId": "ChIJiRTwbyghoFMR0wXehoFuxew",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 11,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-51",
+    "sourceIndex": 50,
+    "name": "Noor Ul Anwaar",
+    "slug": "noor-ul-anwaar-edmonton",
+    "address": {
+      "raw": "Entrance from Backside, 3440 93 St NW 2nd floor, Edmonton, AB T6E 5T5, Canada",
+      "streetAddress": "Entrance from Backside",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6E 5T5",
+        "normalized": "T6E 5T5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4671965,
+      "longitude": -113.4744071
+    },
+    "phone": {
+      "raw": "+1 780-932-4096",
+      "normalized": "+17809324096"
+    },
+    "website": "https://noorulanwaar.com/#about",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 50,
+      "cid": "18362959243522697140",
+      "placeId": "ChIJr1j4stofoFMRtGclDyRW1v4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 4,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-52",
+    "sourceIndex": 51,
+    "name": "Reyadul janna",
+    "slug": "reyadul-janna-edmonton",
+    "address": {
+      "raw": "5309 19 Ave SW, Edmonton, AB T6X 1A4, Canada",
+      "streetAddress": "5309 19 Ave SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6X 1A4",
+        "normalized": "T6X 1A4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4178066,
+      "longitude": -113.422034
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 51,
+      "cid": "11067302239479070965",
+      "placeId": "ChIJ3Xn7fgAboFMR9QAJ7r_0lpk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-54",
+    "sourceIndex": 53,
+    "name": "Islamic Academy Project",
+    "slug": "islamic-academy-project-edmonton",
+    "address": {
+      "raw": "13070 113 St NW, Edmonton, AB T5E 5A8, Canada",
+      "streetAddress": "13070 113 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5E 5A8",
+        "normalized": "T5E 5A8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5913925,
+      "longitude": -113.5156784
+    },
+    "phone": {
+      "raw": "+1 780-452-2761",
+      "normalized": "+17804522761"
+    },
+    "website": "http://www.islamicacademy.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 39,
+        "targetTitle": "Canadian Islamic Center - Al Rashid Mosque (Masjid)",
+        "targetPlaceId": "ChIJt6GUC4EjoFMR1GCvBPaMHKQ",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 53,
+      "cid": "6765526600250940512",
+      "placeId": "ChIJJSaSc4EjoFMRYNxp_pj6410",
+      "rawCategoryName": "Special education school",
+      "rawCategories": [
+        "Special education school",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-34",
+    "sourceIndex": 33,
+    "name": "Afghan Husseini Islamic Center (Shia)",
+    "slug": "afghan-husseini-islamic-center-shia-edmonton",
+    "address": {
+      "raw": "11219 180 St NW, Edmonton, AB T5S 0B4, Canada",
+      "streetAddress": "11219 180 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5S 0B4",
+        "normalized": "T5S 0B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5609962,
+      "longitude": -113.6295039
+    },
+    "phone": {
+      "raw": "+1 780-902-2472",
+      "normalized": "+17809022472"
+    },
+    "website": null,
+    "classification": "ORGANIZATION",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 46,
+        "targetTitle": "Afghan Hussaini Charitable Foundation Of Alberta",
+        "targetPlaceId": "ChIJiRTwbyghoFMR0wXehoFuxew",
+        "reason": "Shared address with matching identity keywords (10%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Phase 8.1 Evidence: Commercial unit reported permanently closed / newcomer aid charity; returned to review queue",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 33,
+      "cid": "8399787604800275300",
+      "placeId": "ChIJH49oYyghoFMRZIPZlFIKknQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 21,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

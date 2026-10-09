@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "mosque-cal-1",
+    "sourceIndex": 0,
+    "name": "Islamic Association of NW Calgary",
+    "slug": "islamic-association-of-nw-calgary",
+    "address": {
+      "raw": "7750 Ranchview Dr NW #23, Calgary, AB T3G 1V6, Canada",
+      "streetAddress": "7750 Ranchview Dr NW #23",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3G 1V6",
+        "normalized": "T3G 1V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1205593,
+      "longitude": -114.1806839
+    },
+    "phone": null,
+    "website": "https://ianwc.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 20,
+        "targetTitle": "Ranchland Musallah",
+        "targetPlaceId": "ChIJcU1zVtpocVMRPDdqv7WhwBA",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 0,
+      "cid": "5562068100576558404",
+      "placeId": "ChIJm-EaXNpocVMRRL1l53dvME0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 304,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-2",
+    "sourceIndex": 1,
+    "name": "Islamic Information Society of Calgary (IISC)",
+    "slug": "islamic-information-society-of-calgary-iisc-calgary",
+    "address": {
+      "raw": "4128 6 St NE, Calgary, AB T2E 8C8, Canada",
+      "streetAddress": "4128 6 St NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2E 8C8",
+        "normalized": "T2E 8C8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0897808,
+      "longitude": -114.047871
+    },
+    "phone": {
+      "raw": "+1 403-261-7601",
+      "normalized": "+14032617601"
+    },
+    "website": "https://iisc.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 41,
+        "targetTitle": "Dar Al Hijra ( Halaqa centre)",
+        "targetPlaceId": "ChIJlT4ARgBlcVMRPjmcVDpD1kw",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 1,
+      "cid": "1917781768221309514",
+      "placeId": "ChIJDXvcy1ZlcVMRSjqNe1tUnRo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 256,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-9",
+    "sourceIndex": 8,
+    "name": "Islamic Association of NW Calgary",
+    "slug": "islamic-association-of-nw-calgary-9",
+    "address": {
+      "raw": "183 Beddington Dr NE, Calgary, AB T3K 3V3, Canada",
+      "streetAddress": "183 Beddington Dr NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3K 3V3",
+        "normalized": "T3K 3V3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1286772,
+      "longitude": -114.0681429
+    },
+    "phone": null,
+    "website": "https://ianwc.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:45 to 8:30 AM, 12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:45 to 8:30 AM, 12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:45 to 8:45 AM, 12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:45 to 8:45 AM, 12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:45 to 8:45 AM, 11:45 AM to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:45 to 8:45 AM, 12:30 to 8:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:45 to 8:30 AM, 12:30 to 8:45 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 8,
+      "cid": "4337242774470164106",
+      "placeId": "ChIJ7cqHKvtlcVMRin7s3FL7MDw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 180,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-19",
+    "sourceIndex": 18,
+    "name": "Muslim Council Of Calgary",
+    "slug": "muslim-council-of-calgary",
+    "address": {
+      "raw": "5615 14 Ave SW, Calgary, AB T3H 4R5, Canada",
+      "streetAddress": "5615 14 Ave SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3H 4R5",
+        "normalized": "T3H 4R5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0395141,
+      "longitude": -114.1685057
+    },
+    "phone": {
+      "raw": "+1 403-242-1615",
+      "normalized": "+14032421615"
+    },
+    "website": "https://muslimscalgary.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 15,
+        "targetTitle": "Calgary Islamic Centre SW Masjid (CICSW) - Mosque",
+        "targetPlaceId": "ChIJYzknTBJucVMR3b-sqOiSSEQ",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 21,
+        "targetTitle": "Calgary south west masjid",
+        "targetPlaceId": "ChIJaXPHaABvcVMRwhVIGo4eQDc",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 18,
+      "cid": "7888816216365152224",
+      "placeId": "ChIJibzvOBJucVMR4DfJUo20em0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 20,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-26",
+    "sourceIndex": 25,
+    "name": "Shia Muslim Association Of Calgary",
+    "slug": "shia-muslim-association-of-calgary",
+    "address": {
+      "raw": "4755 34 St SE, Calgary, AB T2B 3B3, Canada",
+      "streetAddress": "4755 34 St SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2B 3B3",
+        "normalized": "T2B 3B3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0120802,
+      "longitude": -113.9844508
+    },
+    "phone": {
+      "raw": "+1 403-235-1212",
+      "normalized": "+14032351212"
+    },
+    "website": "https://hussainicalgary.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 28,
+        "targetTitle": "Hussaini Association of Calgary (Imambargah)",
+        "targetPlaceId": "ChIJc0EoDV56cVMRmRW6m1gbnLE",
+        "reason": "Shared address with matching identity keywords (43%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 25,
+      "cid": "8222633751283795913",
+      "placeId": "ChIJ9WKTbV56cVMRyYdo19SpHHI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 16,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-31",
+    "sourceIndex": 30,
+    "name": "Ahmadiyya Movement In Islam",
+    "slug": "ahmadiyya-movement-in-islam-calgary",
+    "address": {
+      "raw": "4353 54 Ave NE, Calgary, AB T3J 4L3, Canada",
+      "streetAddress": "4353 54 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 4L3",
+        "normalized": "T3J 4L3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1020029,
+      "longitude": -113.9712499
+    },
+    "phone": {
+      "raw": "+1 403-590-8008",
+      "normalized": "+14035908008"
+    },
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 22,
+        "targetTitle": "Baitun-Nur Mosque Ahmadiyya Muslim Jamaat",
+        "targetPlaceId": "ChIJeRs5xV5lcVMRPcNJkkOij7c",
+        "reason": "Shared address with matching identity keywords (13%) or matching phone"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 36,
+        "targetTitle": "Minaret",
+        "targetPlaceId": "ChIJoZ6vAwBlcVMREa53VbK3uDk",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 30,
+      "cid": "3862126849109770863",
+      "placeId": "ChIJUYBJ9oNkcVMRb8KvJugHmTU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 41,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-32",
+    "sourceIndex": 31,
+    "name": "Al-Bushra Islamic Foundation",
+    "slug": "al-bushra-islamic-foundation-calgary",
+    "address": {
+      "raw": "1 Tamarac Crescent SW, Calgary, AB T3C 3B7, Canada",
+      "streetAddress": "1 Tamarac Crescent SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3C 3B7",
+        "normalized": "T3C 3B7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0482959,
+      "longitude": -114.1374917
+    },
+    "phone": {
+      "raw": "+1 403-909-7465",
+      "normalized": "+14039097465"
+    },
+    "website": "https://www.albushrafoundation.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 31,
+      "cid": "8044125305053457867",
+      "placeId": "ChIJjw_JST5vcVMRyy1xaFh5om8",
+      "rawCategoryName": "Non-profit organization",
+      "rawCategories": [
+        "Non-profit organization",
+        "Mosque",
+        "Religious organization",
+        "Religious school"
+      ],
+      "rating": null,
+      "reviewsCount": 6,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-34",
+    "sourceIndex": 33,
+    "name": "Muslim Community Foundation of Calgary",
+    "slug": "muslim-community-foundation-of-calgary",
+    "address": {
+      "raw": "2711 39 Ave NE, Calgary, AB T1Y 4T8, Canada",
+      "streetAddress": "2711 39 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T1Y 4T8",
+        "normalized": "T1Y 4T8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0881651,
+      "longitude": -114.0004072
+    },
+    "phone": {
+      "raw": "+1 403-219-0991",
+      "normalized": "+14032190991"
+    },
+    "website": "https://muslimscalgary.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 24,
+        "targetTitle": "Akram Jomaa Islamic Centre",
+        "targetPlaceId": "ChIJISlBI-9kcVMRsCD_3cSDZsw",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 33,
+      "cid": "2831996854308233335",
+      "placeId": "ChIJMQvhQ-9kcVMRd-AQaiJGTSc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 54,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-37",
+    "sourceIndex": 36,
+    "name": "Minaret",
+    "slug": "minaret-calgary",
+    "address": {
+      "raw": "4004 54 Ave NE, Calgary, AB T3J 3J8, Canada",
+      "streetAddress": "4004 54 Ave NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3J 3J8",
+        "normalized": "T3J 3J8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.1021443,
+      "longitude": -113.971217
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 22,
+        "targetTitle": "Baitun-Nur Mosque Ahmadiyya Muslim Jamaat",
+        "targetPlaceId": "ChIJeRs5xV5lcVMRPcNJkkOij7c",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      },
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 30,
+        "targetTitle": "Ahmadiyya Movement In Islam",
+        "targetPlaceId": "ChIJUYBJ9oNkcVMRb8KvJugHmTU",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 36,
+      "cid": "4159276232442621457",
+      "placeId": "ChIJoZ6vAwBlcVMREa53VbK3uDk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-39",
+    "sourceIndex": 38,
+    "name": "Patterson Musalah Society",
+    "slug": "patterson-musalah-society-calgary",
+    "address": {
+      "raw": "1009 Prominence Way SW, Calgary, AB T3H 2B4, Canada",
+      "streetAddress": "1009 Prominence Way SW",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T3H 2B4",
+        "normalized": "T3H 2B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.061474,
+      "longitude": -114.1753806
+    },
+    "phone": null,
+    "website": "https://chat.whatsapp.com/HhDtOOYnlKpAX8R4fG5CM7",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 38,
+      "cid": "14353019658711043174",
+      "placeId": "ChIJMySfEQBvcVMRZoyrg1UrMMc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 7,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-41",
+    "sourceIndex": 40,
+    "name": "Imam Ali Association",
+    "slug": "imam-ali-association-calgary",
+    "address": {
+      "raw": "2138 48 St SE, Calgary, AB T2B 1M2, Canada",
+      "streetAddress": "2138 48 St SE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2B 1M2",
+        "normalized": "T2B 1M2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0340817,
+      "longitude": -113.9637993
+    },
+    "phone": {
+      "raw": "+1 403-371-2224",
+      "normalized": "+14033712224"
+    },
+    "website": "https://imamaac.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 40,
+      "cid": "13224838924258626685",
+      "placeId": "ChIJ725r1lh7cVMRfcwx9O4QiLc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 25,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-cal-42",
+    "sourceIndex": 41,
+    "name": "Dar Al Hijra ( Halaqa centre)",
+    "slug": "dar-al-hijra-halaqa-centre-calgary",
+    "address": {
+      "raw": "4128 6 St NE, Calgary, AB T2E 8C8, Canada",
+      "streetAddress": "4128 6 St NE",
+      "city": "Calgary",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T2E 8C8",
+        "normalized": "T2E 8C8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 51.0896522,
+      "longitude": -114.0478836
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 1,
+        "targetTitle": "Islamic Information Society of Calgary (IISC)",
+        "targetPlaceId": "ChIJDXvcy1ZlcVMRSjqNe1tUnRo",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "calgary.json",
+      "sourceIndex": 41,
+      "cid": "5536686709705292094",
+      "placeId": "ChIJlT4ARgBlcVMRPjmcVDpD1kw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

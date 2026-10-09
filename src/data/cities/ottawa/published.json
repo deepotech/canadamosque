@@ -1,0 +1,2640 @@
+[
+  {
+    "id": "mosque-ott-2",
+    "sourceIndex": 1,
+    "name": "Abu Bakr Musalla",
+    "slug": "abu-bakr-musalla-ottawa",
+    "address": {
+      "raw": "1023 Merivale Rd, Ottawa, ON K1Z 6A7, Canada",
+      "streetAddress": "1023 Merivale Rd",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1Z 6A7",
+        "normalized": "K1Z 6A7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3791088,
+      "longitude": -75.7328724
+    },
+    "phone": {
+      "raw": "+1 613-799-9836",
+      "normalized": "+16137999836"
+    },
+    "website": "https://faithfultimes.net/masjid/abubakr/all",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 1,
+      "cid": "12249765929134559109",
+      "placeId": "ChIJVc32nZoGzkwRhY-_4zXp_6k",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 152,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-5",
+    "sourceIndex": 4,
+    "name": "Islam Care Centre Mosque",
+    "slug": "islam-care-centre-mosque-ottawa",
+    "address": {
+      "raw": "375 Somerset St W, Ottawa, ON K2P 1X6, Canada",
+      "streetAddress": "375 Somerset St W",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2P 1X6",
+        "normalized": "K2P 1X6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.415258,
+      "longitude": -75.6969286
+    },
+    "phone": {
+      "raw": "+1 613-232-0210",
+      "normalized": "+16132320210"
+    },
+    "website": "http://islamcare.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 4,
+      "cid": "12928354878814556054",
+      "placeId": "ChIJ63xWC_oFzkwRlg_u0UO-arM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Charity"
+      ],
+      "rating": null,
+      "reviewsCount": 29,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-6",
+    "sourceIndex": 5,
+    "name": "Afghan Jaffari Cultural Centre",
+    "slug": "afghan-jaffari-cultural-centre-edwards",
+    "address": {
+      "raw": "1450 York's Corners Rd, Edwards, ON K0A 1V0, Canada",
+      "streetAddress": "1450 York's Corners Rd",
+      "city": "Edwards",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K0A 1V0",
+        "normalized": "K0A 1V0"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.306079,
+      "longitude": -75.4570077
+    },
+    "phone": null,
+    "website": null,
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Edwards service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 5,
+      "cid": "16197405459048960838",
+      "placeId": "ChIJ6SjDplwHzkwRRhOWjXK-yOA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious institution"
+      ],
+      "rating": null,
+      "reviewsCount": 8,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-7",
+    "sourceIndex": 6,
+    "name": "Madina Masjid Ottawa (Dawat-e-Islami)",
+    "slug": "madina-masjid-ottawa-dawat-e-islami-ottawa",
+    "address": {
+      "raw": "415 McArthur Ave., Ottawa, ON K1K 1G5, Canada",
+      "streetAddress": "415 McArthur Ave.",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1K 1G5",
+        "normalized": "K1K 1G5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.432467,
+      "longitude": -75.6480141
+    },
+    "phone": {
+      "raw": "+1 647-554-5701",
+      "normalized": "+16475545701"
+    },
+    "website": "http://www.dawateislamicanada.net/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 to 7:30 AM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 to 7:30 AM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 7:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 6,
+      "cid": "11286049937068278673",
+      "placeId": "ChIJH4ZfDvwFzkwRkUNGKJ8aoJw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 73,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-14",
+    "sourceIndex": 13,
+    "name": "MAC Qurtuba Islamic Centre",
+    "slug": "mac-qurtuba-islamic-centre-nepean",
+    "address": {
+      "raw": "1950 Merivale Rd, Nepean, ON K2G 0B7, Canada",
+      "streetAddress": "1950 Merivale Rd",
+      "city": "Nepean",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2G 0B7",
+        "normalized": "K2G 0B7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3260508,
+      "longitude": -75.7198354
+    },
+    "phone": {
+      "raw": "+1 613-695-3101",
+      "normalized": "+16136953101"
+    },
+    "website": "https://centres.macnet.ca/qic/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 44,
+        "targetTitle": "Ibn-Rushd Canadian Islamic Cultural Society",
+        "targetPlaceId": "ChIJZQ-ml1UHzkwRJq-96-3jb24",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Nepean service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 13,
+      "cid": "11264013278803552848",
+      "placeId": "ChIJgYWFTCYHzkwRUGpe1GXQUZw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 120,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-15",
+    "sourceIndex": 14,
+    "name": "SNMC Mosque",
+    "slug": "snmc-mosque-nepean",
+    "address": {
+      "raw": "3020 Woodroffe Ave, Nepean, ON K2J 6B4, Canada",
+      "streetAddress": "3020 Woodroffe Ave",
+      "city": "Nepean",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2J 6B4",
+        "normalized": "K2J 6B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.2891467,
+      "longitude": -75.7264619
+    },
+    "phone": {
+      "raw": "+1 613-440-6300",
+      "normalized": "+16134406300"
+    },
+    "website": "http://www.snmc.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Nepean service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 14,
+      "cid": "6076435107893094348",
+      "placeId": "ChIJm53YZjj9zUwRzCeuSonVU1Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 850,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-17",
+    "sourceIndex": 16,
+    "name": "The Ottawa Islamic Centre and Assalam Mosque",
+    "slug": "the-ottawa-islamic-centre-and-assalam-mosque-ottawa",
+    "address": {
+      "raw": "Unit 100, 2335 St. Laurent Blvd #100, Ottawa, ON K1G 5G6, Canada",
+      "streetAddress": "Unit 100",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1G 5G6",
+        "normalized": "K1G 5G6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3831034,
+      "longitude": -75.6202987
+    },
+    "phone": {
+      "raw": "+1 613-739-3939",
+      "normalized": "+16137393939"
+    },
+    "website": "https://assalammosque.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 16,
+      "cid": "14354649094705207331",
+      "placeId": "ChIJG7r8Xi8PzkwRI1hJJUz1Ncc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious institution"
+      ],
+      "rating": null,
+      "reviewsCount": 519,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-18",
+    "sourceIndex": 17,
+    "name": "MAC Barrhaven Islamic Centre (BIC)",
+    "slug": "mac-barrhaven-islamic-centre-bic-nepean",
+    "address": {
+      "raw": "3971 Greenbank Rd, Nepean, ON K2C 3H2, Canada",
+      "streetAddress": "3971 Greenbank Rd",
+      "city": "Nepean",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2C 3H2",
+        "normalized": "K2C 3H2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.2364361,
+      "longitude": -75.7255711
+    },
+    "phone": null,
+    "website": "http://www.macbic.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Nepean service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 17,
+      "cid": "9961315451044616421",
+      "placeId": "ChIJ9br9JlfjzUwR5dgfG6CzPYo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 239,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-20",
+    "sourceIndex": 19,
+    "name": "Abdullah Issa Masjid",
+    "slug": "abdullah-issa-masjid-ottawa",
+    "address": {
+      "raw": "154 Colonnade Rd S, Ottawa, ON K2E 7J4, Canada",
+      "streetAddress": "154 Colonnade Rd S",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2E 7J4",
+        "normalized": "K2E 7J4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.342757,
+      "longitude": -75.7088812
+    },
+    "phone": {
+      "raw": "+1 613-222-7263",
+      "normalized": "+16132227263"
+    },
+    "website": "https://abdullahissamasjid.lovable.app/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 19,
+      "cid": "324352388098172909",
+      "placeId": "ChIJK8YpKQAHzkwR7SekSsdUgAQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 39,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-21",
+    "sourceIndex": 20,
+    "name": "Abo-Ther Alghafari Mosque",
+    "slug": "abo-ther-alghafari-mosque-ottawa",
+    "address": {
+      "raw": "273 Donald St, Ottawa, ON K1K 1N1, Canada",
+      "streetAddress": "273 Donald St",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1K 1N1",
+        "normalized": "K1K 1N1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4282939,
+      "longitude": -75.6568289
+    },
+    "phone": {
+      "raw": "+1 613-747-6252",
+      "normalized": "+16137476252"
+    },
+    "website": "https://www.facebook.com/AbuTharAlGhafariMosque/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 20,
+      "cid": "6871290404029139429",
+      "placeId": "ChIJBQcEwm8FzkwR5Qm1gDe6W18",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 122,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-22",
+    "sourceIndex": 21,
+    "name": "Darul Uloom Ottawa (Masjid&Center)",
+    "slug": "darul-uloom-ottawa-masjid-and-center-orl-ans",
+    "address": {
+      "raw": "Darul-Uloom Masjid-Center, 2803 St Joseph Blvd, Orléans, ON K1C 1G6, Canada",
+      "streetAddress": "Darul-Uloom Masjid-Center",
+      "city": "Orléans",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1C 1G6",
+        "normalized": "K1C 1G6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4735074,
+      "longitude": -75.52058
+    },
+    "phone": {
+      "raw": "+1 613-406-0786",
+      "normalized": "+16134060786"
+    },
+    "website": "http://www.darululoomottawa.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Orléans service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 21,
+      "cid": "948199856054667093",
+      "placeId": "ChIJHfDcPZARzkwRVQc3zL6uKA0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 225,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-23",
+    "sourceIndex": 22,
+    "name": "Masjid Bilal",
+    "slug": "masjid-bilal-orl-ans",
+    "address": {
+      "raw": "4509 Innes Rd, Orléans, ON K4A 3J7, Canada",
+      "streetAddress": "4509 Innes Rd",
+      "city": "Orléans",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K4A 3J7",
+        "normalized": "K4A 3J7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4621395,
+      "longitude": -75.4846593
+    },
+    "phone": {
+      "raw": "+1 613-841-0786",
+      "normalized": "+16138410786"
+    },
+    "website": "http://www.masjidbilal.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:15 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Orléans service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 22,
+      "cid": "3593981248605778318",
+      "placeId": "ChIJMWYb4AISzkwRjvGPZOdi4DE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 459,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-24",
+    "sourceIndex": 23,
+    "name": "Bukhari Community Centre & Masjid",
+    "slug": "bukhari-community-centre-and-masjid-ottawa",
+    "address": {
+      "raw": "Address:, 1052 St. Laurent Blvd Unit 2, Ottawa, ON K1K 3B4, Canada",
+      "streetAddress": "Address:",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1K 3B4",
+        "normalized": "K1K 3B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4269691,
+      "longitude": -75.6392004
+    },
+    "phone": {
+      "raw": "+1 343-777-1300",
+      "normalized": "+13437771300"
+    },
+    "website": "http://bukharicentre.com/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 23,
+      "cid": "11197863586080752860",
+      "placeId": "ChIJLZsbB2APzkwR3ASgS5rNZps",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 128,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-25",
+    "sourceIndex": 24,
+    "name": "Alshareef Islamic Centre",
+    "slug": "alshareef-islamic-centre-ottawa",
+    "address": {
+      "raw": "1893 Baseline Rd, Ottawa, ON K2C 0C7, Canada",
+      "streetAddress": "1893 Baseline Rd",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2C 0C7",
+        "normalized": "K2C 0C7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3535198,
+      "longitude": -75.7590002
+    },
+    "phone": {
+      "raw": "+1 613-800-0228",
+      "normalized": "+16138000228"
+    },
+    "website": "http://www.alshareef.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 24,
+      "cid": "15098645698289036913",
+      "placeId": "ChIJeSX5P0QHzkwRcW7_O0QqidE",
+      "rawCategoryName": "Musalla",
+      "rawCategories": [
+        "Musalla",
+        "Mosque",
+        "Religious school"
+      ],
+      "rating": null,
+      "reviewsCount": 47,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-26",
+    "sourceIndex": 25,
+    "name": "Baitun Naseer Mosque",
+    "slug": "baitun-naseer-mosque-cumberland",
+    "address": {
+      "raw": "2620 Market St, Cumberland, ON K4C 1A3, Canada",
+      "streetAddress": "2620 Market St",
+      "city": "Cumberland",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K4C 1A3",
+        "normalized": "K4C 1A3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.5166156,
+      "longitude": -75.4033745
+    },
+    "phone": {
+      "raw": "+1 613-573-1500",
+      "normalized": "+16135731500"
+    },
+    "website": "http://www.ahmadiyya.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Cumberland service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 25,
+      "cid": "1098298396955258422",
+      "placeId": "ChIJsQhlzLkUzkwRNi7mr5LwPQ8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 50,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-30",
+    "sourceIndex": 29,
+    "name": "Stittsville Main Street Mosque",
+    "slug": "stittsville-main-street-mosque-ottawa",
+    "address": {
+      "raw": "1476 Stittsville Main St, Ottawa, ON K2S 0R8, Canada",
+      "streetAddress": "1476 Stittsville Main St",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2S 0R8",
+        "normalized": "K2S 0R8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.2595351,
+      "longitude": -75.9222459
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 29,
+      "cid": "8873181436280913346",
+      "placeId": "ChIJ8zyafgD_zUwRwj0dEYHfI3s",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-34",
+    "sourceIndex": 33,
+    "name": "Imam Ali Masjid",
+    "slug": "imam-ali-masjid-ottawa",
+    "address": {
+      "raw": "1606 Walkley Rd, Ottawa, ON K1V 0E7, Canada",
+      "streetAddress": "1606 Walkley Rd",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1V 0E7",
+        "normalized": "K1V 0E7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3771331,
+      "longitude": -75.6459739
+    },
+    "phone": {
+      "raw": "+1 613-656-9888",
+      "normalized": "+16136569888"
+    },
+    "website": "https://imamalimasjid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 33,
+      "cid": "12684204386661322658",
+      "placeId": "ChIJKWbV0bQIzkwRok9mla9YB7A",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 124,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-35",
+    "sourceIndex": 34,
+    "name": "Premier Street Mosque",
+    "slug": "premier-street-mosque-ottawa",
+    "address": {
+      "raw": "251 Northwestern Ave, Ottawa, ON K1A 0K9, Canada",
+      "streetAddress": "251 Northwestern Ave",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1A 0K9",
+        "normalized": "K1A 0K9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4015319,
+      "longitude": -75.7412066
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 4:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 4:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 4:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 4:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 4:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 2,
+        "targetTitle": "Ottawa Muslim Association",
+        "targetPlaceId": "ChIJqety-hAEzkwRHUDZzvRlgG4",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 34,
+      "cid": "17025130869462351903",
+      "placeId": "ChIJ_Xjk-hAEzkwRH0DXoFJqRew",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 21,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-36",
+    "sourceIndex": 35,
+    "name": "Ottawa South Mosque",
+    "slug": "ottawa-south-mosque-ottawa",
+    "address": {
+      "raw": "240 Sunnyside Ave, Ottawa, ON K1S 0R4, Canada",
+      "streetAddress": "240 Sunnyside Ave",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1S 0R4",
+        "normalized": "K1S 0R4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.394948,
+      "longitude": -75.681212
+    },
+    "phone": {
+      "raw": "+1 343-262-6612",
+      "normalized": "+13432626612"
+    },
+    "website": "https://ottawasouthmosque.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 35,
+      "cid": "13263384231128756282",
+      "placeId": "ChIJX5AvE9YFzkwROnDyj68BEbg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 65,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-37",
+    "sourceIndex": 36,
+    "name": "HCI Basement Musalla (For hours of opening join WhatsApp group)",
+    "slug": "hci-basement-musalla-for-hours-of-opening-join-whatsapp-group-gloucester",
+    "address": {
+      "raw": "877 Shefford Rd, Gloucester, ON K1J 6Y5, Canada",
+      "streetAddress": "877 Shefford Rd",
+      "city": "Gloucester",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1J 6Y5",
+        "normalized": "K1J 6Y5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.453793,
+      "longitude": -75.58956
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Gloucester service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 36,
+      "cid": "14434332013501330835",
+      "placeId": "ChIJLVvFJQARzkwRk7XLan0MUcg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 14,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-40",
+    "sourceIndex": 39,
+    "name": "Centretown Mosque",
+    "slug": "centretown-mosque-ottawa",
+    "address": {
+      "raw": "397 Kent St, Ottawa, ON K2P 2B1, Canada",
+      "streetAddress": "397 Kent St",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2P 2B1",
+        "normalized": "K2P 2B1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4120057,
+      "longitude": -75.6962699
+    },
+    "phone": null,
+    "website": "https://centretownmosque.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 39,
+      "cid": "5911179477429738932",
+      "placeId": "ChIJ3SHhJgAFzkwRtF3He2q6CFI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "Non-profit organization",
+        "Religious institution",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 224,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-41",
+    "sourceIndex": 40,
+    "name": "East Ottawa Masjid and Community Centre (EOMCC)",
+    "slug": "east-ottawa-masjid-and-community-centre-eomcc-ottawa",
+    "address": {
+      "raw": "967 St. Laurent Blvd Unit 3, Ottawa, ON K1J 8W3, Canada",
+      "streetAddress": "967 St. Laurent Blvd Unit 3",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1J 8W3",
+        "normalized": "K1J 8W3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4298224,
+      "longitude": -75.6401111
+    },
+    "phone": {
+      "raw": "+1 613-255-7581",
+      "normalized": "+16132557581"
+    },
+    "website": "https://eomcc.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 40,
+      "cid": "12944218451753932654",
+      "placeId": "ChIJJ62nA4oPzkwRbpfZtxkao7M",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 73,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-42",
+    "sourceIndex": 41,
+    "name": "Bayshore Musalla",
+    "slug": "bayshore-musalla-ottawa",
+    "address": {
+      "raw": "3049 Carling Ave, Ottawa, ON K2B 7K3, Canada",
+      "streetAddress": "3049 Carling Ave",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2B 7K3",
+        "normalized": "K2B 7K3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3549795,
+      "longitude": -75.8064873
+    },
+    "phone": {
+      "raw": "+1 613-799-9836",
+      "normalized": "+16137999836"
+    },
+    "website": "https://bayshoremasjidweb.wixsite.com/bayshore-masjid",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Ottawa service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 41,
+      "cid": "9842420629102679268",
+      "placeId": "ChIJ9-WRsVoBzkwR5FSkL2pNl4g",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 46,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-43",
+    "sourceIndex": 42,
+    "name": "Imamia Mosque Masjid",
+    "slug": "imamia-mosque-masjid-nepean",
+    "address": {
+      "raw": "3856 Old Richmond Rd, Nepean, ON K2H 5C4, Canada",
+      "streetAddress": "3856 Old Richmond Rd",
+      "city": "Nepean",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2H 5C4",
+        "normalized": "K2H 5C4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3213994,
+      "longitude": -75.8258176
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 50,
+        "targetTitle": "ISIA Ottawa",
+        "targetPlaceId": "ChIJ6wUik6n_zUwRDK5gNTyJ2to",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Nepean service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 42,
+      "cid": "4000604839195280416",
+      "placeId": "ChIJ0c3934j_zUwRIITxtucAhTc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 4,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-47",
+    "sourceIndex": 46,
+    "name": "Jami Omar",
+    "slug": "jami-omar-nepean",
+    "address": {
+      "raw": "3990 Old Richmond Rd, Nepean, ON K2H 8R5, Canada",
+      "streetAddress": "3990 Old Richmond Rd",
+      "city": "Nepean",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K2H 8R5",
+        "normalized": "K2H 8R5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3116154,
+      "longitude": -75.8282778
+    },
+    "phone": {
+      "raw": "+1 613-828-2222",
+      "normalized": "+16138282222"
+    },
+    "website": "http://www.jamiomar.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Nepean service area.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 46,
+      "cid": "10540279883002726415",
+      "placeId": "ChIJ1dNCWxb-zUwRD8iSc7WYRpI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 718,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-4",
+    "sourceIndex": 3,
+    "name": "Masjid Ar-Rahmah",
+    "slug": "masjid-ar-rahmah-ottawa",
+    "address": {
+      "raw": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "streetAddress": "1216 Hunt Club Rd",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1V 2P1",
+        "normalized": "K1V 2P1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.3518291,
+      "longitude": -75.6472662
+    },
+    "phone": {
+      "raw": "+1 613-523-9977",
+      "normalized": "+16135239977"
+    },
+    "website": "https://mymasjid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 0,
+        "targetTitle": "AMA Community Centre",
+        "targetPlaceId": "ChIJfcJXxO8JzkwRDEX_tuybh20",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      },
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 38,
+        "targetTitle": "Assunnah Muslims Association",
+        "targetPlaceId": "ChIJd1f7kOsIzkwRKCT5WWJsg6s",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque facility; legitimate shared location with AMA administration.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 3,
+      "cid": "6925709187237868783",
+      "placeId": "ChIJJxcKkOsIzkwR7_T40s8PHWA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 1469,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-ott-33",
+    "sourceIndex": 32,
+    "name": "Taqwa mosque",
+    "slug": "taqwa-mosque-ottawa",
+    "address": {
+      "raw": "117 Mann Ave, Ottawa, ON K1N 5A4, Canada",
+      "streetAddress": "117 Mann Ave",
+      "city": "Ottawa",
+      "province": "ON",
+      "postalCode": {
+        "raw": "K1N 5A4",
+        "normalized": "K1N 5A4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 45.4213202,
+      "longitude": -75.6720343
+    },
+    "phone": {
+      "raw": "+1 613-366-9112",
+      "normalized": "+16133669112"
+    },
+    "website": "https://isosh.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 12,
+        "targetTitle": "Islamic Society of Sandy Hill",
+        "targetPlaceId": "ChIJl67O3AoFzkwR_M-xdW_GkMI",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque facility; legitimate shared location with Sandy Hill society.",
+    "provenance": {
+      "sourceFile": "ottawa.json",
+      "sourceIndex": 32,
+      "cid": "5355248246127729922",
+      "placeId": "ChIJVdMd84AFzkwRAh16EuipUUo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 30,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

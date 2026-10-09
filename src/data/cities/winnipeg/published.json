@@ -1,0 +1,1321 @@
+[
+  {
+    "id": "mosque-wpg-1",
+    "sourceIndex": 0,
+    "name": "Al - Huda masjid",
+    "slug": "al-huda-masjid-winnipeg",
+    "address": {
+      "raw": "348 Ross Ave, Winnipeg, MB R3A 0L4, Canada",
+      "streetAddress": "348 Ross Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3A 0L4",
+        "normalized": "R3A 0L4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.9018567,
+      "longitude": -97.1424632
+    },
+    "phone": {
+      "raw": "+1 431-668-0409",
+      "normalized": "+14316680409"
+    },
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 10,
+        "targetTitle": "Pakistan Centre Masjid",
+        "targetPlaceId": "ChIJAyOFX2dx6lIR97oilzHoa8Q",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 0,
+      "cid": "15534626262337619870",
+      "placeId": "ChIJYduRVQBx6lIRnocWlUcUltc",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 4,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-5",
+    "sourceIndex": 4,
+    "name": "Winnipeg Rahma Islamic Centre",
+    "slug": "winnipeg-rahma-islamic-centre-winnipeg",
+    "address": {
+      "raw": "574 Watt St, Winnipeg, MB R2K 4K1, Canada",
+      "streetAddress": "574 Watt St",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2K 4K1",
+        "normalized": "R2K 4K1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.919305,
+      "longitude": -97.0969008
+    },
+    "phone": {
+      "raw": "+1 431-792-3791",
+      "normalized": "+14317923791"
+    },
+    "website": "https://rahmaonline.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 4,
+      "cid": "8311178404167332748",
+      "placeId": "ChIJE4nFuKFx6lIRjLNKXbk8V3M",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 34,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-7",
+    "sourceIndex": 6,
+    "name": "Ahmadiyya Muslim Center-Mosque",
+    "slug": "ahmadiyya-muslim-center-mosque-winnipeg",
+    "address": {
+      "raw": "525 Kylemore Ave, Winnipeg, MB R3L 1B5, Canada",
+      "streetAddress": "525 Kylemore Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3L 1B5",
+        "normalized": "R3L 1B5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8626717,
+      "longitude": -97.1362058
+    },
+    "phone": {
+      "raw": "+1 204-475-2642",
+      "normalized": "+12044752642"
+    },
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 6,
+      "cid": "16160154845179903335",
+      "placeId": "ChIJVRCIkKF26lIRZ31BJjZnROA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 39,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-8",
+    "sourceIndex": 7,
+    "name": "Jamia Masjid Abu Bakr Al-Siddique & Community Centre",
+    "slug": "jamia-masjid-abu-bakr-al-siddique-and-community-centre-winnipeg",
+    "address": {
+      "raw": "794 Ellice Ave, Winnipeg, MB R3G 0B9, Canada",
+      "streetAddress": "794 Ellice Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3G 0B9",
+        "normalized": "R3G 0B9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8930132,
+      "longitude": -97.1679015
+    },
+    "phone": {
+      "raw": "+1 204-390-8393",
+      "normalized": "+12043908393"
+    },
+    "website": "https://www.abubakrcenter.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11:45 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 7,
+      "cid": "812135395375683694",
+      "placeId": "ChIJ-5Z185lz6lIRbpjj1tZIRQs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 68,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-9",
+    "sourceIndex": 8,
+    "name": "Masjid Bilal - Winnipeg Islamic Centre مسجد",
+    "slug": "masjid-bilal-winnipeg-islamic-centre-winnipeg",
+    "address": {
+      "raw": "33 Warnock St, Winnipeg, MB R3E 3L6, Canada",
+      "streetAddress": "33 Warnock St",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3E 3L6",
+        "normalized": "R3E 3L6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.9137825,
+      "longitude": -97.1676769
+    },
+    "phone": {
+      "raw": "+1 204-414-2157",
+      "normalized": "+12044142157"
+    },
+    "website": "http://bilalcentre.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 8,
+      "cid": "8054032447455312791",
+      "placeId": "ChIJjbrN5uFw6lIRlzsLwNarxW8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 152,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-10",
+    "sourceIndex": 9,
+    "name": "Manitoba Islamic Centre",
+    "slug": "manitoba-islamic-centre-winnipeg",
+    "address": {
+      "raw": "247 Hazelwood Ave, Winnipeg, MB R2M 4W1, Canada",
+      "streetAddress": "247 Hazelwood Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2M 4W1",
+        "normalized": "R2M 4W1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.826721,
+      "longitude": -97.1014146
+    },
+    "phone": {
+      "raw": "+1 204-256-1347",
+      "normalized": "+12042561347"
+    },
+    "website": "http://miaonline.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 9,
+      "cid": "2419397509788507646",
+      "placeId": "ChIJjf3YZUF26lIR_p1odTdtkyE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 180,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-11",
+    "sourceIndex": 10,
+    "name": "Pakistan Centre Masjid",
+    "slug": "pakistan-centre-masjid-winnipeg",
+    "address": {
+      "raw": "348 Ross Ave, Winnipeg, MB R3A 0L4, Canada",
+      "streetAddress": "348 Ross Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3A 0L4",
+        "normalized": "R3A 0L4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.9017728,
+      "longitude": -97.142498
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 0,
+        "targetTitle": "Al - Huda masjid",
+        "targetPlaceId": "ChIJYduRVQBx6lIRnocWlUcUltc",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 10,
+      "cid": "14153661553628592887",
+      "placeId": "ChIJAyOFX2dx6lIR97oilzHoa8Q",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 30,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-12",
+    "sourceIndex": 11,
+    "name": "Salam Masjid مسجد",
+    "slug": "salam-masjid-winnipeg",
+    "address": {
+      "raw": "294 Burrows Ave, Winnipeg, MB R2W 1Z6, Canada",
+      "streetAddress": "294 Burrows Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2W 1Z6",
+        "normalized": "R2W 1Z6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.9155802,
+      "longitude": -97.1348547
+    },
+    "phone": {
+      "raw": "+1 204-342-5642",
+      "normalized": "+12043425642"
+    },
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 11,
+      "cid": "2736409392311555295",
+      "placeId": "ChIJ5wdefHFx6lIR39TFHNit-SU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 95,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-13",
+    "sourceIndex": 12,
+    "name": "Masjid: U Of M Prayer Room",
+    "slug": "masjid-u-of-m-prayer-room-winnipeg",
+    "address": {
+      "raw": "EITC, E3-160, 103 Dafoe Rd W, Winnipeg, MB R3T 5V6, Canada",
+      "streetAddress": "EITC",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3T 5V6",
+        "normalized": "R3T 5V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8085736,
+      "longitude": -97.1346622
+    },
+    "phone": null,
+    "website": "http://ummsa.org/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 15,
+        "targetTitle": "University of Manitoba Masjid",
+        "targetPlaceId": "ChIJ2RePQPt16lIRE7MYTX-geKo",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 12,
+      "cid": "13820065612990873364",
+      "placeId": "ChIJMSk3Pvt16lIRFH_pAnS8yr8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 68,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-14",
+    "sourceIndex": 13,
+    "name": "MASJID BEIT NABALLA",
+    "slug": "masjid-beit-naballa-winnipeg",
+    "address": {
+      "raw": "325 Wallasey St, Winnipeg, MB R3J 3C3, Canada",
+      "streetAddress": "325 Wallasey St",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3J 3C3",
+        "normalized": "R3J 3C3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8811189,
+      "longitude": -97.2645821
+    },
+    "phone": null,
+    "website": "https://bnmosque.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 13,
+      "cid": "5770703921098659726",
+      "placeId": "ChIJq_lRdgAN6lIRjhcKSaSoFVA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 68,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-15",
+    "sourceIndex": 14,
+    "name": "AL-HAQQ MASJID Winnipeg",
+    "slug": "al-haqq-masjid-winnipeg",
+    "address": {
+      "raw": "500 Dovercourt Dr, Winnipeg, MB R3Y 1G4, Canada",
+      "streetAddress": "500 Dovercourt Dr",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3Y 1G4",
+        "normalized": "R3Y 1G4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8172147,
+      "longitude": -97.1903194
+    },
+    "phone": {
+      "raw": "+1 204-799-0389",
+      "normalized": "+12047990389"
+    },
+    "website": "https://www.alhaqqcanada.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 14,
+      "cid": "12825483295771133565",
+      "placeId": "ChIJQ6Knd0vcxIARfQYl7RpF_bE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 22,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-19",
+    "sourceIndex": 18,
+    "name": "ICNA Centre & Mosque",
+    "slug": "icna-centre-and-mosque-winnipeg",
+    "address": {
+      "raw": "426 St Anne's Rd, Winnipeg, MB R2M 3C6, Canada",
+      "streetAddress": "426 St Anne's Rd",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2M 3C6",
+        "normalized": "R2M 3C6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8459594,
+      "longitude": -97.0976481
+    },
+    "phone": null,
+    "website": "https://www.icnawinnipeg.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:30 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:30 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:30 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:30 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:30 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3:30 AM to 7:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 18,
+      "cid": "16852115368885062508",
+      "placeId": "ChIJo88EewB36lIRbItLRKS93uk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 12,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-20",
+    "sourceIndex": 19,
+    "name": "Mosque - Prayer Room (Room: C2019/C2021)",
+    "slug": "mosque-prayer-room-room-c2019-c2021-winnipeg",
+    "address": {
+      "raw": "409 Tache Ave, Winnipeg, MB R2H 3C3, Canada",
+      "streetAddress": "409 Tache Ave",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2H 3C3",
+        "normalized": "R2H 3C3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8849987,
+      "longitude": -97.124749
+    },
+    "phone": {
+      "raw": "+1 204-233-8563",
+      "normalized": "+12042338563"
+    },
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 19,
+      "cid": "15511247476860749105",
+      "placeId": "ChIJ73VaDEtx6lIRMYV16WUFQ9c",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 6,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-21",
+    "sourceIndex": 20,
+    "name": "Faizan-E-Madina Islamic Centre Winnipeg",
+    "slug": "faizan-e-madina-islamic-centre-winnipeg",
+    "address": {
+      "raw": "585 St Anne's Rd, Winnipeg, MB R2M 3G5, Canada",
+      "streetAddress": "585 St Anne's Rd",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R2M 3G5",
+        "normalized": "R2M 3G5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.8335612,
+      "longitude": -97.0898158
+    },
+    "phone": {
+      "raw": "+1 431-990-2786",
+      "normalized": "+14319902786"
+    },
+    "website": "http://www.dawateislami.net/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Winnipeg service area.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 20,
+      "cid": "16335983371577189647",
+      "placeId": "ChIJf-iF3VF26lIRD-WLH1MSteI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 53,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-wpg-17",
+    "sourceIndex": 16,
+    "name": "Manitoba Islamic Association (MIA) Grand Mosque",
+    "slug": "manitoba-islamic-association-mia-grand-mosque-winnipeg",
+    "address": {
+      "raw": "2445 Waverley St, Winnipeg, MB R3Y 1S3, Canada",
+      "streetAddress": "2445 Waverley St",
+      "city": "Winnipeg",
+      "province": "MB",
+      "postalCode": {
+        "raw": "R3Y 1S3",
+        "normalized": "R3Y 1S3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.7914473,
+      "longitude": -97.1749328
+    },
+    "phone": {
+      "raw": "+1 204-256-1347",
+      "normalized": "+12042561347"
+    },
+    "website": "https://www.miaonline.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified Grand Mosque of Winnipeg; title variant separated from administrative association.",
+    "provenance": {
+      "sourceFile": "winnipeg.json",
+      "sourceIndex": 16,
+      "cid": "16073154659296132655",
+      "placeId": "ChIJQaoxIoLfwVIRL75C3wBRD98",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Church"
+      ],
+      "rating": null,
+      "reviewsCount": 600,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

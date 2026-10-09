@@ -1,0 +1,524 @@
+{
+  "totalRawRecords": 93,
+  "publishedCount": 60,
+  "reviewRequiredCount": 33,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 41,
+    "ISLAMIC_CENTER": 16,
+    "MUSALLA": 5,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 0,
+    "COMMUNITY_CENTER": 5,
+    "ORGANIZATION": 8,
+    "REVIEW_REQUIRED": 18,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 60,
+    "REVIEW_REQUIRED": 33,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Montréal": 63,
+    "Montreal": 14,
+    "Saint-Laurent": 2,
+    "Saint-Léonard": 5,
+    "Lachine": 3,
+    "Lasalle": 2,
+    "Verdun": 1,
+    "Pierrefonds": 3
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 27,
+    "MISSING_WEBSITE": 31,
+    "MISSING_HOURS": 43,
+    "MISSING_DESCRIPTION": 93,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 0,
+    "POSSIBLE_DUPLICATE": 10,
+    "SHARED_ADDRESS": 11,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 8,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 5
+  },
+  "missingFields": {
+    "missingPhone": 27,
+    "missingWebsite": 31,
+    "missingHours": 43,
+    "missingDescription": 93
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 5,
+    "sharedLocations": 6
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 0,
+      "id": "mosque-mtl-1",
+      "name": "Association Du Centre Cote Des",
+      "address": "6550 Av. de Darlington, Montréal, QC H3S 1L4, Canada",
+      "city": "Montréal",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 3,
+      "id": "mosque-mtl-4",
+      "name": "Académie An-Noor",
+      "address": "12080 Blvd. Laurentien, Montreal, Quebec H4K 1M9, Canada",
+      "city": "Montreal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 7,
+      "id": "mosque-mtl-8",
+      "name": "Imam Hussain Charitable Foundation",
+      "address": "8270 Ave. Mountain Sights, Montreal, Quebec H4P 2B7, Canada",
+      "city": "Montreal",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 8,
+      "id": "mosque-mtl-9",
+      "name": "MSA McGill Office",
+      "address": "SSMU Building, 3480 Rue McTavish Rm B-09, Montreal, Quebec H3A 1X9, Canada",
+      "city": "Montreal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 9,
+      "id": "mosque-mtl-10",
+      "name": "Khoei",
+      "address": "7085 Chem. de la Côte-des-Neiges, Montréal, QC H3R 2M1, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 13,
+      "id": "mosque-mtl-14",
+      "name": "Markaz Hub E Rasool",
+      "address": "1006 Rue Jean-Talon O, Montréal, QC H3N 1T1, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 15,
+      "id": "mosque-mtl-16",
+      "name": "The Message of Islam Foundation",
+      "address": "10555 Boul. Saint-Laurent, Montréal, QC H3L 2P5, Canada",
+      "city": "Montréal",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 18,
+      "id": "mosque-mtl-19",
+      "name": "Mosquée Al falah Ahuntsic",
+      "address": "1 Rue Legendre O, Montréal, QC H2N 1G9, Canada",
+      "city": "Montréal",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 21,
+      "id": "mosque-mtl-22",
+      "name": "Centre Islamic Ahuntsic Cartierville",
+      "address": "1 Rue Legendre O, Montréal, QC H2N 1G9, Canada",
+      "city": "Montréal",
+      "classification": "ISLAMIC_CENTER",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 25,
+      "id": "mosque-mtl-26",
+      "name": "Islamic Services of Quebec",
+      "address": "2038 Boul. Saint-Laurent, Montréal, QC H2X 2T2, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 28,
+      "id": "mosque-mtl-29",
+      "name": "Mosquée Madani",
+      "address": "12080 Blvd. Laurentien, Montreal, Quebec H4K 1M9, Canada",
+      "city": "Montreal",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 29,
+      "id": "mosque-mtl-30",
+      "name": "Centre Faizan-E-Madina",
+      "address": "810 Rue Saint-Roch, Montréal, QC H3N 1L4, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 35,
+      "id": "mosque-mtl-36",
+      "name": "Al-Madinah Center",
+      "address": "1260 Rue Mackay, Montréal, QC H3G 2H4, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 41,
+      "id": "mosque-mtl-42",
+      "name": "Canadian Institute of Islamic Civilization CIIC - MAC",
+      "address": "615 Rue Belmont, Montréal, QC H3B 2L8, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 43,
+      "id": "mosque-mtl-44",
+      "name": "Mosquée Al-Omah Al-Islamiah",
+      "address": "1245 Rue Saint-Dominique, Montréal, QC H2X 2W4, Canada",
+      "city": "Montréal",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 47,
+      "id": "mosque-mtl-48",
+      "name": "Islamic Centre of Quebec - El Markaz Islami",
+      "address": "2520 Chem. Laval, Saint-Laurent, QC H4L 3A1, Canada",
+      "city": "Saint-Laurent",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 53,
+      "id": "mosque-mtl-54",
+      "name": "Madrassa Tawhid",
+      "address": "6955 Bd Lacordaire, Saint-Léonard, QC H1T 2K5, Canada",
+      "city": "Saint-Léonard",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 54,
+      "id": "mosque-mtl-55",
+      "name": "Mosque Al Hadara",
+      "address": "615 Rue Belmont, Montréal, QC H3B 2L8, Canada",
+      "city": "Montréal",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 55,
+      "id": "mosque-mtl-56",
+      "name": "Musqe",
+      "address": "Ave L'Archevêque, Montréal-Nord, Quebec H1H 3A1, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 60,
+      "id": "mosque-mtl-61",
+      "name": "ASSOCIATION AL BAYAN",
+      "address": "2468 Rue Sauvé E, Montréal, QC H2B 1B9, Canada",
+      "city": "Montréal",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 64,
+      "id": "mosque-mtl-65",
+      "name": "Al tawhid",
+      "address": "5950 Rue Jean-Talon E, Saint-Léonard, QC H1S 1M2, Canada",
+      "city": "Saint-Léonard",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 65,
+      "id": "mosque-mtl-66",
+      "name": "Association musulmane Dar Al Arkam",
+      "address": "3661 Rue Jean-Talon E, Montréal, QC H2A 1X8, Canada",
+      "city": "Montréal",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 74,
+      "id": "mosque-mtl-75",
+      "name": "Association Musulmane de Lachine",
+      "address": "1220 Rue Notre Dame, Lachine, QC H8S 2C4, Canada",
+      "city": "Lachine",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 75,
+      "id": "mosque-mtl-76",
+      "name": "Al-sahabah Lachine Mosquée",
+      "address": "1212 Rue Notre Dame, Lachine, QC H8S 2C6, Canada",
+      "city": "Lachine",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 76,
+      "id": "mosque-mtl-77",
+      "name": "Alhidayat Association",
+      "address": "5955 Rue Hochelaga, Montréal, QC H1N 1X3, Canada",
+      "city": "Montréal",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 78,
+      "id": "mosque-mtl-79",
+      "name": "Enlightened Path Institute (EPIQC)",
+      "address": "4862 Saint-Charles Blvd, Pierrefonds, Quebec H9H 3E2, Canada",
+      "city": "Pierrefonds",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 81,
+      "id": "mosque-mtl-82",
+      "name": "Mosquée Al-Amarab",
+      "address": "1245 Rue Saint-Dominique, Montréal, QC H2X 2Y1, Canada",
+      "city": "Montréal",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 83,
+      "id": "mosque-mtl-84",
+      "name": "mchichini makaburini",
+      "address": "6512 Av. du Parc, Montréal, QC H2V 4H9, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 84,
+      "id": "mosque-mtl-85",
+      "name": "Taxi beaubien",
+      "address": "6604 Av. De Chateaubriand, Montréal, QC H2S 2N7, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 86,
+      "id": "mosque-mtl-87",
+      "name": "Yoshi grave site",
+      "address": "1260 Chem. Remembrance, Montréal, QC H3G 1A4, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 87,
+      "id": "mosque-mtl-88",
+      "name": "Jumah",
+      "address": "5690 Rue Fullum, Montréal, QC H2G 2H7, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 89,
+      "id": "mosque-mtl-90",
+      "name": "Islamic Services Of Quebec",
+      "address": "6930 Av. Thomas Aubert, Montréal, QC H4K 1H8, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 92,
+      "id": "mosque-mtl-93",
+      "name": "Aisha Academy",
+      "address": "4640 Rue de Salaberry, Montréal, QC H4J 1H6, Canada",
+      "city": "Montréal",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    }
+  ],
+  "excludedRecords": []
+}

@@ -1,0 +1,4008 @@
+[
+  {
+    "id": "mosque-edm-3",
+    "sourceIndex": 2,
+    "name": "Al Ameen Masjid",
+    "slug": "al-ameen-masjid-edmonton",
+    "address": {
+      "raw": "5410 122 Ave NW, Edmonton, AB T5W 1S2, Canada",
+      "streetAddress": "5410 122 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5W 1S2",
+        "normalized": "T5W 1S2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5768586,
+      "longitude": -113.4256886
+    },
+    "phone": {
+      "raw": "+1 780-471-5585",
+      "normalized": "+17804715585"
+    },
+    "website": "https://www.alameenmasjid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 2,
+      "cid": "2267550618210887550",
+      "placeId": "ChIJkfYR-SwjoFMRfmet9EX1dx8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 184,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-4",
+    "sourceIndex": 3,
+    "name": "Masjid Al Ansar",
+    "slug": "masjid-al-ansar-edmonton",
+    "address": {
+      "raw": "11210 120 St NW, Edmonton, AB T5G 0W5, Canada",
+      "streetAddress": "11210 120 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5G 0W5",
+        "normalized": "T5G 0W5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5606287,
+      "longitude": -113.5301873
+    },
+    "phone": {
+      "raw": "+1 587-568-0721",
+      "normalized": "+15875680721"
+    },
+    "website": "http://masjidalansar.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 3,
+      "cid": "16889443729984421508",
+      "placeId": "ChIJaa5KP8MjoFMRhH6rm5ZbY-o",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 96,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-7",
+    "sourceIndex": 6,
+    "name": "Masjid Quba: Jama Masjid",
+    "slug": "masjid-quba-jama-masjid-edmonton",
+    "address": {
+      "raw": "10210 118 Ave NW, Edmonton, AB T5G 0P6, Canada",
+      "streetAddress": "10210 118 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5G 0P6",
+        "normalized": "T5G 0P6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5706675,
+      "longitude": -113.4960309
+    },
+    "phone": {
+      "raw": "+1 780-426-6373",
+      "normalized": "+17804266373"
+    },
+    "website": "https://masjidquba.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 6,
+      "cid": "2430420054308869089",
+      "placeId": "ChIJL3br2KYjoFMR4dMQmCmWuiE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 747,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-8",
+    "sourceIndex": 7,
+    "name": "Bilal Mosque",
+    "slug": "bilal-mosque-edmonton",
+    "address": {
+      "raw": "7814 83 St NW, Edmonton, AB T6C 0R2, Canada",
+      "streetAddress": "7814 83 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6C 0R2",
+        "normalized": "T6C 0R2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5143622,
+      "longitude": -113.455669
+    },
+    "phone": null,
+    "website": "https://time.my-masjid.com/timingscreen/dee0a646-01cb-4373-94be-e417b55ab846",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 7,
+      "cid": "10988574849230187554",
+      "placeId": "ChIJry_GUpIZoFMRIiwo_JpCf5g",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 55,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-9",
+    "sourceIndex": 8,
+    "name": "Baitul Hadi Ahmadiyya Muslim Jamaat",
+    "slug": "baitul-hadi-ahmadiyya-muslim-jamaat-edmonton",
+    "address": {
+      "raw": "7005 98 Ave NW, Edmonton, AB T6A 2T8, Canada",
+      "streetAddress": "7005 98 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6A 2T8",
+        "normalized": "T6A 2T8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5371001,
+      "longitude": -113.4365393
+    },
+    "phone": {
+      "raw": "+1 780-468-1617",
+      "normalized": "+17804681617"
+    },
+    "website": "http://www.ahmadiyya.ca/mosques/baitul-hadi",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 5,
+        "targetTitle": "AMJ Edmonton",
+        "targetPlaceId": "ChIJCQqPGgAjoFMRxDj8Z3pK8UY",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 8,
+      "cid": "7556713070532062971",
+      "placeId": "ChIJT-CtdpEioFMR-26dHoDW3mg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 92,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-10",
+    "sourceIndex": 9,
+    "name": "Sahaba Mosque",
+    "slug": "sahaba-mosque-edmonton",
+    "address": {
+      "raw": "9216 105 Ave NW, Edmonton, AB T5H 0J5, Canada",
+      "streetAddress": "9216 105 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5H 0J5",
+        "normalized": "T5H 0J5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5505324,
+      "longitude": -113.4774704
+    },
+    "phone": {
+      "raw": "+1 780-757-8800",
+      "normalized": "+17807578800"
+    },
+    "website": "http://www.sahabamosque.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 9,
+      "cid": "6607752350828402342",
+      "placeId": "ChIJQfDO9VYioFMRphbh8sBzs1s",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Association / Organization"
+      ],
+      "rating": null,
+      "reviewsCount": 225,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-11",
+    "sourceIndex": 10,
+    "name": "At-Taqwa Mosque",
+    "slug": "at-taqwa-mosque-edmonton",
+    "address": {
+      "raw": "10654 101 St NW, Edmonton, AB T5H 2S1, Canada",
+      "streetAddress": "10654 101 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5H 2S1",
+        "normalized": "T5H 2S1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5511111,
+      "longitude": -113.4941667
+    },
+    "phone": {
+      "raw": "+1 780-705-7525",
+      "normalized": "+17807057525"
+    },
+    "website": "http://www.masjidtaqwa.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 10,
+      "cid": "6956016320816997002",
+      "placeId": "ChIJP4B4mU0ioFMRiuIdPv27iGA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 233,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-12",
+    "sourceIndex": 11,
+    "name": "Al-Ansar Musallah",
+    "slug": "al-ansar-musallah-edmonton",
+    "address": {
+      "raw": "11419 106 Ave NW, Edmonton, AB T5H 3K4, Canada",
+      "streetAddress": "11419 106 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5H 3K4",
+        "normalized": "T5H 3K4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5496474,
+      "longitude": -113.5189118
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 11,
+      "cid": "11325714737066886101",
+      "placeId": "ChIJK2km5j8joFMR1UNHEowFLZ0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 122,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-13",
+    "sourceIndex": 12,
+    "name": "MCE Mosque",
+    "slug": "mce-mosque-edmonton",
+    "address": {
+      "raw": "10721 86 Ave NW, Edmonton, AB T6E 2M8, Canada",
+      "streetAddress": "10721 86 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6E 2M8",
+        "normalized": "T6E 2M8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5216981,
+      "longitude": -113.5074042
+    },
+    "phone": {
+      "raw": "+1 780-432-0208",
+      "normalized": "+17804320208"
+    },
+    "website": "https://www.mcemosque.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 12,
+      "cid": "6095072569824459321",
+      "placeId": "ChIJU_3NNRoioFMROTqdjDUMllQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious institution",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 313,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-16",
+    "sourceIndex": 15,
+    "name": "Assiddiq Islamic Center مركز الصديق الإسلامي",
+    "slug": "assiddiq-islamic-center-edmonton",
+    "address": {
+      "raw": "5525 Gateway Blvd NW, Edmonton, AB T6H 2H3, Canada",
+      "streetAddress": "5525 Gateway Blvd NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6H 2H3",
+        "normalized": "T6H 2H3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4926863,
+      "longitude": -113.4913843
+    },
+    "phone": {
+      "raw": "+1 780-680-4962",
+      "normalized": "+17806804962"
+    },
+    "website": "http://www.assiddiq.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 15,
+      "cid": "4050500823872984313",
+      "placeId": "ChIJwX6fcLMYoFMR-VRg8QlFNjg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 98,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-18",
+    "sourceIndex": 17,
+    "name": "Masjid Al Farooq",
+    "slug": "masjid-al-farooq-edmonton",
+    "address": {
+      "raw": "345 Woodvale Rd W, Edmonton, AB T6L 3Z7, Canada",
+      "streetAddress": "345 Woodvale Rd W",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6L 3Z7",
+        "normalized": "T6L 3Z7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4676402,
+      "longitude": -113.4305679
+    },
+    "phone": {
+      "raw": "+1 780-440-2514",
+      "normalized": "+17804402514"
+    },
+    "website": "https://masjidalfarooq.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 17,
+      "cid": "59343695504161226",
+      "placeId": "ChIJCZpCG_cZoFMRyjkv0sbU0gA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 29,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-19",
+    "sourceIndex": 18,
+    "name": "Jamia Riyadhul Jannah (JRJ Mosque)",
+    "slug": "jamia-riyadhul-jannah-jrj-mosque-edmonton",
+    "address": {
+      "raw": "6650 4 Ave SW, Edmonton, AB T6X 1A3, Canada",
+      "streetAddress": "6650 4 Ave SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6X 1A3",
+        "normalized": "T6X 1A3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4295184,
+      "longitude": -113.4460658
+    },
+    "phone": {
+      "raw": "+1 780-908-2737",
+      "normalized": "+17809082737"
+    },
+    "website": "http://www.jrjedmonton.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 18,
+      "cid": "4611018828172732623",
+      "placeId": "ChIJ3wkhKqoeoFMRz6jfqTGh_T8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "Religious institution",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 230,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-20",
+    "sourceIndex": 19,
+    "name": "Masjid Al Fatima",
+    "slug": "masjid-al-fatima-edmonton",
+    "address": {
+      "raw": "9275 25 Ave NW, Edmonton, AB T6N 1N2, Canada",
+      "streetAddress": "9275 25 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6N 1N2",
+        "normalized": "T6N 1N2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4535294,
+      "longitude": -113.4726448
+    },
+    "phone": {
+      "raw": "+1 780-462-7077",
+      "normalized": "+17804627077"
+    },
+    "website": "https://masjidalfatima.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 19,
+      "cid": "3741553244025528009",
+      "placeId": "ChIJVUgIW84eoFMRyR5aEtqq7DM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 286,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-21",
+    "sourceIndex": 20,
+    "name": "Annoor Mosque",
+    "slug": "annoor-mosque-edmonton",
+    "address": {
+      "raw": "332 Saddleback Rd NW, Edmonton, AB T6J 4R7, Canada",
+      "streetAddress": "332 Saddleback Rd NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6J 4R7",
+        "normalized": "T6J 4R7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.461028,
+      "longitude": -113.531373
+    },
+    "phone": {
+      "raw": "+1 780-490-6800",
+      "normalized": "+17804906800"
+    },
+    "website": "https://www.masjidannoor.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 20,
+      "cid": "5840244742142795052",
+      "placeId": "ChIJpZcGXCAfoFMRLJ3DaKa3DFE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Tourist attraction"
+      ],
+      "rating": null,
+      "reviewsCount": 484,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-22",
+    "sourceIndex": 21,
+    "name": "Southwest Muslim Community Centre",
+    "slug": "southwest-muslim-community-centre-edmonton",
+    "address": {
+      "raw": "3032 106 St, Edmonton, AB T6J 5M5, Canada",
+      "streetAddress": "3032 106 St",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6J 5M5",
+        "normalized": "T6J 5M5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4622012,
+      "longitude": -113.5037587
+    },
+    "phone": {
+      "raw": "+1 780-490-6800",
+      "normalized": "+17804906800"
+    },
+    "website": "https://masjidannoor.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 21,
+      "cid": "584160394132322698",
+      "placeId": "ChIJq6cqWiAfoFMRivkbkMhaGwg",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 40,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-27",
+    "sourceIndex": 26,
+    "name": "Rüh a Rüh Mosque & Soul Community Center",
+    "slug": "r-h-a-r-h-mosque-and-soul-community-center-edmonton",
+    "address": {
+      "raw": "5360 Admiral Girouard St, Edmonton, AB T5X 3N5, Canada",
+      "streetAddress": "5360 Admiral Girouard St",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5X 3N5",
+        "normalized": "T5X 3N5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.600632,
+      "longitude": -113.5130782
+    },
+    "phone": {
+      "raw": "+1 825-401-8965",
+      "normalized": "+18254018965"
+    },
+    "website": "https://ruharuh.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 26,
+      "cid": "16800196981928932537",
+      "placeId": "ChIJT22uVwAloFMRubR20CRKJuk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 95,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-28",
+    "sourceIndex": 27,
+    "name": "Edmonton Blue Mosque",
+    "slug": "edmonton-blue-mosque-edmonton",
+    "address": {
+      "raw": "15460 105 Ave NW, Edmonton, AB T5P 0T7, Canada",
+      "streetAddress": "15460 105 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5P 0T7",
+        "normalized": "T5P 0T7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5483917,
+      "longitude": -113.5881906
+    },
+    "phone": {
+      "raw": "(866) 401-5031",
+      "normalized": "+18664015031"
+    },
+    "website": "https://www.edmontonbluemosque.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 27,
+      "cid": "18364136826463060306",
+      "placeId": "ChIJ5-FY3AEhoFMRUgEAdCWF2v4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 68,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-29",
+    "sourceIndex": 28,
+    "name": "Masjid Al-Salaam (Clareview Mosque)",
+    "slug": "masjid-al-salaam-clareview-mosque-edmonton",
+    "address": {
+      "raw": "550 Clareview Rd NW #156, Edmonton, AB T5A 4H2, Canada",
+      "streetAddress": "550 Clareview Rd NW #156",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5A 4H2",
+        "normalized": "T5A 4H2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5936272,
+      "longitude": -113.3848904
+    },
+    "phone": {
+      "raw": "+1 587-521-4857",
+      "normalized": "+15875214857"
+    },
+    "website": "https://masjidalsalaam.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 28,
+      "cid": "9010579335608504630",
+      "placeId": "ChIJXQkqw-M9oFMRNpFrZyoCDH0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 103,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-30",
+    "sourceIndex": 29,
+    "name": "Al-Rayyan Mosque",
+    "slug": "al-rayyan-mosque-edmonton",
+    "address": {
+      "raw": "Just behind Winterburn Bottles Depot, 21406 100 Ave NW #2, Edmonton, AB T5T 5X8, Canada",
+      "streetAddress": "Just behind Winterburn Bottles Depot",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5T 5X8",
+        "normalized": "T5T 5X8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5402994,
+      "longitude": -113.6867206
+    },
+    "phone": {
+      "raw": "+1 780-800-5077",
+      "normalized": "+17808005077"
+    },
+    "website": "https://globalislamic.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 29,
+      "cid": "10416468313263655759",
+      "placeId": "ChIJiTUJfK4hoFMRT0sx-r26jpA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 118,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-36",
+    "sourceIndex": 35,
+    "name": "Masjid Al Omari",
+    "slug": "masjid-al-omari-edmonton",
+    "address": {
+      "raw": "6504 137 Ave NW, Edmonton, AB T5A 1R8, Canada",
+      "streetAddress": "6504 137 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5A 1R8",
+        "normalized": "T5A 1R8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.6003316,
+      "longitude": -113.4412969
+    },
+    "phone": {
+      "raw": "+1 780-705-4191",
+      "normalized": "+17807054191"
+    },
+    "website": "http://www.alomarimasjid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 35,
+      "cid": "10557880595825871952",
+      "placeId": "ChIJ5bpmX608oFMRUMwwv3YghZI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 473,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-37",
+    "sourceIndex": 36,
+    "name": "Masjid Dar Al Sunnah | مسجد دار السنة",
+    "slug": "masjid-dar-al-sunnah-edmonton",
+    "address": {
+      "raw": "9228 144 Ave NW, Edmonton, AB T5E 3W3, Canada",
+      "streetAddress": "9228 144 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5E 3W3",
+        "normalized": "T5E 3W3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.6069444,
+      "longitude": -113.4841667
+    },
+    "phone": {
+      "raw": "+1 780-761-3326",
+      "normalized": "+17807613326"
+    },
+    "website": "https://daralsunnah.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 10 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 36,
+      "cid": "11266775567968290609",
+      "placeId": "ChIJt9Ny66EkoFMRMcfMZK-gW5w",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 351,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-38",
+    "sourceIndex": 37,
+    "name": "Ahl Al-Athar Islamic Center | مركز أهل الأثر الإسلامي",
+    "slug": "ahl-al-athar-islamic-center-edmonton",
+    "address": {
+      "raw": "14613 134 Ave NW, Edmonton, AB T5L 4S9, Canada",
+      "streetAddress": "14613 134 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5L 4S9",
+        "normalized": "T5L 4S9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5933435,
+      "longitude": -113.5735026
+    },
+    "phone": {
+      "raw": "+1 780-851-6601",
+      "normalized": "+17808516601"
+    },
+    "website": "https://www.ahlalathar.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 9:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 37,
+      "cid": "5669854676756214861",
+      "placeId": "ChIJiwhxvAsloFMRTTQk0Mler04",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 19,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-39",
+    "sourceIndex": 38,
+    "name": "Al Medina Mosque",
+    "slug": "al-medina-mosque-edmonton",
+    "address": {
+      "raw": "12944 52 St NW, Edmonton, AB T5A 0B8, Canada",
+      "streetAddress": "12944 52 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5A 0B8",
+        "normalized": "T5A 0B8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.588519,
+      "longitude": -113.4217267
+    },
+    "phone": {
+      "raw": "+1 780-666-6079",
+      "normalized": "+17806666079"
+    },
+    "website": "https://medinamosque.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 38,
+      "cid": "4387512907036492246",
+      "placeId": "ChIJKYRy-Ms8oFMR1gFaL76T4zw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 117,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-40",
+    "sourceIndex": 39,
+    "name": "Canadian Islamic Center - Al Rashid Mosque (Masjid)",
+    "slug": "canadian-islamic-center-al-rashid-mosque-masjid-edmonton",
+    "address": {
+      "raw": "13070 113 St NW, Edmonton, AB T5E 5A8, Canada",
+      "streetAddress": "13070 113 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5E 5A8",
+        "normalized": "T5E 5A8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5911999,
+      "longitude": -113.515756
+    },
+    "phone": {
+      "raw": "+1 780-451-6694",
+      "normalized": "+17804516694"
+    },
+    "website": "http://www.alrashidmosque.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 4 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 53,
+        "targetTitle": "Islamic Academy Project",
+        "targetPlaceId": "ChIJJSaSc4EjoFMRYNxp_pj6410",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 39,
+      "cid": "11825481709836525780",
+      "placeId": "ChIJt6GUC4EjoFMR1GCvBPaMHKQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious organization",
+        "Tourist attraction"
+      ],
+      "rating": null,
+      "reviewsCount": 1698,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-41",
+    "sourceIndex": 40,
+    "name": "Masjid Al-Imam Al-Shafie",
+    "slug": "masjid-al-imam-al-shafie-edmonton",
+    "address": {
+      "raw": "11748 95 St, Edmonton, AB T5G 1L9, Canada",
+      "streetAddress": "11748 95 St",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5G 1L9",
+        "normalized": "T5G 1L9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5699254,
+      "longitude": -113.4874444
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 40,
+      "cid": "5637753802201511676",
+      "placeId": "ChIJN0vqTAgjoFMR_DZUhzZTPU4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 34,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-42",
+    "sourceIndex": 41,
+    "name": "مسجد دار العلم - Darul Ilmi Masjid",
+    "slug": "darul-ilmi-masjid-edmonton",
+    "address": {
+      "raw": "4225 118 Ave NW, Edmonton, AB T5W 1A5, Canada",
+      "streetAddress": "4225 118 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5W 1A5",
+        "normalized": "T5W 1A5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5701301,
+      "longitude": -113.4072433
+    },
+    "phone": {
+      "raw": "+1 780-934-5251",
+      "normalized": "+17809345251"
+    },
+    "website": "https://www.darulilmimasjid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 41,
+      "cid": "12539090046659914919",
+      "placeId": "ChIJm3HnOso9oFMRp-zMZfbLA64",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "School"
+      ],
+      "rating": null,
+      "reviewsCount": 39,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-43",
+    "sourceIndex": 42,
+    "name": "Masjid Ayesha",
+    "slug": "masjid-ayesha-edmonton",
+    "address": {
+      "raw": "1741 170 St SW, Edmonton, AB T6W 4J7, Canada",
+      "streetAddress": "1741 170 St SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6W 4J7",
+        "normalized": "T6W 4J7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4171267,
+      "longitude": -113.6120787
+    },
+    "phone": {
+      "raw": "+1 780-951-9935",
+      "normalized": "+17809519935"
+    },
+    "website": "https://masjidayesha.ca/?fbclid=IwAR3VLJstjlPP1cGuQM5Xp0v7R6DGGMSDRx0VtXdI28gA3oT61NPvz8iARJs",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 42,
+      "cid": "10042128893690684083",
+      "placeId": "ChIJwV_OjAz1n1MRs6Ie-QXPXIs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 219,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-44",
+    "sourceIndex": 43,
+    "name": "Suhbah Islamic Center",
+    "slug": "suhbah-islamic-center-edmonton",
+    "address": {
+      "raw": "3464 Ewing Trail SW, Edmonton, AB T6X 2X2, Canada",
+      "streetAddress": "3464 Ewing Trail SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6X 2X2",
+        "normalized": "T6X 2X2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4018504,
+      "longitude": -113.4909914
+    },
+    "phone": {
+      "raw": "+1 647-991-9896",
+      "normalized": "+16479919896"
+    },
+    "website": "https://suhbahislamiccenter.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 43,
+      "cid": "8209773855210073198",
+      "placeId": "ChIJw2ml5xAdoFMRbuwV9tL57nE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 13,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-45",
+    "sourceIndex": 44,
+    "name": "Imam Al Bukhari Mosque Edmonton",
+    "slug": "imam-al-bukhari-mosque-edmonton",
+    "address": {
+      "raw": "15355 117 Ave NW, Edmonton, AB T5M 3N8, Canada",
+      "streetAddress": "15355 117 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5M 3N8",
+        "normalized": "T5M 3N8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5691647,
+      "longitude": -113.5854705
+    },
+    "phone": {
+      "raw": "+1 780-718-4429",
+      "normalized": "+17807184429"
+    },
+    "website": "http://albukharimosque.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 44,
+      "cid": "13766628051341172524",
+      "placeId": "ChIJc45UawAhoFMRLF8eI0bjDL8",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 44,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-48",
+    "sourceIndex": 47,
+    "name": "South East Musalla - 206",
+    "slug": "south-east-musalla-206-edmonton",
+    "address": {
+      "raw": "2704 17 St NW, Edmonton, AB T6T 1H9, Canada",
+      "streetAddress": "2704 17 St NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6T 1H9",
+        "normalized": "T6T 1H9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4578084,
+      "longitude": -113.3711983
+    },
+    "phone": null,
+    "website": "http://semuslimcommunity.com/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 16,
+        "targetTitle": "Southeast Muslim Community Edmonton",
+        "targetPlaceId": "ChIJp7qq6W8ZoFMRD8PiUWisNn0",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Edmonton service area.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 47,
+      "cid": "14875845733429974168",
+      "placeId": "ChIJYU-fnh0ZoFMRmJSaAuGecc4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 10,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-14",
+    "sourceIndex": 13,
+    "name": "Omar Ibn Al-Khattab Centre (OIAC)",
+    "slug": "omar-ibn-al-khattab-centre-oiac-edmonton",
+    "address": {
+      "raw": "4115 91 St SW, Edmonton, AB T4X 0M7, Canada",
+      "streetAddress": "4115 91 St SW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T4X 0M7",
+        "normalized": "T4X 0M7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.3950985,
+      "longitude": -113.4646756
+    },
+    "phone": {
+      "raw": "+1 587-882-3202",
+      "normalized": "+15878823202"
+    },
+    "website": "https://www.oiacedmonton.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified Islamic Centre with active prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 13,
+      "cid": "7772952782907574653",
+      "placeId": "ChIJ64PQaOwZoFMRfQkXiV8T32s",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 202,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-23",
+    "sourceIndex": 22,
+    "name": "Islamic Shia Ithna-Asheri Centre of Edmonton",
+    "slug": "islamic-shia-ithna-asheri-centre-of-edmonton",
+    "address": {
+      "raw": "4307 33 Ave NW, Edmonton, AB T6L 4H7, Canada",
+      "streetAddress": "4307 33 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6L 4H7",
+        "normalized": "T6L 4H7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4620417,
+      "longitude": -113.4058464
+    },
+    "phone": {
+      "raw": "+1 780-461-4566",
+      "normalized": "+17804614566"
+    },
+    "website": "https://jammat.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified Islamic Centre with active prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 22,
+      "cid": "3668326534837768178",
+      "placeId": "ChIJ80jhSAwZoFMR8g8lPYyD6DI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 82,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-25",
+    "sourceIndex": 24,
+    "name": "Markaz-Ul-Islam",
+    "slug": "markaz-ul-islam-edmonton",
+    "address": {
+      "raw": "7907 36 Ave NW, Edmonton, AB T6K 3S6, Canada",
+      "streetAddress": "7907 36 Ave NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T6K 3S6",
+        "normalized": "T6K 3S6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.4683333,
+      "longitude": -113.4547469
+    },
+    "phone": {
+      "raw": "+1 780-450-6170",
+      "normalized": "+17804506170"
+    },
+    "website": "http://www.markaz.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified major Islamic Centre in Edmonton.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 24,
+      "cid": "14853768105627962827",
+      "placeId": "ChIJ_w9K1CcZoFMRy037t2QvI84",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 435,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-edm-53",
+    "sourceIndex": 52,
+    "name": "Masjed Dar Al-Arqam",
+    "slug": "masjed-dar-al-arqam-edmonton",
+    "address": {
+      "raw": "13105 St Albert Trail NW, Edmonton, AB T5L 4H5, Canada",
+      "streetAddress": "13105 St Albert Trail NW",
+      "city": "Edmonton",
+      "province": "AB",
+      "postalCode": {
+        "raw": "T5L 4H5",
+        "normalized": "T5L 4H5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 53.5911557,
+      "longitude": -113.564954
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MOSQUE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque; title variant 'Masjed' clarified.",
+    "provenance": {
+      "sourceFile": "edmonton.json",
+      "sourceIndex": 52,
+      "cid": "7112419394439861277",
+      "placeId": "ChIJYajTIQAloFMRHdQvi8FjtGI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 5,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

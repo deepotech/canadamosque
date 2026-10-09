@@ -1,0 +1,925 @@
+[
+  {
+    "id": "mosque-van-1",
+    "sourceIndex": 0,
+    "name": "West End Musalla and Community Services (UCSF)",
+    "slug": "west-end-musalla-and-community-services-ucsf-vancouver",
+    "address": {
+      "raw": "708 Denman St #2nd, Vancouver, BC V6G 2L5, Canada",
+      "streetAddress": "708 Denman St #2nd",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V6G 2L5",
+        "normalized": "V6G 2L5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2919796,
+      "longitude": -123.134365
+    },
+    "phone": {
+      "raw": "+1 604-715-4096",
+      "normalized": "+16047154096"
+    },
+    "website": "https://westendmusalla.ca/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:15 AM to 9:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 0,
+      "cid": "4714950085882917706",
+      "placeId": "ChIJJ0zdIABxhlQRSrO_Sh_ebkE",
+      "rawCategoryName": "Community center",
+      "rawCategories": [
+        "Community center",
+        "Mosque",
+        "Musalla"
+      ],
+      "rating": null,
+      "reviewsCount": 70,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-3",
+    "sourceIndex": 2,
+    "name": "Marpole musalla",
+    "slug": "marpole-musalla-vancouver",
+    "address": {
+      "raw": "8879 Selkirk St, Vancouver, BC V6P 6K9, Canada",
+      "streetAddress": "8879 Selkirk St",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V6P 6K9",
+        "normalized": "V6P 6K9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2045896,
+      "longitude": -123.1336173
+    },
+    "phone": {
+      "raw": "+1 778-317-6673",
+      "normalized": "+17783176673"
+    },
+    "website": "http://nwmis.org/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 2,
+      "cid": "14649201643649003061",
+      "placeId": "ChIJldTKUel0hlQRNW7EtEdrTMs",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 18,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-5",
+    "sourceIndex": 4,
+    "name": "Masjid Omar Al-Farooq",
+    "slug": "masjid-omar-al-farooq-vancouver",
+    "address": {
+      "raw": "1659 E 10th Ave, Vancouver, BC V5N 1X6, Canada",
+      "streetAddress": "1659 E 10th Ave",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5N 1X6",
+        "normalized": "V5N 1X6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2615831,
+      "longitude": -123.070619
+    },
+    "phone": {
+      "raw": "+1 604-873-2040",
+      "normalized": "+16048732040"
+    },
+    "website": "http://www.masjidomar.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 13,
+        "targetTitle": "Daralmadinah Society",
+        "targetPlaceId": "ChIJsRYB605xhlQRC4-1RF9amXk",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 4,
+      "cid": "9701282022363336069",
+      "placeId": "ChIJsRYB605xhlQRhY3ZiJngoYY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 238,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-8",
+    "sourceIndex": 7,
+    "name": "Ajyal Islamic Centre",
+    "slug": "ajyal-islamic-centre-vancouver",
+    "address": {
+      "raw": "181 Keefer Pl #202, Vancouver, BC V6B 6C1, Canada",
+      "streetAddress": "181 Keefer Pl #202",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V6B 6C1",
+        "normalized": "V6B 6C1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2800746,
+      "longitude": -123.108579
+    },
+    "phone": {
+      "raw": "+1 604-563-3344",
+      "normalized": "+16045633344"
+    },
+    "website": "https://www.ajyal.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "3 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 7,
+      "cid": "412220102918350520",
+      "placeId": "ChIJ36hVv3txhlQRuCa54_9_uAU",
+      "rawCategoryName": "Community center",
+      "rawCategories": [
+        "Community center",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 433,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-9",
+    "sourceIndex": 8,
+    "name": "Granville Musallah Masjid",
+    "slug": "granville-musallah-masjid-vancouver",
+    "address": {
+      "raw": "695 Smithe St, Vancouver, BC V6B 2C9, Canada",
+      "streetAddress": "695 Smithe St",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V6B 2C9",
+        "normalized": "V6B 2C9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2801921,
+      "longitude": -123.1210033
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 8,
+      "cid": "6745126968475618457",
+      "placeId": "ChIJ5cv9_GdxhlQRmYzlmD2Bm10",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 125,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-10",
+    "sourceIndex": 9,
+    "name": "Al Masjid Al Jamia, Vancouver",
+    "slug": "al-masjid-al-jamia-vancouver",
+    "address": {
+      "raw": "655 W 8th Ave, Vancouver, BC V5Z 1C7, Canada",
+      "streetAddress": "655 W 8th Ave",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5Z 1C7",
+        "normalized": "V5Z 1C7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2644276,
+      "longitude": -123.1190053
+    },
+    "phone": {
+      "raw": "+1 604-720-8054",
+      "normalized": "+16047208054"
+    },
+    "website": "https://m.facebook.com/aljamiavancouver/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 9,
+      "cid": "12941410097223114604",
+      "placeId": "ChIJ2RNQ3txzhlQRbB-jueofmbM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 354,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-11",
+    "sourceIndex": 10,
+    "name": "Vancouver Islamic Center",
+    "slug": "vancouver-islamic-center-vancouver",
+    "address": {
+      "raw": "6436 Fraser St, Vancouver, BC V5W 3A6, Canada",
+      "streetAddress": "6436 Fraser St",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5W 3A6",
+        "normalized": "V5W 3A6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2261145,
+      "longitude": -123.0905125
+    },
+    "phone": {
+      "raw": "+1 778-710-7345",
+      "normalized": "+17787107345"
+    },
+    "website": "https://thefmcs.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 10,
+      "cid": "9075369658960998669",
+      "placeId": "ChIJ7SyIShV0hlQRDXG6F58w8n0",
+      "rawCategoryName": "Community center",
+      "rawCategories": [
+        "Community center",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 206,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-12",
+    "sourceIndex": 11,
+    "name": "Oakridge Jummah",
+    "slug": "oakridge-jummah-vancouver",
+    "address": {
+      "raw": "305 W 41st Ave, Vancouver, BC V5Y 3K1, Canada",
+      "streetAddress": "305 W 41st Ave",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5Y 3K1",
+        "normalized": "V5Y 3K1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2337029,
+      "longitude": -123.1125846
+    },
+    "phone": null,
+    "website": null,
+    "classification": "JUMMAH_LOCATION",
+    "classificationReason": "Identified specifically as a Jummah / Friday prayer location.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified jummah location within Vancouver service area.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 11,
+      "cid": "13944505017795138821",
+      "placeId": "ChIJg1-7SwB1hlQRBdVUum7VhME",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-van-6",
+    "sourceIndex": 5,
+    "name": "Masjid Ul-Haqq",
+    "slug": "masjid-ul-haqq-vancouver",
+    "address": {
+      "raw": "4162 Welwyn St, Vancouver, BC V5N 3Z2, Canada",
+      "streetAddress": "4162 Welwyn St",
+      "city": "Vancouver",
+      "province": "BC",
+      "postalCode": {
+        "raw": "V5N 3Z2",
+        "normalized": "V5N 3Z2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 49.2479399,
+      "longitude": -123.0697425
+    },
+    "phone": {
+      "raw": "+1 604-873-1787",
+      "normalized": "+16048731787"
+    },
+    "website": "https://awqat.net/Masjids/BCHaqq/haqq.html",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 3,
+        "targetTitle": "British Columbia Muslim Association",
+        "targetPlaceId": "ChIJv483Uql2hlQRQrv3y7IBn2E",
+        "reason": "Shared address with matching identity keywords (0%) or matching phone"
+      }
+    ],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified physical mosque; legitimate shared location with BCMA provincial office.",
+    "provenance": {
+      "sourceFile": "vancouver.json",
+      "sourceIndex": 5,
+      "cid": "65109934030082419",
+      "placeId": "ChIJP9HvUql2hlQRc1E22SNR5wA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 127,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

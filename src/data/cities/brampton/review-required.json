@@ -1,0 +1,168 @@
+[
+  {
+    "id": "mosque-brm-2",
+    "sourceIndex": 1,
+    "name": "Nasfat Peel Region",
+    "slug": "nasfat-peel-region-brampton",
+    "address": {
+      "raw": "1 Nelson St W Unit 11C, Brampton, ON L6X 1B6, Canada",
+      "streetAddress": "1 Nelson St W Unit 11C",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6X 1B6",
+        "normalized": "L6X 1B6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6867595,
+      "longitude": -79.7616538
+    },
+    "phone": {
+      "raw": "+1 905-598-1940",
+      "normalized": "+19055981940"
+    },
+    "website": "https://nasfatpeelregion.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "11 AM to 3 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 1,
+      "cid": "6542253042289439803",
+      "placeId": "ChIJl67IvpsVK4gRO3RhyHrAylo",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 22,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-5",
+    "sourceIndex": 4,
+    "name": "Jamia Imam E Azam",
+    "slug": "jamia-imam-e-azam-brampton",
+    "address": {
+      "raw": "51 McMurchy Ave S, Brampton, ON L6Y 1Y5, Canada",
+      "streetAddress": "51 McMurchy Ave S",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 1Y5",
+        "normalized": "L6Y 1Y5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6782944,
+      "longitude": -79.7624615
+    },
+    "phone": {
+      "raw": "+1 416-858-0470",
+      "normalized": "+14168580470"
+    },
+    "website": "https://jamiaimameazam.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 4,
+      "cid": "16973787788463371329",
+      "placeId": "ChIJp4-9SwAVK4gRQfQ4CBACj-s",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 23,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

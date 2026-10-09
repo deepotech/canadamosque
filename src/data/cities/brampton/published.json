@@ -1,0 +1,2406 @@
+[
+  {
+    "id": "mosque-brm-3",
+    "sourceIndex": 2,
+    "name": "Bramalea Islamic Cultural Centre (BICC)",
+    "slug": "bramalea-islamic-cultural-centre-bicc-brampton",
+    "address": {
+      "raw": "7, 25 Kings Cross Rd B, Brampton, ON L6T 3V5, Canada",
+      "streetAddress": "7",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6T 3V5",
+        "normalized": "L6T 3V5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7205951,
+      "longitude": -79.7183207
+    },
+    "phone": {
+      "raw": "+1 416-230-9851",
+      "normalized": "+14162309851"
+    },
+    "website": "http://bramaleaicc.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 2,
+      "cid": "11941844045189785408",
+      "placeId": "ChIJw8P30ek9K4gRQKemdOPzuaU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 240,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-4",
+    "sourceIndex": 3,
+    "name": "Ha-Meem Musalla (Peace and Harmony Centre)",
+    "slug": "ha-meem-musalla-peace-and-harmony-centre-brampton",
+    "address": {
+      "raw": "38 Sky Harbour Dr, Brampton, ON L6Y 0V6, Canada",
+      "streetAddress": "38 Sky Harbour Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 0V6",
+        "normalized": "L6Y 0V6"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6310438,
+      "longitude": -79.7792796
+    },
+    "phone": {
+      "raw": "+1 416-802-7892",
+      "normalized": "+14168027892"
+    },
+    "website": "http://www.wphc.ca/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 12:55 AM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 3,
+      "cid": "9696917974370035509",
+      "placeId": "ChIJe-A72dBqK4gRNSdtboVfkoY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 74,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-6",
+    "sourceIndex": 5,
+    "name": "NICE North-Valley Islamic Centre",
+    "slug": "nice-north-valley-islamic-centre-brampton",
+    "address": {
+      "raw": "423 Wanless Dr, Brampton, ON L7A 0N9, Canada",
+      "streetAddress": "423 Wanless Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L7A 0N9",
+        "normalized": "L7A 0N9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7162028,
+      "longitude": -79.8230568
+    },
+    "phone": {
+      "raw": "+1 647-573-6655",
+      "normalized": "+16475736655"
+    },
+    "website": "http://nice-canada.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 5,
+      "cid": "16832289239029697440",
+      "placeId": "ChIJQ6bV71MVK4gRoMv-sOFNmOk",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 99,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-7",
+    "sourceIndex": 6,
+    "name": "Huttonville Jame Masjid",
+    "slug": "huttonville-jame-masjid-brampton",
+    "address": {
+      "raw": "2051 Embleton Rd, Brampton, ON L6Y 0E9, Canada",
+      "streetAddress": "2051 Embleton Rd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 0E9",
+        "normalized": "L6Y 0E9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6434627,
+      "longitude": -79.8007336
+    },
+    "phone": {
+      "raw": "+1 416-802-7892",
+      "normalized": "+14168027892"
+    },
+    "website": "http://www.wphc.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 4 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 6,
+      "cid": "15377444883965846003",
+      "placeId": "ChIJr3MCfBgVK4gR86HuFaaoZ9U",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center"
+      ],
+      "rating": null,
+      "reviewsCount": 96,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-8",
+    "sourceIndex": 7,
+    "name": "MASJID Jamiat-Ul-Ansar,",
+    "slug": "masjid-jamiat-ul-ansar-brampton",
+    "address": {
+      "raw": "1 Masjid Dr, Brampton, ON L6R 2R8, Canada",
+      "streetAddress": "1 Masjid Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6R 2R8",
+        "normalized": "L6R 2R8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7374669,
+      "longitude": -79.7694988
+    },
+    "phone": {
+      "raw": "+1 905-792-7576",
+      "normalized": "+19057927576"
+    },
+    "website": "http://www.jamiatalansar.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10:30 AM to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 7,
+      "cid": "13018864058648449516",
+      "placeId": "ChIJNYXqYUEWK4gR7FHXauJLrLQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 753,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-9",
+    "sourceIndex": 8,
+    "name": "Masumeen Islamic Centre",
+    "slug": "masumeen-islamic-centre-brampton",
+    "address": {
+      "raw": "7580 Kennedy Rd S, Brampton, ON L6W 0A1, Canada",
+      "streetAddress": "7580 Kennedy Rd S",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6W 0A1",
+        "normalized": "L6W 0A1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6674269,
+      "longitude": -79.7116219
+    },
+    "phone": {
+      "raw": "+1 905-459-0891",
+      "normalized": "+19054590891"
+    },
+    "website": "http://www.masumeen.org/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 8,
+      "cid": "10170940267849597570",
+      "placeId": "ChIJAeK7frM_K4gRgkLkIElwJo0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 330,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-10",
+    "sourceIndex": 9,
+    "name": "Masjid Mubarak",
+    "slug": "masjid-mubarak-brampton",
+    "address": {
+      "raw": "10545 Hurontario St, Brampton, ON L6Z 2V9, Canada",
+      "streetAddress": "10545 Hurontario St",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Z 2V9",
+        "normalized": "L6Z 2V9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7167614,
+      "longitude": -79.8010458
+    },
+    "phone": {
+      "raw": "(877) 994-7526",
+      "normalized": "+18779947526"
+    },
+    "website": "http://ahmadiyya.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 9,
+      "cid": "5777266789563687998",
+      "placeId": "ChIJ06ra750WK4gRPuSaLIn5LFA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 455,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-11",
+    "sourceIndex": 10,
+    "name": "Masjid-E-Aqsa",
+    "slug": "masjid-e-aqsa-brampton",
+    "address": {
+      "raw": "30 Rambler Dr, Brampton, ON L6W 1E2, Canada",
+      "streetAddress": "30 Rambler Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6W 1E2",
+        "normalized": "L6W 1E2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.678184,
+      "longitude": -79.728034
+    },
+    "phone": {
+      "raw": "+1 647-719-1112",
+      "normalized": "+16477191112"
+    },
+    "website": "http://www.masjidaqsabrampton.org/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 10,
+      "cid": "16561694327255981149",
+      "placeId": "ChIJl1XwxTE-K4gRXdyxNj711uU",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 385,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-12",
+    "sourceIndex": 11,
+    "name": "Taaseen Musalla",
+    "slug": "taaseen-musalla-brampton",
+    "address": {
+      "raw": "Front of 90 Bonnie Braes Drive, 54 Chesterwood Cres, Brampton, ON L6Y 0Z4, Canada",
+      "streetAddress": "Front of 90 Bonnie Braes Drive",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 0Z4",
+        "normalized": "L6Y 0Z4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6553026,
+      "longitude": -79.7790851
+    },
+    "phone": {
+      "raw": "+1 647-708-3384",
+      "normalized": "+16477083384"
+    },
+    "website": "https://chat.whatsapp.com/FipPyRwPvH51UG1BT3ykRU",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 11,
+      "cid": "8425815850750027128",
+      "placeId": "ChIJmXtlgyEVK4gReKXP1t-C7nQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 108,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-13",
+    "sourceIndex": 12,
+    "name": "Masjid Ibrahim",
+    "slug": "masjid-ibrahim-brampton",
+    "address": {
+      "raw": "5 Clementine Drive Intersection of Mavis Rd, Clementine Dr, Brampton, ON L6Y 5M1, Canada",
+      "streetAddress": "5 Clementine Drive Intersection of Mavis Rd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 5M1",
+        "normalized": "L6Y 5M1"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6429458,
+      "longitude": -79.750014
+    },
+    "phone": {
+      "raw": "+1 905-455-9400",
+      "normalized": "+19054559400"
+    },
+    "website": "https://masjidibrahim.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 12,
+      "cid": "11303214812049233459",
+      "placeId": "ChIJz-LT_DcVK4gRM9YgDPwV3Zw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 112,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-14",
+    "sourceIndex": 13,
+    "name": "Brampton Islamic Centre",
+    "slug": "brampton-islamic-centre-brampton",
+    "address": {
+      "raw": "6 Lowry Dr, Brampton, ON L7A 1C4, Canada",
+      "streetAddress": "6 Lowry Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L7A 1C4",
+        "normalized": "L7A 1C4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7018546,
+      "longitude": -79.8046898
+    },
+    "phone": {
+      "raw": "+1 905-459-9444",
+      "normalized": "+19054599444"
+    },
+    "website": "https://bsia.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 13,
+      "cid": "12174769799619316069",
+      "placeId": "ChIJQ3j4YT4UK4gRZYl2yKB49ag",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 546,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-15",
+    "sourceIndex": 14,
+    "name": "Taha Musalla",
+    "slug": "taha-musalla-brampton",
+    "address": {
+      "raw": "499 Ray Lawson Blvd, Brampton, ON L6Y 0N2, Canada",
+      "streetAddress": "499 Ray Lawson Blvd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 0N2",
+        "normalized": "L6Y 0N2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6514517,
+      "longitude": -79.7353277
+    },
+    "phone": {
+      "raw": "+1 905-455-9400",
+      "normalized": "+19054559400"
+    },
+    "website": "https://masjidibrahim.ca/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 14,
+      "cid": "13149141907566530558",
+      "placeId": "ChIJE2diIRpTV0AR_o-01eUie7Y",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Religious destination"
+      ],
+      "rating": null,
+      "reviewsCount": 187,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-16",
+    "sourceIndex": 15,
+    "name": "Masjid Sirat Al Mustaqim",
+    "slug": "masjid-sirat-al-mustaqim-brampton",
+    "address": {
+      "raw": "105 Kennedy Rd S, Brampton, ON L6W 3G2, Canada",
+      "streetAddress": "105 Kennedy Rd S",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6W 3G2",
+        "normalized": "L6W 3G2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.68695,
+      "longitude": -79.73841
+    },
+    "phone": {
+      "raw": "+1 905-782-4386",
+      "normalized": "+19057824386"
+    },
+    "website": "http://www.thestraightpath.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "4:30 AM to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 15,
+      "cid": "4687204414371516513",
+      "placeId": "ChIJ3eM1xCY-K4gRYdBBvJRLDEE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 171,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-17",
+    "sourceIndex": 16,
+    "name": "Yaseen Musalla",
+    "slug": "yaseen-musalla-brampton",
+    "address": {
+      "raw": "9715 James Potter Rd, Brampton, ON L6X 3B9, Canada",
+      "streetAddress": "9715 James Potter Rd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6X 3B9",
+        "normalized": "L6X 3B9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6748717,
+      "longitude": -79.8058491
+    },
+    "phone": {
+      "raw": "+1 905-457-9400",
+      "normalized": "+19054579400"
+    },
+    "website": "http://www.yaseenmusalla.com/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 16,
+      "cid": "6210714695156889055",
+      "placeId": "ChIJg24flvQUK4gR3_UfBhzkMFY",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 185,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-18",
+    "sourceIndex": 17,
+    "name": "Masjid Al-Salam / Al-Salam School",
+    "slug": "masjid-al-salam-al-salam-school-brampton",
+    "address": {
+      "raw": "160 Salvation Rd, Brampton, ON L7A 0W7, Canada",
+      "streetAddress": "160 Salvation Rd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L7A 0W7",
+        "normalized": "L7A 0W7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6767206,
+      "longitude": -79.8196827
+    },
+    "phone": {
+      "raw": "+1 905-840-5454",
+      "normalized": "+19058405454"
+    },
+    "website": "http://www.mpicbrampton.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 17,
+      "cid": "17149694682257250294",
+      "placeId": "ChIJd_aMOYYUK4gR9ldZVnP0_-0",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 649,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-19",
+    "sourceIndex": 18,
+    "name": "Brampton North Community Centre",
+    "slug": "brampton-north-community-centre-brampton",
+    "address": {
+      "raw": "20 Dewside Dr #7, Brampton, ON L6R 3Y3, Canada",
+      "streetAddress": "20 Dewside Dr #7",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6R 3Y3",
+        "normalized": "L6R 3Y3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7569091,
+      "longitude": -79.7629872
+    },
+    "phone": null,
+    "website": "http://bnlc.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5:30 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 18,
+      "cid": "13693802974962114416",
+      "placeId": "ChIJZ-un38kXK4gRcN_NukApCr4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 135,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-20",
+    "sourceIndex": 19,
+    "name": "Jame Makki Masjid",
+    "slug": "jame-makki-masjid-brampton",
+    "address": {
+      "raw": "8450 Torbram Rd, Brampton, ON L6T 4M9, Canada",
+      "streetAddress": "8450 Torbram Rd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6T 4M9",
+        "normalized": "L6T 4M9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7217184,
+      "longitude": -79.6905562
+    },
+    "phone": {
+      "raw": "+1 905-458-8778",
+      "normalized": "+19054588778"
+    },
+    "website": "http://www.makkimasjid.ca/",
+    "classification": "MOSQUE",
+    "classificationReason": "Standard mosque / masjid dedicated primarily to daily congregational prayers.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified mosque within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 19,
+      "cid": "16969912032401470682",
+      "placeId": "ChIJ327YNDE8K4gR2rTqQBU9ges",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 799,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-22",
+    "sourceIndex": 21,
+    "name": "Brampton and Regional Islamic Centre",
+    "slug": "brampton-and-regional-islamic-centre-brampton",
+    "address": {
+      "raw": "4525 Ebenezer Rd #3, Brampton, ON L6P 2K8, Canada",
+      "streetAddress": "4525 Ebenezer Rd #3",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6P 2K8",
+        "normalized": "L6P 2K8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.77175,
+      "longitude": -79.6615264
+    },
+    "phone": {
+      "raw": "+1 905-794-9099",
+      "normalized": "+19057949099"
+    },
+    "website": "https://baric.ca/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Major Islamic Centre offering comprehensive community and prayer services.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified islamic center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 21,
+      "cid": "16390337013943620315",
+      "placeId": "ChIJQ8YEKa48K4gR29ILqawsduM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 197,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-24",
+    "sourceIndex": 23,
+    "name": "Brampton Jamatkhana",
+    "slug": "brampton-jamatkhana-brampton",
+    "address": {
+      "raw": "525 N Park Dr, Brampton, ON L6S 5X4, Canada",
+      "streetAddress": "525 N Park Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6S 5X4",
+        "normalized": "L6S 5X4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7270916,
+      "longitude": -79.7532999
+    },
+    "phone": {
+      "raw": "+1 905-450-8504",
+      "normalized": "+19054508504"
+    },
+    "website": null,
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 23,
+      "cid": "17263169926887417573",
+      "placeId": "ChIJabySEhcWK4gR5aZUlZUZk-8",
+      "rawCategoryName": "Community center",
+      "rawCategories": [
+        "Community center",
+        "Mosque",
+        "Place of worship"
+      ],
+      "rating": null,
+      "reviewsCount": 78,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-25",
+    "sourceIndex": 24,
+    "name": "Sheridan Student Musallah (RoomC323)",
+    "slug": "sheridan-student-musallah-roomc323-brampton",
+    "address": {
+      "raw": "Sheridan College Dr, Brampton, ON L6Y 5H9, Canada",
+      "streetAddress": "Sheridan College Dr",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6Y 5H9",
+        "normalized": "L6Y 5H9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6557895,
+      "longitude": -79.7395628
+    },
+    "phone": null,
+    "website": null,
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified musalla within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 24,
+      "cid": "17542194792260527502",
+      "placeId": "ChIJz9hATwA_K4gRjmVllThlcvM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-26",
+    "sourceIndex": 25,
+    "name": "Al Hassan Community Centre",
+    "slug": "al-hassan-community-centre-brampton",
+    "address": {
+      "raw": "11655 McVean Dr #13, Brampton, ON L6P 4N5, Canada",
+      "streetAddress": "11655 McVean Dr #13",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6P 4N5",
+        "normalized": "L6P 4N5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.8104265,
+      "longitude": -79.7350242
+    },
+    "phone": null,
+    "website": "https://alhassan.ca/",
+    "classification": "COMMUNITY_CENTER",
+    "classificationReason": "Community center or Jamatkhana facility hosting gatherings and prayers.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Verified community center within Brampton service area.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 25,
+      "cid": "10312178306064812873",
+      "placeId": "ChIJf7CDe50jK4gRSYt7eYg3HI8",
+      "rawCategoryName": "Community center",
+      "rawCategories": [
+        "Community center",
+        "Mosque",
+        "Musalla"
+      ],
+      "rating": null,
+      "reviewsCount": 11,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-1",
+    "sourceIndex": 0,
+    "name": "Islamic Forum Of Canada",
+    "slug": "islamic-forum-of-canada-brampton",
+    "address": {
+      "raw": "200 Advance Blvd, Brampton, ON L6T 4V4, Canada",
+      "streetAddress": "200 Advance Blvd",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6T 4V4",
+        "normalized": "L6T 4V4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6922594,
+      "longitude": -79.696228
+    },
+    "phone": {
+      "raw": "+1 905-790-8859",
+      "normalized": "+19057908859"
+    },
+    "website": "https://islamicforumonline.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 9 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified major Islamic Centre in Brampton.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 0,
+      "cid": "11737314575866747404",
+      "placeId": "ChIJK7-95mE-K4gRDFqNd2tR46I",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 154,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-21",
+    "sourceIndex": 20,
+    "name": "Ar-Rashaad Centre",
+    "slug": "ar-rashaad-centre-brampton",
+    "address": {
+      "raw": "18 Automatic Rd #2, Brampton, ON L6S 5N5, Canada",
+      "streetAddress": "18 Automatic Rd #2",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L6S 5N5",
+        "normalized": "L6S 5N5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.7580406,
+      "longitude": -79.7115969
+    },
+    "phone": {
+      "raw": "+1 905-595-1137",
+      "normalized": "+19055951137"
+    },
+    "website": "http://www.arrashaad.com/",
+    "classification": "ISLAMIC_CENTER",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6 AM to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified Islamic Centre with active prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 20,
+      "cid": "12067892630414715146",
+      "placeId": "ChIJpeUweRE9K4gRCmlsr2jEeac",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "Religious institution"
+      ],
+      "rating": null,
+      "reviewsCount": 237,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-brm-23",
+    "sourceIndex": 22,
+    "name": "IMAMBARGAH QASR-E-ZAINAB (a.s) Canada",
+    "slug": "imambargah-qasr-e-zainab-a-s-canada-brampton",
+    "address": {
+      "raw": "15 Fisherman Dr Unit#18 & 19, Brampton, ON L7A 1B7, Canada",
+      "streetAddress": "15 Fisherman Dr Unit#18 & 19",
+      "city": "Brampton",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L7A 1B7",
+        "normalized": "L7A 1B7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.713041,
+      "longitude": -79.8002259
+    },
+    "phone": {
+      "raw": "+1 416-270-1818",
+      "normalized": "+14162701818"
+    },
+    "website": "https://qasrezainab.com/",
+    "classification": "MOSQUE",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 3:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "2 to 3:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "PUBLISHED",
+    "publicationReason": "Phase 8 Audit Verified: Verified dedicated Imambargah worship venue.",
+    "provenance": {
+      "sourceFile": "brampton.json",
+      "sourceIndex": 22,
+      "cid": "12545461292677066446",
+      "placeId": "ChIJIQftc8kVK4gRzu5ttZNuGq4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 28,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

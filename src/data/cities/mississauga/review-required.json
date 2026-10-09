@@ -1,0 +1,1608 @@
+[
+  {
+    "id": "mosque-mis-12",
+    "sourceIndex": 11,
+    "name": "Muslim Association of Canada (MAC)",
+    "slug": "muslim-association-of-canada-mac-mississauga",
+    "address": {
+      "raw": "2380 Speakman Dr, Mississauga, ON L5K 1B4, Canada",
+      "streetAddress": "2380 Speakman Dr",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5K 1B4",
+        "normalized": "L5K 1B4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5189919,
+      "longitude": -79.658781
+    },
+    "phone": {
+      "raw": "+1 905-822-2626",
+      "normalized": "+19058222626"
+    },
+    "website": "http://www.macnet.ca/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 4 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 11,
+      "cid": "13332168852827030821",
+      "placeId": "ChIJPzTci4VDK4gRJUVITu9gBbk",
+      "rawCategoryName": "Non-profit organization",
+      "rawCategories": [
+        "Non-profit organization",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 95,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-14",
+    "sourceIndex": 13,
+    "name": "Jamia Islamia Canada",
+    "slug": "jamia-islamia-canada-mississauga",
+    "address": {
+      "raw": "2380 Tedlo St, Mississauga, ON L5A 3V3, Canada",
+      "streetAddress": "2380 Tedlo St",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5A 3V3",
+        "normalized": "L5A 3V3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.587335,
+      "longitude": -79.597608
+    },
+    "phone": {
+      "raw": "+1 905-279-3040",
+      "normalized": "+19052793040"
+    },
+    "website": "http://www.jamiaislamia.org/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:30 to 11 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 13,
+      "cid": "14130473289701013241",
+      "placeId": "ChIJ8cJtMKxHK4gR-TbGLJeGGcQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Elementary school",
+        "Place of worship",
+        "Religious institution",
+        "School"
+      ],
+      "rating": null,
+      "reviewsCount": 319,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-19",
+    "sourceIndex": 18,
+    "name": "Muslim Welfare Canada (Food Bank & Musalla)",
+    "slug": "muslim-welfare-canada-food-bank-and-musalla-mississauga",
+    "address": {
+      "raw": "3490 Mavis Rd, Mississauga, ON L5C 1T8, Canada",
+      "streetAddress": "3490 Mavis Rd",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5C 1T8",
+        "normalized": "L5C 1T8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5751829,
+      "longitude": -79.6466146
+    },
+    "phone": {
+      "raw": "+1 905-281-9730",
+      "normalized": "+19052819730"
+    },
+    "website": "https://www.muslimwelfarecentre.com/",
+    "classification": "MUSALLA",
+    "classificationReason": "Designated as a Musalla or prayer room rather than a full mosque building.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 5:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 12,
+        "targetTitle": "Muslim Welfare Center - Mussalah Al-Abbas",
+        "targetPlaceId": "ChIJ-617Q8xGK4gRrt2hFyuy8qw",
+        "reason": "Shared address with matching identity keywords (22%) or matching phone"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 18,
+      "cid": "10933006494590654147",
+      "placeId": "ChIJic2HQ8xGK4gRw1YdNXvXuZc",
+      "rawCategoryName": "Food bank",
+      "rawCategories": [
+        "Food bank",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 517,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-26",
+    "sourceIndex": 25,
+    "name": "ISNA Canada",
+    "slug": "isna-canada-mississauga",
+    "address": {
+      "raw": "2200 S Sheridan Way, Mississauga, ON L5J 2M4, Canada",
+      "streetAddress": "2200 S Sheridan Way",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5J 2M4",
+        "normalized": "L5J 2M4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.520475,
+      "longitude": -79.650684
+    },
+    "phone": {
+      "raw": "+1 905-403-8406",
+      "normalized": "+19054038406"
+    },
+    "website": "http://www.isnacanada.com/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 25,
+      "cid": "15040643466562648910",
+      "placeId": "ChIJ4bQKiYdDK4gRTjvESYsZu9A",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Certification agency",
+        "Community center",
+        "Counselor",
+        "Food bank",
+        "Funeral home",
+        "Gymnasium school",
+        "Marriage or relationship counselor",
+        "Non-profit organization",
+        "Religious organization"
+      ],
+      "rating": null,
+      "reviewsCount": 1162,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-27",
+    "sourceIndex": 26,
+    "name": "Muslim Neighbour Nexus",
+    "slug": "muslim-neighbour-nexus-mississauga",
+    "address": {
+      "raw": "3520 Odyssey Dr, Mississauga, ON L5M 7N4, Canada",
+      "streetAddress": "3520 Odyssey Dr",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5M 7N4",
+        "normalized": "L5M 7N4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5354423,
+      "longitude": -79.7231216
+    },
+    "phone": {
+      "raw": "(833) 666-3520",
+      "normalized": "+18336663520"
+    },
+    "website": "http://mnnexus.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 10:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": true,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 26,
+      "cid": "13900843581609161268",
+      "placeId": "ChIJy8SuegpDK4gRNDIVcJa36cA",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 1004,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-31",
+    "sourceIndex": 30,
+    "name": "Jummah Salah in Tawheed Community Centre",
+    "slug": "jummah-salah-in-tawheed-community-centre-mississauga",
+    "address": {
+      "raw": "Mississauga, ON L4Z 1N4, Canada",
+      "streetAddress": null,
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L4Z 1N4",
+        "normalized": "L4Z 1N4"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6262339,
+      "longitude": -79.6589493
+    },
+    "phone": {
+      "raw": "+1 905-712-8171",
+      "normalized": "+19057128171"
+    },
+    "website": "https://daraltawheed.ca/",
+    "classification": "JUMMAH_LOCATION",
+    "classificationReason": "Identified specifically as a Jummah / Friday prayer location.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "1 to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "POSSIBLE_DUPLICATE"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "POSSIBLE_DUPLICATE",
+        "targetIndex": 37,
+        "targetTitle": "Tawheed Community Centre",
+        "targetPlaceId": "ChIJw9Dpk1NBK4gRtMJVaM_10rA",
+        "reason": "Coordinates within 30m with matching identity keywords (50%)"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 30,
+      "cid": "5681287117083131107",
+      "placeId": "ChIJ29dSgj1BK4gR4zy-QIj8104",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 18,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-32",
+    "sourceIndex": 31,
+    "name": "Ali Islamic Mission",
+    "slug": "ali-islamic-mission-mississauga",
+    "address": {
+      "raw": "6625 Kitimat Rd #52-53, Mississauga, ON L5N 3T5, Canada",
+      "streetAddress": "6625 Kitimat Rd #52-53",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5N 3T5",
+        "normalized": "L5N 3T5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6021801,
+      "longitude": -79.7334802
+    },
+    "phone": {
+      "raw": "+1 289-848-1214",
+      "normalized": "+12898481214"
+    },
+    "website": "https://aimcentre.org/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": true,
+          "rawText": "Open 24 hours",
+          "periods": [
+            {
+              "openTime": "00:00",
+              "closeTime": "24:00"
+            }
+          ]
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 31,
+      "cid": "5917286737241337725",
+      "placeId": "ChIJF8L3yi5AK4gRfW9mt-9sHlI",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 161,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-33",
+    "sourceIndex": 32,
+    "name": "جامع قيد الانشاء",
+    "slug": "-mississauga",
+    "address": {
+      "raw": "6508 Winston Churchill Blvd, Mississauga, ON L5N 4B7, Canada",
+      "streetAddress": "6508 Winston Churchill Blvd",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5N 4B7",
+        "normalized": "L5N 4B7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5809206,
+      "longitude": -79.7617757
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 10,
+        "targetTitle": "Meadowvale Islamic Centre",
+        "targetPlaceId": "ChIJVcb3sNxrK4gR2O2qrln-hyA",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 32,
+      "cid": "1292862849163046772",
+      "placeId": "ChIJaZzmfQBrK4gRdK-pU-kr8RE",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 8,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-34",
+    "sourceIndex": 33,
+    "name": "IONA convention",
+    "slug": "iona-convention-mississauga",
+    "address": {
+      "raw": "5761 Coopers Ave, Mississauga, ON L4Z 0C5, Canada",
+      "streetAddress": "5761 Coopers Ave",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L4Z 0C5",
+        "normalized": "L4Z 0C5"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6323567,
+      "longitude": -79.6578554
+    },
+    "phone": null,
+    "website": null,
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_PHONE",
+      "MISSING_WEBSITE",
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION",
+      "SHARED_ADDRESS"
+    ],
+    "duplicateRelations": [
+      {
+        "type": "SHARED_LOCATION",
+        "targetIndex": 34,
+        "targetTitle": "Jame Masjid",
+        "targetPlaceId": "ChIJbflstFA_K4gRQsp2IP2xDJU",
+        "reason": "Distinct entities sharing physical building, address, or commercial plaza"
+      }
+    ],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 33,
+      "cid": "5494603778393583217",
+      "placeId": "ChIJ0YWTQAA_K4gRcS6rWAbBQEw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-36",
+    "sourceIndex": 35,
+    "name": "Al Huda Institute Canada",
+    "slug": "al-huda-institute-canada-mississauga",
+    "address": {
+      "raw": "5671 McAdam Rd, Mississauga, ON L4Z 1N9, Canada",
+      "streetAddress": "5671 McAdam Rd",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L4Z 1N9",
+        "normalized": "L4Z 1N9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6248808,
+      "longitude": -79.6659329
+    },
+    "phone": {
+      "raw": "+1 905-624-2030",
+      "normalized": "+19056242030"
+    },
+    "website": "https://alhudainstitute.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "9 AM to 3:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "10 AM to 2 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 35,
+      "cid": "12632570645057436213",
+      "placeId": "ChIJOcyBxKZAK4gRNfqsShLoT68",
+      "rawCategoryName": "Religious institution",
+      "rawCategories": [
+        "Religious institution",
+        "Book store",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 377,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-37",
+    "sourceIndex": 36,
+    "name": "Bab ul Ilm - Bani Hashim Society",
+    "slug": "bab-ul-ilm-bani-hashim-society-mississauga",
+    "address": {
+      "raw": "900 Eglinton Ave E, Mississauga, ON L4W 1K3, Canada",
+      "streetAddress": "900 Eglinton Ave E",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L4W 1K3",
+        "normalized": "L4W 1K3"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6250603,
+      "longitude": -79.6319791
+    },
+    "phone": {
+      "raw": "+1 905-212-1472",
+      "normalized": "+19052121472"
+    },
+    "website": "http://banihashim.org/",
+    "classification": "ORGANIZATION",
+    "classificationReason": "Identified as an Islamic association, society, madrasa, or administrative organization.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7:30 to 8:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "7:30 to 9 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12:15 to 1:45 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION",
+      "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Identified as an administrative association/organization without verified prayer sanctuary.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 36,
+      "cid": "3203829764051992861",
+      "placeId": "ChIJr1m6ra44K4gRHYEkHzJKdiw",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 165,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-39",
+    "sourceIndex": 38,
+    "name": "Rowdah Centre",
+    "slug": "rowdah-centre-mississauga",
+    "address": {
+      "raw": "6535 Millcreek Dr Unit # 61, Mississauga, ON L5N 2M2, Canada",
+      "streetAddress": "6535 Millcreek Dr Unit # 61",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5N 2M2",
+        "normalized": "L5N 2M2"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5919893,
+      "longitude": -79.7417823
+    },
+    "phone": {
+      "raw": "+1 647-705-5592",
+      "normalized": "+16477055592"
+    },
+    "website": "http://www.rowdahcentre.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "5 AM to 11:30 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 38,
+      "cid": "1395166887244700348",
+      "placeId": "ChIJ42u_wGNqK4gRvJqbXOSgXBM",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque",
+        "Community center",
+        "Social welfare center"
+      ],
+      "rating": null,
+      "reviewsCount": 346,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-40",
+    "sourceIndex": 39,
+    "name": "Jamia Riyadhul-Jannah",
+    "slug": "jamia-riyadhul-jannah-mississauga",
+    "address": {
+      "raw": "6680 Campobello Rd, Mississauga, ON L5N 2L8, Canada",
+      "streetAddress": "6680 Campobello Rd",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5N 2L8",
+        "normalized": "L5N 2L8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.6085265,
+      "longitude": -79.7334118
+    },
+    "phone": {
+      "raw": "+1 905-567-1786",
+      "normalized": "+19055671786"
+    },
+    "website": "http://www.jamiariyadhuljannah.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": null,
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_HOURS",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 39,
+      "cid": "3359357946583906641",
+      "placeId": "ChIJOyn6OiRAK4gRUfmE90DWni4",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 587,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-43",
+    "sourceIndex": 42,
+    "name": "NOOR UL QURAN CANADA",
+    "slug": "noor-ul-quran-canada-mississauga",
+    "address": {
+      "raw": "3154 Hurontario St, Mississauga, ON L5B 1N9, Canada",
+      "streetAddress": "3154 Hurontario St",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5B 1N9",
+        "normalized": "L5B 1N9"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5829543,
+      "longitude": -79.6212336
+    },
+    "phone": {
+      "raw": "+1 647-507-2747",
+      "normalized": "+16475072747"
+    },
+    "website": "http://noorulqurancanada.com/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "6:30 AM to 8 PM",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 42,
+      "cid": "10648573309737030109",
+      "placeId": "ChIJNZqNSQBHK4gR3dGUswFVx5M",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 52,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  },
+  {
+    "id": "mosque-mis-46",
+    "sourceIndex": 45,
+    "name": "Mississauga Muslim Community",
+    "slug": "mississauga-muslim-community-mississauga",
+    "address": {
+      "raw": "1275 Mississauga Vly Blvd, Mississauga, ON L5A 3R8, Canada",
+      "streetAddress": "1275 Mississauga Vly Blvd",
+      "city": "Mississauga",
+      "province": "ON",
+      "postalCode": {
+        "raw": "L5A 3R8",
+        "normalized": "L5A 3R8"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.5968774,
+      "longitude": -79.6238392
+    },
+    "phone": {
+      "raw": "+1 416-900-5660",
+      "normalized": "+14169005660"
+    },
+    "website": "https://mississaugamuslim.ca/",
+    "classification": "REVIEW_REQUIRED",
+    "classificationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "12 to 3 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": null,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "REVIEW_REQUIRED",
+    "publicationReason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators.",
+    "provenance": {
+      "sourceFile": "mississauga.json",
+      "sourceIndex": 45,
+      "cid": "9560707906502997934",
+      "placeId": "ChIJ034TbjRHK4gRrjdhqC91roQ",
+      "rawCategoryName": "Mosque",
+      "rawCategories": [
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": null,
+      "ingestedAt": "2026-10-08T00:00:00.000Z"
+    }
+  }
+]

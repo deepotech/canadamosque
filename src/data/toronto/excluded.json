@@ -1,0 +1,113 @@
+[
+  {
+    "id": "mosque-to-62",
+    "sourceIndex": 61,
+    "name": "CML HealthCare Inc.",
+    "slug": "cml-healthcare-inc-north-york",
+    "address": {
+      "raw": "491 Lawrence Ave W, North York, ON M5M 1C7, Canada",
+      "streetAddress": "491 Lawrence Ave W",
+      "city": "North York",
+      "province": "ON",
+      "postalCode": {
+        "raw": "M5M 1C7",
+        "normalized": "M5M 1C7"
+      },
+      "country": "CA"
+    },
+    "coordinates": {
+      "latitude": 43.719118,
+      "longitude": -79.4288352
+    },
+    "phone": {
+      "raw": "+1 416-781-9375",
+      "normalized": "+14167819375"
+    },
+    "website": null,
+    "classification": "EXCLUDE",
+    "classificationReason": "Classified as non-prayer medical or healthcare facility.",
+    "openingHours": {
+      "days": [
+        {
+          "day": "Monday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Tuesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Wednesday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Thursday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Friday",
+          "isClosed": false,
+          "isOpen24Hours": false,
+          "rawText": "8 AM to 5 PM",
+          "periods": []
+        },
+        {
+          "day": "Saturday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        },
+        {
+          "day": "Sunday",
+          "isClosed": true,
+          "isOpen24Hours": false,
+          "rawText": "Closed",
+          "periods": []
+        }
+      ],
+      "notes": null
+    },
+    "facilities": {
+      "wuduArea": null,
+      "womenPrayerSection": null,
+      "parkingAvailable": null,
+      "wheelchairAccessible": true,
+      "dailyPrayersHeld": null,
+      "notes": null
+    },
+    "qualityFlags": [
+      "MISSING_WEBSITE",
+      "MISSING_DESCRIPTION"
+    ],
+    "duplicateRelations": [],
+    "publicationStatus": "EXCLUDED",
+    "publicationReason": "Classified as non-prayer entity (e.g. medical, commercial, or non-Islamic facility).",
+    "provenance": {
+      "sourceFile": "toronto.json",
+      "sourceIndex": 61,
+      "cid": "3722807123432646474",
+      "placeId": "ChIJy8JlOqszK4gRSid_v1oRqjM",
+      "rawCategoryName": "Medical Center",
+      "rawCategories": [
+        "Medical Center",
+        "Mosque"
+      ],
+      "rating": null,
+      "reviewsCount": 2,
+      "ingestedAt": "2026-10-06T20:30:00.000Z"
+    }
+  }
+]

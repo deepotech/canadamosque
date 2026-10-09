@@ -1,0 +1,419 @@
+{
+  "totalRawRecords": 51,
+  "publishedCount": 25,
+  "reviewRequiredCount": 26,
+  "excludedCount": 0,
+  "classificationCounts": {
+    "MOSQUE": 18,
+    "ISLAMIC_CENTER": 5,
+    "MUSALLA": 3,
+    "PRAYER_ROOM": 0,
+    "JUMMAH_LOCATION": 0,
+    "COMMUNITY_CENTER": 3,
+    "ORGANIZATION": 8,
+    "REVIEW_REQUIRED": 14,
+    "EXCLUDE": 0
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 25,
+    "REVIEW_REQUIRED": 26,
+    "EXCLUDED": 0
+  },
+  "geographyDistribution": {
+    "Ottawa": 30,
+    "Edwards": 1,
+    "Orléans": 4,
+    "Gloucester": 4,
+    "Kanata": 1,
+    "Stittsville": 1,
+    "Nepean": 8,
+    "Richmond": 1,
+    "Cumberland": 1
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 13,
+    "MISSING_WEBSITE": 10,
+    "MISSING_HOURS": 21,
+    "MISSING_DESCRIPTION": 51,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 1,
+    "POSSIBLE_DUPLICATE": 5,
+    "SHARED_ADDRESS": 8,
+    "POSSIBLE_CLOSED_LOCATION": 0,
+    "POSSIBLE_MOVED_LOCATION": 0,
+    "POSSIBLE_NOT_A_MOSQUE": 0,
+    "CONTRADICTORY_INFORMATION": 0,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 8,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 3
+  },
+  "missingFields": {
+    "missingPhone": 13,
+    "missingWebsite": 10,
+    "missingHours": 21,
+    "missingDescription": 51
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 4,
+    "sharedLocations": 4
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 0,
+      "id": "mosque-ott-1",
+      "name": "AMA Community Centre",
+      "address": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "city": "Ottawa",
+      "classification": "COMMUNITY_CENTER",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 2,
+      "id": "mosque-ott-3",
+      "name": "Ottawa Muslim Association",
+      "address": "251 Northwestern Ave, Ottawa, ON K1A 0K9, Canada",
+      "city": "Ottawa",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 3,
+      "id": "mosque-ott-4",
+      "name": "Masjid Ar-Rahmah",
+      "address": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "city": "Ottawa",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 7,
+      "id": "mosque-ott-8",
+      "name": "Ottawa Uyghur Center",
+      "address": "3555 St Joseph Blvd, Orléans, ON K4A 0Z7, Canada",
+      "city": "Orléans",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 8,
+      "id": "mosque-ott-9",
+      "name": "Darul Arqum , Markaz of Ottawa",
+      "address": "4269 Limebank Rd, Gloucester, ON K1V 1G5, Canada",
+      "city": "Gloucester",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 9,
+      "id": "mosque-ott-10",
+      "name": "OSMCC",
+      "address": "5358 Bank St Unit b, Gloucester, ON K1X 1H1, Canada",
+      "city": "Gloucester",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 10,
+      "id": "mosque-ott-11",
+      "name": "Kanata Muslim Association",
+      "address": "351 Sandhill Rd, Kanata, ON K2K 0P6, Canada",
+      "city": "Kanata",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 11,
+      "id": "mosque-ott-12",
+      "name": "Stittsville Muslims Association",
+      "address": "1469 Stittsville Main St, Stittsville, ON K2S 1E3, Canada",
+      "city": "Stittsville",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 12,
+      "id": "mosque-ott-13",
+      "name": "Islamic Society of Sandy Hill",
+      "address": "117 Mann Ave, Ottawa, ON K1N 5A4, Canada",
+      "city": "Ottawa",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 15,
+      "id": "mosque-ott-16",
+      "name": "Darul Ummah",
+      "address": "7311 Bank St, Ottawa, ON K0A 2P0, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 18,
+      "id": "mosque-ott-19",
+      "name": "Richmond Islamic Community Ottawa",
+      "address": "6179 Perth St Unit 30, Richmond, ON K0A 2Z0, Canada",
+      "city": "Richmond",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 26,
+      "id": "mosque-ott-27",
+      "name": "Ottawa Multifaith Room",
+      "address": "University of Ottawa, 121 University Private, Ottawa, ON K1N 1H3, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 27,
+      "id": "mosque-ott-28",
+      "name": "Clinton",
+      "address": "900 York Mills Dr, Orléans, ON K4A 2P1, Canada",
+      "city": "Orléans",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 28,
+      "id": "mosque-ott-29",
+      "name": "IslamicReminders1500",
+      "address": "33 Eleanor Dr, Ottawa, ON K2E 5Z8, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 30,
+      "id": "mosque-ott-31",
+      "name": "Masjid",
+      "address": "Ottawa, ON K1T 1W4, Canada",
+      "city": "Ottawa",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "GENERIC_NAME"
+      ],
+      "reason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+    },
+    {
+      "sourceIndex": 31,
+      "id": "mosque-ott-32",
+      "name": "Imam ash-Shafii Centre (ISC)",
+      "address": "1792 Bank St, Ottawa, ON K1V 7Y6, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 32,
+      "id": "mosque-ott-33",
+      "name": "Taqwa mosque",
+      "address": "117 Mann Ave, Ottawa, ON K1N 5A4, Canada",
+      "city": "Ottawa",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 37,
+      "id": "mosque-ott-38",
+      "name": "The Islamic Society of Gloucester",
+      "address": "1627 Maxime St, Gloucester, ON K1B 3K8, Canada",
+      "city": "Gloucester",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 38,
+      "id": "mosque-ott-39",
+      "name": "Assunnah Muslims Association",
+      "address": "1216 Hunt Club Rd, Ottawa, ON K1V 2P1, Canada",
+      "city": "Ottawa",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 43,
+      "id": "mosque-ott-44",
+      "name": "Markaz At-Tawheed Ottawa",
+      "address": "2835 Dumaurier Ave., Ottawa, ON K2B 7W3, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 44,
+      "id": "mosque-ott-45",
+      "name": "Ibn-Rushd Canadian Islamic Cultural Society",
+      "address": "1950 Merivale Rd Ste 200, Nepean, ON K2G 0B7, Canada",
+      "city": "Nepean",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 45,
+      "id": "mosque-ott-46",
+      "name": "MAC Youth Centre",
+      "address": "1085 Grenon Ave, Ottawa, ON K2B 8N1, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 47,
+      "id": "mosque-ott-48",
+      "name": "Muslim Association of Canada - Ottawa Chapter",
+      "address": "1085 Grenon Ave, Ottawa, ON K2B 8L7, Canada",
+      "city": "Ottawa",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 48,
+      "id": "mosque-ott-49",
+      "name": "ISIA Centre",
+      "address": "3865 Old Richmond Rd, Nepean, ON K2H 5C1, Canada",
+      "city": "Nepean",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 49,
+      "id": "mosque-ott-50",
+      "name": "ABFA",
+      "address": "2575 Bond St, Ottawa, ON K2B 7C3, Canada",
+      "city": "Ottawa",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 50,
+      "id": "mosque-ott-51",
+      "name": "ISIA Ottawa",
+      "address": "3856 Old Richmond Rd, Nepean, ON K2H 5C4, Canada",
+      "city": "Nepean",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    }
+  ],
+  "excludedRecords": []
+}

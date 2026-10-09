@@ -1,0 +1,840 @@
+{
+  "totalRawRecords": 153,
+  "publishedCount": 96,
+  "reviewRequiredCount": 56,
+  "excludedCount": 1,
+  "classificationCounts": {
+    "MOSQUE": 59,
+    "ISLAMIC_CENTER": 22,
+    "MUSALLA": 18,
+    "PRAYER_ROOM": 2,
+    "JUMMAH_LOCATION": 4,
+    "COMMUNITY_CENTER": 7,
+    "ORGANIZATION": 19,
+    "REVIEW_REQUIRED": 21,
+    "EXCLUDE": 1
+  },
+  "publicationStatusCounts": {
+    "PUBLISHED": 96,
+    "REVIEW_REQUIRED": 56,
+    "EXCLUDED": 1
+  },
+  "geographyDistribution": {
+    "Etobicoke": 16,
+    "Toronto": 31,
+    "North York": 34,
+    "Scarborough": 51,
+    "York": 12,
+    "Markham": 1,
+    "East York": 8
+  },
+  "qualityFlagCounts": {
+    "MISSING_PHONE": 35,
+    "MISSING_WEBSITE": 32,
+    "MISSING_HOURS": 46,
+    "MISSING_DESCRIPTION": 153,
+    "INVALID_COORDINATES": 0,
+    "OUTSIDE_CANADA": 0,
+    "OUTSIDE_TORONTO_PILOT_AREA": 0,
+    "OUTSIDE_CITY_BOUNDS": 0,
+    "PROVINCE_MISMATCH": 0,
+    "GENERIC_NAME": 3,
+    "POSSIBLE_DUPLICATE": 10,
+    "SHARED_ADDRESS": 21,
+    "POSSIBLE_CLOSED_LOCATION": 2,
+    "POSSIBLE_MOVED_LOCATION": 1,
+    "POSSIBLE_NOT_A_MOSQUE": 3,
+    "CONTRADICTORY_INFORMATION": 1,
+    "ORGANIZATION_WITHOUT_PRAYER_LOCATION": 19,
+    "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE": 20
+  },
+  "missingFields": {
+    "missingPhone": 35,
+    "missingWebsite": 32,
+    "missingHours": 46,
+    "missingDescription": 153
+  },
+  "duplicatesSummary": {
+    "exactDuplicates": 0,
+    "possibleDuplicates": 5,
+    "sharedLocations": 11
+  },
+  "reviewRequiredRecords": [
+    {
+      "sourceIndex": 4,
+      "id": "mosque-to-5",
+      "name": "Bosnian Islamic Assoc Gazi Husrev-Beg",
+      "address": "122 N Queen St, Etobicoke, ON M8Z 2E4, Canada",
+      "city": "Etobicoke",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 8,
+      "id": "mosque-to-9",
+      "name": "George Brown - Multi Faith Room (Room 361)",
+      "address": "3 Lower Jarvis St, Toronto, ON M5E 3Y5, Canada",
+      "city": "Toronto",
+      "classification": "PRAYER_ROOM",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+      ],
+      "reason": "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+    },
+    {
+      "sourceIndex": 9,
+      "id": "mosque-to-10",
+      "name": "Toronto and Region Islamic Congregation",
+      "address": "99 Beverly Hills Dr, North York, ON M3L 1A2, Canada",
+      "city": "North York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 11,
+      "id": "mosque-to-12",
+      "name": "North York Muslim Association",
+      "address": "Concourse Level, North York Center, 5150 Yonge St Unit C37, North York, ON M2N 6L8, Canada",
+      "city": "North York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 17,
+      "id": "mosque-to-18",
+      "name": "Abu Huraira Centre",
+      "address": "270 Yorkland Blvd, North York, ON M2J 5C9, Canada",
+      "city": "North York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 18,
+      "id": "mosque-to-19",
+      "name": "Islamic Information & Dawah Centre International",
+      "address": "1168 Bloor St W, Toronto, ON M6H 1N2, Canada",
+      "city": "Toronto",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 20,
+      "id": "mosque-to-21",
+      "name": "Turkish Canadian Islamic Trust",
+      "address": "336 Pape Ave, Toronto, ON M4M 2W7, Canada",
+      "city": "Toronto",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 29,
+      "id": "mosque-to-30",
+      "name": "Ubai Bin Kab Academy of Islamic Sciences",
+      "address": "1160 Tapscott Rd Unit 2-3, Scarborough, ON M1X 1E9, Canada",
+      "city": "Scarborough",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 30,
+      "id": "mosque-to-31",
+      "name": "Masjidur Rahmah",
+      "address": "328 Parliament St, Toronto, ON M5A 2Z7, Canada",
+      "city": "Toronto",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 33,
+      "id": "mosque-to-34",
+      "name": "Musallah Student Union",
+      "address": "Scarborough, ON M1C 1A3, Canada",
+      "city": "Scarborough",
+      "classification": "PRAYER_ROOM",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+      ],
+      "reason": "Campus or institutional multi-faith room requiring manual verification of public accessibility."
+    },
+    {
+      "sourceIndex": 39,
+      "id": "mosque-to-40",
+      "name": "Bab E Zahra s.a.",
+      "address": "2370 Midland Ave a32, Scarborough, ON M1S 5C6, Canada",
+      "city": "Scarborough",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 42,
+      "id": "mosque-to-43",
+      "name": "Daleel Islamic Association",
+      "address": "6 Collinsgrove Rd, Scarborough, ON M1E 2P1, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 43,
+      "id": "mosque-to-44",
+      "name": "Spiritual Society Canada inc.",
+      "address": "4 Old Kingston Rd, Scarborough, ON M1E 3J5, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 44,
+      "id": "mosque-to-45",
+      "name": "Milliken Muslim Community (Masjid/Mosque)",
+      "address": "5000 Steeles Ave E, Markham, ON L3S 1V6, Canada",
+      "city": "Markham",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_NOT_A_MOSQUE"
+      ],
+      "reason": "User reviews or source evidence suggest this location is not an active mosque."
+    },
+    {
+      "sourceIndex": 53,
+      "id": "mosque-to-54",
+      "name": "Islamic Foundation of Toronto",
+      "address": "441 Nugget Ave, Scarborough, ON M1S 5E1, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 54,
+      "id": "mosque-to-55",
+      "name": "Ruggeri bakery",
+      "address": "324 Rustic Rd, North York, ON M6L 1W5, Canada",
+      "city": "North York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 57,
+      "id": "mosque-to-58",
+      "name": "Islamic Institute of Toronto (IIT)",
+      "address": "1630 Neilson Rd, Scarborough, ON M1X 1S3, Canada",
+      "city": "Scarborough",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 60,
+      "id": "mosque-to-61",
+      "name": "Hadi Islamic Association",
+      "address": "40 S Station St, York, ON M9N 2B3, Canada",
+      "city": "York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 62,
+      "id": "mosque-to-63",
+      "name": "International Muslims Organization",
+      "address": "65 Rexdale Blvd, Etobicoke, ON M9W 1P1, Canada",
+      "city": "Etobicoke",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 63,
+      "id": "mosque-to-64",
+      "name": "Faizan-e-Madina Canada",
+      "address": "595 Albion Rd, Etobicoke, ON M9V 1A1, Canada",
+      "city": "Etobicoke",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 66,
+      "id": "mosque-to-67",
+      "name": "Miqa Foundation",
+      "address": "12 Thorncliffe Park Dr, East York, ON M4H 1N8, Canada",
+      "city": "East York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 67,
+      "id": "mosque-to-68",
+      "name": "Claude Legros Sales Inc",
+      "address": "89 Ingram Dr, North York, ON M6M 2L7, Canada",
+      "city": "North York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 69,
+      "id": "mosque-to-70",
+      "name": "Hilal Committee of Metropolitan Toronto & Vicinity",
+      "address": "1015 Danforth Ave, Toronto, ON M4J 1M1, Canada",
+      "city": "Toronto",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 75,
+      "id": "mosque-to-76",
+      "name": "Masjid al Furqan",
+      "address": "874 Weston Rd a, York, ON M6N 3R6, Canada",
+      "city": "York",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 78,
+      "id": "mosque-to-79",
+      "name": "TROID",
+      "address": "874-A Weston Rd, York, ON M6N 3R6, Canada",
+      "city": "York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 81,
+      "id": "mosque-to-82",
+      "name": "Muslim Prayer Room",
+      "address": "2075 Bayview Avenue ECG 05, North York, ON M4N 3M5, Canada",
+      "city": "North York",
+      "classification": "MUSALLA",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "GENERIC_NAME",
+        "POSSIBLE_CLOSED_LOCATION",
+        "POSSIBLE_NOT_A_MOSQUE",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE"
+      ],
+      "reason": "User reviews or source evidence suggest this location is not an active mosque."
+    },
+    {
+      "sourceIndex": 82,
+      "id": "mosque-to-83",
+      "name": "Jamaat of Ontario",
+      "address": "110 Fairbank Ave, York, ON M6E 3Z1, Canada",
+      "city": "York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 84,
+      "id": "mosque-to-85",
+      "name": "Toryork Islamic Centre (OAAIIL)",
+      "address": "175 Toryork Dr #54, North York, ON M9L 2Y7, Canada",
+      "city": "North York",
+      "classification": "ISLAMIC_CENTER",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_NOT_A_MOSQUE"
+      ],
+      "reason": "User reviews or source evidence suggest this location is not an active mosque."
+    },
+    {
+      "sourceIndex": 91,
+      "id": "mosque-to-92",
+      "name": "Mesjid Al Sabur",
+      "address": "4081 Dufferin St, North York, ON M3H 5R8, Canada",
+      "city": "North York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 92,
+      "id": "mosque-to-93",
+      "name": "Talimul Islam Masjid",
+      "address": "86 Rivalda Rd, North York, ON M9M 2M8, Canada",
+      "city": "North York",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "CONTRADICTORY_INFORMATION"
+      ],
+      "reason": "Contradictory categories or metadata found in raw source."
+    },
+    {
+      "sourceIndex": 95,
+      "id": "mosque-to-96",
+      "name": "Jannatul Ferdous Mosque",
+      "address": "1701 Martin Grove Rd #11, Etobicoke, ON M9V 5G1, Canada",
+      "city": "Etobicoke",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_CLOSED_LOCATION"
+      ],
+      "reason": "Review reports indicate location is permanently locked, shut, or no longer operational."
+    },
+    {
+      "sourceIndex": 96,
+      "id": "mosque-to-97",
+      "name": "Canadian Islamic Civic Academy (CICA)",
+      "address": "1753 Albion Rd #21, Etobicoke, ON M9V 1C3, Canada",
+      "city": "Etobicoke",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 97,
+      "id": "mosque-to-98",
+      "name": "Weston Islamic Benevolence Society",
+      "address": "172 Milvan Dr, North York, ON M9L 1Z8, Canada",
+      "city": "North York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 98,
+      "id": "mosque-to-99",
+      "name": "United Canadian Muslim",
+      "address": "184 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+      "city": "Toronto",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 99,
+      "id": "mosque-to-100",
+      "name": "Masjid",
+      "address": "747 Don Mills Rd., North York, ON M3C, Canada",
+      "city": "North York",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "GENERIC_NAME"
+      ],
+      "reason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+    },
+    {
+      "sourceIndex": 101,
+      "id": "mosque-to-102",
+      "name": "Fatih Mosque - UCMA Head Office",
+      "address": "182 Rhodes Ave, Toronto, ON M4L 3A1, Canada",
+      "city": "Toronto",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 102,
+      "id": "mosque-to-103",
+      "name": "Mushallah darusalam",
+      "address": "2630 Kipling Ave, Etobicoke, ON M9V 4B9, Canada",
+      "city": "Etobicoke",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 106,
+      "id": "mosque-to-107",
+      "name": "Khalid Youth Program",
+      "address": "16 Bethridge Rd, Etobicoke, ON M9W 1N1, Canada",
+      "city": "Etobicoke",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 107,
+      "id": "mosque-to-108",
+      "name": "United Muslim Association",
+      "address": "130 Westmore Dr, Etobicoke, ON M9V 3Y6, Canada",
+      "city": "Etobicoke",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 110,
+      "id": "mosque-to-111",
+      "name": "Nigerian Canadian Muslim Association",
+      "address": "190 Milvan Dr Unit 7, North York, ON M9L 1Z9, Canada",
+      "city": "North York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 112,
+      "id": "mosque-to-113",
+      "name": "Agincourt Muslim Association",
+      "address": "3609B Sheppard Ave E, Scarborough, ON M1T 3K8, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 115,
+      "id": "mosque-to-116",
+      "name": "Al-Madrasathul Ihsaniyyah Madrasa",
+      "address": "463 Gerrard St E, Toronto, ON M5A 2H1, Canada",
+      "city": "Toronto",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 118,
+      "id": "mosque-to-119",
+      "name": "Salaheddin Islamic Centre",
+      "address": "741 Kennedy Rd, Scarborough, ON M1K 2C6, Canada",
+      "city": "Scarborough",
+      "classification": "ISLAMIC_CENTER",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 119,
+      "id": "mosque-to-120",
+      "name": "Khalid Bin Al-Walid Mosque",
+      "address": "16 Bethridge Rd, Etobicoke, ON M9W 1N1, Canada",
+      "city": "Etobicoke",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 120,
+      "id": "mosque-to-121",
+      "name": "Islamic Iranian Centre of Imam Ali",
+      "address": "120 Bermondsey Rd, North York, ON M4A 1X5, Canada",
+      "city": "North York",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 124,
+      "id": "mosque-to-125",
+      "name": "Quraan and Hadeeth Society of Canada",
+      "address": "2183A Lawrence Ave E, Scarborough, ON M1P 2P8, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_WEBSITE",
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 126,
+      "id": "mosque-to-127",
+      "name": "Afghan Canadian Islamic Community",
+      "address": "22 Hobson Ave, North York, ON M4A 1Y2, Canada",
+      "city": "North York",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 133,
+      "id": "mosque-to-134",
+      "name": "Masjid Abu Bakr",
+      "address": "2665 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+      "city": "Scarborough",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 135,
+      "id": "mosque-to-136",
+      "name": "NAMF",
+      "address": "4168 Finch Ave E, Scarborough, ON M1S 5H6, Canada",
+      "city": "Scarborough",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 136,
+      "id": "mosque-to-137",
+      "name": "Abdullah Ibn Abbas Islamic Centre",
+      "address": "2624 Danforth Ave, Toronto, ON M4C 1L7, Canada",
+      "city": "Toronto",
+      "classification": "ISLAMIC_CENTER",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_MOVED_LOCATION"
+      ],
+      "reason": "Evidence indicates this facility has relocated to another address."
+    },
+    {
+      "sourceIndex": 138,
+      "id": "mosque-to-139",
+      "name": "Baitul Mukarram Islamic Society",
+      "address": "3340 Danforth Ave, Scarborough, ON M1L 1C6, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    },
+    {
+      "sourceIndex": 142,
+      "id": "mosque-to-143",
+      "name": "Masjid Salaheddin",
+      "address": "741 Kennedy Rd, Scarborough, ON M1K 2C6, Canada",
+      "city": "Scarborough",
+      "classification": "MOSQUE",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 143,
+      "id": "mosque-to-144",
+      "name": "The Sunatul Jamaat of Ontario Canada",
+      "address": "347 Danforth Rd, Scarborough, ON M1L 3X8, Canada",
+      "city": "Scarborough",
+      "classification": "REVIEW_REQUIRED",
+      "flags": [
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION"
+      ],
+      "reason": "Tagged with category Mosque but title lacks explicit mosque/masjid indicators."
+    },
+    {
+      "sourceIndex": 145,
+      "id": "mosque-to-146",
+      "name": "Musallah",
+      "address": "1145 Morningside Ave #40, Scarborough, ON M1B 0A7, Canada",
+      "city": "Scarborough",
+      "classification": "MUSALLA",
+      "flags": [
+        "MISSING_PHONE",
+        "MISSING_WEBSITE",
+        "MISSING_HOURS",
+        "MISSING_DESCRIPTION",
+        "GENERIC_NAME",
+        "PRAYER_LOCATION_WITHOUT_FULL_MOSQUE_EVIDENCE",
+        "SHARED_ADDRESS"
+      ],
+      "reason": "Generic title (e.g. 'Masjid') without clear organizational disambiguation."
+    },
+    {
+      "sourceIndex": 146,
+      "id": "mosque-to-147",
+      "name": "Scarborough Muslim Association - Jame Abu Bakr Siddique Masjid",
+      "address": "2665 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION",
+        "POSSIBLE_DUPLICATE"
+      ],
+      "reason": "Candidate duplicate detected sharing address/coordinates with high similarity to another record."
+    },
+    {
+      "sourceIndex": 148,
+      "id": "mosque-to-149",
+      "name": "Al-Huda Muslim Society",
+      "address": "975 Kennedy Rd, Scarborough, ON M1P 2K5, Canada",
+      "city": "Scarborough",
+      "classification": "ORGANIZATION",
+      "flags": [
+        "MISSING_DESCRIPTION",
+        "ORGANIZATION_WITHOUT_PRAYER_LOCATION"
+      ],
+      "reason": "Identified as an administrative association/organization without verified prayer sanctuary."
+    }
+  ],
+  "excludedRecords": [
+    {
+      "sourceIndex": 61,
+      "id": "mosque-to-62",
+      "name": "CML HealthCare Inc.",
+      "address": "491 Lawrence Ave W, North York, ON M5M 1C7, Canada",
+      "classification": "EXCLUDE",
+      "reason": "Classified as non-prayer entity (e.g. medical, commercial, or non-Islamic facility)."
+    }
+  ]
+}
