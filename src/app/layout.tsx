@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Script from "next/script";
 import "./globals.css";
 import { constructMetadata } from "@/domain/seo/metadata";
 import { generateWebSiteJsonLd } from "@/domain/seo/schema";
@@ -37,6 +38,22 @@ export default function RootLayout({
         />
       </head>
       <body className="flex min-h-full flex-col bg-[#fbfcfb] text-stone-900 selection:bg-emerald-100 selection:text-emerald-900">
+        <Script
+          strategy="afterInteractive"
+          src="https://www.googletagmanager.com/gtag/js?id=G-46P0Y5V0V2"
+        />
+        <Script
+          id="google-analytics"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-46P0Y5V0V2');
+            `,
+          }}
+        />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
