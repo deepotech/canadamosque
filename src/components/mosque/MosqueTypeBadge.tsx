@@ -36,7 +36,7 @@ export function MosqueTypeBadge({
           aria-hidden="true"
         />
       )}
-      <span>{displayName}</span>
+      {displayName}
     </span>
   );
 }

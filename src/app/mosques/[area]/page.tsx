@@ -12,6 +12,7 @@ import {
   filterMosquesByArea,
 } from "@/domain/geo/area-slugs";
 import { MosqueCard } from "@/components/finder/MosqueCard";
+import { toMosqueCardItem } from "@/domain/mosque/card-model";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { getProvinceByCode } from "@/domain/seo/province-city-seo";
 
@@ -176,7 +177,7 @@ export default async function AreaMosquesPage({ params }: { params: Promise<{ ar
             {areaMosques.map((mosque) => (
               <MosqueCard
                 key={mosque.id}
-                mosque={mosque}
+                mosque={toMosqueCardItem(mosque)}
                 hasVerifiedIqamah={verifiedIqamahMosqueIds.has(mosque.id)}
                 hasVerifiedJummah={verifiedJummahMosqueIds.has(mosque.id)}
               />

@@ -12,6 +12,7 @@ import {
 import { generateProvinceCollectionJsonLd } from "@/domain/seo/schema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { MosqueCard } from "@/components/finder/MosqueCard";
+import { toMosqueCardItem } from "@/domain/mosque/card-model";
 import { defaultScheduleRepository } from "@/domain/schedule/repository";
 import { CANADIAN_CITIES } from "@/domain/city/city-config";
 
@@ -154,7 +155,7 @@ export default async function ProvinceLandingPage({ params }: ProvincePageProps)
             {mosques.map((m) => (
               <MosqueCard
                 key={m.id}
-                mosque={m}
+                mosque={toMosqueCardItem(m)}
                 hasVerifiedIqamah={verifiedIqamahIds.has(m.id)}
                 hasVerifiedJummah={verifiedJummahIds.has(m.id)}
               />

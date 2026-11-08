@@ -12,6 +12,7 @@ import {
 import { generateCityCollectionJsonLd } from "@/domain/seo/schema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 import { MosqueCard } from "@/components/finder/MosqueCard";
+import { toMosqueCardItem } from "@/domain/mosque/card-model";
 import { defaultScheduleRepository } from "@/domain/schedule/repository";
 import {
   SUPPORTED_CITY_SLUGS,
@@ -157,7 +158,7 @@ export default async function CityLandingPage({ params }: CityPageProps) {
             {mosques.map((m) => (
               <MosqueCard
                 key={m.id}
-                mosque={m}
+                mosque={toMosqueCardItem(m)}
                 hasVerifiedIqamah={verifiedIqamahIds.has(m.id)}
                 hasVerifiedJummah={verifiedJummahIds.has(m.id)}
               />
