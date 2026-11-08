@@ -24,17 +24,60 @@ export function Footer() {
 
           <div>
             <h4 className="text-xs font-semibold uppercase tracking-wider text-stone-900">
+              Provinces & Cities
+            </h4>
+            <ul className="mt-3 space-y-2 text-xs">
+              <li>
+                <Link href="/provinces" className="hover:text-emerald-800 transition">
+                  All Canadian Provinces
+                </Link>
+              </li>
+              <li>
+                <Link href="/cities/toronto" className="hover:text-emerald-800 transition">
+                  Toronto Mosques
+                </Link>
+              </li>
+              <li>
+                <Link href="/cities/montreal" className="hover:text-emerald-800 transition">
+                  Montreal Mosques
+                </Link>
+              </li>
+              <li>
+                <Link href="/cities/calgary" className="hover:text-emerald-800 transition">
+                  Calgary Mosques
+                </Link>
+              </li>
+              <li>
+                <Link href="/cities/edmonton" className="hover:text-emerald-800 transition">
+                  Edmonton Mosques
+                </Link>
+              </li>
+              <li>
+                <Link href="/cities/vancouver" className="hover:text-emerald-800 transition">
+                  Vancouver Mosques
+                </Link>
+              </li>
+            </ul>
+          </div>
+
+          <div>
+            <h4 className="text-xs font-semibold uppercase tracking-wider text-stone-900">
               Discovery & Utility
             </h4>
             <ul className="mt-3 space-y-2 text-xs">
               <li>
+                <Link href="/mosque-near-me" className="hover:text-emerald-800 transition font-medium text-emerald-800">
+                  Mosque Near Me (GPS)
+                </Link>
+              </li>
+              <li>
                 <Link href="/mosques" className="hover:text-emerald-800 transition">
-                  Browse Mosques
+                  Browse All Mosques
                 </Link>
               </li>
               <li>
                 <Link href="/prayer-times" className="hover:text-emerald-800 transition">
-                  Prayer Times
+                  Daily Prayer Times
                 </Link>
               </li>
               <li>

@@ -32,6 +32,12 @@ export function Header() {
               Find Mosques
             </Link>
             <Link
+              href="/provinces"
+              className="hover:text-emerald-800 transition"
+            >
+              Provinces
+            </Link>
+            <Link
               href="/prayer-times"
               className="hover:text-emerald-800 transition"
             >

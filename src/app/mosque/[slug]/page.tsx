@@ -20,6 +20,7 @@ import {
 } from "@/domain/seo/schema";
 import { getClassificationDisplayName } from "@/domain/mosque/classification-display";
 import { getCityConfigByName } from "@/domain/city/city-config";
+import { getProvinceByCode } from "@/domain/seo/province-city-seo";
 import { getAreaBySlug } from "@/domain/geo/area-slugs";
 import { defaultPrayerTimeEngine } from "@/domain/prayer/engine";
 import { calculateEstimatedIqamah } from "@/domain/estimated-iqamah/engine";
@@ -133,9 +134,10 @@ export default async function MosqueProfilePage({ params }: ProfilePageProps) {
   const typeName = getClassificationDisplayName(mosque.classification);
   const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${mosque.coordinates.latitude},${mosque.coordinates.longitude}`;
 
-  // City routing — uses canonical city config with known-municipalities matching
+  // Province & City routing
+  const provConfig = getProvinceByCode(mosque.province);
   const cityConfig = getCityConfigByName(mosque.city);
-  const cityBrowseUrl = cityConfig?.canonicalMosqueRoute || "/mosques";
+  const cityBrowseUrl = cityConfig ? `/cities/${cityConfig.slug}` : "/mosques";
   const cityPrayerUrl = cityConfig?.canonicalPrayerRoute || "/prayer-times";
   const cityDisplayName = cityConfig?.name || mosque.city;
 
@@ -154,17 +156,19 @@ export default async function MosqueProfilePage({ params }: ProfilePageProps) {
     cityBrowseLabel = "Browse all mosques";
   }
 
-  // Build breadcrumb — include city for metropolises, or Toronto for boroughs
-  const breadcrumbCityName = isTorontoBorough ? "Toronto" : cityDisplayName;
-  const breadcrumbCityUrl = isTorontoBorough ? "/mosques/toronto" : cityBrowseUrl;
+  // Build hierarchical breadcrumbs: Home -> Provinces -> Province -> City -> Mosque
+  const breadcrumbItems = [
+    { name: "Home", item: "/" },
+    { name: "Provinces", item: "/provinces" },
+    ...(provConfig
+      ? [{ name: provConfig.name, item: `/provinces/${provConfig.slug}` }]
+      : []),
+    { name: cityDisplayName, item: cityBrowseUrl },
+    { name: mosque.name, item: `/mosque/${mosque.slug}` },
+  ];
 
   const jsonLdMosque = generateMosqueJsonLd(mosque);
-  const jsonLdBreadcrumb = generateBreadcrumbJsonLd([
-    { name: "Home", item: "/" },
-    { name: "Mosques", item: "/mosques" },
-    { name: breadcrumbCityName, item: breadcrumbCityUrl },
-    { name: mosque.name, item: `/mosque/${mosque.slug}` },
-  ]);
+  const jsonLdBreadcrumb = generateBreadcrumbJsonLd(breadcrumbItems);
 
   return (
     <>
@@ -183,24 +187,16 @@ export default async function MosqueProfilePage({ params }: ProfilePageProps) {
           {/* Breadcrumbs */}
           <nav aria-label="Breadcrumb" className="mb-6">
             <ol className="flex items-center gap-2 text-xs text-stone-500 flex-wrap">
-              <li>
-                <Link href="/" className="hover:text-emerald-700 transition">
-                  Home
-                </Link>
-              </li>
-              <li aria-hidden="true">/</li>
-              <li>
-                <Link href="/mosques" className="hover:text-emerald-700 transition">
-                  Mosques
-                </Link>
-              </li>
-              <li aria-hidden="true">/</li>
-              <li>
-                <Link href={breadcrumbCityUrl} className="hover:text-emerald-700 transition">
-                  {breadcrumbCityName}
-                </Link>
-              </li>
-              <li aria-hidden="true">/</li>
+              {breadcrumbItems.slice(0, -1).map((crumb) => (
+                <React.Fragment key={crumb.item}>
+                  <li>
+                    <Link href={crumb.item} className="hover:text-emerald-700 transition">
+                      {crumb.name}
+                    </Link>
+                  </li>
+                  <li aria-hidden="true">/</li>
+                </React.Fragment>
+              ))}
               <li className="font-medium text-stone-800 truncate max-w-[200px] sm:max-w-none">
                 {mosque.name}
               </li>
@@ -211,10 +207,20 @@ export default async function MosqueProfilePage({ params }: ProfilePageProps) {
           <header className="rounded-2xl border border-stone-200 bg-white p-6 sm:p-8 shadow-sm">
             <div className="flex flex-wrap items-start justify-between gap-4">
               <div>
-                <div className="flex items-center gap-2 mb-2">
+                <div className="flex items-center gap-2 mb-2 flex-wrap">
                   <MosqueTypeBadge classification={mosque.classification} />
                   <span className="text-xs text-stone-500">
-                    {mosque.city}, {mosque.province}
+                    <Link href={cityBrowseUrl} className="hover:text-emerald-700 underline underline-offset-2">
+                      {mosque.city}
+                    </Link>
+                    {", "}
+                    {provConfig ? (
+                      <Link href={`/provinces/${provConfig.slug}`} className="hover:text-emerald-700 underline underline-offset-2">
+                        {provConfig.name}
+                      </Link>
+                    ) : (
+                      mosque.province
+                    )}
                   </span>
                 </div>
                 <h1 className="text-2xl sm:text-3xl font-bold tracking-tight text-stone-900">

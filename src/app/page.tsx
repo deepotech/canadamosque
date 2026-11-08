@@ -10,6 +10,7 @@ import { siteConfig } from "@/config/site";
 import { CanonicalMosqueRepository } from "@/domain/mosque/canonical-repository";
 import { CANADIAN_CITIES } from "@/domain/city/city-config";
 import { filterMosquesByArea } from "@/domain/geo/area-slugs";
+import { getAllProvinces } from "@/domain/seo/province-city-seo";
 
 export const metadata: Metadata = constructMetadata({
   title: "Mosque Near Me in Canada | Find Mosques & Prayer Times",
@@ -68,6 +69,12 @@ export default async function HomePage() {
   const repo = new CanonicalMosqueRepository();
   const allMosques = await repo.list();
 
+  const provinces = getAllProvinces();
+  const provinceCounts: Record<string, number> = {};
+  for (const m of allMosques) {
+    provinceCounts[m.province] = (provinceCounts[m.province] || 0) + 1;
+  }
+
   // Compute actual published counts dynamically from canonical repository
   const cityCardData = Object.values(CANADIAN_CITIES).map((city) => {
     const matched = filterMosquesByArea(allMosques, city.slug);
@@ -76,7 +83,7 @@ export default async function HomePage() {
       name: city.name,
       province: city.province,
       count: matched.length,
-      mosqueRoute: city.canonicalMosqueRoute,
+      mosqueRoute: `/cities/${city.slug}`,
       prayerRoute: city.canonicalPrayerRoute,
     };
   });
@@ -276,7 +283,15 @@ export default async function HomePage() {
               ))}
             </div>
 
-            <div className="mt-8 text-center">
+            <div className="mt-8 text-center flex flex-wrap justify-center gap-4">
+              <Link
+                href="/provinces"
+                className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-700 hover:text-emerald-900 hover:underline"
+              >
+                <span>Browse Canadian Mosques by Province</span>
+                <span>→</span>
+              </Link>
+              <span className="text-stone-300">|</span>
               <Link
                 href="/mosques"
                 className="inline-flex items-center gap-2 text-sm font-semibold text-emerald-700 hover:text-emerald-900 hover:underline"
@@ -284,6 +299,46 @@ export default async function HomePage() {
                 <span>View all {allMosques.length} Canadian mosques in directory</span>
                 <span>→</span>
               </Link>
+            </div>
+          </Container>
+        </section>
+
+        {/* 3B. Browse by Canadian Province Hub */}
+        <section className="border-t border-stone-200 bg-white py-14">
+          <Container>
+            <div className="text-center max-w-2xl mx-auto mb-8">
+              <Badge variant="primary" className="mb-2">
+                Provincial Coverage
+              </Badge>
+              <h2 className="text-2xl sm:text-3xl font-bold tracking-tight text-stone-900">
+                Explore Mosques by Province
+              </h2>
+              <p className="mt-2 text-sm text-stone-600">
+                Verified community directories organized by Canadian province, featuring local prayer schedules and directions.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4 max-w-5xl mx-auto">
+              {provinces.map((prov) => {
+                const count = provinceCounts[prov.code] || 0;
+                return (
+                  <Link
+                    key={prov.slug}
+                    href={`/provinces/${prov.slug}`}
+                    className="flex flex-col items-center justify-center rounded-xl border border-stone-200 bg-stone-50/50 p-4 text-center hover:border-emerald-600 hover:bg-emerald-50/30 hover:shadow-sm transition group"
+                  >
+                    <span className="inline-flex items-center rounded bg-emerald-100 px-2 py-0.5 text-xs font-bold text-emerald-800 group-hover:bg-emerald-200 transition">
+                      {prov.code}
+                    </span>
+                    <span className="mt-2 font-semibold text-sm text-stone-900 group-hover:text-emerald-800 transition">
+                      {prov.name}
+                    </span>
+                    <span className="text-xs text-stone-500 mt-0.5">
+                      {count} {count === 1 ? "mosque" : "mosques"}
+                    </span>
+                  </Link>
+                );
+              })}
             </div>
           </Container>
         </section>

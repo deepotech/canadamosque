@@ -487,13 +487,15 @@ describe("Phase 10.12 — Canonical URL Generation", () => {
 // ─────────────────────────────────────────────────────────────────────────────
 
 describe("Phase 10.14 — Sitemap Canonical URL Count", () => {
-  it("expected canonical URL count is 360", () => {
-    const staticCount = 6;     // /, /mosque-near-me, /mosques, /prayer-times, /jummah, /jummah/toronto
-    const prayerCityCount = 9; // 9 cities
-    const areaCount = 14;      // 9 metropolises + 5 Toronto boroughs
-    const mosqueCount = 331;   // published canonical profiles
-    const total = staticCount + prayerCityCount + areaCount + mosqueCount;
-    expect(total).toBe(360);
+  it("expected canonical URL count is 365", () => {
+    const staticCount = 6;     // /, /mosques, /provinces, /prayer-times, /jummah, /jummah/toronto
+    const provinceCount = 5;   // 5 provinces (/provinces/[province])
+    const cityCount = 9;       // 9 clean city landing pages (/cities/[city])
+    const prayerCityCount = 9; // 9 cities (/prayer-times/[city])
+    const boroughCount = 5;    // 5 Toronto boroughs (/mosques/[borough])
+    const mosqueCount = 331;   // published canonical profiles (/mosque/[slug])
+    const total = staticCount + provinceCount + cityCount + prayerCityCount + boroughCount + mosqueCount;
+    expect(total).toBe(365);
   });
 
   it("SUPPORTED_CITY_SLUGS has exactly 9 entries for prayer city pages", () => {

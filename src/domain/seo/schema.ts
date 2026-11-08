@@ -117,6 +117,86 @@ export function generateWebSiteJsonLd(): Record<string, unknown> {
   };
 }
 
+/**
+ * Generates Schema.org CollectionPage / ItemList structured data for a Province directory.
+ */
+export function generateProvinceCollectionJsonLd({
+  provinceName,
+  provinceSlug,
+  totalMosques,
+  featuredMosques = [],
+}: {
+  provinceName: string;
+  provinceSlug: string;
+  totalMosques: number;
+  featuredMosques?: Array<{ name: string; slug: string }>;
+}): Record<string, unknown> {
+  const schema: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": `${siteConfig.url}/provinces/${provinceSlug}#collection`,
+    name: `Mosques in ${provinceName}`,
+    url: `${siteConfig.url}/provinces/${provinceSlug}`,
+    description: `Comprehensive directory of verified mosques and Islamic centers across ${provinceName}, Canada.`,
+  };
+
+  if (featuredMosques.length > 0) {
+    schema.mainEntity = {
+      "@type": "ItemList",
+      numberOfItems: totalMosques,
+      itemListElement: featuredMosques.map((m, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: m.name,
+        url: `${siteConfig.url}/mosque/${m.slug}`,
+      })),
+    };
+  }
+
+  return schema;
+}
+
+/**
+ * Generates Schema.org CollectionPage / ItemList structured data for a City directory.
+ */
+export function generateCityCollectionJsonLd({
+  cityName,
+  provinceName,
+  citySlug,
+  totalMosques,
+  mosques = [],
+}: {
+  cityName: string;
+  provinceName: string;
+  citySlug: string;
+  totalMosques: number;
+  mosques?: Array<{ name: string; slug: string }>;
+}): Record<string, unknown> {
+  const schema: Record<string, unknown> = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "@id": `${siteConfig.url}/cities/${citySlug}#collection`,
+    name: `Mosques in ${cityName}, ${provinceName}`,
+    url: `${siteConfig.url}/cities/${citySlug}`,
+    description: `Directory of verified mosques and Islamic centers in ${cityName}, ${provinceName}, Canada.`,
+  };
+
+  if (mosques.length > 0) {
+    schema.mainEntity = {
+      "@type": "ItemList",
+      numberOfItems: totalMosques,
+      itemListElement: mosques.map((m, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: m.name,
+        url: `${siteConfig.url}/mosque/${m.slug}`,
+      })),
+    };
+  }
+
+  return schema;
+}
+
 export interface FaqItem {
   question: string;
   answer: string;

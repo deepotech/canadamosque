@@ -217,4 +217,30 @@ export class CanonicalMosqueRepository implements IMosqueRepository {
     const citySet = new Set(list.map((m) => m.city));
     return Array.from(citySet).sort();
   }
+
+  async getMosquesByProvince(provinceCode: string): Promise<Mosque[]> {
+    const list = await loadCanonicalMosques();
+    const target = provinceCode.toUpperCase().trim();
+    return list.filter((m) => m.province.toUpperCase() === target);
+  }
+
+  async getMosquesByCity(citySlugOrName: string): Promise<Mosque[]> {
+    const list = await loadCanonicalMosques();
+    const norm = citySlugOrName.toLowerCase().trim();
+    const cityCfg = getCityConfigByName(norm) || getCityConfigByName(norm.replace(/-/g, " "));
+
+    if (cityCfg) {
+      const lowerMunis = new Set(cityCfg.knownMunicipalities.map((m) => m.toLowerCase()));
+      lowerMunis.add(cityCfg.name.toLowerCase());
+      return list.filter(
+        (m) => m.province === cityCfg.province && lowerMunis.has(m.city.toLowerCase())
+      );
+    }
+
+    return list.filter(
+      (m) =>
+        m.city.toLowerCase() === norm ||
+        m.city.toLowerCase().replace(/\s+/g, "-") === norm
+    );
+  }
 }
