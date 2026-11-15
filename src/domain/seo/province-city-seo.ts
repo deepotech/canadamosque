@@ -151,6 +151,65 @@ export function generateProvinceMetadata(
 }
 
 /**
+ * City-specific SEO snippet definitions.
+ * Provides distinct, locally relevant titles and meta descriptions
+ * aligned with actual search queries and geographic intent.
+ */
+const CITY_METADATA_DEFINITIONS: Record<
+  string,
+  {
+    title: (cityName: string, province: string, count: number) => string;
+    description: (cityName: string, province: string, provinceFull: string, count: number) => string;
+  }
+> = {
+  mississauga: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, prov, _full, count) =>
+      `Find ${count} verified mosques and masjids in ${name}, ${prov}. View addresses, parking, wheelchair access, and driving directions across Peel Region.`,
+  },
+  toronto: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, prov, _full, count) =>
+      `Discover ${count} verified mosques and masjids across ${name} and the GTA. View addresses, facilities, calculated daily prayer times, and directions.`,
+  },
+  montreal: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, _prov, _full, count) =>
+      `Find ${count} verified mosques and Islamic centers in ${name}, QC. Trouvez les mosquées et centres islamiques à Montréal avec adresses et directions vérifiées.`,
+  },
+  calgary: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, _prov, full, count) =>
+      `Explore ${count} verified mosques and Islamic centers in ${name}, ${full}. Access verified addresses, facilities, calculated prayer times, and directions.`,
+  },
+  edmonton: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, prov, _full, count) =>
+      `Find ${count} verified mosques and Islamic centers across ${name}, ${prov}. Access verified addresses, facilities, calculated prayer times, and driving directions.`,
+  },
+  vancouver: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, prov, _full, count) =>
+      `Find ${count} verified mosques and Islamic community centers in ${name}, ${prov}. Browse verified addresses, facilities, directions, and daily prayer times.`,
+  },
+  brampton: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, prov, _full, count) =>
+      `Discover ${count} verified mosques and Islamic centers in ${name}, ${prov}. View addresses, parking, accessibility, directions, and prayer spaces across Peel.`,
+  },
+  ottawa: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, prov, _full, count) =>
+      `Browse ${count} verified mosques and Islamic centers in ${name}, ${prov} & National Capital Region. View addresses, facilities, and calculated daily prayer times.`,
+  },
+  winnipeg: {
+    title: (name, prov, count) => `Mosques in ${name}, ${prov} (${count} Locations)`,
+    description: (name, _prov, full, count) =>
+      `Find ${count} verified mosques and Islamic centers in ${name}, ${full}. Browse verified addresses, facilities, driving directions, and daily prayer times.`,
+  },
+};
+
+/**
  * Generates dynamic SEO metadata for a Canadian city landing page.
  */
 export function generateCityMetadata(
@@ -167,11 +226,16 @@ export function generateCityMetadata(
     });
   }
 
-  const title = `Mosques in ${config.name}, ${config.province} (${mosqueCount} Locations)`;
-  const description =
-    config.province === "QC"
-      ? `Find ${mosqueCount} verified mosques, Islamic centers, and musallas in ${config.name}, ${config.provinceFullName}. Trouvez une mosquée près de chez vous à ${config.name}.`
-      : `Find ${mosqueCount} verified mosques and Islamic centers in ${config.name}, ${config.provinceFullName}. Access addresses, calculated prayer times, facilities, and driving directions.`;
+  const customDef = CITY_METADATA_DEFINITIONS[config.slug.toLowerCase()];
+  const title = customDef
+    ? customDef.title(config.name, config.province, mosqueCount)
+    : `Mosques in ${config.name}, ${config.province} (${mosqueCount} Locations)`;
+
+  const description = customDef
+    ? customDef.description(config.name, config.province, config.provinceFullName, mosqueCount)
+    : config.province === "QC"
+    ? `Find ${mosqueCount} verified mosques, Islamic centers, and musallas in ${config.name}, ${config.provinceFullName}. Trouvez une mosquée près de chez vous à ${config.name}.`
+    : `Find ${mosqueCount} verified mosques and Islamic centers in ${config.name}, ${config.provinceFullName}. Access addresses, calculated prayer times, facilities, and driving directions.`;
 
   return constructMetadata({
     title,

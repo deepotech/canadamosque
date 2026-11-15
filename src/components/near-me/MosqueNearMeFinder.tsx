@@ -96,47 +96,52 @@ export function MosqueNearMeFinder({ allMosques }: Props) {
   return (
     <div className="mt-8">
       {state === "idle" && (
-        <div className="text-center py-12 px-4 rounded-xl border border-stone-200 bg-white shadow-sm">
-          <div className="text-4xl mb-4">📍</div>
-          <h2 className="text-lg font-bold text-stone-900 mb-2">Find Your Nearest Mosque</h2>
-          <p className="text-sm text-stone-500 mb-6 max-w-md mx-auto">
-            Click the button below to share your location and discover the closest verified mosques and prayer spaces around you.
+        <div className="text-center py-14 px-4 rounded-2xl border border-stone-200 bg-white shadow-sm">
+          <div className="text-5xl mb-5" aria-hidden="true">📍</div>
+          <h2 className="text-xl font-bold text-stone-900 mb-2">Find Your Nearest Mosque</h2>
+          <p className="text-sm text-stone-500 mb-8 max-w-md mx-auto leading-relaxed">
+            Share your location to discover the closest verified mosques, masjids, and prayer spaces around you.
           </p>
           <button
             onClick={handleLocate}
-            className="inline-flex justify-center items-center rounded-lg bg-emerald-700 px-8 py-3 text-sm font-semibold text-white shadow-sm hover:bg-emerald-800 transition"
+            className="inline-flex justify-center items-center rounded-xl bg-emerald-700 px-8 py-4 text-base font-semibold text-white shadow-md hover:bg-emerald-800 active:bg-emerald-900 transition focus:outline-none focus:ring-2 focus:ring-emerald-600 focus:ring-offset-2 min-w-[220px]"
+            aria-label="Allow location access to find nearest mosques"
           >
-            Find Mosques Near Me
+            📍 Find Mosques Near Me
           </button>
-          <p className="mt-4 text-xs text-stone-400">
-            Your location is processed entirely in your browser and is never sent to our servers.
+          <p className="mt-5 text-xs text-stone-500 max-w-sm mx-auto leading-relaxed">
+            Your location is processed entirely in your browser. Coordinates are never sent to our servers, stored in cookies, or saved locally.
           </p>
         </div>
       )}
 
       {state === "loading" && (
-        <div className="text-center py-12 px-4 rounded-xl border border-stone-200 bg-white shadow-sm">
-          <div className="animate-spin text-4xl mb-4 inline-block text-emerald-600">⌛</div>
-          <h2 className="text-lg font-bold text-stone-900 mb-2">Locating...</h2>
-          <p className="text-sm text-stone-500">Getting your coordinates.</p>
+        <div className="text-center py-14 px-4 rounded-2xl border border-stone-200 bg-white shadow-sm">
+          <div className="text-4xl mb-4 motion-safe:animate-pulse" aria-hidden="true">📍</div>
+          <h2 className="text-lg font-bold text-stone-900 mb-2">Locating You...</h2>
+          <p className="text-sm text-stone-500">Getting your coordinates. This may take a moment.</p>
         </div>
       )}
 
       {state === "error" && (
-        <div className="text-center py-12 px-4 rounded-xl border border-stone-200 bg-white shadow-sm">
-          <div className="text-4xl mb-4">📍</div>
+        <div
+          role="alert"
+          aria-live="assertive"
+          className="text-center py-14 px-4 rounded-2xl border border-stone-200 bg-white shadow-sm"
+        >
+          <div className="text-4xl mb-4" aria-hidden="true">⚠️</div>
           <h2 className="text-lg font-bold text-stone-900 mb-2">Unable to Locate</h2>
-          <p className="text-sm text-stone-600 mb-6 max-w-md mx-auto leading-relaxed">{errorMessage}</p>
-          <div className="flex flex-wrap items-center justify-center gap-3">
+          <p className="text-sm text-stone-600 mb-8 max-w-md mx-auto leading-relaxed">{errorMessage}</p>
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-3">
             <button
               onClick={handleLocate}
-              className="inline-flex justify-center items-center rounded-lg bg-emerald-700 px-6 py-2.5 text-xs font-semibold text-white shadow-sm hover:bg-emerald-800 transition"
+              className="w-full sm:w-auto min-h-[48px] inline-flex justify-center items-center rounded-xl bg-emerald-700 px-6 py-3 text-sm font-semibold text-white shadow-sm hover:bg-emerald-800 transition"
             >
               Try Again
             </button>
             <Link
               href="/mosques"
-              className="inline-flex justify-center items-center rounded-lg border border-stone-300 bg-white px-6 py-2.5 text-xs font-semibold text-stone-700 hover:bg-stone-50 transition"
+              className="w-full sm:w-auto min-h-[48px] inline-flex justify-center items-center rounded-xl border border-stone-300 bg-white px-6 py-3 text-sm font-semibold text-stone-700 hover:bg-stone-50 transition"
             >
               Browse Mosques by City →
             </Link>
@@ -146,11 +151,12 @@ export function MosqueNearMeFinder({ allMosques }: Props) {
 
       {state === "success" && (
         <div>
-          <div className="flex items-center justify-between mb-6">
+          <div className="flex items-center justify-between mb-6 flex-wrap gap-3">
             <h2 className="text-xl font-bold text-stone-900">Closest Locations to You</h2>
             <button
               onClick={handleLocate}
-              className="text-sm font-medium text-emerald-700 hover:text-emerald-800 underline underline-offset-2"
+              className="min-h-[44px] px-4 py-2 text-sm font-medium text-emerald-700 hover:text-emerald-800 underline underline-offset-2"
+              aria-label="Update your location"
             >
               Update Location
             </button>
@@ -159,16 +165,20 @@ export function MosqueNearMeFinder({ allMosques }: Props) {
           {nearbyMosques.length === 0 ? (
             <div className="p-8 text-center bg-stone-50 rounded-xl border border-stone-200">
               <p className="text-stone-600">No verified mosques were found within the current search area.</p>
+              <Link
+                href="/mosques"
+                className="mt-4 inline-flex items-center text-sm font-semibold text-emerald-700 hover:underline"
+              >
+                Browse All Mosques →
+              </Link>
             </div>
           ) : (
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
               {nearbyMosques.map(({ mosque, distanceKm }) => (
                 <MosqueCard
                   key={mosque.id}
                   mosque={mosque}
                   distanceKm={distanceKm}
-                  // Assuming they might have verified schedules, but we'd need to pass them down
-                  // For near me, we'll keep it simple unless we fetch the IDs. Let's pass false or adjust if needed.
                 />
               ))}
             </div>

@@ -13,9 +13,9 @@ import { filterMosquesByArea } from "@/domain/geo/area-slugs";
 import { getAllProvinces } from "@/domain/seo/province-city-seo";
 
 export const metadata: Metadata = constructMetadata({
-  title: "Mosque Near Me in Canada | Find Mosques & Prayer Times",
+  title: "Find a Mosque Near Me in Canada",
   description:
-    "Find a mosque near you in Canada. Browse mosques by city, explore verified addresses, facilities, directions, and view daily calculated prayer times across 9 Canadian metropolises.",
+    "Find verified mosques, masjids, and prayer spaces near you across Canada. Browse 331 locations by city with addresses, facilities, and driving directions.",
   canonicalPath: "/",
 });
 
@@ -24,9 +24,9 @@ const homepageJsonLd = {
   "@type": "WebPage",
   "@id": `${siteConfig.url}/#webpage`,
   url: siteConfig.url,
-  name: "Mosque Near Me in Canada | Find Mosques & Prayer Times",
+  name: "Find a Mosque Near Me in Canada | Canada Mosque Near Me",
   description:
-    "Find a mosque near you in Canada. Browse mosques by city, explore verified addresses, facilities, directions, and view daily calculated prayer times across 9 Canadian metropolises.",
+    "Find verified mosques, masjids, and prayer spaces near you across Canada. Browse 331 locations by city with addresses, facilities, and driving directions.",
   isPartOf: { "@id": `${siteConfig.url}/#website` },
 };
 

@@ -9,8 +9,9 @@ import { WebPageSchema } from "@/components/seo/WebPageSchema";
 import { BreadcrumbSchema } from "@/components/seo/BreadcrumbSchema";
 
 export const metadata = constructMetadata({
-  title: "Mosque Near Me | Find Mosques & Masjids in Canada",
-  description: "Find mosques, masjids, Islamic centers and musallas near your current location in Canada. View addresses, opening hours, prayer times, and get directions.",
+  title: "Find Mosques & Masjids Near Me in Canada",
+  description:
+    "Use your device GPS to locate the nearest verified mosques and masjids in Canada. Get instant driving directions, verified facilities, and prayer spaces.",
   canonicalPath: "/mosque-near-me",
 });
 

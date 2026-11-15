@@ -17,15 +17,15 @@ export function Footer() {
               astronomical prayer calculations across all Canadian timezones, and authentic
               mosque congregation schedules.
             </p>
-            <p className="mt-3 text-xs text-stone-400">
+            <p className="mt-3 text-xs text-stone-500">
               Serving mosque communities across Canada, with coverage expanding as verified data becomes available.
             </p>
           </div>
 
           <div>
-            <h4 className="text-xs font-semibold uppercase tracking-wider text-stone-900">
+            <p className="text-xs font-semibold uppercase tracking-wider text-stone-900">
               Provinces & Cities
-            </h4>
+            </p>
             <ul className="mt-3 space-y-2 text-xs">
               <li>
                 <Link href="/provinces" className="hover:text-emerald-800 transition">
@@ -61,9 +61,9 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-xs font-semibold uppercase tracking-wider text-stone-900">
+            <p className="text-xs font-semibold uppercase tracking-wider text-stone-900">
               Discovery & Utility
-            </h4>
+            </p>
             <ul className="mt-3 space-y-2 text-xs">
               <li>
                 <Link href="/mosque-near-me" className="hover:text-emerald-800 transition font-medium text-emerald-800">
@@ -89,9 +89,9 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="text-xs font-semibold uppercase tracking-wider text-stone-900">
+            <p className="text-xs font-semibold uppercase tracking-wider text-stone-900">
               Integrity & Standards
-            </h4>
+            </p>
             <p className="mt-3 text-xs text-stone-500 leading-relaxed">
               We never fabricate Iqamah times or confound physical building opening hours
               with prayer times. Missing data is acknowledged transparently.
@@ -102,7 +102,7 @@ export function Footer() {
         <div className="mt-8 border-t border-stone-200 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-stone-500">
           <p>© {new Date().getFullYear()} Canada Mosque Near Me. All rights reserved.</p>
           <div className="flex items-center gap-4">
-            <span className="text-stone-400">Data Standard: ISNA / Canada-wide</span>
+            <span className="text-stone-500">Data Standard: ISNA / Canada-wide</span>
           </div>
         </div>
       </Container>

@@ -170,23 +170,26 @@ export function MosqueFinder({
         <div className="grid grid-cols-1 md:grid-cols-12 gap-3.5">
           {/* Text Search */}
           <div className="md:col-span-5">
-            <label htmlFor="mosque-search" className="block text-xs font-semibold text-stone-700 mb-1">
+            <label htmlFor="mosque-search" className="block text-xs font-semibold text-stone-700 mb-1.5">
               Search by Name or Address
             </label>
             <div className="relative">
               <input
                 id="mosque-search"
                 type="text"
+                autoComplete="off"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="e.g. Madina, Scarborough, Eglinton..."
-                className="w-full rounded-xl border border-stone-300 bg-stone-50/50 px-3.5 py-2.5 text-sm text-stone-900 placeholder:text-stone-400 focus:border-emerald-600 focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-600/20"
+                className="w-full rounded-xl border border-stone-300 bg-stone-50/50 px-3.5 py-3 text-base sm:text-sm text-stone-900 placeholder:text-stone-400 focus:border-emerald-600 focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-600/20"
+                aria-label="Search mosques by name or address"
               />
               {searchQuery && (
                 <button
                   type="button"
                   onClick={() => setSearchQuery("")}
-                  className="absolute right-3 top-2.5 text-xs text-stone-400 hover:text-stone-600"
+                  className="absolute right-3 top-1/2 -translate-y-1/2 p-1 text-stone-500 hover:text-stone-700"
+                  aria-label="Clear search"
                 >
                   ✕
                 </button>
@@ -196,14 +199,15 @@ export function MosqueFinder({
 
           {/* Place Type Filter */}
           <div className="md:col-span-3">
-            <label htmlFor="type-filter" className="block text-xs font-semibold text-stone-700 mb-1">
+            <label htmlFor="type-filter" className="block text-xs font-semibold text-stone-700 mb-1.5">
               Place Type
             </label>
             <select
               id="type-filter"
               value={selectedClassification}
               onChange={(e) => setSelectedClassification(e.target.value)}
-              className="w-full rounded-xl border border-stone-300 bg-stone-50/50 px-3 py-2.5 text-sm text-stone-900 focus:border-emerald-600 focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-600/20"
+              className="w-full rounded-xl border border-stone-300 bg-stone-50/50 px-3 py-3 text-base sm:text-sm text-stone-900 focus:border-emerald-600 focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-600/20"
+              aria-label="Filter by place type"
             >
               <option value="ALL">All Place Types</option>
               {availableClassifications.map((c) => (
@@ -216,14 +220,15 @@ export function MosqueFinder({
 
           {/* Municipality Filter */}
           <div className="md:col-span-2">
-            <label htmlFor="city-filter" className="block text-xs font-semibold text-stone-700 mb-1">
+            <label htmlFor="city-filter" className="block text-xs font-semibold text-stone-700 mb-1.5">
               Municipality
             </label>
             <select
               id="city-filter"
               value={selectedCity}
               onChange={(e) => setSelectedCity(e.target.value)}
-              className="w-full rounded-xl border border-stone-300 bg-stone-50/50 px-3 py-2.5 text-sm text-stone-900 focus:border-emerald-600 focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-600/20"
+              className="w-full rounded-xl border border-stone-300 bg-stone-50/50 px-3 py-3 text-base sm:text-sm text-stone-900 focus:border-emerald-600 focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-600/20"
+              aria-label="Filter by municipality"
             >
               <option value="ALL">All Locations</option>
               {availableCities.map((city) => (
@@ -240,17 +245,19 @@ export function MosqueFinder({
               <button
                 type="button"
                 onClick={handleClearLocation}
-                className="w-full rounded-xl border border-emerald-300 bg-emerald-50 px-3 py-2.5 text-xs font-semibold text-emerald-800 hover:bg-emerald-100 transition flex items-center justify-center gap-1.5"
+                className="w-full min-h-[48px] rounded-xl border border-emerald-300 bg-emerald-50 px-3 py-3 text-xs font-semibold text-emerald-800 hover:bg-emerald-100 transition flex items-center justify-center gap-1.5"
+                aria-label="Clear distance sort"
               >
                 <span>✓ Sorted by Distance</span>
-                <span className="text-stone-400">✕</span>
+                <span className="text-stone-500">✕</span>
               </button>
             ) : (
               <button
                 type="button"
                 onClick={handleRequestLocation}
                 disabled={isLocating}
-                className="w-full rounded-xl bg-emerald-700 px-3 py-2.5 text-xs font-semibold text-white hover:bg-emerald-800 focus:outline-none focus:ring-2 focus:ring-emerald-600 transition flex items-center justify-center gap-1.5 shadow-sm disabled:opacity-75"
+                className="w-full min-h-[48px] rounded-xl bg-emerald-700 px-3 py-3 text-sm font-semibold text-white hover:bg-emerald-800 focus:outline-none focus:ring-2 focus:ring-emerald-600 transition flex items-center justify-center gap-1.5 shadow-sm disabled:opacity-75"
+                aria-label="Find mosques near my current location"
               >
                 <span>📍</span>
                 <span>{isLocating ? "Locating..." : "Near Me"}</span>
@@ -266,7 +273,7 @@ export function MosqueFinder({
             <button
               type="button"
               onClick={() => setLocationError(null)}
-              className="text-stone-400 hover:text-stone-600 ml-2"
+              className="text-stone-500 hover:text-stone-700 ml-2"
             >
               ✕
             </button>

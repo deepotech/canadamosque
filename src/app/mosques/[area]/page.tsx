@@ -159,7 +159,7 @@ export default async function AreaMosquesPage({ params }: { params: Promise<{ ar
             </Link>
             {isTorontoBorough && (
               <Link
-                href="/mosques/toronto"
+                href="/cities/toronto"
                 className="text-sm font-medium text-emerald-700 hover:text-emerald-800 underline underline-offset-2"
               >
                 Browse all Toronto mosques &rarr;
